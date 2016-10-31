@@ -1,4 +1,4 @@
-#ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project$ 
+#ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie$
 #java -mx4g -cp "stanford-corenlp-full-2015-12-09/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
 #-- listing properties --
 #Starting server on port 9000 with timeout of 5000 milliseconds.
@@ -25,6 +25,8 @@ location_queue = deque()
 all_locations = set()
 all_loc_data = {}
 
+sleepTime = 20
+
 def readLocEmptyQueue(src):
     #print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$4")
     global location_queue
@@ -44,16 +46,16 @@ def readLocEmptyQueue(src):
     return location
 
 def fetchBlogUrls(city_a, city_b):
-    print('\n\nSleeping for 30 sec...')
-    time.sleep(30)
+    print('\n\nSleeping for {} sec...'.format(sleepTime))
+    time.sleep(sleepTime)
     query = 'places to visit between '  + city_a  + ' and '  + city_b + ' blogs'
     print('fetching : ' + query + '...')
     
     config = {
         'use_own_ip': True,
         'keyword': query,
-        'search_engines': ['google', 'bing'],
-        'num_pages_for_keyword': 1,
+        'search_engines': ['bing'],
+        'num_pages_for_keyword': 2,
         'scrape_method': 'selenium',
         'sel_browser': 'chrome',
         'do_caching': False,
@@ -186,7 +188,9 @@ def parseBlog(src):
                     except ValueError as e:
                         print(e)
     except ValueError as e:
-        print(e)                
+        print(e)
+    except Exception as e:
+        print(e)
     noDup_blogLocations = list(set(blogLocations))
     
     #noDup_nltk_blogLocations = list(set(nltk_blogLocations))
@@ -202,33 +206,29 @@ def parseBlog(src):
     
     return noDup_blogLocations#blogLocations
 
-def process(primaryCity_linksPath):
-    citiesDict = {}
-    counties = set()
-    with open(primaryCity_linksPath) as json_data:
-        primaryCity_links = json.load(json_data)
-        #pprint(primaryCity_links[0])
-        for city in primaryCity_links:
-            #print(city['name'], city['county_name'], 
-            #      city['primary_latitude'], city['primary_longitude'],
-            #      city['state_abbreviation'], city['state_name'])
-            counties.add(city['county_name'])
-            citiesDict[city['name']] = {'county_name' : city['county_name'],
-                                        'primary_latitude' : city['primary_latitude'], 
-                                        'primary_longitude' : city['primary_longitude'],
-                                        'state_abbreviation' : city['state_abbreviation'], 
-                                        'state_name' : city['state_name']
-                                        }
-    #pprint(citiesDict, indent=4)
-    cities = set(citiesDict.keys())
+def comboResultsKnown(keyFileName):
+    return os.path.isfile('output/' + keyFileName) 
+
+def process(listOfCitiesPath):
+    cities = set()
+    with open(listOfCitiesPath) as json_data:
+        listOfCities = json.load(json_data)
+        cities = set(listOfCities)
     print("No of Cities : {} \nCities : {}".format(len(cities), cities))
-    print("No of Counties : {} \nCounties : {}".format(len(counties), counties))
     srcDestBlogUrlsDict = {}
-    print("NOTE : Currently using Combinations of Counties")
-    
-    comboCount = 0 
-    for combo in (combinations(counties,2)):
+    comboCount = 0
+    for combo in (combinations(cities,2)):
         #print(combo)
+        city_a = combo[0].lower()
+        city_b = combo[1].lower()
+        if city_a < city_b:
+            key = city_a + '_and_' + city_b
+        else:
+            key = city_b + '_and_' + city_a
+        keyFileName = key + '.json'
+        if comboResultsKnown(keyFileName):
+            print("Combo {} was already captured results in : output/{}".format(key, keyFileName))
+            continue
         global all_loc_data
         all_loc_data = {}
         blogUrls = fetchBlogUrls(combo[0], combo[1])
@@ -245,12 +245,7 @@ def process(primaryCity_linksPath):
                 print("unable to parse src : {} due to {}".format(blogUrl,e))
             except TypeError as e:
                 print("unable to parse src : {} due to {}".format(blogUrl,e))
-        city_a = combo[0].lower()
-        city_b = combo[1].lower()
-        if city_a < city_b:
-            key = city_a + '_and_' + city_b
-        else:
-            key = city_b + '_and_' + city_a
+
         srcDestBlogUrlsDict[key] = {}
         #srcDestBlogUrlsDict[key]['blogUrls'] = urlList
         srcDestBlogUrlsDict[key]['blogUrl_Locations'] = urlDict
@@ -258,7 +253,7 @@ def process(primaryCity_linksPath):
         for loc,sources in all_loc_data.items():
             locationsDict[loc] = list(sources)
         srcDestBlogUrlsDict[key]['location_BlogUrls'] = locationsDict
-        with open('output/' + key + '.json', 'w') as outfile:
+        with open('output/' + keyFileName, 'w') as outfile:
             json.dump(srcDestBlogUrlsDict[key], outfile, indent=4)
         comboCount += 1
         print("Combo {} : {} Captured results into : output/{}.json".format(comboCount, key, key))
@@ -271,12 +266,12 @@ def process(primaryCity_linksPath):
            
 def main():
     parser = argparse.ArgumentParser(description="extract locations from blogs for given data")
-    parser.add_argument("path", help="path to primary_city_links.json")
+    parser.add_argument("path", help="path to listOfCities json file")
     args = parser.parse_args()
-    primaryCity_linksPath = args.path
+    listOfCitiesPath = args.path
     
     if not os.path.exists('./output'):
         os.makedirs('./output')
-    process(primaryCity_linksPath)
+    process(listOfCitiesPath)
         
 if __name__ == "__main__" : main()
