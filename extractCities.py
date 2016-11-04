@@ -215,7 +215,7 @@ def process(listOfCitiesPath):
         listOfCities = json.load(json_data)
         cities = set(listOfCities)
     print("No of Cities : {} \nCities : {}".format(len(cities), cities))
-    srcDestBlogUrlsDict = {}
+    #srcDestBlogUrlsDict = {}
     comboCount = 0
     for combo in (combinations(cities,2)):
         #print(combo)
@@ -245,23 +245,25 @@ def process(listOfCitiesPath):
                 print("unable to parse src : {} due to {}".format(blogUrl,e))
             except TypeError as e:
                 print("unable to parse src : {} due to {}".format(blogUrl,e))
-
-        srcDestBlogUrlsDict[key] = {}
-        #srcDestBlogUrlsDict[key]['blogUrls'] = urlList
-        srcDestBlogUrlsDict[key]['blogUrl_Locations'] = urlDict
+        srcDestBlogUrlsDict = {}
+        #srcDestBlogUrlsDict[key] = {}
+        #srcDestBlogUrlsDict[key]['blogUrl_Locations'] = urlDict
+        srcDestBlogUrlsDict['blogUrl_Locations'] = urlDict
         locationsDict = {}#to convert set of urls to list
         for loc,sources in all_loc_data.items():
             locationsDict[loc] = list(sources)
-        srcDestBlogUrlsDict[key]['location_BlogUrls'] = locationsDict
+        #srcDestBlogUrlsDict[key]['location_BlogUrls'] = locationsDict
+        srcDestBlogUrlsDict['location_BlogUrls'] = locationsDict
         with open('output/' + keyFileName, 'w') as outfile:
-            json.dump(srcDestBlogUrlsDict[key], outfile, indent=4)
+            #json.dump(srcDestBlogUrlsDict[key], outfile, indent=4)
+            json.dump(srcDestBlogUrlsDict, outfile, indent=4)
         comboCount += 1
         print("Combo {} : {} Captured results into : output/{}.json".format(comboCount, key, key))
             
         #pprint(srcDestBlogUrlsDict, indent=4)
 
-    with open('srcDestBlogUrls.json', 'w') as outfile:
-            json.dump(srcDestBlogUrlsDict, outfile, indent=4)
+    #with open('srcDestBlogUrls.json', 'w') as outfile:
+    #        json.dump(srcDestBlogUrlsDict, outfile, indent=4)
         
            
 def main():
