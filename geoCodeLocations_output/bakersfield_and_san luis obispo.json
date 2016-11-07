@@ -1,0 +1,976 @@
+{
+    "bakersfield": {
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "lon": "-119.0194638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.74358237824296,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "35.3738712",
+        "osm_id": "113006",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "158454478",
+        "display_name": "Bakersfield, Kern County, California, United States of America"
+    },
+    "san luis obispo": {
+        "boundingbox": [
+            "35.233002",
+            "35.31199",
+            "-120.7229769",
+            "-120.6177727"
+        ],
+        "lon": "-120.6596155",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.87823218277902,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "35.2827525",
+        "osm_id": "33111824",
+        "type": "city",
+        "osm_type": "way",
+        "place_id": "71485104",
+        "display_name": "San Luis Obispo, San Luis Obispo County, California, United States of America"
+    },
+    "mentions": {
+        "el moro elfin forest": {
+            "longitude": "-120.82692824744",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.33376935",
+            "address": "El Moro Elfin Forest Preserve, 15th Street, Baywood-Los Osos, San Luis Obispo County, California, 93402, United States of America",
+            "locType": "protected_area"
+        },
+        "lemoore": {
+            "longitude": "-119.7829106",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "36.3007835",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city"
+        },
+        "coastal san luis obispo county": {
+            "longitude": "-120.630495433164",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1273326",
+            "address": "CIC Coastal Industrial Comercial, Grover Beach, San Luis Obispo County, California, 93433, United States of America",
+            "locType": "industrial"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "soledad": {
+            "longitude": "-121.3272146",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "36.4269452",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "los osos": {
+            "longitude": "-120.8323486",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3107214",
+            "address": "Los Osos, San Luis Obispo County, California, United States of America",
+            "locType": "village"
+        },
+        "cambria shores inn": {
+            "longitude": "-121.1123155",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.5741271",
+            "address": "Cambria Shores Inn, 6276, Moonstone Beach Drive, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "hotel"
+        },
+        "madonna inn": {
+            "longitude": "-120.674725246222",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2673282",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel"
+        },
+        "pismo state beach": {
+            "longitude": "-120.62834686522",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1061627",
+            "address": "Pismo State Beach, San Luis Obispo County, California, United States of America",
+            "locType": "national_park"
+        },
+        "buellton": {
+            "longitude": "-120.1936691",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.6134727",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "cal poly": {
+            "longitude": "-120.670126285884",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.30440705",
+            "address": "Cal Poly, Mount Bishop Road, Paso Robles, San Luis Obispo County, California, 93407, United States of America",
+            "locType": "parking"
+        },
+        "avila beach resort": {
+            "longitude": "-120.739445736618",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.18524475",
+            "address": "Avila Beach Resort Golf Course, Alt Egress, Avila Beach, San Luis Obispo County, California, 93424, United States of America",
+            "locType": "golf_course"
+        },
+        "ontario road": {
+            "longitude": "-120.7039797",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1818929",
+            "address": "Ontario Road, Sunset Palisades, Squire Canyon, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "tertiary"
+        },
+        "los osos & baywood park": {
+            "longitude": "-120.656837",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3605294",
+            "address": "KSTT-FM (Los Osos-Baywood Park), Tv Tower Road, San Luis Obispo County, California, United States of America",
+            "locType": "tower"
+        },
+        "usa": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "hearst castle": {
+            "longitude": "-121.167587299509",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6853689",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum"
+        },
+        "morro rock": {
+            "longitude": "-120.8676993",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.369669",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak"
+        },
+        "chester ave.": {
+            "longitude": "-119.0188577",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3549745",
+            "address": "Chester Avenue, Bakersfield, Kern County, California, 93301, United States of America",
+            "locType": "secondary"
+        },
+        "ventura": {
+            "longitude": "-119.0779358",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.4458248",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "oso flaco lake": {
+            "longitude": "-120.623450366216",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.02945545",
+            "address": "Oso Flaco Lake, Oso Flaco Lake Road, Callender, San Luis Obispo County, California, United States of America",
+            "locType": "water"
+        },
+        "morro bay state park": {
+            "longitude": "-120.826622345451",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.34276815",
+            "address": "Morro Bay State Park, South Bay Boulevard, Baywood Park, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "national_park"
+        },
+        "cambria pines lodge": {
+            "longitude": "-121.0804434",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.5584997",
+            "address": "Cambria Pines Lodge, 2905, Patterson Place, Fiscalini Ranch Preserve, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "hotel"
+        },
+        "france": {
+            "longitude": "-118.5935353",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.2013715",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe"
+        },
+        "santa barbara": {
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.4221319",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "montana de oro state park": {
+            "longitude": "-120.8888312",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2714109",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track"
+        },
+        "baywood park": {
+            "longitude": "-120.8351784",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3263634",
+            "address": "Baywood Park, San Luis Obispo County, California, United States of America",
+            "locType": "village"
+        },
+        "salinas river": {
+            "longitude": "-120.3596546",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2891002",
+            "address": "Salinas River, San Luis Obispo County, California, United States of America",
+            "locType": "river"
+        },
+        "paso robles": {
+            "longitude": "-120.6912455",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6267654",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "san fernando valley": {
+            "longitude": "-118.4389718",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.2819461",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "los angeles county": {
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.3155072",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "prefumo canyon": {
+            "longitude": "-120.7772119",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.24716",
+            "address": "Prefumo Canyon Road, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "residential"
+        },
+        "santa barbara county": {
+            "longitude": "-119.9858231",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.7136533",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative"
+        },
+        "morro bay": {
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "http://www.morrobay.org/places-to-stay",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3658075",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "slo county": {
+            "longitude": "-121.1870436",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6442814",
+            "address": "Slo San Simeon Road, San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "service"
+        },
+        "oxnard": {
+            "longitude": "-119.1803817",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.1976308",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "los osos baywood park": {
+            "longitude": "-120.656837",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3605294",
+            "address": "KSTT-FM (Los Osos-Baywood Park), Tv Tower Road, San Luis Obispo County, California, United States of America",
+            "locType": "tower"
+        },
+        "lompoc": {
+            "longitude": "-120.4579408",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.6391501",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "pismo beach": {
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1427533",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "solvang": {
+            "longitude": "-120.1390893",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.5958572",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "madonna rd.": {
+            "longitude": "-120.6707001",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2681037",
+            "address": "Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "primary"
+        },
+        "san luis obispo": {
+            "longitude": "-120.6596155",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3806325-Stop_Off_between_San_Luis_Obispo_and_Las_Vegas-California.html",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2827525",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "baggett stadium": {
+            "longitude": "-120.664894520715",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3066584",
+            "address": "Baggett Stadium, Pinnacles Road, San Luis Obispo County, California, 93407, United States of America",
+            "locType": "pitch"
+        },
+        "pico creek": {
+            "longitude": "-121.1439082",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6212644",
+            "address": "Pico Creek, Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "stream"
+        },
+        "moonstone beach dr.": {
+            "longitude": "-121.1189249",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.581633",
+            "address": "Moonstone Beach Drive, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "tertiary"
+        },
+        "kreuzberg": {
+            "longitude": "-120.664630981886",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2784947",
+            "address": "Kreuzberg, 685, Higuera Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "cafe"
+        },
+        "santa maria": {
+            "longitude": "-120.4358576",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.9531295",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "hazard canyon": {
+            "longitude": "-120.8543059",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.29245",
+            "address": "Hazard Canyon Road, Cuesta-by-the-Sea, San Luis Obispo County, California, 93402, United States of America",
+            "locType": "track"
+        },
+        "san miguel": {
+            "longitude": "-120.6962825",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.7524679",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America",
+            "locType": "village"
+        },
+        "san luis obispo county": {
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3540209",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "morro st.": {
+            "longitude": "-120.6593818",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.277999",
+            "address": "Morro Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "residential"
+        },
+        "downtown san luis obispo": {
+            "longitude": "-120.66819803545",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2748845",
+            "address": "Avenue Inn Downtown San Luis Obispo, 345, Pacific Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "motel"
+        },
+        "san fernando mission blvd.": {
+            "longitude": "-118.4668798",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.2721749",
+            "address": "San Fernando Mission Boulevard, Mission Hills, Sylmar, LA, Los Angeles County, California, 91326, United States of America",
+            "locType": "secondary"
+        },
+        "san simeon bay": {
+            "longitude": "-121.1888087",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.6396921",
+            "address": "San Simeon Bay, Slo San Simeon Road, San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "bay"
+        },
+        "oro state park": {
+            "longitude": "-120.8888312",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2714109",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "moonstone beach": {
+            "longitude": "-121.1128747",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.573855",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path"
+        },
+        "garden street": {
+            "longitude": "-119.6875199",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.416549",
+            "address": "Garden Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "secondary"
+        },
+        "los osos/baywood park": {
+            "longitude": "-120.656837",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3605294",
+            "address": "KSTT-FM (Los Osos-Baywood Park), Tv Tower Road, San Luis Obispo County, California, United States of America",
+            "locType": "tower"
+        },
+        "irish hills": {
+            "longitude": "-120.694049133087",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2588819",
+            "address": "Irish Hills Hamlet, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "residential"
+        },
+        "avila valley barn": {
+            "longitude": "-120.7061067",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1828049",
+            "address": "Avila Valley Barn, Avila Beach Drive, Avila Beach, San Luis Obispo County, California, 93424, United States of America",
+            "locType": "farm"
+        },
+        "arroyo grande valley": {
+            "longitude": "-120.5907251",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1185869",
+            "address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "santa barbara mission": {
+            "longitude": "-119.6779962",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "34.4662154",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower"
+        },
+        "bubblegum alley": {
+            "longitude": "-120.6638629",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2791663",
+            "address": "Bubblegum Alley, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "attraction"
+        },
+        "california highway": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "cambria": {
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.5641381",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "arroyo grande": {
+            "longitude": "-120.5907251",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1185869",
+            "address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "cerro san luis": {
+            "longitude": "-120.7340622",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.4146957",
+            "address": "Cerro Alto, San Luis Obispo County, California, United States of America",
+            "locType": "peak"
+        },
+        "dinosaur caves park": {
+            "longitude": "-120.664611203543",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.15378375",
+            "address": "Dinosaur Caves Park, 2701, Price Street, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "park"
+        },
+        "tank farm road": {
+            "longitude": "-120.66996",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2467421",
+            "address": "Tank Farm Road, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "tertiary"
+        },
+        "whale rock reservoir": {
+            "longitude": "-120.0180599",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.446447",
+            "address": "Whale Rock Reservoir, San Luis Obispo County, California, United States of America",
+            "locType": "service"
+        },
+        "central california coast": {
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3611193",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential"
+        },
+        "oceano": {
+            "longitude": "-120.612393",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.0988648",
+            "address": "Oceano, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "avila beach": {
+            "longitude": "-120.7318417",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1799752",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "nipomo": {
+            "longitude": "-120.496418815962",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.0358216",
+            "address": "Nipomo, Crosby Way, Nipomo, San Luis Obispo County, California, 93444, United States of America",
+            "locType": "administrative"
+        },
+        "kelsey see canyon vineyards": {
+            "longitude": "-120.718615347869",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2081995",
+            "address": "Kelsey See Canyon Vineyards, 1947, See Canyon Road, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "winery"
+        },
+        "lopez lake": {
+            "longitude": "-120.483517275303",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2060338",
+            "address": "Lopez Lake, Wittenberg Creek, San Luis Obispo County, California, 94320, United States of America",
+            "locType": "water"
+        },
+        "america": {
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "36.2573198",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential"
+        },
+        "terrace hill": {
+            "longitude": "-120.6508092",
+            "blogLinks": [
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.2734557",
+            "address": "Terrace Hill, San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "peak"
+        },
+        "neptune pool": {
+            "longitude": "-121.169200070987",
+            "blogLinks": [
+                "http://hearstcastle.org/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.68561805",
+            "address": "Neptune Pool, Hearst Castle Road, San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "reservoir_covered"
+        },
+        "central coast of california": {
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/",
+                "http://www.morrobay.org/places-to-stay"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3611193",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential"
+        },
+        "bakersfield": {
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3806325-Stop_Off_between_San_Luis_Obispo_and_Las_Vegas-California.html",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "35.3738712",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city"
+        },
+        "central coast": {
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://hearstcastle.org/",
+                "http://www.sfgate.com/travel/article/San-Luis-Obispo-attractions-Slow-is-the-way-to-go-5112057.php",
+                "http://highway1discoveryroute.com/blog/",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://sanluisobispovacations.com/shareslo-blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.3611193",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential"
+        },
+        "san buenaventura": {
+            "longitude": "-119.2931742",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "34.2783355",
+            "address": "Ventura, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "king city": {
+            "longitude": "-121.1260286",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "36.2127439",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "avila beach and valley": {
+            "longitude": "-120.7318417",
+            "blogLinks": [
+                "http://highway1discoveryroute.com/blog/"
+            ],
+            "closest_to": "san luis obispo",
+            "latitude": "35.1799752",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        }
+    }
+}

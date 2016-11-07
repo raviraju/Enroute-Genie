@@ -1,0 +1,388 @@
+{
+    "bakersfield": {
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "lon": "-119.0194638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.74358237824296,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "35.3738712",
+        "osm_id": "113006",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "158454478",
+        "display_name": "Bakersfield, Kern County, California, United States of America"
+    },
+    "pasadena": {
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "lon": "-118.1444778",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.7778961552687,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.1476452",
+        "osm_id": "3529725",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159486921",
+        "display_name": "Pasadena, Los Angeles County, California, United States of America"
+    },
+    "mentions": {
+        "anaheim": {
+            "longitude": "-117.9117319",
+            "blogLinks": [
+                "http://visitanaheim.org/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.8347516",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "kern county": {
+            "longitude": "-118.7538221",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.3145701",
+            "address": "Kern County, California, United States of America",
+            "locType": "administrative"
+        },
+        "mount palomar ca": {
+            "longitude": "-117.270809764613",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.1278146",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank"
+        },
+        "mount san gorgonio ca": {
+            "longitude": "-116.8766731",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9121294",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary"
+        },
+        "mount san jacinto ca": {
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7839084",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "ojai valley": {
+            "longitude": "-119.2428889",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4480495",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "moreno valley ca": {
+            "longitude": "-117.2305943",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.937517",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "pacific coast highway": {
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6595127",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary"
+        },
+        "ontario": {
+            "longitude": "-117.6484303",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.065846",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "riverside national cemetery": {
+            "longitude": "-117.270726607134",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.87692125",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery"
+        },
+        "palos verdes peninsula ca": {
+            "longitude": "-118.372196730215",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.77984925",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "victorville": {
+            "longitude": "-117.2911564",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.5361067",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "baker": {
+            "longitude": "-117.6675603",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.0421963",
+            "address": "Baker, Kern County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://visitanaheim.org/",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.travelmath.com/places/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "whittier hills whittier": {
+            "longitude": "-117.993545449378",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9397495",
+            "address": "Whittwood Branch Whittier Public Library, Starbuck Street, Friendly Hills, Whittier, Los Angeles County, California, 90603, United States of America",
+            "locType": "library"
+        },
+        "palm springs air museum ca": {
+            "longitude": "-116.504677958796",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.83250375",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum"
+        },
+        "mount baldy ca": {
+            "longitude": "-117.6600552",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2361168",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "downtown san luis obispo": {
+            "longitude": "-120.66819803545",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g32037-Activities-Bakersfield_California.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "35.2748845",
+            "address": "Avenue Inn Downtown San Luis Obispo, 345, Pacific Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "motel"
+        },
+        "eaton canyon park": {
+            "longitude": "-118.095556461784",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.18216575",
+            "address": "Eaton Canyon Park, Canyon View Lane, Pasadena, Los Angeles County, California, 91107, United States of America",
+            "locType": "park"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "https://www.ridebooker.com/transfers/bakersfield-ca/pasadena-ca/luxury-sedan",
+                "https://www.ridebooker.com/transfers/pasadena-ca/bakersfield-ca",
+                "https://www.ridebooker.com/transfers/pasadena-ca/bakersfield-ca/van"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "bakersfield": {
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/bakersfield-ca/pasadena-ca/luxury-sedan",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.visitbakersfield.com/visitors/",
+                "https://www.ridebooker.com/transfers/pasadena-ca/bakersfield-ca/van",
+                "https://www.ridebooker.com/transfers/pasadena-ca/bakersfield-ca"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.3738712",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city"
+        },
+        "morongo valley": {
+            "longitude": "-116.596723958419",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0537585",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm",
+                "https://www.tripadvisor.com/Attractions-g32037-Activities-Bakersfield_California.html"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "aliso creek": {
+            "longitude": "-117.7034805",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.602558",
+            "address": "Aliso Creek, Laguna Woods, Orange County, California, United States of America",
+            "locType": "stream"
+        },
+        "newport beach ca": {
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6170092",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://visitanaheim.org/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "los angeles/anaheim": {
+            "longitude": "-118.2602935",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7803597",
+            "address": "Global Tires of California, 233, East Anaheim Street, Wilmington, LA, Los Angeles County, California, 90744, United States of America",
+            "locType": "car_repair"
+        },
+        "kern river": {
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "bakersfield",
+            "latitude": "36.6816956",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river"
+        },
+        "phoenix": {
+            "longitude": "-117.7764481",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=127"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6988015",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential"
+        },
+        "monrovia": {
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1483499",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city"
+        }
+    }
+}

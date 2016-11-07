@@ -1,0 +1,1583 @@
+{
+    "sausalito": {
+        "boundingbox": [
+            "37.8436795",
+            "37.8731429",
+            "-122.5102612",
+            "-122.4753744"
+        ],
+        "lon": "-122.4854693",
+        "class": "boundary",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.64561533453658,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "lat": "37.8590272",
+        "osm_id": "2829689",
+        "type": "administrative",
+        "osm_type": "relation",
+        "place_id": "159575624",
+        "display_name": "Sausalito, Marin County, California, United States of America"
+    },
+    "beverly hills": {
+        "boundingbox": [
+            "34.05269",
+            "34.112456",
+            "-118.4270731",
+            "-118.3715357"
+        ],
+        "lon": "-118.4003562",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.65,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.0736204",
+        "osm_id": "3503615",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159602133",
+        "display_name": "Beverly Hills, Los Angeles County, California, United States of America"
+    },
+    "mentions": {
+        "mount palomar ca": {
+            "longitude": "-117.270809764613",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.1278146",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank"
+        },
+        "mount san gorgonio ca": {
+            "longitude": "-116.8766731",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.9121294",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "https://www.pinterest.com/pin/365565694725974224/",
+                "http://blog.sfgate.com/ontheblock/2014/12/22/minecraft-creator-outbids-beyonce-and-jay-z-for-70m-beverly-hills-mansion/",
+                "http://www.bravotv.com/the-real-housewives-of-beverly-hills/blogs",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/",
+                "https://www.travelwizard.com/usa/california/",
+                "http://blog.sfgate.com/ontheblock/2015/07/30/guns-n-roses-guitarist-slash-lists-medieval-beverly-hills-mansion/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "sonoma": {
+            "longitude": "-122.8473387",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.5110803",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative"
+        },
+        "el capitan theatre": {
+            "longitude": "-118.339818715971",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1011884",
+            "address": "El Capitan Theatre, 6838, Hollywood Boulevard, Whitley Heights, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "cinema"
+        },
+        "burbank": {
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.1816482",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "lake county": {
+            "longitude": "-122.7776555",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "39.0505411",
+            "address": "Lake County, California, United States of America",
+            "locType": "administrative"
+        },
+        "hawaii": {
+            "longitude": "-119.7966952",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.8347819",
+            "address": "Hawaii, Fresno County, California, 93650, United States of America",
+            "locType": "service"
+        },
+        "crescent city": {
+            "longitude": "-124.149861883096",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "41.8528065",
+            "address": "Crescent City, Del Norte County, California, United States of America",
+            "locType": "city"
+        },
+        "humboldt state park": {
+            "longitude": "-124.08085264535",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "40.87635235",
+            "address": "Humboldt State University, Laurel Drive, Arcata, Humboldt County, California, 95521, United States of America",
+            "locType": "parking"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "libby park": {
+            "longitude": "-118.3164021",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1124869",
+            "address": "Libby Way, Little Armenia, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "residential"
+        },
+        "memorial park": {
+            "longitude": "-118.1474915",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1484733",
+            "address": "Memorial Park, Holly Street, Pasadena, Los Angeles County, California, 91102, United States of America",
+            "locType": "station"
+        },
+        "culver city": {
+            "longitude": "-118.3964664",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0211224",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "peninsula beverly hills": {
+            "longitude": "-118.4105736",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.065796",
+            "address": "The Peninsula Beverly Hills, South Santa Monica Boulevard, Beverly Hills, Los Angeles County, California, 90025, United States of America",
+            "locType": "hotel"
+        },
+        "long beach": {
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.78538945",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "point dume": {
+            "longitude": "-118.8066755",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.001631",
+            "address": "Point Dume, Malibu, Los Angeles County, California, United States of America",
+            "locType": "peak"
+        },
+        "catalina island": {
+            "longitude": "-118.424154004558",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.3890232",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island"
+        },
+        "fort ross state historic park": {
+            "longitude": "-123.242831911186",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.51621695",
+            "address": "Fort Ross State Historic Park, Coast Highway, Toners Place, Sonoma County, California, 95450, United States of America",
+            "locType": "park"
+        },
+        "new york": {
+            "longitude": "-117.8984509",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0143928",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service"
+        },
+        "santa monica pier": {
+            "longitude": "-118.4960541",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0104809",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service"
+        },
+        "la quinta": {
+            "longitude": "-116.2958788",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.677474",
+            "address": "La Quinta, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "road": {
+            "longitude": "-121.9677344",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "39.4642466",
+            "address": "Road Y, Butte City, Glenn County, California, 95920, United States of America",
+            "locType": "tertiary"
+        },
+        "venice beach": {
+            "longitude": "-118.4739815",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.9862012",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police"
+        },
+        "west hollywood": {
+            "longitude": "-118.3617442",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0900091",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "tokyo": {
+            "longitude": "-118.2328066",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0431787",
+            "address": "Southern California Institute of Architecture, 960, East 3rd Street, Arts District, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "locType": "school"
+        },
+        "north marin": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pebble beach ca": {
+            "longitude": "-121.9466112",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.5664874",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "guerneville": {
+            "longitude": "-122.987128549631",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.5116609",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative"
+        },
+        "hermosa beach": {
+            "longitude": "-118.3959099",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.86428",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "mount san jacinto ca": {
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7839084",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "usa": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "kern river": {
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.6816956",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river"
+        },
+        "zuma beach": {
+            "longitude": "-118.831034805743",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0214393",
+            "address": "Zuma Beach, Zuma Beach Access Road, Malibu, Los Angeles County, California, United States of America",
+            "locType": "beach"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "oregon": {
+            "longitude": "-117.7911567",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7123207",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential"
+        },
+        "lake tahoe": {
+            "longitude": "-120.050511752934",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "39.0888982",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water"
+        },
+        "luther burbank": {
+            "longitude": "-122.7117678",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.436098",
+            "address": "Luther Burbank Home & Gardens, Tupper Street, Santa Rosa, Sonoma County, California, 95402, United States of America",
+            "locType": "museum"
+        },
+        "bunker hill": {
+            "longitude": "-120.8282696",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.4265774",
+            "address": "Bunker Hill, Amador County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "walt disney concert hall": {
+            "longitude": "-118.249902463308",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0554391",
+            "address": "Walt Disney Concert Hall, South Hope Street, Bunker Hill, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "theatre"
+        },
+        "paradise cove": {
+            "longitude": "-122.4689008",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8962016",
+            "address": "Paradise Cove, El Campo, Marin County, California, 94920, United States of America",
+            "locType": "residential"
+        },
+        "north lake ca": {
+            "longitude": "-122.501983281136",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.76958295",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water"
+        },
+        "fairfax": {
+            "longitude": "-122.5879673",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.9872935",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "clear lake": {
+            "longitude": "-123.274814179039",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "41.38373055",
+            "address": "Clear Lake, Siskiyou County, California, United States of America",
+            "locType": "water"
+        },
+        "moreno valley ca": {
+            "longitude": "-117.2305943",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.937517",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "london state historic park": {
+            "longitude": "-118.209189568619",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0593002",
+            "address": "Los Angeles County + University of Southern California Medical Center, North State Street, Brooklyn Heights, Boyle Heights, LA, Los Angeles County, California, 90033, United States of America",
+            "locType": "hospital"
+        },
+        "downtown los angeles": {
+            "longitude": "-118.312628",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.1789188",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station"
+        },
+        "napa valley ca": {
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.2972603",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary"
+        },
+        "sierra madre": {
+            "longitude": "-118.0528455",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1616729",
+            "address": "Sierra Madre, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "catalina": {
+            "longitude": "-117.920102663284",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.810513",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest"
+        },
+        "mendocino": {
+            "longitude": "-123.4126398",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "39.3176491",
+            "address": "Mendocino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/",
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "http://www.bravotv.com/the-real-housewives-of-beverly-hills/season-6/blogs/eileen-davidson/eileen-davidson-i-believe-it-is",
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "san jacinto ca": {
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7839084",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "downtown la": {
+            "longitude": "-122.2715243",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8036295",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pine avenue": {
+            "longitude": "-117.3481899",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.178895",
+            "address": "Pine Avenue, San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "residential"
+        },
+        "london": {
+            "longitude": "-119.4431784",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.4760619",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village"
+        },
+        "mission bay ca": {
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.7707742",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood"
+        },
+        "rodeo drive": {
+            "longitude": "-117.2609329",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.824444",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential"
+        },
+        "dinosaur hall": {
+            "longitude": "-121.7772298",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.555919",
+            "address": "Dinosaur Place, Davis, Yolo County, California, 95616, United States of America",
+            "locType": "residential"
+        },
+        "beverly gardens park": {
+            "longitude": "-118.40346205",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0723509",
+            "address": "Beverly Gardens Park, Park Way, Beverly Hills, Los Angeles County, California, 90210, United States of America",
+            "locType": "park"
+        },
+        "la brea avenue": {
+            "longitude": "-118.3519077",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0305331",
+            "address": "La Brea Avenue, The Village Green, LA, Los Angeles County, California, 90016, United States of America",
+            "locType": "primary"
+        },
+        "santa monica": {
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/",
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0195598",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "gouda": {
+            "longitude": "-121.0421101",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.6925633",
+            "address": "Gouda Lane, Modesto, Stanislaus County, California, 95356, United States of America",
+            "locType": "residential"
+        },
+        "morro rock ca": {
+            "longitude": "-120.8676993",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "35.369669",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "newport beach ca": {
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.6170092",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "shanghai": {
+            "longitude": "-121.894015266141",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.34935045",
+            "address": "Shanghai, Jackson Street, Hensley Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "yes"
+        },
+        "novato": {
+            "longitude": "-122.568119",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.1061979",
+            "address": "Novato, Marin County, California, United States of America",
+            "locType": "city"
+        },
+        "griffith park": {
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.68813",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service"
+        },
+        "mono": {
+            "longitude": "-118.9398757",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.9533927",
+            "address": "Mono County, California, United States of America",
+            "locType": "administrative"
+        },
+        "olema": {
+            "longitude": "-122.7880458",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.0407566",
+            "address": "Olema, Marin County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "new orleans": {
+            "longitude": "-117.9206364",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8116219",
+            "address": "New Orleans Square, Anaheim, Orange County, California, United States of America",
+            "locType": "locality"
+        },
+        "beverly hills": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.pinterest.com/pin/365565694725974224/",
+                "http://www.bravotv.com/the-real-housewives-of-beverly-hills/blogs",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/",
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html",
+                "http://www.bravotv.com/the-real-housewives-of-beverly-hills/season-6/blogs/kyle-richards/kyle-richards-it-felt-false"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://blog.sfgate.com/ontheblock/2014/12/22/minecraft-creator-outbids-beyonce-and-jay-z-for-70m-beverly-hills-mansion/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "los angeles county museum of art": {
+            "longitude": "-118.357997654056",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0634357",
+            "address": "Los Angeles County Museum of Art, Wilshire Boulevard, Park La Brea, The Village Green, LA, Los Angeles County, California, 90036, United States of America",
+            "locType": "museum"
+        },
+        "bodie state historic park": {
+            "longitude": "-119.0109761",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.2154734",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park"
+        },
+        "fort mason": {
+            "longitude": "-122.4275152",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8066092",
+            "address": "Fort Mason, Marina District, SF, California, 14123, United States of America",
+            "locType": "residential"
+        },
+        "santa monica beach": {
+            "longitude": "-119.2203179",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.159111",
+            "address": "Santa Monica Drive, Channel Islands Beach, Ventura County, California, 93035, United States of America",
+            "locType": "residential"
+        },
+        "marina blvd": {
+            "longitude": "-122.4475598",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.805133",
+            "address": "Marina Boulevard, Marina District, SF, California, 94123, United States of America",
+            "locType": "secondary"
+        },
+        "koreatown": {
+            "longitude": "-118.3008094",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0580134",
+            "address": "Koreatown, Saint James Park, LA, Los Angeles County, California, 90010, United States of America",
+            "locType": "neighbourhood"
+        },
+        "ontario": {
+            "longitude": "-117.6484303",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.065846",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "san diego county": {
+            "longitude": "-116.7706276",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.9637838",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative"
+        },
+        "melrose avenue": {
+            "longitude": "-117.2145993",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.1005138",
+            "address": "Melrose Avenue, San Elijo Hills, San Marcos, San Diego County, California, 92069, United States of America",
+            "locType": "secondary"
+        },
+        "palos verdes peninsula ca": {
+            "longitude": "-118.372196730215",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.77984925",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school"
+        },
+        "gualala": {
+            "longitude": "-123.529828",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.7674439",
+            "address": "Gualala, Mendocino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "point state park": {
+            "longitude": "-121.1198923",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "35.5818461",
+            "address": "State Park, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "service"
+        },
+        "california science centre": {
+            "longitude": "-118.286286870567",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0159757",
+            "address": "California Science Center, 700, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "museum"
+        },
+        "santa monica mountains": {
+            "longitude": "-118.789983284662",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.11008435",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area"
+        },
+        "tiburon": {
+            "longitude": "-122.4566121",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8734371",
+            "address": "Tiburon, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "mojave desert ca": {
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "35.1456319",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert"
+        },
+        "sea ranch": {
+            "longitude": "-123.4544531",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.7151899",
+            "address": "Sea Ranch, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "redwood trees": {
+            "longitude": "-123.99316775",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "41.20811185",
+            "address": "Redwood National & State Parks, Tall Trees Access Road, Humboldt County, California, United States of America",
+            "locType": "toilets"
+        },
+        "beverly hill": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "sedona": {
+            "longitude": "-117.6689202",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.6916439",
+            "address": "Sedona, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+            "locType": "residential"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "sierra nevada": {
+            "longitude": "-121.1396689",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "39.097593",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "locType": "residential"
+        },
+        "hermosa avenue": {
+            "longitude": "-118.1692902",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7703379",
+            "address": "Hermosa Avenue, Belmont Shore, Long Beach, Los Angeles County, California, 90802, United States of America",
+            "locType": "residential"
+        },
+        "hollywood": {
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.travelwizard.com/usa/california/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1028268",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "redondo beach": {
+            "longitude": "-118.3886765",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8455911",
+            "address": "Redondo Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "balboa park": {
+            "longitude": "-122.444804424152",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.72494875",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park"
+        },
+        "russian river": {
+            "longitude": "-123.0082118",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.4825985",
+            "address": "Russian River, Sonoma County, California, United States of America",
+            "locType": "river"
+        },
+        "palm springs air museum ca": {
+            "longitude": "-116.504677958796",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.83250375",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum"
+        },
+        "santa monica blvd": {
+            "longitude": "-118.317943",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0907545",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary"
+        },
+        "pacific park": {
+            "longitude": "-117.724068630701",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.5588741",
+            "address": "Pacific Park, Aliso Viejo, Orange County, California, 92656, United States of America",
+            "locType": "commercial"
+        },
+        "marina del rey": {
+            "longitude": "-118.4508017",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.9774017",
+            "address": "Marina del Rey, Ocean Park, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "hollywood boulevard": {
+            "longitude": "-118.32684",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1016312",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary"
+        },
+        "mono lake ca": {
+            "longitude": "-118.967033937845",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.0077189",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water"
+        },
+        "monrovia": {
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1483499",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "northern california": {
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/",
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7349196",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality"
+        },
+        "hollywood walk of fame": {
+            "longitude": "-118.3385158",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1018331",
+            "address": "Old Hollywood Bookshop, Walk of Fame, Whitley Heights, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "attraction"
+        },
+        "stinson beach": {
+            "longitude": "-122.64508",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.9008084",
+            "address": "Stinson Beach, Marin County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "north hillcrest": {
+            "longitude": "-117.162483",
+            "blogLinks": [
+                "http://blog.sfgate.com/ontheblock/2014/12/22/minecraft-creator-outbids-beyonce-and-jay-z-for-70m-beverly-hills-mansion/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.72181505",
+            "address": "California Western School of Law, Cedar Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "university"
+        },
+        "ojai valley": {
+            "longitude": "-119.2428889",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.4480495",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific coast": {
+            "longitude": "-118.063517668143",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8047323",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes"
+        },
+        "humboldt county": {
+            "longitude": "-123.8997733",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "40.5997415",
+            "address": "Humboldt County, California, United States of America",
+            "locType": "administrative"
+        },
+        "ojai": {
+            "longitude": "-119.2428889",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.4480495",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "marin county": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "bodega": {
+            "longitude": "-122.9738877",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.345194",
+            "address": "Bodega, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "bridgeport": {
+            "longitude": "-119.2312664",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.255757",
+            "address": "Bridgeport, Mono County, California, United States of America",
+            "locType": "village"
+        },
+        "morro bay ca": {
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "35.3658075",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "manhattan beach": {
+            "longitude": "-118.4000146",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8950839",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "orick": {
+            "longitude": "-124.0597936",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "41.2867896",
+            "address": "Orick, Humboldt County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "sacramento": {
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.5815719",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city"
+        },
+        "sausalito": {
+            "longitude": "-122.4854693",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.8590272",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "east coast": {
+            "longitude": "-122.2447393",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.858337",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel"
+        },
+        "olvera street": {
+            "longitude": "-118.2373201",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0581578",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian"
+        },
+        "america": {
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://blog.sfgate.com/ontheblock/2014/12/22/minecraft-creator-outbids-beyonce-and-jay-z-for-70m-beverly-hills-mansion/",
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit",
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.2573198",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential"
+        },
+        "monterey peninsula ca": {
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.5878734",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome"
+        },
+        "yosemite national park": {
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "37.84054795",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park"
+        },
+        "ojai avenue": {
+            "longitude": "-115.9760889",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.303775",
+            "address": "Ojai Avenue, Salton City, Imperial County, California, 92275, United States of America",
+            "locType": "residential"
+        },
+        "mount baldy ca": {
+            "longitude": "-117.6600552",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.2361168",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "carolwood drive": {
+            "longitude": "-117.0263669",
+            "blogLinks": [
+                "http://blog.sfgate.com/ontheblock/2016/04/16/outrageous-beverly-hills-spec-house-asks-150-million/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.69614",
+            "address": "Carolwood Drive, San Diego, San Diego County, California, 92139, United States of America",
+            "locType": "residential"
+        },
+        "sunset strip": {
+            "longitude": "-116.1940439",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7224763",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street"
+        },
+        "riverside national cemetery": {
+            "longitude": "-117.270726607134",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.87692125",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery"
+        },
+        "morongo valley": {
+            "longitude": "-116.596723958419",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0537585",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative"
+        },
+        "ventura blvd": {
+            "longitude": "-118.4234198",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "34.1467275",
+            "address": "Ventura Boulevard, Sherman Oaks, LA, Los Angeles County, California, 91423, United States of America",
+            "locType": "primary"
+        },
+        "sunset boulevard": {
+            "longitude": "-118.2554183",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0759222",
+            "address": "Sunset Boulevard, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "primary"
+        },
+        "beverly garden": {
+            "longitude": "-117.928062221073",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.78410895",
+            "address": "Beverly Gardens, Garden Grove, Orange County, California, 92840, United States of America",
+            "locType": "residential"
+        },
+        "peninsula": {
+            "longitude": "-117.830566223937",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/los-angeles/places-to-visit"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.5987849",
+            "address": "Peninsula, Corona del Mar, Newport Beach, Orange County, California, 92657, United States of America",
+            "locType": "residential"
+        },
+        "scotland": {
+            "longitude": "-117.4981065",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/365565694725974224/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.242229",
+            "address": "Scotland, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "hollywood forever cemetery": {
+            "longitude": "-118.319048274551",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.08846395",
+            "address": "Hollywood Forever Cemetery and Funeral Home, 12th Street, Paramount Studios, Little Armenia, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "grave_yard"
+        },
+        "sonoma plaza": {
+            "longitude": "-122.457635310247",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "38.29304285",
+            "address": "Sonoma Plaza, East Spain Street, Sonoma, Sonoma County, California, 95476, United States of America",
+            "locType": "park"
+        },
+        "redwood national park": {
+            "longitude": "-124.030095146171",
+            "blogLinks": [
+                "https://www.travelwizard.com/usa/california/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "41.27553155",
+            "address": "Redwood National Park, Redwood Creek Trail, Orick, Humboldt County, California, 95555, United States of America",
+            "locType": "national_park"
+        },
+        "monterey bay aquarium ca": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "palm springs": {
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "http://www.artfaircalendar.com/art_fair/west-coast-art-fairs.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8246269",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "old town san diego": {
+            "longitude": "-117.1969792",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7542167",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        }
+    }
+}

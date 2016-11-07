@@ -1,0 +1,1865 @@
+{
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "fremont": {
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "lon": "-121.9885718",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.70373394703995,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.5482697",
+        "osm_id": "111943",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159050638",
+        "display_name": "Fremont, Alameda County, California, United States of America"
+    },
+    "mentions": {
+        "embarcadero": {
+            "longitude": "-122.396892",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7928455",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station"
+        },
+        "los altos": {
+            "longitude": "-122.1165779",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3790629",
+            "address": "Los Altos, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "durant square": {
+            "longitude": "-122.257962530456",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.86818265",
+            "address": "Durant Square, Durant Avenue, Southside, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "food_court"
+        },
+        "bancroft way": {
+            "longitude": "-122.2636507",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8681473",
+            "address": "Bancroft Way, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "secondary"
+        },
+        "moraga": {
+            "longitude": "-122.1295595",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8347106",
+            "address": "Moraga, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "richmond": {
+            "longitude": "-122.3477485",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9357576",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "piedmont": {
+            "longitude": "-122.2316349",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8243715",
+            "address": "Piedmont, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "gioia pizzeria": {
+            "longitude": "-122.4219616",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.797552",
+            "address": "Gioia Pizzeria, 2238;2240, Polk Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "restaurant"
+        },
+        "san rafael": {
+            "longitude": "-122.5310873",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9735346",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city"
+        },
+        "bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "rockridge": {
+            "longitude": "-122.251348",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8447104",
+            "address": "Rockridge, Grove Shafter Freeway, Rockridge, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "station"
+        },
+        "downtown berkeley station": {
+            "longitude": "-122.268136079248",
+            "blogLinks": [
+                "http://www.bart.gov/stations/dbrk",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.87010225",
+            "address": "Downtown Berkeley, Constitution Plaza, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "station"
+        },
+        "mill valley": {
+            "longitude": "-122.5449762",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9060368",
+            "address": "Mill Valley, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "potrero hill": {
+            "longitude": "-122.3991373",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7565834",
+            "address": "Potrero Hill, SF, California, United States of America",
+            "locType": "peak"
+        },
+        "hayward": {
+            "longitude": "-122.0807963",
+            "blogLinks": [
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6688205",
+            "address": "Hayward, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "san jose international airport": {
+            "longitude": "-121.928592538997",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.36312115",
+            "address": "Norman Y. Mineta San Jose International Airport, Terminal Drive, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "aerodrome"
+        },
+        "cupertino": {
+            "longitude": "-122.0322518",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3230107",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco bay ferry": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "broadway terrace": {
+            "longitude": "-122.2187973",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8401096",
+            "address": "Broadway Terrace, Montclair, Oakland, Alameda County, California, 94611, United States of America",
+            "locType": "secondary"
+        },
+        "lake anza": {
+            "longitude": "-122.25039158978",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.89620465",
+            "address": "Lake Anza, Wildcat Gorge Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "water"
+        },
+        "east bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "berkeley bowl": {
+            "longitude": "-122.267243714519",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.85693015",
+            "address": "Berkeley Bowl, 2020, Oregon Street, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "supermarket"
+        },
+        "oakland international airport": {
+            "longitude": "-122.2123029",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.713158",
+            "address": "Oakland International Airport, Airport Drive, Oakland, Alameda County, California, 94614, United States of America",
+            "locType": "tram_stop"
+        },
+        "richmond view": {
+            "longitude": "-122.313581",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.944924",
+            "address": "East Richmond Heights, Contra Costa County, California, United States of America",
+            "locType": "village"
+        },
+        "brisbane": {
+            "longitude": "-122.3999714",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6807661",
+            "address": "Brisbane, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "dublin": {
+            "longitude": "-121.9357917",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7021521",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "alameda county": {
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6090291",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "penguin island": {
+            "longitude": "-122.50180545",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.73246405",
+            "address": "Penguin Island, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "attraction"
+        },
+        "regional park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "pleasanton": {
+            "longitude": "-121.8746788",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6624312",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "golden gate park": {
+            "longitude": "-122.482183611177",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7693681",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park"
+        },
+        "ashby bart station": {
+            "longitude": "-122.2705915",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8520696",
+            "address": "Ashby BART, Martin Luther King Jr Way, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "car_sharing"
+        },
+        "china": {
+            "longitude": "-122.49033307856",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9989198",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park"
+        },
+        "allston way": {
+            "longitude": "-122.462831",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bart.gov/stations/dbrk"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7417647",
+            "address": "Allston Way, West Portal, SF, California, 94127, United States of America",
+            "locType": "residential"
+        },
+        "gold coast": {
+            "longitude": "-122.2630806",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8038335",
+            "address": "Lakeside, Oakland, Alameda County, California, 94611, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san lorenzo valley": {
+            "longitude": "-122.1244087",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6810422",
+            "address": "San Lorenzo, Alameda County, California, United States of America",
+            "locType": "village"
+        },
+        "piq berkeley": {
+            "longitude": "-122.2680966",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8713034",
+            "address": "PiQ, Addison Street, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "cafe"
+        },
+        "sunnyvale": {
+            "longitude": "-122.0363495",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3688301",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "south bay": {
+            "longitude": "-122.4927499",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.794096",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay"
+        },
+        "redwood city": {
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4852152",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "lafayette reservoir": {
+            "longitude": "-122.1388541",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8843694",
+            "address": "Lafayette Reservoir, Sunset Trail, Lafayette, Contra Costa County, California, 94706, United States of America",
+            "locType": "reservoir"
+        },
+        "north oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "saratoga": {
+            "longitude": "-122.0230145",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.2638324",
+            "address": "Saratoga, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "menlo park": {
+            "longitude": "-122.182187",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4538274",
+            "address": "Menlo Park, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "louisiana kitchen": {
+            "longitude": "-122.2675426",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8682414",
+            "address": "Angeline's Louisiana Kitchen, 2261, Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "southeast asia": {
+            "longitude": "-122.2533348",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7949149",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "locType": "restaurant"
+        },
+        "noe valley": {
+            "longitude": "-122.4320813",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7515906",
+            "address": "Noe Valley, SF, California, 94114, United States of America",
+            "locType": "neighbourhood"
+        },
+        "bart warm springs station": {
+            "longitude": "-121.939189",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5020127",
+            "address": "BART Warm Springs/South Fremont, Lopes Court, Snoboy, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America",
+            "locType": "construction"
+        },
+        "pacifica": {
+            "longitude": "-122.4869193",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.6138253",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "rockridge bart": {
+            "longitude": "-122.2520061",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8441179",
+            "address": "Rockridge BART, Grove Shafter Freeway, Rockridge, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "car_sharing"
+        },
+        "kensington elementary": {
+            "longitude": "-122.279153640617",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9140924",
+            "address": "Kensington Elementary School, Ye Olde School Trail, Kensington, East Richmond Heights, Contra Costa County, California, 94707, United States of America",
+            "locType": "school"
+        },
+        "san pablo bay": {
+            "longitude": "-122.3844177",
+            "blogLinks": [
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0665874",
+            "address": "San Pablo Bay, Marin County, California, United States of America",
+            "locType": "bay"
+        },
+        "fremont": {
+            "longitude": "-121.9885718",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/van",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/luxury-suv",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5482697",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "south berkeley": {
+            "longitude": "-122.2723751",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8551575",
+            "address": "South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "mission san jose": {
+            "longitude": "-121.9041561",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3495341",
+            "address": "West Mission Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "tertiary"
+        },
+        "east coast": {
+            "longitude": "-122.2447393",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.858337",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel"
+        },
+        "yerba buena gardens": {
+            "longitude": "-122.402371810367",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.78463535",
+            "address": "Yerba Buena Gardens, Howard Street, South of Market, SF, California, 94103, United States of America",
+            "locType": "park"
+        },
+        "danville": {
+            "longitude": "-121.9999605",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8215929",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "walnut creek": {
+            "longitude": "-122.0649629",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.9063131",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "caffe strada": {
+            "longitude": "-122.4073518",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7986305",
+            "address": "Caffe Trieste, 601, Vallejo Street, North Beach, SF, California, 94133, United States of America",
+            "locType": "cafe"
+        },
+        "calaveras fault": {
+            "longitude": "-121.7840276",
+            "blogLinks": [
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4122429",
+            "address": "Calaveras Fault Trail, Santa Clara County, California, 95127, United States of America",
+            "locType": "track"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "piedmont ave.": {
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8276971",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "berkley": {
+            "longitude": "-122.2668744",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.808537",
+            "address": "Thomas L. Berkley Way, Financial District, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "secondary"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.ridebooker.com/transfers/fremont-ca/berkeley-ca",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html",
+                "https://bayareadesi.com/event/bolloween-ball",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "shattuck square": {
+            "longitude": "-122.268062355617",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.87168125",
+            "address": "Shattuck Square, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "retail"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "redwood heights elementary": {
+            "longitude": "-122.186283692452",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7974408",
+            "address": "Redwood Heights Elementary School, 39th Avenue, Laurel, Oakland, Alameda County, California, 94619, United States of America",
+            "locType": "school"
+        },
+        "santa clara": {
+            "longitude": "-121.9551743",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3541132",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "silicon valley": {
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "http://www.bart.gov/stations/dbrk"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4105333",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school"
+        },
+        "irvington": {
+            "longitude": "-121.953848",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5322543",
+            "address": "Irvington, Osgood Road, Irvington District, Fremont, Alameda County, California, 94539, United States of America",
+            "locType": "proposed"
+        },
+        "otis elementary": {
+            "longitude": "-122.2383846",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.753909",
+            "address": "Frank Otis Elementary School, 3010, Fillmore Street, Fernside, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "school"
+        },
+        "kensington": {
+            "longitude": "-122.280247",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9104805",
+            "address": "Kensington, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "tilden park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "sausalito": {
+            "longitude": "-122.4854693",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8590272",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "oakland chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "hearst avenue": {
+            "longitude": "-122.4511591",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7306855",
+            "address": "Hearst Avenue, Ingleside, SF, California, 94112, United States of America",
+            "locType": "residential"
+        },
+        "marin": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pixieland": {
+            "longitude": "-122.021839297124",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9894542",
+            "address": "Pixieland Amusement Park, Windy Grove Cars, Concord, Contra Costa County, California, 94519, United States of America",
+            "locType": "theme_park"
+        },
+        "berkeley-oakland": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "n. berkeley": {
+            "longitude": "-122.2736818",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8779506",
+            "address": "North Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san jose": {
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3361905",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "albany": {
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88687",
+            "address": "Albany, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "mountain view": {
+            "longitude": "-122.0820499",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3855745",
+            "address": "Mountain View, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "angel island": {
+            "longitude": "-122.430885671184",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.862338",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island"
+        },
+        "bay area discovery museum": {
+            "longitude": "-122.4770556",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8357085",
+            "address": "Bay Area Discovery Museum, East Road, Belvedere Island, Marin County, California, 94965, United States of America",
+            "locType": "museum"
+        },
+        "golden gate": {
+            "longitude": "-122.4793972",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8190177",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait"
+        },
+        "alvarado-niles": {
+            "longitude": "-122.0222133",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5874977",
+            "address": "Alvarado-Niles Road, Union City, Alameda County, California, 94587, United States of America",
+            "locType": "secondary"
+        },
+        "great america": {
+            "longitude": "-121.9743159",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4034903",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop"
+        },
+        "south shore": {
+            "longitude": "-122.2577469",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7596511",
+            "address": "South Shore, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "neighbourhood"
+        },
+        "berkeley rose garden": {
+            "longitude": "-122.263265284396",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88535145",
+            "address": "Berkeley Rose Garden, 1200, Euclid Avenue, Northside, Berkeley, Alameda County, California, 94708:94709, United States of America",
+            "locType": "park"
+        },
+        "concord": {
+            "longitude": "-122.0335623",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9768525",
+            "address": "Concord, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "parkmont": {
+            "longitude": "-121.9838494",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5610469",
+            "address": "Parkmont Elementary School, 2601, Parkside Drive, Centerville District, Fremont, Alameda County, California, 94536, United States of America",
+            "locType": "school"
+        },
+        "north gate": {
+            "longitude": "-122.2679081",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8163018",
+            "address": "Northgate / Koreatown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood"
+        },
+        "fairmont": {
+            "longitude": "-122.410029997904",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7923686",
+            "address": "The Fairmont San Francisco Hotel, 950, Mason Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel"
+        },
+        "san carlos": {
+            "longitude": "-122.266149723864",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4982065",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "millbrae": {
+            "longitude": "-122.3871941",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5985468",
+            "address": "Millbrae, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "bernal heights": {
+            "longitude": "-122.4158041",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7429861",
+            "address": "Bernal Heights, SF, California, United States of America",
+            "locType": "peak"
+        },
+        "berkeley bart": {
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8742984",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "car_sharing"
+        },
+        "emeryville": {
+            "longitude": "-122.2865265",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8314089",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "marina blvd": {
+            "longitude": "-122.4475598",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.805133",
+            "address": "Marina Boulevard, Marina District, SF, California, 94123, United States of America",
+            "locType": "secondary"
+        },
+        "marin county": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "richmond heights": {
+            "longitude": "-122.313581",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.944924",
+            "address": "East Richmond Heights, Contra Costa County, California, United States of America",
+            "locType": "village"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "japantown": {
+            "longitude": "-122.4298088",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7855789",
+            "address": "Japantown, SF, California, 94115, United States of America",
+            "locType": "neighbourhood"
+        },
+        "lemur forest": {
+            "longitude": "-122.504164031494",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/van"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7329811",
+            "address": "Lemur Forest, Entry Village, SF, California, 94166, United States of America",
+            "locType": "attraction"
+        },
+        "ashby bart": {
+            "longitude": "-122.2705915",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8520696",
+            "address": "Ashby BART, Martin Luther King Jr Way, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "car_sharing"
+        },
+        "missouri lounge": {
+            "longitude": "-122.2891189",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8591303",
+            "address": "Missouri Lounge, San Pablo Avenue, Poets Corner, Berkeley, Alameda County, California, 94702, United States of America",
+            "locType": "pub"
+        },
+        "elmwood district": {
+            "longitude": "-122.2538686",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8577846",
+            "address": "Elmwood, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "neighbourhood"
+        },
+        "diablo state park": {
+            "longitude": "-121.9142384",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8816302",
+            "address": "Mount Diablo State Park, Summit Road, Contra Costa County, California, 94517, United States of America",
+            "locType": "museum"
+        },
+        "piedmont avenue": {
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8276971",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "alcatraz": {
+            "longitude": "-122.422746492409",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8267283",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island"
+        },
+        "union city": {
+            "longitude": "-122.0816296",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5963232",
+            "address": "Union City, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "piedmont ave": {
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8276971",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "newark": {
+            "longitude": "-122.0402398",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5296593",
+            "address": "Newark, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "brazil cafe": {
+            "longitude": "-122.2714969",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.871604",
+            "address": "Brazil Cafe, 1960, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "san francisco botanical garden": {
+            "longitude": "-122.469608375011",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7673662",
+            "address": "San Francisco Botanical Garden, Lincoln Way, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "attraction"
+        },
+        "uc botanical garden": {
+            "longitude": "-122.239241226147",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8756677",
+            "address": "UC - Botanical Garden lot, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "parking"
+        },
+        "south hayward": {
+            "longitude": "-122.057076735478",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6343087",
+            "address": "South Hayward, Cole Place, Hayward, Alameda County, California, 94544, United States of America",
+            "locType": "station"
+        },
+        "alum rock": {
+            "longitude": "-121.8271755",
+            "blogLinks": [
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.3660513",
+            "address": "Alum Rock, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb"
+        },
+        "san pablo": {
+            "longitude": "-122.3455262",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9621457",
+            "address": "San Pablo, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "barrett ave": {
+            "longitude": "-122.3260068",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.935428",
+            "address": "Barrett Avenue, East Richmond, Richmond, Contra Costa County, California, 94805, United States of America",
+            "locType": "secondary"
+        },
+        "north beach": {
+            "longitude": "-122.409002",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8011749",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood"
+        },
+        "camino pablo": {
+            "longitude": "-122.1841688",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8788084",
+            "address": "Camino Pablo, Orinda Village, Orinda, Contra Costa County, California, 94563, United States of America",
+            "locType": "secondary"
+        },
+        "north berkeley": {
+            "longitude": "-122.2736818",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bart.gov/stations/dbrk"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8779506",
+            "address": "North Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "virginia street": {
+            "longitude": "-122.3023816",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.871671",
+            "address": "Virginia Street, Ocean View, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "residential"
+        },
+        "pacific east mall": {
+            "longitude": "-122.307157511676",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8988119",
+            "address": "Pacific East Mall, San Diego Street, El Cerrito, Contra Costa County, California, 94530, United States of America",
+            "locType": "yes"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "north berkeley bart": {
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8742984",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "car_sharing"
+        },
+        "san leandro": {
+            "longitude": "-122.1560767",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7249296",
+            "address": "San Leandro, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "shattuck avenue": {
+            "longitude": "-122.2684811",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bart.gov/stations/dbrk"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8729527",
+            "address": "Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94609, United States of America",
+            "locType": "secondary"
+        },
+        "san ramon": {
+            "longitude": "-121.9780152",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7799273",
+            "address": "San Ramon, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "marina bay": {
+            "longitude": "-122.345672",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9138915",
+            "address": "Marina Bay, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "neighbourhood"
+        },
+        "berkeley marina": {
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8678664",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "neighbourhood"
+        },
+        "lafayette": {
+            "longitude": "-122.11802",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8857582",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pleasant hill": {
+            "longitude": "-122.0607962",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9479786",
+            "address": "Pleasant Hill, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "elmwood": {
+            "longitude": "-122.2538686",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8577846",
+            "address": "Elmwood, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "neighbourhood"
+        },
+        "castro valley": {
+            "longitude": "-122.090287657374",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.715818",
+            "address": "Castro Valley, Knight Drive, Alameda County, California, 94546, United States of America",
+            "locType": "census"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.berkeley.edu/about/visit",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.sfgate.com/bayarea/article/New-data-on-2-Bay-Area-faults-cause-worry-about-6731300.php",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.ridebooker.com/transfers/fremont-ca/berkeley-ca",
+                "https://www.ridebooker.com/transfers/fremont-ca/berkeley-ca/van",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/van",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/luxury-suv",
+                "https://www.ridebooker.com/transfers/fremont-ca/berkeley-ca/luxury-suv",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "san mateo": {
+            "longitude": "-122.3330572",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.496904",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "downtown berkeley": {
+            "longitude": "-122.268136079248",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.87010225",
+            "address": "Downtown Berkeley, Constitution Plaza, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "station"
+        },
+        "ca": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/van",
+                "https://www.ridebooker.com/transfers/berkeley-ca/fremont-ca/luxury-suv",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "telegraph avenue": {
+            "longitude": "-122.2694148",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8102741",
+            "address": "Telegraph Avenue, Uptown, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "secondary"
+        },
+        "uc berkeley": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "strandwood": {
+            "longitude": "-122.0771856",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9504786",
+            "address": "Strandwood Elementary School, Westover Drive, Pleasant Hill, Contra Costa County, California, 94523, United States of America",
+            "locType": "school"
+        },
+        "east oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "west san ramon": {
+            "longitude": "-121.9780152",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7799273",
+            "address": "San Ramon, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san pablo park": {
+            "longitude": "-122.283969844686",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.85564475",
+            "address": "San Pablo Park, 2800, Park Street, Harmon Tract, Berkeley, Alameda County, California, 94702, United States of America",
+            "locType": "park"
+        },
+        "el sobrante": {
+            "longitude": "-122.2949893",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9774476",
+            "address": "El Sobrante, Contra Costa County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "south hall": {
+            "longitude": "-122.2585072",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8713408",
+            "address": "South Hall, South Hall Road, Northside, Berkeley, Alameda County, California, 94720, United States of America",
+            "locType": "yes"
+        },
+        "dimond district": {
+            "longitude": "-122.2145766",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7997827",
+            "address": "Dimond District, Oakland, Alameda County, California, 94602, United States of America",
+            "locType": "neighbourhood"
+        },
+        "brooklyn": {
+            "longitude": "-122.24858",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7857615",
+            "address": "Brooklyn Basin, Oakland, Alameda County, California, United States of America",
+            "locType": "dock"
+        },
+        "palo alto": {
+            "longitude": "-122.1634471",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.442156",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "alameda": {
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.6090291",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "indian rock park": {
+            "longitude": "-122.272988060644",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8921682",
+            "address": "Indian Rock Park, 950, Indian Rock Avenue, Northbrae, Berkeley, Alameda County, California, 94707, United States of America",
+            "locType": "park"
+        },
+        "das brew": {
+            "longitude": "-122.4223107",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.799314",
+            "address": "The Brew, 2436, Polk Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "cafe"
+        },
+        "redwood heights": {
+            "longitude": "-122.0740043",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.7086018",
+            "address": "Redwood Heights, Alameda County, California, 94546, United States of America",
+            "locType": "residential"
+        },
+        "san francisco international airport": {
+            "longitude": "-122.384071507814",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.622452",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome"
+        },
+        "eastshore freeway": {
+            "longitude": "-122.3003833",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8551979",
+            "address": "Eastshore Freeway, West Berkeley, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "motorway"
+        },
+        "los gatos": {
+            "longitude": "-121.9746796",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.226611",
+            "address": "Los Gatos, Santa Clara County, California, United States of America",
+            "locType": "administrative"
+        },
+        "muir beach": {
+            "longitude": "-122.5813666",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8621493",
+            "address": "Muir Beach, Marin County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "dolores park": {
+            "longitude": "-122.4271114",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.75975565",
+            "address": "Mission Dolores Park, Dolores Street, Mission District, SF, California, 94114, United States of America",
+            "locType": "park"
+        },
+        "richmond annex": {
+            "longitude": "-122.3134252",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9095791",
+            "address": "Richmond Annex, Richmond, Contra Costa County, California, 94850, United States of America",
+            "locType": "neighbourhood"
+        },
+        "orinda": {
+            "longitude": "-122.1796887",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.8771476",
+            "address": "Orinda, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "vallejo": {
+            "longitude": "-122.2566366",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.1040864",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city"
+        },
+        "central park": {
+            "longitude": "-122.0638948",
+            "blogLinks": [
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.391994",
+            "address": "Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "service"
+        },
+        "fujitsu planetarium": {
+            "longitude": "-122.046052500132",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.31892545",
+            "address": "Fujitsu Planetarium, Campus Drive, Cupertino, Santa Clara County, California, 95014-4221, United States of America",
+            "locType": "attraction"
+        },
+        "lawrence hall": {
+            "longitude": "-122.2520809",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.877629",
+            "address": "Lawrence Berkeley National Laboratory, Chu Road, Northside, Berkeley, Alameda County, California, 94708, United States of America",
+            "locType": "environmental_hazard"
+        },
+        "vasona park": {
+            "longitude": "-121.9869804",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.268274",
+            "address": "Vasona Canal, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "drain"
+        },
+        "canada road": {
+            "longitude": "-122.3548905",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.5572346",
+            "address": "La Canada Road, Hillsborough, San Mateo County, California, 94010, United States of America",
+            "locType": "residential"
+        },
+        "bart": {
+            "longitude": "-122.02784936474",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9577752",
+            "address": "BART, Concord, Contra Costa County, California, 94518, United States of America",
+            "locType": "railway"
+        },
+        "milpitas": {
+            "longitude": "-121.9066237",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                "https://www.yelp.com/biz/city-of-fremont-fremont"
+            ],
+            "closest_to": "fremont",
+            "latitude": "37.4282724",
+            "address": "Milpitas, Santa Clara County, California, United States of America",
+            "locType": "city"
+        }
+    }
+}

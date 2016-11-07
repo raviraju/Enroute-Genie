@@ -1,0 +1,703 @@
+{
+    "bakersfield": {
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "lon": "-119.0194638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.74358237824296,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "35.3738712",
+        "osm_id": "113006",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "158454478",
+        "display_name": "Bakersfield, Kern County, California, United States of America"
+    },
+    "monterey": {
+        "boundingbox": [
+            "36.583508",
+            "36.585509",
+            "-121.8673379",
+            "-121.8661949"
+        ],
+        "lon": "-121.866792846206",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.71088018078768,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "36.5844165",
+        "osm_id": "33117009",
+        "type": "city",
+        "osm_type": "way",
+        "place_id": "72265425",
+        "display_name": "Monterey, Monterey County, California, United States of America"
+    },
+    "mentions": {
+        "arcata": {
+            "longitude": "-124.0828395",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "40.8665166",
+            "address": "Arcata, Humboldt County, California, United States of America",
+            "locType": "city"
+        },
+        "mount palomar ca": {
+            "longitude": "-117.270809764613",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "",
+            "latitude": "33.1278146",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank"
+        },
+        "australia": {
+            "longitude": "150.9261111",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "-32.6649999",
+            "address": "California, Singleton, NSW, Australia",
+            "locType": "hamlet"
+        },
+        "bodie state historic park": {
+            "longitude": "-119.0109761",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "38.2154734",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park"
+        },
+        "oroville": {
+            "longitude": "-121.5563589",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "39.5137752",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city"
+        },
+        "nevada": {
+            "longitude": "-120.8089842",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "39.3540335",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative"
+        },
+        "las vegas": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "closest_to": "",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "little italy": {
+            "longitude": "-117.1682719",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7234579",
+            "address": "Little Italy, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "l.a.": {
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "-13.8305494",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet"
+        },
+        "ukiah": {
+            "longitude": "-123.207786",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "39.1501662",
+            "address": "Ukiah, Mendocino County, California, United States of America",
+            "locType": "city"
+        },
+        "presidio park": {
+            "longitude": "-117.1944791",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "32.7572722",
+            "address": "Presidio Park, Cosoy Way, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "park"
+        },
+        "san diego hotel": {
+            "longitude": "-117.158593973277",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.70681915",
+            "address": "Omni San Diego Hotel, 675, L Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "hotel"
+        },
+        "mojave desert": {
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "35.1456319",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert"
+        },
+        "la jolla": {
+            "longitude": "-117.2742085",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.8472711",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb"
+        },
+        "pismo": {
+            "longitude": "-110.3437034",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "24.1378257",
+            "address": "Pismo, La Paz, Baja California Sur, 23206, M\u00e9xico",
+            "locType": "residential"
+        },
+        "napa valley": {
+            "longitude": "-84.4504647",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "39.0234679",
+            "address": "Napa Valley, Cold Spring, Campbell County, Kentucky, 41076, United States of America",
+            "locType": "residential"
+        },
+        "nevada city": {
+            "longitude": "-121.0160593",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "39.2615606",
+            "address": "Nevada City, Nevada County, California, United States of America",
+            "locType": "city"
+        },
+        "pinecrest": {
+            "longitude": "-120.9682776",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "39.1626734",
+            "address": "Pinecrest, Nevada County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "garrapata": {
+            "longitude": "-74.4329156",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "10.337393",
+            "address": "California, GARRAPATA, Magdalena, Colombia",
+            "locType": "locality"
+        },
+        "baja cantina": {
+            "longitude": "-109.9054829",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "22.8865964",
+            "address": "Baja Cantina, Callej\u00f3n Pescadores, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+            "locType": "restaurant"
+        },
+        "carlsbad": {
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "33.1580933",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "highway 101": {
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "",
+            "latitude": "32.9967358",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary"
+        },
+        "jerusalem": {
+            "longitude": "-122.7581059",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "40.5175442",
+            "address": "Jerusalem Creek, Shasta County, California, United States of America",
+            "locType": "stream"
+        },
+        "manchester": {
+            "longitude": "-123.6880731",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "38.9701853",
+            "address": "Manchester, Mendocino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "tule lake": {
+            "longitude": "-121.517279333849",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "41.93667705",
+            "address": "Tule Lake, Bergman Road, Siskiyou County, California, 96134, United States of America",
+            "locType": "wetland"
+        },
+        "washington": {
+            "longitude": "-79.8918435",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "40.0657724",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative"
+        },
+        "mendocino woodlands state park": {
+            "longitude": "-123.700470782358",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "39.32969965",
+            "address": "Mendocino Woodlands State Park, Woodlands Area Trail, Mendocino County, California, United States of America",
+            "locType": "park"
+        },
+        "mono lake ca": {
+            "longitude": "-118.967033937845",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "",
+            "latitude": "38.0077189",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water"
+        },
+        "boonville": {
+            "longitude": "-123.366111",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "39.0091667",
+            "address": "Boonville, Mendocino County, California, 95415, United States of America",
+            "locType": "village"
+        },
+        "tx": {
+            "longitude": "-94.997906",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "29.7181118",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential"
+        },
+        "cambodia": {
+            "longitude": "104.8449855",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "11.5546219",
+            "address": "California International, \u1798\u17a0\u17b6\u179c\u17b7\u1790\u17b8 \u179f\u17a0\u1796\u1793\u17d2\u1792\u17d0\u179a\u17bb\u179f\u17d2\u179f\u17ca\u17b8, Ka Kab Community (DK11), \u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 815, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+            "locType": "hotel"
+        },
+        "england": {
+            "longitude": "-1.9796882",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "52.4422729",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village"
+        },
+        "aguanga": {
+            "longitude": "-116.8650234",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "33.4428094",
+            "address": "Aguanga, Riverside County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "morocco": {
+            "longitude": "-5.8368526",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "35.7806169",
+            "address": "California, Tanger-Medina \u2d5f\u2d30\u2d4f\u2d4a\u2d30 \u2d5c\u2d49\u2d56\u2d55\u2d4e\u2d5c \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, arrondissement de Tanger-Medina \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, Tanger \u2d5c\u2d49\u2d4f \u2d49\u2d33\u2d33\u2d49 \u0637\u0646\u062c\u0629, pachalik de Tanger \u0637\u0646\u062c\u0629, Pr\u00e9fecture de Tanger-Assilah \u0639\u0645\u0627\u0644\u0629 \u0637\u0646\u062c\u0629-\u0623\u0635\u064a\u0644\u0629, Tanger-T\u00e9touan-Al Hoceima \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629-\u062a\u0637\u0648\u0627\u0646-\u0627\u0644\u062d\u0633\u064a\u0645\u0629, 90005, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+            "locType": "tertiary"
+        },
+        "s.f.": {
+            "longitude": "-99.6183945",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "19.9908291",
+            "address": "California, Bosque de Canalejas, Jilotepec, M\u00e9xico, 54270, M\u00e9xico",
+            "locType": "residential"
+        },
+        "greece": {
+            "longitude": "-77.6362609",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "43.222537",
+            "address": "California Drive, Greece Town, Monroe County, New York, 14616, United States of America",
+            "locType": "residential"
+        },
+        "guadalupe": {
+            "longitude": "-118.269896818344",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "29.0350656",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island"
+        },
+        "garberville": {
+            "longitude": "-123.7961393",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "40.1005685",
+            "address": "Garberville, Humboldt County, California, United States of America",
+            "locType": "village"
+        },
+        "colorado river": {
+            "longitude": "-114.542164096234",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "33.58648635",
+            "address": "Colorado River, Riviera Drive, East Blythe, Riverside County, California, 92225, United States of America",
+            "locType": "water"
+        },
+        "gran canaria": {
+            "longitude": "-15.442325",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "28.1311446",
+            "address": "California, Guanarteme, Las Palmas de Gran Canaria, Las Palmas, Canarias, 35010, Espa\u00f1a",
+            "locType": "residential"
+        },
+        "mexico": {
+            "longitude": "-111.8196666",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "28.973",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village"
+        },
+        "indio": {
+            "longitude": "-116.2188053",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "33.7192808",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "california": {
+            "longitude": "-72.945787",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://www.california-blog.com/",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.seemonterey.com/",
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "7.3480915",
+            "address": "California, Santander, Colombia",
+            "locType": "village"
+        },
+        "northern california": {
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "32.7349196",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality"
+        },
+        "presidio of san diego": {
+            "longitude": "-117.1903213",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "32.7551266",
+            "address": "Presidio Drive, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "residential"
+        },
+        "la jolla cove": {
+            "longitude": "-117.273024234204",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.85051835",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "california coast": {
+            "longitude": "-117.1464145",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "",
+            "latitude": "32.7586361",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank"
+        },
+        "beijing": {
+            "longitude": "-115.4520934",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.6596604",
+            "address": "Beijing, Avenida Paraguay, Cuahutemoc Sur, Mexicali, Baja California, 21000, M\u00e9xico",
+            "locType": "restaurant"
+        },
+        "rodeo drive": {
+            "longitude": "-117.2609329",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.824444",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential"
+        },
+        "south lake tahoe": {
+            "longitude": "-119.987846390157",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "38.929125",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city"
+        },
+        "l.a": {
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "-13.8305494",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet"
+        },
+        "eureka": {
+            "longitude": "-124.1636728",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "40.8020712",
+            "address": "Eureka, Humboldt County, California, United States of America",
+            "locType": "city"
+        },
+        "grass valley": {
+            "longitude": "-121.053122977412",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "39.2086655",
+            "address": "Grass Valley, Nevada County, California, United States of America",
+            "locType": "city"
+        },
+        "new mexico": {
+            "longitude": "-106.8036705",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "32.2644096",
+            "address": "California Lateral, Mesilla, Do\u00f1a Ana County, New Mexico, United States of America",
+            "locType": "drain"
+        },
+        "mojave desert ca": {
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "",
+            "latitude": "35.1456319",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert"
+        },
+        "tonga": {
+            "longitude": "-117.0612559",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "32.579494",
+            "address": "Via Tonga, Otay Mesa West, San Ysidro, San Diego, San Diego County, California, 92154, United States of America",
+            "locType": "residential"
+        },
+        "spain": {
+            "longitude": "-5.4610806",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "37.1412332",
+            "address": "La California, Mor\u00f3n de la Frontera, Sevilla, Andaluc\u00eda, Espa\u00f1a",
+            "locType": "locality"
+        },
+        "willow creek": {
+            "longitude": "-123.6314411",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "40.9395774",
+            "address": "Willow Creek, Humboldt County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "tulelake": {
+            "longitude": "-121.4774915",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "closest_to": "",
+            "latitude": "41.9559885",
+            "address": "Tulelake, Siskiyou County, California, United States of America",
+            "locType": "city"
+        },
+        "humboldt bay": {
+            "longitude": "-124.2095056",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "40.7498484",
+            "address": "Humboldt Bay, King Salmon Avenue, Humboldt Bay Power Plant, King Salmon, Humboldt County, California, 95503, United States of America",
+            "locType": "bay"
+        },
+        "old town san diego": {
+            "longitude": "-117.1969792",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7542167",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "u.s.": {
+            "longitude": "-61.5489543",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "",
+            "latitude": "-32.5446226",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet"
+        }
+    }
+}

@@ -1,0 +1,813 @@
+{
+    "beverly hills": {
+        "boundingbox": [
+            "34.05269",
+            "34.112456",
+            "-118.4270731",
+            "-118.3715357"
+        ],
+        "lon": "-118.4003562",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.65,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.0736204",
+        "osm_id": "3503615",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159602133",
+        "display_name": "Beverly Hills, Los Angeles County, California, United States of America"
+    },
+    "pismo beach": {
+        "boundingbox": [
+            "35.114429",
+            "35.180996",
+            "-120.7144169",
+            "-120.6045662"
+        ],
+        "lon": "-120.6412826",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.62191850354092,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "35.1427533",
+        "osm_id": "5192509",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159817717",
+        "display_name": "Pismo Beach, San Luis Obispo County, California, United States of America"
+    },
+    "mentions": {
+        "embarcadero": {
+            "longitude": "-122.396892",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7928455",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station"
+        },
+        "mullholland drive": {
+            "longitude": "-122.1430436",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "closest_to": "",
+            "latitude": "37.8584346",
+            "address": "EBMUD Mullholland Reservoir, Donald Drive, Rheem Valley, Moraga, Contra Costa County, California, 94556, United States of America",
+            "locType": "water_tank"
+        },
+        "napa valley museum": {
+            "longitude": "-122.458560315194",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "38.21389995",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum"
+        },
+        "l.a.": {
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "",
+            "latitude": "-13.8305494",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet"
+        },
+        "badwater basin": {
+            "longitude": "-116.767444033304",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "36.2302592",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water"
+        },
+        "las vegas strip": {
+            "longitude": "-115.173775796208",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "36.12050715",
+            "address": "California Pizza Kitchen, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America",
+            "locType": "restaurant"
+        },
+        "north beach": {
+            "longitude": "-122.409002",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8011749",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood"
+        },
+        "alabama hills": {
+            "longitude": "-118.0898096",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.5677117",
+            "address": "Alabama Hills, Inyo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "nevada": {
+            "longitude": "-120.8089842",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "39.3540335",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative"
+        },
+        "las vegas": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "napa": {
+            "longitude": "-122.2855292",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "38.2971367",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "half moon bay": {
+            "longitude": "-122.4285861",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "37.4635519",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "ireland": {
+            "longitude": "-119.2896473",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7992191",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream"
+        },
+        "xa0hollywood boulevard": {
+            "longitude": "-116.2736289",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "32.6636712",
+            "address": "Boulevard, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g28926-i29-k6093097-Places_to_visit_Road_trip_San_Francisco_Los_Angeles-California.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        },
+        "yosemite valley": {
+            "longitude": "-119.6064673",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "37.734435",
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "town"
+        },
+        "ca": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/Beverly-Hills-to-Pismo-Beach-Route-via-Pacific-Coast-Hwy/RouteplannerHistory/33233264.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Beverly-Hills-to-Pismo-Beach-via-Pacific-Coast-Hwy/DistanceHistory/33233264.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Pismo-State-Beach-Oceano-from-Beverly-Hills/HowFarHistory/33006631.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Beverly-Hills-to-Pismo-State-Beach-Oceano-via-Venice-Beach-Santa-Monica/TravelTimeHistory/33006721.aspx"
+            ],
+            "closest_to": "",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "califonia": {
+            "longitude": "-113.380835042571",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "27.35789705",
+            "address": "Pen\u00ednsula de Baja California, Muleg\u00e9, Baja California Sur, M\u00e9xico",
+            "locType": "peninsula"
+        },
+        "cambodia": {
+            "longitude": "104.8449855",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "11.5546219",
+            "address": "California International, \u1798\u17a0\u17b6\u179c\u17b7\u1790\u17b8 \u179f\u17a0\u1796\u1793\u17d2\u1792\u17d0\u179a\u17bb\u179f\u17d2\u179f\u17ca\u17b8, Ka Kab Community (DK11), \u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 815, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+            "locType": "hotel"
+        },
+        "beatty": {
+            "longitude": "-116.9431122",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.5880033",
+            "address": "Beatty Junction, Inyo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/Beverly-Hills-to-Pismo-Beach-Route-via-Pacific-Coast-Hwy/RouteplannerHistory/33233264.aspx",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "napa valley": {
+            "longitude": "-84.4504647",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "39.0234679",
+            "address": "Napa Valley, Cold Spring, Campbell County, Kentucky, 41076, United States of America",
+            "locType": "residential"
+        },
+        "washington": {
+            "longitude": "-79.8918435",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "",
+            "latitude": "40.0657724",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative"
+        },
+        "sequoia national park": {
+            "longitude": "-118.559919284386",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "36.49584065",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park"
+        },
+        "salvation mountain": {
+            "longitude": "-115.472593717969",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "33.25393385",
+            "address": "Salvation Mountain, Beal Road, Niland, Imperial County, California, United States of America",
+            "locType": "attraction"
+        },
+        "newport": {
+            "longitude": "-123.7747387",
+            "blogLinks": [
+                "http://www.beachcalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "39.5773839",
+            "address": "Newport, Mendocino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "baja cantina": {
+            "longitude": "-109.9054829",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "22.8865964",
+            "address": "Baja Cantina, Callej\u00f3n Pescadores, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+            "locType": "restaurant"
+        },
+        "santa": {
+            "longitude": "-80.3796642",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-time-from-Beverly-Hills-to-Pismo-State-Beach-Oceano-via-Venice-Beach-Santa-Monica/TravelTimeHistory/33006721.aspx"
+            ],
+            "closest_to": "",
+            "latitude": "22.4804035",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet"
+        },
+        "manchester": {
+            "longitude": "-123.6880731",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "38.9701853",
+            "address": "Manchester, Mendocino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "kings canyon national park": {
+            "longitude": "-118.607655759626",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "36.91527845",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "locType": "national_park"
+        },
+        "usa": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/Beverly-Hills-to-Pismo-Beach-Route-via-Pacific-Coast-Hwy/RouteplannerHistory/33233264.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Beverly-Hills-to-Pismo-Beach-via-Pacific-Coast-Hwy/DistanceHistory/33233264.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Pismo-State-Beach-Oceano-from-Beverly-Hills/HowFarHistory/33006631.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Beverly-Hills-to-Pismo-State-Beach-Oceano-via-Venice-Beach-Santa-Monica/TravelTimeHistory/33006721.aspx"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "myrtle creek": {
+            "longitude": "-124.0622658",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "41.8624011",
+            "address": "Myrtle Creek, Del Norte County, California, United States of America",
+            "locType": "stream"
+        },
+        "lone pine california": {
+            "longitude": "-118.078359194897",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.583176",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "death valley": {
+            "longitude": "-116.914043572057",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.42404725",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert"
+        },
+        "england": {
+            "longitude": "-1.9796882",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "52.4422729",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village"
+        },
+        "africa": {
+            "longitude": "-122.3064005",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8212626",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential"
+        },
+        "titus canyon": {
+            "longitude": "-117.1157339",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.82805",
+            "address": "Titus Canyon Road, Inyo County, California, United States of America",
+            "locType": "unclassified"
+        },
+        "kern river valley": {
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.6816956",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river"
+        },
+        "el pueblo de los angeles": {
+            "longitude": "-98.2033589",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "18.9919063",
+            "address": "California, Universitaria, Puebla, 72590, M\u00e9xico",
+            "locType": "residential"
+        },
+        "morocco": {
+            "longitude": "-5.8368526",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "35.7806169",
+            "address": "California, Tanger-Medina \u2d5f\u2d30\u2d4f\u2d4a\u2d30 \u2d5c\u2d49\u2d56\u2d55\u2d4e\u2d5c \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, arrondissement de Tanger-Medina \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, Tanger \u2d5c\u2d49\u2d4f \u2d49\u2d33\u2d33\u2d49 \u0637\u0646\u062c\u0629, pachalik de Tanger \u0637\u0646\u062c\u0629, Pr\u00e9fecture de Tanger-Assilah \u0639\u0645\u0627\u0644\u0629 \u0637\u0646\u062c\u0629-\u0623\u0635\u064a\u0644\u0629, Tanger-T\u00e9touan-Al Hoceima \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629-\u062a\u0637\u0648\u0627\u0646-\u0627\u0644\u062d\u0633\u064a\u0645\u0629, 90005, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+            "locType": "tertiary"
+        },
+        "asia": {
+            "longitude": "-122.2533348",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7949149",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "locType": "restaurant"
+        },
+        "greece": {
+            "longitude": "-77.6362609",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "43.222537",
+            "address": "California Drive, Greece Town, Monroe County, New York, 14616, United States of America",
+            "locType": "residential"
+        },
+        "fairfax": {
+            "longitude": "-122.5879673",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "37.9872935",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "yosemite": {
+            "longitude": "-119.5893389",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7488554",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction"
+        },
+        "titus canyon road": {
+            "longitude": "-117.1861519",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.806013",
+            "address": "Titus Canyon Road, Inyo County, California, United States of America",
+            "locType": "unclassified"
+        },
+        "brentwood": {
+            "longitude": "-121.6960265",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "closest_to": "",
+            "latitude": "37.9317766",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "gran canaria": {
+            "longitude": "-15.442325",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "28.1311446",
+            "address": "California, Guanarteme, Las Palmas de Gran Canaria, Las Palmas, Canarias, 35010, Espa\u00f1a",
+            "locType": "residential"
+        },
+        "chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "california": {
+            "longitude": "-72.945787",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.distancesfrom.com/us/distance-from-Beverly-Hills-to-Pismo-Beach-via-Pacific-Coast-Hwy/DistanceHistory/33233264.aspx",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/",
+                "http://www.distancesfrom.com/us/Beverly-Hills-to-Pismo-Beach-Route-via-Pacific-Coast-Hwy/RouteplannerHistory/33233264.aspx",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html",
+                "http://www.tvfoodmaps.com/s1/CA",
+                "http://www.beachcalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "7.3480915",
+            "address": "California, Santander, Colombia",
+            "locType": "village"
+        },
+        "atlanta": {
+            "longitude": "-121.1207728",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8129826",
+            "address": "Atlanta, San Joaquin County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "westwood": {
+            "longitude": "-121.010399151458",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "closest_to": "",
+            "latitude": "40.3024675",
+            "address": "Westwood, 3rd Street, Westwood, Lassen County, California, United States of America",
+            "locType": "administrative"
+        },
+        "yosemite national park": {
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.84054795",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park"
+        },
+        "dublin": {
+            "longitude": "-121.9357917",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7021521",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "beijing": {
+            "longitude": "-115.4520934",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "32.6596604",
+            "address": "Beijing, Avenida Paraguay, Cuahutemoc Sur, Mexicali, Baja California, 21000, M\u00e9xico",
+            "locType": "restaurant"
+        },
+        "east coast": {
+            "longitude": "-122.2447393",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "37.858337",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel"
+        },
+        "new york city": {
+            "longitude": "-73.9717587",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "40.767819",
+            "address": "California Sea Lion, 830, 5th Avenue, Upper East Side, Manhattan, New York County, NYC, New York, 10035, United States of America",
+            "locType": "attraction"
+        },
+        "dinosaur hall": {
+            "longitude": "-121.7772298",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "38.555919",
+            "address": "Dinosaur Place, Davis, Yolo County, California, 95616, United States of America",
+            "locType": "residential"
+        },
+        "l.a": {
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "-13.8305494",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet"
+        },
+        "pacific": {
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "38.7601815",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.distancesfrom.com/us/how-far-is-Pismo-State-Beach-Oceano-from-Beverly-Hills/HowFarHistory/33006631.aspx"
+            ],
+            "closest_to": "",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "los angeles aqueduct": {
+            "longitude": "-118.0956309",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "",
+            "latitude": "36.6516297",
+            "address": "Los Angeles Aqueduct, Inyo County, California, United States of America",
+            "locType": "canal"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "south africa": {
+            "longitude": "-122.2378391",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8749498",
+            "address": "South Africa, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden"
+        },
+        "sequoia": {
+            "longitude": "-119.8954574",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "37.8065921",
+            "address": "Sequoia, Tuolumne County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "santa nella": {
+            "longitude": "-122.9666643",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "",
+            "latitude": "38.497135",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "death valley national park": {
+            "longitude": "-117.102293507719",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "closest_to": "",
+            "latitude": "36.4914385",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "griffith park": {
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "38.68813",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service"
+        },
+        "balboa park": {
+            "longitude": "-122.444804424152",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "",
+            "latitude": "37.72494875",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park"
+        }
+    }
+}

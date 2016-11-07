@@ -1,0 +1,1433 @@
+{
+    "beverly hills": {
+        "boundingbox": [
+            "34.05269",
+            "34.112456",
+            "-118.4270731",
+            "-118.3715357"
+        ],
+        "lon": "-118.4003562",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.65,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.0736204",
+        "osm_id": "3503615",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159602133",
+        "display_name": "Beverly Hills, Los Angeles County, California, United States of America"
+    },
+    "napa": {
+        "boundingbox": [
+            "38.221091",
+            "38.350834",
+            "-122.3577209",
+            "-122.2221959"
+        ],
+        "lon": "-122.2855292",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.68412686507501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "38.2971367",
+        "osm_id": "111735",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "158644281",
+        "display_name": "Napa, Napa County, California, United States of America"
+    },
+    "mentions": {
+        "napa valley museum": {
+            "longitude": "-122.458560315194",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.21389995",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum"
+        },
+        "grand canyon": {
+            "longitude": "-117.8915409",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.9332326",
+            "address": "Grand Canyon, Downtown Brea, Brea, Orange County, California, 92821, United States of America",
+            "locType": "residential"
+        },
+        "pebble beach golf course": {
+            "longitude": "-121.937790801787",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.56413635",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course"
+        },
+        "carneros highway": {
+            "longitude": "-122.3027296",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.2575826",
+            "address": "Carneros Highway, Napa, Napa County, California, 94559, United States of America",
+            "locType": "primary"
+        },
+        "valentino": {
+            "longitude": "-118.457098",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0262418",
+            "address": "Valentino, 3115, Pico Boulevard, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "restaurant"
+        },
+        "san juan bautista": {
+            "longitude": "-121.5379893",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.8455173",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city"
+        },
+        "nevada": {
+            "longitude": "-120.8089842",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "39.3540335",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative"
+        },
+        "las vegas": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "monterey bay aquarium": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "half moon bay": {
+            "longitude": "-122.4285861",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.4635519",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "napa": {
+            "longitude": "-122.2855292",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-CA/DistanceHistory/5629751.aspx",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.2971367",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "culver city": {
+            "longitude": "-118.3964664",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0211224",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "peninsula beverly hills": {
+            "longitude": "-118.4105736",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.065796",
+            "address": "The Peninsula Beverly Hills, South Santa Monica Boulevard, Beverly Hills, Los Angeles County, California, 90025, United States of America",
+            "locType": "hotel"
+        },
+        "napa valley wine": {
+            "longitude": "-122.3232132",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3354299",
+            "address": "BEST WESTERN PREMIER Ivy Hotel Napa, Wine Country Avenue, Napa, Napa County, California, 94558, United States of America",
+            "locType": "motel"
+        },
+        "yosemite valley": {
+            "longitude": "-119.6064673",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.734435",
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "town"
+        },
+        "olvera street": {
+            "longitude": "-118.2373201",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0581578",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/",
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "la poubelle": {
+            "longitude": "-118.318343368463",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.10548795",
+            "address": "La Poubelle, 5907, Franklin Avenue, Little Armenia, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "restaurant"
+        },
+        "larchmont": {
+            "longitude": "-118.3236683",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0816841",
+            "address": "North Larchmont Boulevard, Hancock Park, Hollywood, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "tertiary"
+        },
+        "santa monica pier": {
+            "longitude": "-118.4960541",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0104809",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service"
+        },
+        "death valley national park": {
+            "longitude": "-117.102293507719",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.4914385",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park"
+        },
+        "oakville": {
+            "longitude": "-122.4022006",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4368549",
+            "address": "Oakville, Napa County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "sacramento international airport": {
+            "longitude": "-121.590370180632",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.68722345",
+            "address": "Sacramento International Airport, Airport Boulevard, Sacramento County, California, 95837, United States of America",
+            "locType": "aerodrome"
+        },
+        "sequoia national park": {
+            "longitude": "-118.559919284386",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.49584065",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park"
+        },
+        "south rim": {
+            "longitude": "-121.5548741",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "39.0214541",
+            "address": "Rim, Plumas Lake, Yuba County, California, United States of America",
+            "locType": "residential"
+        },
+        "west hollywood": {
+            "longitude": "-118.3617442",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0900091",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "kings canyon national park": {
+            "longitude": "-118.607655759626",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.91527845",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "locType": "national_park"
+        },
+        "usa": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://www.distancesfrom.com/us/map-from-Napa-County-to-Beverly-Hills/MapHistory/30400055.aspx",
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-via-Carmel/DistanceHistory/17455957.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Beverly-Hills-from-Napa-County/HowFarHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills/DistanceHistory/16431458.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "walt disney concert hall": {
+            "longitude": "-118.249902463308",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0554391",
+            "address": "Walt Disney Concert Hall, South Hope Street, Bunker Hill, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "theatre"
+        },
+        "beverly hills route": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "death valley": {
+            "longitude": "-116.914043572057",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.42404725",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert"
+        },
+        "yountville": {
+            "longitude": "-122.3608104",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4015781",
+            "address": "Yountville, Napa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "austin": {
+            "longitude": "-121.9982913",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.242444",
+            "address": "Austin, Santa Clara County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "morro": {
+            "longitude": "-117.6212148",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.6503247",
+            "address": "El Morro, Rancho Santa Margarita, Orange County, California, 92688, United States of America",
+            "locType": "residential"
+        },
+        "france": {
+            "longitude": "-118.5935353",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.2013715",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe"
+        },
+        "presidio de santa barbara state historic park": {
+            "longitude": "-119.697414911438",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.42239985",
+            "address": "El Presidio de Santa Barbara State Historic Park, Santa Barbara Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park"
+        },
+        "yosemite": {
+            "longitude": "-119.5893389",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.7488554",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction"
+        },
+        "brentwood": {
+            "longitude": "-121.6960265",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9317766",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "downtown los angeles": {
+            "longitude": "-118.312628",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.1789188",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station"
+        },
+        "calistoga": {
+            "longitude": "-122.583325948608",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.582615",
+            "address": "Calistoga, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "las vegas nevada": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "northern california": {
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "http://www.napavalley.com/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7349196",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "moonstone landing": {
+            "longitude": "-121.112222323451",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.57328515",
+            "address": "Moonstone Landing, 6240, Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "hotel"
+        },
+        "oakland international airport": {
+            "longitude": "-122.2123029",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.713158",
+            "address": "Oakland International Airport, Airport Drive, Oakland, Alameda County, California, 94614, United States of America",
+            "locType": "tram_stop"
+        },
+        "orange county": {
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7500378",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative"
+        },
+        "west coast": {
+            "longitude": "-118.4051087",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0222263",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber"
+        },
+        "gaslamp quarter": {
+            "longitude": "-117.1597028",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "32.7109444",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific": {
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.7601815",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "santa monica": {
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0195598",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "pismo beach": {
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.1427533",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "fuller avenue": {
+            "longitude": "-121.9014312",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.3178767",
+            "address": "Fuller Avenue, Little Italy, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95125, United States of America",
+            "locType": "residential"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "meadowood": {
+            "longitude": "-122.083170197233",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.4081117",
+            "address": "1555, Meadowood, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "residential"
+        },
+        "sequoia": {
+            "longitude": "-119.8954574",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.8065921",
+            "address": "Sequoia, Tuolumne County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "balboa park": {
+            "longitude": "-122.444804424152",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.72494875",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park"
+        },
+        "san luis obispo": {
+            "longitude": "-120.6596155",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.2827525",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "marin": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "griffith park": {
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.68813",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service"
+        },
+        "new orleans": {
+            "longitude": "-117.9206364",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8116219",
+            "address": "New Orleans Square, Anaheim, Orange County, California, United States of America",
+            "locType": "locality"
+        },
+        "beverly hills": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-CA/DistanceHistory/5629751.aspx",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://www.distancesfrom.com/us/map-from-Napa-County-to-Beverly-Hills/MapHistory/30400055.aspx",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/",
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-via-Carmel/DistanceHistory/17455957.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx",
+                "http://www.napavalley.com/",
+                "http://www.distancesfrom.com/us/how-far-is-Beverly-Hills-from-Napa-County/HowFarHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills/DistanceHistory/16431458.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "badwater basin": {
+            "longitude": "-116.767444033304",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.2302592",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water"
+        },
+        "venice": {
+            "longitude": "-118.4668874",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.995044",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "pacific coast highway": {
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.6595127",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary"
+        },
+        "kingman": {
+            "longitude": "-116.5745266",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.3508348",
+            "address": "Kingman, 31422, Borrego Palm Canyon Road, San Diego County, California, United States of America",
+            "locType": "camp_site"
+        },
+        "w. 3rd street": {
+            "longitude": "-117.3031569",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1045735",
+            "address": "West 3rd Street, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "secondary"
+        },
+        "napa county": {
+            "longitude": "-122.3218413",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/map-from-Napa-County-to-Beverly-Hills/MapHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Beverly-Hills-from-Napa-County/HowFarHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4898675",
+            "address": "Napa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "la brea avenue": {
+            "longitude": "-118.3519077",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0305331",
+            "address": "La Brea Avenue, The Village Green, LA, Los Angeles County, California, 90016, United States of America",
+            "locType": "primary"
+        },
+        "santa monica mountains": {
+            "longitude": "-118.789983284662",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.11008435",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area"
+        },
+        "barstow": {
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.8957684",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "arizona": {
+            "longitude": "-117.5060679",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.4631398",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track"
+        },
+        "needles": {
+            "longitude": "-114.6141315",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.8480597",
+            "address": "Needles, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "silverado trail": {
+            "longitude": "-122.2775328",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3077505",
+            "address": "Silverado Trail, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary"
+        },
+        "ca": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://www.distancesfrom.com/us/map-from-Napa-County-to-Beverly-Hills/MapHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-via-Carmel/DistanceHistory/17455957.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Beverly-Hills-from-Napa-County/HowFarHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills/DistanceHistory/16431458.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "mojave desert": {
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "35.1456319",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert"
+        },
+        "moonstone beach drive": {
+            "longitude": "-121.1189249",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.581633",
+            "address": "Moonstone Beach Drive, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "tertiary"
+        },
+        "beverly hill": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "aubrey plaza": {
+            "longitude": "-117.342784",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1926078",
+            "address": "Aubrey Place, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "residential"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "east coast": {
+            "longitude": "-122.2447393",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.858337",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "hollywood": {
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts",
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1028268",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "hollywood forever cemetery": {
+            "longitude": "-118.319048274551",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.08846395",
+            "address": "Hollywood Forever Cemetery and Funeral Home, 12th Street, Paramount Studios, Little Armenia, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "grave_yard"
+        },
+        "palm springs": {
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8246269",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "cambria": {
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.5641381",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pacific park": {
+            "longitude": "-117.724068630701",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.5588741",
+            "address": "Pacific Park, Aliso Viejo, Orange County, California, 92656, United States of America",
+            "locType": "commercial"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "hollywood boulevard": {
+            "longitude": "-118.32684",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1016312",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary"
+        },
+        "morro bay": {
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.3658075",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "hollywood walk of fame": {
+            "longitude": "-118.3385158",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.1018331",
+            "address": "Old Hollywood Bookshop, Walk of Fame, Whitley Heights, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "attraction"
+        },
+        "lauryn": {
+            "longitude": "-121.8643235",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.4267088",
+            "address": "Lauryn Ridge Court, Milpitas, Santa Clara County, California, 95035, United States of America",
+            "locType": "residential"
+        },
+        "cafe habana": {
+            "longitude": "-122.2348256",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.773169",
+            "address": "KEFA Cafe, 422, 29th Avenue, Jingletown, Oakland, Alameda County, California, 94601, United States of America",
+            "locType": "cafe"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "pacific coast": {
+            "longitude": "-118.063517668143",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.8047323",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes"
+        },
+        "new york": {
+            "longitude": "-117.8984509",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0143928",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service"
+        },
+        "paris": {
+            "longitude": "-118.1809078",
+            "blogLinks": [
+                "http://www.napavalley.com/"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.4719383",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "old santa barbara mission": {
+            "longitude": "-119.6779962",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.4662154",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower"
+        },
+        "santa barbara": {
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.4221319",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "beverly": {
+            "longitude": "-121.1200909",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Napa-County-to-Beverly-Hills/FlightHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Napa-Valley-to-Beverly-Hills/TravelFromHistory/16431458.aspx",
+                "http://www.distancesfrom.com/us/map-from-Napa-County-to-Beverly-Hills/MapHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Napa-County-to-Beverly-Hills/TravelTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Napa-County-to-Beverly-Hills/DirectionHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Beverly-Hills-from-Napa-County/HowFarHistory/30400055.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html",
+                "http://www.distancesfrom.com/us/flight-time-from-Napa-County-to-Beverly-Hills/FlightTimeHistory/30400055.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills/DistanceHistory/16431458.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.735364",
+            "address": "Beverly, Ripon, San Joaquin County, California, 95366, United States of America",
+            "locType": "residential"
+        },
+        "hollywood hills": {
+            "longitude": "-118.3355473",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.1311792",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "williams": {
+            "longitude": "-122.1494186",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "39.1546137",
+            "address": "Williams, Colusa County, California, United States of America",
+            "locType": "city"
+        },
+        "sedona": {
+            "longitude": "-117.6689202",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.6916439",
+            "address": "Sedona, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+            "locType": "residential"
+        },
+        "valley": {
+            "longitude": "-117.955234675878",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0148403",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes"
+        },
+        "yosemite national park": {
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.84054795",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park"
+        },
+        "silicon valley": {
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.4105333",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school"
+        },
+        "colorado river": {
+            "longitude": "-114.542164096234",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.58648635",
+            "address": "Colorado River, Riviera Drive, East Blythe, Riverside County, California, 92225, United States of America",
+            "locType": "water"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills-via-Carmel/DistanceHistory/17455957.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Napa-Valley-to-Beverly-Hills/DistanceHistory/16431458.aspx"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        },
+        "pacific palisades": {
+            "longitude": "-118.5264705",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.0480643",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "neighbourhood"
+        },
+        "sunset strip": {
+            "longitude": "-116.1940439",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "33.7224763",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street"
+        },
+        "dinosaur hall": {
+            "longitude": "-121.7772298",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.555919",
+            "address": "Dinosaur Place, Davis, Yolo County, California, 95616, United States of America",
+            "locType": "residential"
+        },
+        "san francisco international airport": {
+            "longitude": "-122.384071507814",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.622452",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome"
+        },
+        "solvang": {
+            "longitude": "-120.1390893",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.5958572",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "bakersfield": {
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "35.3738712",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city"
+        },
+        "alcatraz island": {
+            "longitude": "-122.422746492409",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.8267283",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island"
+        },
+        "las vegas strip": {
+            "longitude": "-115.173775796208",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "36.12050715",
+            "address": "California Pizza Kitchen, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America",
+            "locType": "restaurant"
+        },
+        "san jose": {
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.3361905",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "monterey": {
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html",
+                "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.5844165",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "koreatown": {
+            "longitude": "-118.3008094",
+            "blogLinks": [
+                "https://www.thenandnowshop.com/blog/travel/places-to-visit-in-los-angeles/"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "34.0580134",
+            "address": "Koreatown, Saint James Park, LA, Los Angeles County, California, 90010, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pacific grove": {
+            "longitude": "-121.9155905",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k1996911-Los_Angeles_to_Napa_midway_stop-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "36.6174432",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "boulder city": {
+            "longitude": "-114.8341879",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "closest_to": "beverly hills",
+            "latitude": "35.974186",
+            "address": "California Avenue, Boulder City, Clark County, Nevada, 89005, United States of America",
+            "locType": "residential"
+        },
+        "los olivos": {
+            "longitude": "-120.1148469",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6469704-Carmel_to_Los_Angeles_Stop_Overs-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "34.6677646",
+            "address": "Los Olivos, Santa Barbara County, California, United States of America",
+            "locType": "village"
+        },
+        "farmshop": {
+            "longitude": "-122.5090127",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/stars-in-los-angeles-celebrity-hangouts"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9473323",
+            "address": "Farmshop, Sir Francis Drake Boulevard East, Larkspur, Marin County, California, 94904, United States of America",
+            "locType": "restaurant"
+        }
+    }
+}

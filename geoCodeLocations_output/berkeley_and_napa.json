@@ -1,0 +1,858 @@
+{
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "napa": {
+        "boundingbox": [
+            "38.221091",
+            "38.350834",
+            "-122.3577209",
+            "-122.2221959"
+        ],
+        "lon": "-122.2855292",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.68412686507501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "38.2971367",
+        "osm_id": "111735",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "158644281",
+        "display_name": "Napa, Napa County, California, United States of America"
+    },
+    "mentions": {
+        "petrified forest road": {
+            "longitude": "-122.6342562",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.5587336",
+            "address": "Petrified Forest Road, Sonoma County, California, 94515, United States of America",
+            "locType": "secondary"
+        },
+        "uc berkeley": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "angel island": {
+            "longitude": "-122.430885671184",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.862338",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island"
+        },
+        "sacramento river.san francisco": {
+            "longitude": "-122.4194373",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7917547",
+            "address": "1 California OB (Sacramento/Larkin), Sacramento Street, Nob Hill, SF, California, 94118, United States of America",
+            "locType": "bus_stop"
+        },
+        "carneros highway": {
+            "longitude": "-122.3027296",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.2575826",
+            "address": "Carneros Highway, Napa, Napa County, California, 94559, United States of America",
+            "locType": "primary"
+        },
+        "burlingame": {
+            "longitude": "-122.3660824",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.5841026",
+            "address": "Burlingame, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "moraga": {
+            "longitude": "-122.1295595",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8347106",
+            "address": "Moraga, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pacifica": {
+            "longitude": "-122.4869193",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.6138253",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "solbar": {
+            "longitude": "-122.5702704",
+            "blogLinks": [
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.5836461",
+            "address": "solbar, Silverado Trail, Larkmead, Napa County, California, 94515, United States of America",
+            "locType": "restaurant"
+        },
+        "piedmont": {
+            "longitude": "-122.2316349",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8243715",
+            "address": "Piedmont, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "lafayette": {
+            "longitude": "-122.11802",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8857582",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "napa": {
+            "longitude": "-122.2855292",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.2971367",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "napa county": {
+            "longitude": "-122.3218413",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4898675",
+            "address": "Napa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san rafael": {
+            "longitude": "-122.5310873",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9735346",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city"
+        },
+        "mill valley": {
+            "longitude": "-122.5449762",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9060368",
+            "address": "Mill Valley, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "oakland bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "point richmond": {
+            "longitude": "-122.3891382",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9240915",
+            "address": "Point Richmond, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "neighbourhood"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Napa-Valley/TravelFromHistory/1879223.aspx",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "san mateo": {
+            "longitude": "-122.3330572",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.496904",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "tiburon": {
+            "longitude": "-122.4566121",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8734371",
+            "address": "Tiburon, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "silverado trail": {
+            "longitude": "-122.2775328",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3077505",
+            "address": "Silverado Trail, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary"
+        },
+        "lake temescal": {
+            "longitude": "-122.230405178265",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.84648665",
+            "address": "Lake Temescal, Contra Costa Road, Rockridge, Oakland, Alameda County, California, 94618, United States of America",
+            "locType": "water"
+        },
+        "east bay city": {
+            "longitude": "-122.392230840831",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.76871205",
+            "address": "UCSF Mission Bay, Gene Friend Way, Mission Bay, SF, California, 94158, United States of America",
+            "locType": "university"
+        },
+        "oakville": {
+            "longitude": "-122.4022006",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4368549",
+            "address": "Oakville, Napa County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "danville": {
+            "longitude": "-121.9999605",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8215929",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3830990-Need_somewhere_to_stay_between_Portland_and_Napa-California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "broadway": {
+            "longitude": "-122.4226908",
+            "blogLinks": [
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7958391",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary"
+        },
+        "walnut creek": {
+            "longitude": "-122.0649629",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9063131",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "kaiser center": {
+            "longitude": "-122.26504621187",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.809154",
+            "address": "Kaiser Center, 21st Street, Financial District, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "yes"
+        },
+        "st. helena highway": {
+            "longitude": "-122.3268832",
+            "blogLinks": [
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants",
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3441575",
+            "address": "Saint Helena Highway, Napa, Napa County, California, 94558, United States of America",
+            "locType": "trunk"
+        },
+        "rutherford": {
+            "longitude": "-122.4224789",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.458521",
+            "address": "Rutherford, Napa County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "hyatt": {
+            "longitude": "-122.395871093088",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.794246",
+            "address": "Hyatt Regency San Francisco, 5, Sacramento Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "hotel"
+        },
+        "civic center": {
+            "longitude": "-122.4139976",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7793921",
+            "address": "Civic Center, United Nations Plaza, West SoMa, SF, California, CA:94103, United States of America",
+            "locType": "tram_stop"
+        },
+        "st. helena": {
+            "longitude": "-122.4700423",
+            "blogLinks": [
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants",
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/",
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.5052288",
+            "address": "St. Helena, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "sears point": {
+            "longitude": "-122.447755",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.1510295",
+            "address": "Sears Point, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "stern grove": {
+            "longitude": "-122.478619131244",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7360855",
+            "address": "Sigmund Stern Recreation Grove, Wawona Street, Saint Francis Wood, SF, California, 94116, United States of America",
+            "locType": "park"
+        },
+        "marin county": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "ashland": {
+            "longitude": "-122.113853",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3830990-Need_somewhere_to_stay_between_Portland_and_Napa-California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.6946528",
+            "address": "Ashland, Alameda County, California, United States of America",
+            "locType": "village"
+        },
+        "richmond": {
+            "longitude": "-122.3477485",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9357576",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "alameda": {
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.6090291",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "mount tamalpais": {
+            "longitude": "-122.535021480702",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.879988",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census"
+        },
+        "mumm napa valley": {
+            "longitude": "-122.3942598",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4788493",
+            "address": "Mumm, 8445, Silverado Trail South, Rutherford, Napa County, California, 94573, United States of America",
+            "locType": "attraction"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "yountville": {
+            "longitude": "-122.3608104",
+            "blogLinks": [
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants",
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/",
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4015781",
+            "address": "Yountville, Napa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "piedmont community hall": {
+            "longitude": "-122.2308015",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8252048",
+            "address": "Piedmont Community Church, 400, Highland Avenue, Piedmont, Alameda County, California, 94611, United States of America",
+            "locType": "place_of_worship"
+        },
+        "santa rosa": {
+            "longitude": "-122.7144313",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4404675",
+            "address": "Santa Rosa, Sonoma County, California, United States of America",
+            "locType": "city"
+        },
+        "fairfax": {
+            "longitude": "-122.5879673",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.9872935",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "vacaville": {
+            "longitude": "-121.9877443",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3830990-Need_somewhere_to_stay_between_Portland_and_Napa-California.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3565773",
+            "address": "Vacaville, Solano County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco international airport": {
+            "longitude": "-122.384071507814",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.622452",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome"
+        },
+        "meritage resort": {
+            "longitude": "-122.2740595",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.2460173",
+            "address": "The Meritage Resort and Spa, Trefethen Way, Napa, Napa County, California, 94558, United States of America",
+            "locType": "hotel"
+        },
+        "calistoga": {
+            "longitude": "-122.583325948608",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants",
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.582615",
+            "address": "Calistoga, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "tamalpais state park": {
+            "longitude": "-122.613750526021",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8969524",
+            "address": "Mount Tamalpais State Park, Panoramic Highway, Stinson Beach, Marin County, California, 94970, United States of America",
+            "locType": "park"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32766-i258-k1360811-Restaurant_for_lunch_between_Oakland_and_Napa-Napa_Napa_Valley_California.html",
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "tilden park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "jersey": {
+            "longitude": "-122.3989363",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7875167",
+            "address": "Jersey, 145, 2nd Street, South of Market, SF, California, 94105, United States of America",
+            "locType": "restaurant"
+        },
+        "oakland international airport": {
+            "longitude": "-122.2123029",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.713158",
+            "address": "Oakland International Airport, Airport Drive, Oakland, Alameda County, California, 94614, United States of America",
+            "locType": "tram_stop"
+        },
+        "howell mountain": {
+            "longitude": "-122.4313835",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2012/07/16/30-things-to-do-in-napa-valley/"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.5802188",
+            "address": "Howell Mountain, Napa County, California, United States of America",
+            "locType": "peak"
+        },
+        "coombsville": {
+            "longitude": "-122.2677914",
+            "blogLinks": [
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.297063",
+            "address": "Coombsville Road, Napa, Napa County, California, 94558, United States of America",
+            "locType": "tertiary"
+        },
+        "calistoga ranch": {
+            "longitude": "-122.51196302191",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.58016795",
+            "address": "Calistoga Ranch, 580, Lommel Road, Larkmead, Napa County, California, 94515, United States of America",
+            "locType": "hotel"
+        },
+        "kenwood": {
+            "longitude": "-122.5460934",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.4138005",
+            "address": "Kenwood, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "vallejo": {
+            "longitude": "-122.2566366",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.1040864",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city"
+        },
+        "trancas street": {
+            "longitude": "-122.2759686",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.3251961",
+            "address": "Trancas Street, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary"
+        },
+        "redwood road": {
+            "longitude": "-122.1918158",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.798958",
+            "address": "Redwood Road, Laurel, Oakland, Alameda County, California, 94613, United States of America",
+            "locType": "secondary"
+        },
+        "marin": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "emeryville": {
+            "longitude": "-122.2865265",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8314089",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "calif.": {
+            "longitude": "-122.2902806",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.786376",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "petaluma": {
+            "longitude": "-122.613693402033",
+            "blogLinks": [
+                "http://www.7x7.com/wine-country-to-do-50-things-to-do-in-napa-and-sonoma-before-you-die-1786900205.html"
+            ],
+            "closest_to": "napa",
+            "latitude": "38.295411",
+            "address": "Petaluma, Sonoma County, California, United States of America",
+            "locType": "city"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "redwood city": {
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.4852152",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco museum": {
+            "longitude": "-122.466086744495",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7698246",
+            "address": "California Academy of Sciences, 55, Music Concourse Drive, Inner Sunset, SF, California, 94118, United States of America",
+            "locType": "museum"
+        },
+        "menlo park": {
+            "longitude": "-122.182187",
+            "blogLinks": [
+                "https://www.theinfatuation.com/san-francisco/guides/a-complete-guide-to-the-best-napa-restaurants"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.4538274",
+            "address": "Menlo Park, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "contra costa county": {
+            "longitude": "-121.9175344",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/wedding"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9034806",
+            "address": "Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "marin headlands": {
+            "longitude": "-122.534327312107",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.856162",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Napa-Valley/TravelFromHistory/1879223.aspx"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "chicago": {
+            "longitude": "-122.2872948",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/reunion"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7850531",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        }
+    }
+}
