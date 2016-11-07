@@ -1,0 +1,1722 @@
+{
+    "bakersfield": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-119.0194638",
+        "lat": "35.3738712",
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "importance": 0.74358237824296,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "113006",
+        "display_name": "Bakersfield, Kern County, California, United States of America",
+        "type": "city",
+        "place_id": "158454478"
+    },
+    "temecula": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-117.147366",
+        "lat": "33.4946353",
+        "boundingbox": [
+            "33.4321253",
+            "33.554625",
+            "-117.2066944",
+            "-117.0548702"
+        ],
+        "importance": 0.66507963701587,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "3866463",
+        "display_name": "Temecula, Riverside County, California, United States of America",
+        "type": "city",
+        "place_id": "159718106"
+    },
+    "mentions": {
+        "san diego": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7174209",
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Temecula-CA/TravelTimeHistory/4591142.aspx",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "mammoth creek": {
+            "closest_to": "bakersfield",
+            "locType": "stream",
+            "address": "Mammoth Creek, Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6055761",
+            "longitude": "-119.0090048",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "barstow": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "latitude": "34.8957684",
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "palm springs": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "latitude": "33.8246269",
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "harbor drive": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Harbor Drive, San Bernardino County, California, 92392, United States of America",
+            "latitude": "34.5013497",
+            "longitude": "-117.2654027",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "badwater basin": {
+            "closest_to": "bakersfield",
+            "locType": "water",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "latitude": "36.2302592",
+            "longitude": "-116.767444033304",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "la jolla cove": {
+            "closest_to": "temecula",
+            "locType": "beach",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.85051835",
+            "longitude": "-117.273024234204",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "riverside national cemetery": {
+            "closest_to": "temecula",
+            "locType": "cemetery",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "latitude": "33.87692125",
+            "longitude": "-117.270726607134",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "arista street": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Arista Street, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "latitude": "32.755437",
+            "longitude": "-117.1897859",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "badwater road": {
+            "closest_to": "bakersfield",
+            "locType": "secondary",
+            "address": "Badwater Road, Inyo County, California, United States of America",
+            "latitude": "36.06739",
+            "longitude": "-116.7481439",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "calico": {
+            "closest_to": "bakersfield",
+            "locType": "locality",
+            "address": "Calico, Kern County, California, United States of America",
+            "latitude": "35.6327332",
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "oakhurst": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "latitude": "37.333178",
+            "longitude": "-119.657244022836",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "warner springs": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Warner Springs, San Diego County, California, United States of America",
+            "latitude": "33.2822596",
+            "longitude": "-116.6336302",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "newport avenue": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Newport Avenue, Old Town, San Diego, San Diego County, California, 92107, United States of America",
+            "latitude": "32.7436805",
+            "longitude": "-117.2458648",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "bakersfield": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712",
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/map-from-Bakersfield-to-Temecula-CA/MapHistory/4591142.aspx",
+                "http://www.visitbakersfield.com/visitors/",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Temecula-from-Bakersfield/HowFarHistory/19838437.aspx",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Temecula-CA/TravelTimeHistory/4591142.aspx"
+            ]
+        },
+        "newport beach ca": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "latitude": "33.6170092",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "mount san jacinto ca": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "latitude": "33.7839084",
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "pebble": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Pebble, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "latitude": "33.6678374",
+            "longitude": "-117.7975199",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "san bernardino": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "latitude": "34.1083449",
+            "longitude": "-117.2897651",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "old town san diego state historic park": {
+            "closest_to": "temecula",
+            "locType": "park",
+            "address": "Old Town San Diego State Historic Park, Twiggs Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "latitude": "32.7537731",
+            "longitude": "-117.194891467408",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "panamint valley road": {
+            "closest_to": "bakersfield",
+            "locType": "secondary",
+            "address": "Panamint Valley Road, Inyo County, California, United States of America",
+            "latitude": "36.257055",
+            "longitude": "-117.3555359",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "visalia": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "latitude": "36.3302284",
+            "longitude": "-119.2920584",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "lake crowley": {
+            "closest_to": "bakersfield",
+            "locType": "water",
+            "address": "Lake Crowley, Layton Springs Road, North Landing, Mono County, California, United States of America",
+            "latitude": "37.61903895",
+            "longitude": "-118.731056945814",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "temecula": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "latitude": "33.4946353",
+            "longitude": "-117.147366",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx",
+                "http://www.distancesfrom.com/us/map-from-Bakersfield-to-Temecula-CA/MapHistory/4591142.aspx",
+                "http://www.visitbakersfield.com/visitors/",
+                "https://www.pinterest.com/temecularealtor/temecula-fun-things-to-do/",
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation",
+                "http://www.distancesfrom.com/us/how-far-is-Temecula-from-Bakersfield/HowFarHistory/19838437.aspx",
+                "https://www.tripadvisor.com/Attractions-g33165-Activities-Temecula_California.html",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Temecula-CA/TravelTimeHistory/4591142.aspx"
+            ]
+        },
+        "mount san gorgonio ca": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "latitude": "33.9121294",
+            "longitude": "-116.8766731",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "clark ranch": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Clark Ranch Road, Riverside County, California, 92266, United States of America",
+            "latitude": "33.7427564",
+            "longitude": "-114.5120638",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "torrey pines road": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.8491824",
+            "longitude": "-117.2620194",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "san diego zoo safari park": {
+            "closest_to": "temecula",
+            "locType": "zoo",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "latitude": "33.096694",
+            "longitude": "-116.995039439834",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "ridgecrest": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "latitude": "35.6225064",
+            "longitude": "-117.6699413",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "fulton mall": {
+            "closest_to": "bakersfield",
+            "locType": "commercial",
+            "address": "Fulton Mall, Fresno County, California, 93701, United States of America",
+            "latitude": "36.73552975",
+            "longitude": "-119.791520463653",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "owens river": {
+            "closest_to": "bakersfield",
+            "locType": "river",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "latitude": "37.4100005",
+            "longitude": "-118.3819013",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "maturango museum": {
+            "closest_to": "temecula",
+            "locType": "museum",
+            "address": "Maturango Museum, East Las Flores Avenue, Ridgecrest, Kern County, California, 93555, United States of America",
+            "latitude": "35.629956",
+            "longitude": "-117.6695076",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "presidio drive": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Presidio Drive, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "latitude": "32.7587998",
+            "longitude": "-117.1960775",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "mount palomar ca": {
+            "closest_to": "temecula",
+            "locType": "bank",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "latitude": "33.1278146",
+            "longitude": "-117.270809764613",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "mission boulevard": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.799358",
+            "longitude": "-117.2563629",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "ontario": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "latitude": "34.065846",
+            "longitude": "-117.6484303",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "cabrillo memorial drive": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Cabrillo Memorial Drive, San Diego, San Diego County, California, 92106, United States of America",
+            "latitude": "32.6999532",
+            "longitude": "-117.2480469",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "glacier point": {
+            "closest_to": "bakersfield",
+            "locType": "residential",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
+            "latitude": "37.499192",
+            "longitude": "-119.8282379",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "palos verdes peninsula ca": {
+            "closest_to": "temecula",
+            "locType": "school",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "latitude": "33.77984925",
+            "longitude": "-118.372196730215",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "america": {
+            "closest_to": "bakersfield",
+            "locType": "residential",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "latitude": "36.2573198",
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "crown point drive": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Crown Point Drive, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.793282",
+            "longitude": "-117.2311629",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "west coast": {
+            "closest_to": "temecula",
+            "locType": "plumber",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "latitude": "34.0222263",
+            "longitude": "-118.4051087",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "san diego bay": {
+            "closest_to": "temecula",
+            "locType": "bay",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "latitude": "32.6500534",
+            "longitude": "-117.1341977",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "mount soledad park": {
+            "closest_to": "temecula",
+            "locType": "park",
+            "address": "Soledad Park, Soledad Park Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.8411587",
+            "longitude": "-117.2439254",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "eastern sierra": {
+            "closest_to": "bakersfield",
+            "locType": "aerodrome",
+            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America",
+            "latitude": "37.37088005",
+            "longitude": "-118.365786577889",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "la jolla boulevard": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "La Jolla Boulevard, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.8076713",
+            "longitude": "-117.2613568",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "north harbor drive": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "North Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92106, United States of America",
+            "latitude": "32.7118038",
+            "longitude": "-117.1726983",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "mount baldy ca": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "latitude": "34.2361168",
+            "longitude": "-117.6600552",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "sports arena boulevard": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "Sports Arena Boulevard, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "latitude": "32.7550644",
+            "longitude": "-117.2200137",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "coachella": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "latitude": "33.6795519",
+            "longitude": "-116.1763379",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "ojai valley": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "latitude": "34.4480495",
+            "longitude": "-119.2428889",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "prospect street": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.8478832",
+            "longitude": "-117.2741032",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "santa ana": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "latitude": "33.7494951",
+            "longitude": "-117.8732212",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "getty center": {
+            "closest_to": "temecula",
+            "locType": "museum",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "latitude": "34.07757975",
+            "longitude": "-118.474695033531",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "catalina": {
+            "closest_to": "temecula",
+            "locType": "forest",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "latitude": "33.810513",
+            "longitude": "-117.920102663284",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "coachella valley": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "latitude": "33.6795519",
+            "longitude": "-116.1763379",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "surfrider beach": {
+            "closest_to": "temecula",
+            "locType": "beach",
+            "address": "Surfrider Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "latitude": "34.0329862",
+            "longitude": "-118.6798114",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "pacific beach": {
+            "closest_to": "temecula",
+            "locType": "suburb",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7978268",
+            "longitude": "-117.2403182",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "san jacinto": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "latitude": "33.7839084",
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "rancho bernardo": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Rancho Bernardo, San Diego County, California, United States of America",
+            "latitude": "33.0186103",
+            "longitude": "-117.0610494",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "la jolla parkway": {
+            "closest_to": "temecula",
+            "locType": "motorway",
+            "address": "La Jolla Parkway, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.8390806",
+            "longitude": "-117.2361388",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "moreno valley ca": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "latitude": "33.937517",
+            "longitude": "-117.2305943",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "shelter island": {
+            "closest_to": "temecula",
+            "locType": "island",
+            "address": "Shelter Island, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7113133",
+            "longitude": "-117.2300318",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "santa clarita": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "latitude": "34.3916641",
+            "longitude": "-118.5425859",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/map-from-Bakersfield-to-Temecula-CA/MapHistory/4591142.aspx"
+            ]
+        },
+        "beryl street": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Beryl Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.808758",
+            "longitude": "-117.2316669",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "canon street": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Canon Street, Old Town, San Diego, San Diego County, California, 92106, United States of America",
+            "latitude": "32.725689",
+            "longitude": "-117.2373119",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "mission san diego": {
+            "closest_to": "temecula",
+            "locType": "station",
+            "address": "Mission San Diego, Ward Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "latitude": "32.7808782",
+            "longitude": "-117.1109827",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "kern river valley": {
+            "closest_to": "bakersfield",
+            "locType": "river",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "highway 101": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "latitude": "32.9967358",
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "monrovia": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "latitude": "34.1483499",
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "escondido": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Escondido, San Diego County, California, United States of America",
+            "latitude": "33.1216751",
+            "longitude": "-117.0814848",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "mountain road": {
+            "closest_to": "temecula",
+            "locType": "pedestrian",
+            "address": "Mountain Road, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "latitude": "33.8076363",
+            "longitude": "-117.9208871",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "coronado": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Coronado, San Diego County, California, United States of America",
+            "latitude": "32.6858854",
+            "longitude": "-117.183089",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "hollywood": {
+            "closest_to": "temecula",
+            "locType": "suburb",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1028268",
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mojave desert ca": {
+            "closest_to": "temecula",
+            "locType": "desert",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "latitude": "35.1456319",
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "palm springs tramway": {
+            "closest_to": "temecula",
+            "locType": "information",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "latitude": "33.85839515",
+            "longitude": "-116.558183152534",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "la mesa": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "La Mesa, San Diego County, California, United States of America",
+            "latitude": "32.7678288",
+            "longitude": "-117.0230838",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "kings canyon national park": {
+            "closest_to": "bakersfield",
+            "locType": "national_park",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "latitude": "36.91527845",
+            "longitude": "-118.607655759626",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "mammoth lakes": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6432525",
+            "longitude": "-118.9668508",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "morongo valley": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "latitude": "34.0537585",
+            "longitude": "-116.596723958419",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "inyo": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Inyo County, California, United States of America",
+            "latitude": "36.5595325",
+            "longitude": "-117.4074711",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "mediterranean": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "latitude": "33.7439509",
+            "longitude": "-116.3534838",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "temecula valley": {
+            "closest_to": "temecula",
+            "locType": "memorial",
+            "address": "U.S. Mormon Battalion Trail, Temecula Valley, CA 79, Aguanga, Riverside County, California, United States of America",
+            "latitude": "33.4481335",
+            "longitude": "-116.8917787",
+            "blogLinks": [
+                "http://www.oldtowntemecula.com/",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "carlsbad": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "latitude": "33.1580933",
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "lake sabrina": {
+            "closest_to": "bakersfield",
+            "locType": "water",
+            "address": "Lake Sabrina, Lake Sabrina Road, Aspendell, Inyo County, California, United States of America",
+            "latitude": "37.2057593",
+            "longitude": "-118.620394259583",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "death valley national park": {
+            "closest_to": "bakersfield",
+            "locType": "national_park",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "latitude": "36.4914385",
+            "longitude": "-117.102293507719",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "santa monica state beach": {
+            "closest_to": "temecula",
+            "locType": "nature_reserve",
+            "address": "Santa Monica State Beach, Santa Monica Beach Path, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "latitude": "34.0101407",
+            "longitude": "-118.498714745971",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "big bear lake": {
+            "closest_to": "temecula",
+            "locType": "water",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.253293",
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "scott street": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Scott Street, Old Town, San Diego, San Diego County, California, 92106, United States of America",
+            "latitude": "32.7231672",
+            "longitude": "-117.2289215",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "beverly hills": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "latitude": "34.0736204",
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "la jolla": {
+            "closest_to": "temecula",
+            "locType": "suburb",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.8472711",
+            "longitude": "-117.2742085",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "mission san luis rey": {
+            "closest_to": "temecula",
+            "locType": "trunk",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "latitude": "33.22648",
+            "longitude": "-117.3235506",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "san luis obispo county": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "San Luis Obispo County, California, United States of America",
+            "latitude": "35.3540209",
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "usa": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Temecula-from-Bakersfield/HowFarHistory/19838437.aspx"
+            ]
+        },
+        "sequoia national park": {
+            "closest_to": "bakersfield",
+            "locType": "national_park",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "latitude": "36.49584065",
+            "longitude": "-118.559919284386",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "orange county": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Orange County, California, United States of America",
+            "latitude": "33.7500378",
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "west mission bay drive": {
+            "closest_to": "temecula",
+            "locType": "trunk",
+            "address": "West Mission Bay Drive, Old Town, San Diego, San Diego County, California, 92107, United States of America",
+            "latitude": "32.764275",
+            "longitude": "-117.2341419",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "kings river": {
+            "closest_to": "bakersfield",
+            "locType": "river",
+            "address": "Kings River, Fresno County, California, United States of America",
+            "latitude": "36.7556141",
+            "longitude": "-119.4451345",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "diamond valley lake": {
+            "closest_to": "temecula",
+            "locType": "water",
+            "address": "Diamond Valley Lake, Old Mine Road, Egan, Riverside County, California, 92543, United States of America",
+            "latitude": "33.679902",
+            "longitude": "-117.027609780569",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Temecula-from-Bakersfield/HowFarHistory/19838437.aspx"
+            ]
+        },
+        "los angeles county": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Los Angeles County, California, United States of America",
+            "latitude": "34.3155072",
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "washington street": {
+            "closest_to": "temecula",
+            "locType": "station",
+            "address": "Washington Street, Kurtz Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "latitude": "32.7415883",
+            "longitude": "-117.1842757",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "hill street": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Hill Street, San Diego, San Diego County, California, 92107, United States of America",
+            "latitude": "32.724964",
+            "longitude": "-117.2519229",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "coarsegold": {
+            "closest_to": "bakersfield",
+            "locType": "hamlet",
+            "address": "Coarsegold, Madera County, California, United States of America",
+            "latitude": "37.2621687",
+            "longitude": "-119.7009833",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "park boulevard": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "latitude": "32.7242198",
+            "longitude": "-117.1511213",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "old town san diego": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7542167",
+            "longitude": "-117.1969792",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "gaslamp quarter": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "latitude": "32.7109444",
+            "longitude": "-117.1597028",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "' ocean": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Ocean, Hawthorne, Los Angeles County, California, 90261, United States of America",
+            "latitude": "33.9157306",
+            "longitude": "-118.3763704",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "dakota": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Dakota, French Valley, Country Road Estates, Riverside County, California, 92596, United States of America",
+            "latitude": "33.6136924",
+            "longitude": "-117.102995421508",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "serra museum": {
+            "closest_to": "temecula",
+            "locType": "museum",
+            "address": "Juniper Serra Museum, Presidio Drive, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "latitude": "32.7592166",
+            "longitude": "-117.1939236",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "san diego central library": {
+            "closest_to": "temecula",
+            "locType": "library",
+            "address": "San Diego Central Library, 330, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "latitude": "32.7088",
+            "longitude": "-117.1542279",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "huntington beach": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "latitude": "33.6783336",
+            "longitude": "-118.0000165",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "san gabriel valley": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "latitude": "34.0991325",
+            "longitude": "-118.108604",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "mission beach": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "latitude": "32.7827144",
+            "longitude": "-117.2525056",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "soledad road": {
+            "closest_to": "temecula",
+            "locType": "tertiary",
+            "address": "Soledad Road, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.818256",
+            "longitude": "-117.2413859",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "grant grove": {
+            "closest_to": "bakersfield",
+            "locType": "hamlet",
+            "address": "Grant, Inyo County, California, United States of America",
+            "latitude": "36.2554945",
+            "longitude": "-117.9939711",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "san simeon": {
+            "closest_to": "bakersfield",
+            "locType": "hamlet",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6438587",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pacific ocean": {
+            "closest_to": "bakersfield",
+            "locType": "cliff",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "latitude": "36.16305775",
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "fresno": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "latitude": "36.748793",
+            "longitude": "-119.714839601149",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "catalina boulevard": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Catalina Boulevard, San Diego, San Diego County, California, 92106, United States of America",
+            "latitude": "32.7079443",
+            "longitude": "-117.2493992",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "palmdale": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Palmdale, Los Angeles County, California, United States of America",
+            "latitude": "34.5793131",
+            "longitude": "-118.1171107",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "ingraham street": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "Ingraham Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.7672782",
+            "longitude": "-117.2334356",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "w. harbor drive": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "West Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "latitude": "32.709333",
+            "longitude": "-117.1651666",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "broadway pier": {
+            "closest_to": "temecula",
+            "locType": "pier",
+            "address": "Broadway Pier, Loading Zone, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "latitude": "32.7157143",
+            "longitude": "-117.175060770741",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "solana beach": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "latitude": "32.9905597",
+            "longitude": "-117.2691315",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "torrey": {
+            "closest_to": "temecula",
+            "locType": "school",
+            "address": "Torrey Pines High School, Del Mar Heights Road, Del Mar, San Diego, San Diego County, California, 92130, United States of America",
+            "latitude": "32.9573985",
+            "longitude": "-117.224896678294",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "long beach": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "latitude": "33.78538945",
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "lake isabella": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Lake Isabella, Keyesville Road, Kern County, California, 93240, United States of America",
+            "latitude": "35.637646",
+            "longitude": "-118.484657714814",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "petco park": {
+            "closest_to": "temecula",
+            "locType": "stadium",
+            "address": "Petco Park, 100, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "latitude": "32.70717575",
+            "longitude": "-117.156886653262",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "' ocean beach": {
+            "closest_to": "temecula",
+            "locType": "region",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7477784",
+            "longitude": "-117.249321",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "old town temecula community theater": {
+            "closest_to": "temecula",
+            "locType": "theatre",
+            "address": "Old Town Temecula Community Theater, 4th Street, Villa Del Sol, Old Town, Temecula, Riverside County, California, 92590, United States of America",
+            "latitude": "33.4935253",
+            "longitude": "-117.149876830652",
+            "blogLinks": [
+                "http://www.oldtowntemecula.com/"
+            ]
+        },
+        "hollywood blvd": {
+            "closest_to": "temecula",
+            "locType": "secondary",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "latitude": "34.1016312",
+            "longitude": "-118.32684",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "morro bay ca": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "latitude": "35.3658075",
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "united states": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "https://www.tripadvisor.com/Attractions-g33165-Activities-Temecula_California.html",
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "inyo county": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Inyo County, California, United States of America",
+            "latitude": "36.5595325",
+            "longitude": "-117.4074711",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "pacific coast highway": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "latitude": "33.6595127",
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "las angeles": {
+            "closest_to": "temecula",
+            "locType": "abandoned",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "latitude": "33.9995929",
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "latitude": "34.0543942",
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137"
+            ]
+        },
+        "burbank": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "latitude": "34.1816482",
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "lone pine": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "latitude": "36.583176",
+            "longitude": "-118.078359194897",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "taylor street": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Taylor Street, North Long Beach, Long Beach, Los Angeles County, California, 90805, United States of America",
+            "latitude": "33.8797864",
+            "longitude": "-118.2071834",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "malibu": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7932142",
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "mission hills": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "Mission Hills, San Diego County, California, United States of America",
+            "latitude": "32.7528279",
+            "longitude": "-117.1869788",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "morro rock ca": {
+            "closest_to": "bakersfield",
+            "locType": "peak",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "latitude": "35.369669",
+            "longitude": "-120.8676993",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "seaport village": {
+            "closest_to": "temecula",
+            "locType": "retail",
+            "address": "Seaport Village, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "latitude": "32.7089976",
+            "longitude": "-117.170488716601",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "southern california": {
+            "closest_to": "temecula",
+            "locType": "university",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "latitude": "34.0224149",
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.pinterest.com/temecularealtor/temecula-fun-things-to-do/",
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        },
+        "us": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "san pasqual valley": {
+            "closest_to": "temecula",
+            "locType": "hamlet",
+            "address": "San Pasqual, San Diego County, California, United States of America",
+            "latitude": "33.0917085",
+            "longitude": "-116.9539176",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "goldfinch street": {
+            "closest_to": "temecula",
+            "locType": "tertiary",
+            "address": "Goldfinch Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "latitude": "32.746819",
+            "longitude": "-117.1713489",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "north torrey pines road": {
+            "closest_to": "temecula",
+            "locType": "primary",
+            "address": "North Torrey Pines Road, Del Mar, San Diego, San Diego County, California, 92014, United States of America",
+            "latitude": "32.9358252",
+            "longitude": "-117.2608353",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "temecula california": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "latitude": "33.4946353",
+            "longitude": "-117.147366",
+            "blogLinks": [
+                "https://www.pinterest.com/temecularealtor/temecula-fun-things-to-do/"
+            ]
+        },
+        "old town temecula": {
+            "closest_to": "temecula",
+            "locType": "attraction",
+            "address": "Old Town Temecula, 5th Street, Villa Del Sol, Old Town, Temecula, Riverside County, California, 92590, United States of America",
+            "latitude": "33.49487155",
+            "longitude": "-117.149796716459",
+            "blogLinks": [
+                "http://www.oldtowntemecula.com/"
+            ]
+        },
+        "la": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.pinterest.com/temecularealtor/temecula-fun-things-to-do/",
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation"
+            ]
+        },
+        "seaworld san diego": {
+            "closest_to": "temecula",
+            "locType": "theme_park",
+            "address": "SeaWorld San Diego, 500, Sea World Drive, Old Town, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.7659778",
+            "longitude": "-117.226626367006",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "kern county": {
+            "closest_to": "temecula",
+            "locType": "administrative",
+            "address": "Kern County, California, United States of America",
+            "latitude": "35.3145701",
+            "longitude": "-118.7538221",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/"
+            ]
+        },
+        "newport beach": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "latitude": "33.6170092",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "northern california": {
+            "closest_to": "temecula",
+            "locType": "locality",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7349196",
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ]
+        },
+        "lake skinner": {
+            "closest_to": "temecula",
+            "locType": "water",
+            "address": "Lake Skinner, Benton Road, Robert A. Skinner Treatment Plant, French Valley, Country Road Estates, Riverside County, California, 92596, United States of America",
+            "latitude": "33.5892362",
+            "longitude": "-117.059680888587",
+            "blogLinks": [
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation"
+            ]
+        },
+        "sunset strip": {
+            "closest_to": "temecula",
+            "locType": "living_street",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "latitude": "33.7224763",
+            "longitude": "-116.1940439",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "oceanside": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "latitude": "33.1958696",
+            "longitude": "-117.3794833",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "palm springs air museum ca": {
+            "closest_to": "temecula",
+            "locType": "museum",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "latitude": "33.83250375",
+            "longitude": "-116.504677958796",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "kern river": {
+            "closest_to": "bakersfield",
+            "locType": "river",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ]
+        },
+        "yosemite valley": {
+            "closest_to": "bakersfield",
+            "locType": "town",
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.734435",
+            "longitude": "-119.6064673",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ]
+        },
+        "hidden valley road": {
+            "closest_to": "temecula",
+            "locType": "residential",
+            "address": "Hidden Valley Road, Hidden Valley Estates, Valley Village, LA, Los Angeles County, California, 90210, United States of America",
+            "latitude": "34.1217136",
+            "longitude": "-118.4026282",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ]
+        },
+        "santa barbara": {
+            "closest_to": "temecula",
+            "locType": "city",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "latitude": "34.4221319",
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "https://www.kcet.org/socal-wanderer/the-7-best-spots-for-fall-color-in-california"
+            ]
+        }
+    }
+}

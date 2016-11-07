@@ -3,7 +3,8 @@ from pprint import pprint
 #https://pypi.python.org/pypi/geopy/1.11.0
 from geopy.geocoders import Nominatim
 from geopy.distance import vincenty
-
+#google API key : AIzaSyBnNFlfplTsDg5sHbKVG7fy8XOlzZsktME
+#opencage : c02c66da2247c3beb4e8d8553f9cf58a
 citiesTowns = set()
 ca_geolocator = Nominatim()
 

@@ -1,0 +1,899 @@
+{
+    "oakland": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-122.2713562",
+        "lat": "37.8044557",
+        "boundingbox": [
+            "37.632226",
+            "37.885368",
+            "-122.3558809",
+            "-122.1146719"
+        ],
+        "importance": 0.80539006393216,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "2833530",
+        "display_name": "Oakland, Alameda County, California, United States of America",
+        "type": "city",
+        "place_id": "159417720"
+    },
+    "berkeley": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-122.2728638",
+        "lat": "37.8708393",
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "importance": 0.78550511760774,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "2833528",
+        "display_name": "Berkeley, Alameda County, California, United States of America",
+        "type": "city",
+        "place_id": "159273659"
+    },
+    "mentions": {
+        "grove shafter freeway": {
+            "closest_to": "oakland",
+            "locType": "motorway",
+            "address": "Grove Shafter Freeway, Mosswood, Oakland, Alameda County, California, 94609, United States of America",
+            "latitude": "37.825565",
+            "longitude": "-122.2675778",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "emeryville": {
+            "closest_to": "oakland",
+            "locType": "administrative",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "latitude": "37.8314089",
+            "longitude": "-122.2865265",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412",
+                "https://www.yelp.com/topic/berkeley-best-places-to-rollerblade-in-the-east-bay",
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "alta bates summit medical center": {
+            "closest_to": "oakland",
+            "locType": "parking",
+            "address": "Alta Bates Summit Medical Center, Blake Street, South Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.86348965",
+            "longitude": "-122.266717546244",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "temescal creek": {
+            "closest_to": "oakland",
+            "locType": "stream",
+            "address": "Temescal Creek, Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8391938",
+            "longitude": "-122.2595652",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "berkeley marina": {
+            "closest_to": "berkeley",
+            "locType": "neighbourhood",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "latitude": "37.8678664",
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "telegraph avenue": {
+            "closest_to": "oakland",
+            "locType": "secondary",
+            "address": "Telegraph Avenue, Uptown, Oakland, Alameda County, California, 94705, United States of America",
+            "latitude": "37.8102741",
+            "longitude": "-122.2694148",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "oakmore": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Oakmore Highlands, Oakland, Alameda County, California, 94602, United States of America",
+            "latitude": "37.8082408",
+            "longitude": "-122.214838",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "virginia street": {
+            "closest_to": "berkeley",
+            "locType": "residential",
+            "address": "Virginia Street, Ocean View, Berkeley, Alameda County, California, 94709, United States of America",
+            "latitude": "37.871671",
+            "longitude": "-122.3023816",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "lakeshore avenue": {
+            "closest_to": "oakland",
+            "locType": "secondary",
+            "address": "Lakeshore Avenue, Cleveland Heights, Oakland, Alameda County, California, 94606, United States of America",
+            "latitude": "37.8044767",
+            "longitude": "-122.2509229",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "eastshore freeway": {
+            "closest_to": "oakland",
+            "locType": "motorway",
+            "address": "Eastshore Freeway, West Berkeley, Berkeley, Alameda County, California, 94710, United States of America",
+            "latitude": "37.8551979",
+            "longitude": "-122.3003833",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "berkeley inn": {
+            "closest_to": "berkeley",
+            "locType": "motel",
+            "address": "Berkeley Inn, 1720, San Pablo Avenue, West Berkeley, Berkeley, Alameda County, California, 94702, United States of America",
+            "latitude": "37.87265015",
+            "longitude": "-122.293653351863",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "berkeley-oakland": {
+            "closest_to": "berkeley",
+            "locType": "university",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "latitude": "37.87631055",
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "durant square": {
+            "closest_to": "oakland",
+            "locType": "food_court",
+            "address": "Durant Square, Durant Avenue, Southside, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.86818265",
+            "longitude": "-122.257962530456",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "south hall": {
+            "closest_to": "berkeley",
+            "locType": "yes",
+            "address": "South Hall, South Hall Road, Northside, Berkeley, Alameda County, California, 94720, United States of America",
+            "latitude": "37.8713408",
+            "longitude": "-122.2585072",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "rockridge": {
+            "closest_to": "oakland",
+            "locType": "station",
+            "address": "Rockridge, Grove Shafter Freeway, Rockridge, Oakland, Alameda County, California, 94705, United States of America",
+            "latitude": "37.8447104",
+            "longitude": "-122.251348",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "udupi": {
+            "closest_to": "berkeley",
+            "locType": "restaurant",
+            "address": "Udupi Palace, 1903, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.871749",
+            "longitude": "-122.2727809",
+            "blogLinks": [
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "east oakland": {
+            "closest_to": "oakland",
+            "locType": "city",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557",
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "temescal": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Temescal, Oakland, Alameda County, California, 94609, United States of America",
+            "latitude": "37.8372063",
+            "longitude": "-122.2587376",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco"
+            ]
+        },
+        "piedmont": {
+            "closest_to": "oakland",
+            "locType": "administrative",
+            "address": "Piedmont, Alameda County, California, United States of America",
+            "latitude": "37.8243715",
+            "longitude": "-122.2316349",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "south berkeley": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "latitude": "37.8551575",
+            "longitude": "-122.2723751",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "fruitvale district": {
+            "closest_to": "oakland",
+            "locType": "secondary",
+            "address": "Fruitvale Avenue, Dimond District, Oakland, Alameda County, California, 94602, United States of America",
+            "latitude": "37.7986804",
+            "longitude": "-122.2169457",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "ashby bart station": {
+            "closest_to": "oakland",
+            "locType": "car_sharing",
+            "address": "Ashby BART, Martin Luther King Jr Way, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "latitude": "37.8520696",
+            "longitude": "-122.2705915",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "uptown": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Uptown, Oakland, Alameda County, California, 94612, United States of America",
+            "latitude": "37.8092757",
+            "longitude": "-122.2699466",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "elmwood district": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Elmwood, Berkeley, Alameda County, California, 94705, United States of America",
+            "latitude": "37.8577846",
+            "longitude": "-122.2538686",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "jack london square": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Jack London Square, Oakland, Alameda County, California, 94607, United States of America",
+            "latitude": "37.7957886",
+            "longitude": "-122.274685",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "africa": {
+            "closest_to": "oakland",
+            "locType": "residential",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "latitude": "37.8212626",
+            "longitude": "-122.3064005",
+            "blogLinks": [
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "tilden park": {
+            "closest_to": "berkeley",
+            "locType": "park",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "latitude": "37.8946474",
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "shattuck ave.": {
+            "closest_to": "berkeley",
+            "locType": "secondary",
+            "address": "Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94609, United States of America",
+            "latitude": "37.8729527",
+            "longitude": "-122.2684811",
+            "blogLinks": [
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "mckay avenue": {
+            "closest_to": "oakland",
+            "locType": "residential",
+            "address": "McKay Avenue, West End, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7704961",
+            "longitude": "-122.2783765",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412"
+            ]
+        },
+        "brazil cafe": {
+            "closest_to": "berkeley",
+            "locType": "restaurant",
+            "address": "Brazil Cafe, 1960, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.871604",
+            "longitude": "-122.2714969",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "shattuck square": {
+            "closest_to": "berkeley",
+            "locType": "retail",
+            "address": "Shattuck Square, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.87168125",
+            "longitude": "-122.268062355617",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "allston": {
+            "closest_to": "oakland",
+            "locType": "museum",
+            "address": "Magnes Collection of Jewish Art and Life, 2121, Allston Way, Downtown Berkeley, Berkeley, Alameda County, California, 93710, United States of America",
+            "latitude": "37.8697577",
+            "longitude": "-122.266880036588",
+            "blogLinks": [
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "uc botanical garden": {
+            "closest_to": "berkeley",
+            "locType": "parking",
+            "address": "UC - Botanical Garden lot, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "latitude": "37.8756677",
+            "longitude": "-122.239241226147",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "robert w. crown memorial state beach": {
+            "closest_to": "oakland",
+            "locType": "park",
+            "address": "Robert W. Crown Memorial State Beach, Shoreline Drive, South Shore, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.76036945",
+            "longitude": "-122.267583554725",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412"
+            ]
+        },
+        "mosswood park": {
+            "closest_to": "oakland",
+            "locType": "park",
+            "address": "Mosswood Park, West MacArthur Boulevard, Mosswood, Oakland, Alameda County, California, 94609, United States of America",
+            "latitude": "37.82397485",
+            "longitude": "-122.260481593877",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "lake anza": {
+            "closest_to": "berkeley",
+            "locType": "water",
+            "address": "Lake Anza, Wildcat Gorge Trail, Contra Costa County, California, 94708, United States of America",
+            "latitude": "37.89620465",
+            "longitude": "-122.25039158978",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "albany": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Albany, Alameda County, California, United States of America",
+            "latitude": "37.88687",
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "claremont canyon": {
+            "closest_to": "berkeley",
+            "locType": "park",
+            "address": "Claremont Canyon Regional Preserve, Drury Court, Oakland, Alameda County, California, 94705, United States of America",
+            "latitude": "37.8652037",
+            "longitude": "-122.2258012",
+            "blogLinks": [
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "asia": {
+            "closest_to": "oakland",
+            "locType": "restaurant",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "latitude": "37.7949149",
+            "longitude": "-122.2533348",
+            "blogLinks": [
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "san francisco-alameda-oakland": {
+            "closest_to": "oakland",
+            "locType": "tower",
+            "address": "KIQI-AM (San Francisco), I 80, Oakland, Alameda County, California, 94626, United States of America",
+            "latitude": "37.8257655",
+            "longitude": "-122.3121382",
+            "blogLinks": [
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/"
+            ]
+        },
+        "uc berkeley": {
+            "closest_to": "berkeley",
+            "locType": "university",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "latitude": "37.87631055",
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "east bay regional park district": {
+            "closest_to": "berkeley",
+            "locType": "toilets",
+            "address": "East Bay Regional Park District, Bay Trail, Richmond Annex, Richmond, Contra Costa County, California, 94850, United States of America",
+            "latitude": "37.9033827",
+            "longitude": "-122.3195326",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412"
+            ]
+        },
+        "crab cove visitor center": {
+            "closest_to": "oakland",
+            "locType": "information",
+            "address": "Crab Cove VIsitor Center, 1252, McKay Avenue, West End, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.76894905",
+            "longitude": "-122.278230351725",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412"
+            ]
+        },
+        "west oakland": {
+            "closest_to": "oakland",
+            "locType": "station",
+            "address": "West Oakland, 7th Street, South Prescott, Oakland, Alameda County, California, 94607, United States of America",
+            "latitude": "37.8048601",
+            "longitude": "-122.295172902631",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "downtown berkeley": {
+            "closest_to": "oakland",
+            "locType": "station",
+            "address": "Downtown Berkeley, Constitution Plaza, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.87010225",
+            "longitude": "-122.268136079248",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/",
+                "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539"
+            ]
+        },
+        "oakland city hall": {
+            "closest_to": "oakland",
+            "locType": "townhall",
+            "address": "Oakland City Hall, Frank H. Ogawa Plaza, Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "latitude": "37.8053101",
+            "longitude": "-122.272555152583",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "caldecott tunnel": {
+            "closest_to": "berkeley",
+            "locType": "motorway",
+            "address": "Caldecott Tunnel, Oakland, Alameda County, California, 94563, United States of America",
+            "latitude": "37.8561736",
+            "longitude": "-122.2158932",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "alameda naval air station": {
+            "closest_to": "oakland",
+            "locType": "museum",
+            "address": "Alameda Naval Air Museum, 2151, Ferry Point, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7814448",
+            "longitude": "-122.29917365",
+            "blogLinks": [
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/"
+            ]
+        },
+        "missouri lounge": {
+            "closest_to": "oakland",
+            "locType": "pub",
+            "address": "Missouri Lounge, San Pablo Avenue, Poets Corner, Berkeley, Alameda County, California, 94702, United States of America",
+            "latitude": "37.8591303",
+            "longitude": "-122.2891189",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "berkeley bart": {
+            "closest_to": "berkeley",
+            "locType": "car_sharing",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "latitude": "37.8742984",
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "chinatown": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "latitude": "37.7999301",
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/berkeley",
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                "https://www.yelp.com/list/best-places-in-oakland-berkeley-you-havent-found-yet-oakland",
+                "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539"
+            ]
+        },
+        "north berkeley": {
+            "closest_to": "berkeley",
+            "locType": "neighbourhood",
+            "address": "North Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "latitude": "37.8779506",
+            "longitude": "-122.2736818",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "calif.": {
+            "closest_to": "oakland",
+            "locType": "residential",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.786376",
+            "longitude": "-122.2902806",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "piedmont ave": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "latitude": "37.8276971",
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "north oakland": {
+            "closest_to": "oakland",
+            "locType": "city",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557",
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "grand lake": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Grand Lake, Oakland, Alameda County, California, 94610, United States of America",
+            "latitude": "37.8116147",
+            "longitude": "-122.2463534",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "regional park": {
+            "closest_to": "berkeley",
+            "locType": "park",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "latitude": "37.8946474",
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "golden gate fields": {
+            "closest_to": "berkeley",
+            "locType": "yes",
+            "address": "Golden Gate Fields, Buchanan Street, Ocean View, Berkeley, Alameda County, California, 94710, United States of America",
+            "latitude": "37.8847051",
+            "longitude": "-122.313173584198",
+            "blogLinks": [
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412"
+            ]
+        },
+        "bancroft way": {
+            "closest_to": "oakland",
+            "locType": "secondary",
+            "address": "Bancroft Way, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.8681473",
+            "longitude": "-122.2636507",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        },
+        "lake merritt": {
+            "closest_to": "oakland",
+            "locType": "station",
+            "address": "Lake Merritt, 9th Street, Chinatown, Oakland, Alameda County, California, 94607, United States of America",
+            "latitude": "37.7974554",
+            "longitude": "-122.2656718",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "https://www.yelp.com/list/best-places-in-oakland-berkeley-you-havent-found-yet-oakland"
+            ]
+        },
+        "old oakland": {
+            "closest_to": "oakland",
+            "locType": "city",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557",
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "x93oakland bay bridge": {
+            "closest_to": "oakland",
+            "locType": "abandoned",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "latitude": "37.8193514",
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "berkeley": {
+            "closest_to": "oakland",
+            "locType": "city",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "latitude": "37.8708393",
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco",
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bbonline.com/united-states/california/berkeley/northberkeley.html",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/",
+                "http://www.bestplaces.net/city/california/berkeley",
+                "https://www.yelp.com/topic/berkeley-best-places-to-rollerblade-in-the-east-bay",
+                "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539",
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "berkeley hills": {
+            "closest_to": "berkeley",
+            "locType": "neighbourhood",
+            "address": "Berkeley Hills, Berkeley, Alameda County, California, 94708, United States of America",
+            "latitude": "37.8896572",
+            "longitude": "-122.2586308",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "louisiana kitchen": {
+            "closest_to": "oakland",
+            "locType": "restaurant",
+            "address": "Angeline's Louisiana Kitchen, 2261, Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "latitude": "37.8682414",
+            "longitude": "-122.2675426",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "warren freeway": {
+            "closest_to": "oakland",
+            "locType": "motorway",
+            "address": "Warren Freeway, Oakmore Highlands, Oakland, Alameda County, California, 94602, United States of America",
+            "latitude": "37.8105353",
+            "longitude": "-122.1974139",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "port of oakland": {
+            "closest_to": "oakland",
+            "locType": "yes",
+            "address": "Port of Oakland, 10, Clay Street, Jack London Square, Oakland, Alameda County, California, 94607, United States of America",
+            "latitude": "37.79572735",
+            "longitude": "-122.278796087853",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "oakland": {
+            "closest_to": "oakland",
+            "locType": "city",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557",
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco",
+                "http://www.eastbayexpress.com/oakland/family-biking-in-the-east-bay/Content?oid=3198412",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.tripadvisor.com/Tourism-g32810-Oakland_California-Vacations.html",
+                "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539",
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                "http://www.goldengatetours.net/places",
+                "http://www.sfgate.com/travel/article/California-travel-2016-best-hottest-places-6847286.php",
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "downtown oakland": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "latitude": "37.8036295",
+            "longitude": "-122.2715243",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "bay bridge": {
+            "closest_to": "oakland",
+            "locType": "abandoned",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "latitude": "37.8193514",
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/berkeley",
+                "https://en.wikipedia.org/wiki/Oakland,_California",
+                "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "chicago": {
+            "closest_to": "oakland",
+            "locType": "residential",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7850531",
+            "longitude": "-122.2872948",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "piedmont avenue": {
+            "closest_to": "oakland",
+            "locType": "neighbourhood",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "latitude": "37.8276971",
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-vinatge-secondhand-stores-san-francisco",
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "oakland harbor": {
+            "closest_to": "oakland",
+            "locType": "bay",
+            "address": "Oakland Outer Harbor, Dunkirk Street, Port Of Oakland United Intermodal Service, Oakland, Alameda County, California, 94626, United States of America",
+            "latitude": "37.8149278",
+            "longitude": "-122.321081",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "indian rock park": {
+            "closest_to": "berkeley",
+            "locType": "park",
+            "address": "Indian Rock Park, 950, Indian Rock Avenue, Northbrae, Berkeley, Alameda County, California, 94707, United States of America",
+            "latitude": "37.8921682",
+            "longitude": "-122.272988060644",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "arkansas": {
+            "closest_to": "oakland",
+            "locType": "residential",
+            "address": "Arkansas, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7867077",
+            "longitude": "-122.2896721",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "grizzly peak blvd": {
+            "closest_to": "berkeley",
+            "locType": "secondary",
+            "address": "Grizzly Peak Boulevard, Cragmont, Berkeley, Alameda County, California, 94708, United States of America",
+            "latitude": "37.9015723",
+            "longitude": "-122.2666953",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "berkeley rose garden": {
+            "closest_to": "berkeley",
+            "locType": "park",
+            "address": "Berkeley Rose Garden, 1200, Euclid Avenue, Northside, Berkeley, Alameda County, California, 94708:94709, United States of America",
+            "latitude": "37.88535145",
+            "longitude": "-122.263265284396",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ]
+        },
+        "joaquin miller road": {
+            "closest_to": "oakland",
+            "locType": "secondary",
+            "address": "Joaquin Miller Road, Oakmore Highlands, Oakland, Alameda County, California, 94602, United States of America",
+            "latitude": "37.810989",
+            "longitude": "-122.1958928",
+            "blogLinks": [
+                "http://matadornetwork.com/trips/30-incredible-places-4-hours-oakland/"
+            ]
+        },
+        "highland hospital": {
+            "closest_to": "oakland",
+            "locType": "hospital",
+            "address": "Highland Hospital, 14th Avenue, Highland Park, Oakland, Alameda County, California, 94602, United States of America",
+            "latitude": "37.7982203",
+            "longitude": "-122.231385112586",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "dimond canyon": {
+            "closest_to": "oakland",
+            "locType": "park",
+            "address": "Dimond Canyon, Bridgeview Trail, Montclair, Oakland, Alameda County, California, 94611, United States of America",
+            "latitude": "37.81387835",
+            "longitude": "-122.211517103495",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Oakland,_California"
+            ]
+        },
+        "shattuck avenue": {
+            "closest_to": "berkeley",
+            "locType": "secondary",
+            "address": "Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94609, United States of America",
+            "latitude": "37.8729527",
+            "longitude": "-122.2684811",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/neighborhoods/eb/berkeley/"
+            ]
+        }
+    }
+}

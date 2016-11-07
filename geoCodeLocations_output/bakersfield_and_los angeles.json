@@ -1,0 +1,896 @@
+{
+    "bakersfield": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-119.0194638",
+        "lat": "35.3738712",
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "importance": 0.74358237824296,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "113006",
+        "display_name": "Bakersfield, Kern County, California, United States of America",
+        "type": "city",
+        "place_id": "158454478"
+    },
+    "los angeles": {
+        "type": "city",
+        "class": "place",
+        "lat": "34.0543942",
+        "lon": "-118.2439408",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "osm_type": "relation",
+        "importance": 1.0289952798766,
+        "boundingbox": [
+            "33.7036216",
+            "34.337306",
+            "-118.6681901",
+            "-118.1552946"
+        ],
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "207359",
+        "display_name": "LA, Los Angeles County, California, United States of America",
+        "place_id": "159250198"
+    },
+    "mentions": {
+        "barstow": {
+            "closest_to": "los angeles",
+            "locType": "administrative",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "latitude": "34.8957684",
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "azusa": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Azusa, Los Angeles County, California, United States of America",
+            "latitude": "34.1338751",
+            "longitude": "-117.9056045",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "taft highway": {
+            "closest_to": "bakersfield",
+            "locType": "primary",
+            "address": "Taft Highway, Kern County, California, 93276, United States of America",
+            "latitude": "35.2670566",
+            "longitude": "-119.3064987",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "beverly hills": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "latitude": "34.0736204",
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "silver lake": {
+            "closest_to": "los angeles",
+            "locType": "neighbourhood",
+            "address": "Silver Lake, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "latitude": "34.0896518",
+            "longitude": "-118.2693734",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "venice beach": {
+            "closest_to": "los angeles",
+            "locType": "police",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "latitude": "33.9862012",
+            "longitude": "-118.4739815",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "san luis obispo county": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "San Luis Obispo County, California, United States of America",
+            "latitude": "35.3540209",
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "usa": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "westchester": {
+            "closest_to": "los angeles",
+            "locType": "neighbourhood",
+            "address": "Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "latitude": "33.9597349",
+            "longitude": "-118.4006321",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "bay": {
+            "closest_to": "los angeles",
+            "locType": "service",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "latitude": "33.6899249",
+            "longitude": "-117.7729354",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "space mountain": {
+            "closest_to": "los angeles",
+            "locType": "attraction",
+            "address": "Hyperspace Mountain, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "latitude": "33.810975",
+            "longitude": "-117.9174943",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "downtown los angeles": {
+            "closest_to": "los angeles",
+            "locType": "station",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "latitude": "34.1789188",
+            "longitude": "-118.312628",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "baldwin park": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "latitude": "34.0854739",
+            "longitude": "-117.961176",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "san luis obispo": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "latitude": "35.2827525",
+            "longitude": "-120.6596155",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "bakersfield": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712",
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "kern river": {
+            "closest_to": "bakersfield",
+            "locType": "river",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "castaic": {
+            "closest_to": "los angeles",
+            "locType": "hamlet",
+            "address": "Castaic, Los Angeles County, California, United States of America",
+            "latitude": "34.4888822",
+            "longitude": "-118.6228655",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "frontierland": {
+            "closest_to": "los angeles",
+            "locType": "locality",
+            "address": "Frontierland, Anaheim, Orange County, California, United States of America",
+            "latitude": "33.81314275",
+            "longitude": "-117.921339068848",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "canada": {
+            "closest_to": "los angeles",
+            "locType": "residential",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "latitude": "33.7298842",
+            "longitude": "-117.7641381",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "tejon ranch": {
+            "closest_to": "los angeles",
+            "locType": "tertiary",
+            "address": "Bob Stine Road, Wheeler Ridge, Kern County, California, United States of America",
+            "latitude": "34.9885197",
+            "longitude": "-118.9408535",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "tejon pass": {
+            "closest_to": "los angeles",
+            "locType": "saddle",
+            "address": "Tejon Pass, Golden State Freeway, Gorman, Los Angeles County, California, 93243, United States of America",
+            "latitude": "34.8027895",
+            "longitude": "-118.8767819",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "santa barbara": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "latitude": "34.4221319",
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "springhill": {
+            "closest_to": "los angeles",
+            "locType": "residential",
+            "address": "Springhill Place, Windsor Hills, View Park\u2013Windsor Hills, Los Angeles County, California, 90043, United States of America",
+            "latitude": "33.9903508",
+            "longitude": "-118.3523395",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "las angeles": {
+            "closest_to": "los angeles",
+            "locType": "abandoned",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "latitude": "33.9995929",
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "beachwood drive": {
+            "closest_to": "los angeles",
+            "locType": "secondary",
+            "address": "Beachwood Drive, Hollywood, LA, Los Angeles County, California, 90028-5420, United States of America",
+            "latitude": "34.1048541",
+            "longitude": "-118.3212742",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "california pizza kitchen": {
+            "closest_to": "los angeles",
+            "locType": "restaurant",
+            "address": "California Pizza Kitchen, 10956, Weyburn Avenue, Westwood Village, Westwood, LA, Los Angeles County, California, 90024, United States of America",
+            "latitude": "34.0622772",
+            "longitude": "-118.4471444",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "cholame": {
+            "closest_to": "bakersfield",
+            "locType": "hamlet",
+            "address": "Cholame, San Luis Obispo County, California, United States of America",
+            "latitude": "35.7238556",
+            "longitude": "-120.2965383",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "buttonwillow": {
+            "closest_to": "bakersfield",
+            "locType": "village",
+            "address": "Buttonwillow, Kern County, California, United States of America",
+            "latitude": "35.3997369",
+            "longitude": "-119.474104",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "san fernando valley": {
+            "closest_to": "los angeles",
+            "locType": "administrative",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "latitude": "34.2819461",
+            "longitude": "-118.4389718",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "fort tejon": {
+            "closest_to": "los angeles",
+            "locType": "tertiary",
+            "address": "Fort Tejon Road, Lebec, Kern County, California, 93243, United States of America",
+            "latitude": "34.8736894",
+            "longitude": "-118.8918151",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "los angeles county museum of art": {
+            "closest_to": "los angeles",
+            "locType": "museum",
+            "address": "Los Angeles County Museum of Art, Wilshire Boulevard, Park La Brea, The Village Green, LA, Los Angeles County, California, 90036, United States of America",
+            "latitude": "34.0634357",
+            "longitude": "-118.357997654056",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "disneyland": {
+            "closest_to": "los angeles",
+            "locType": "theme_park",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "latitude": "33.8136367",
+            "longitude": "-117.91971186569",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "east los angeles": {
+            "closest_to": "los angeles",
+            "locType": "suburb",
+            "address": "East Los Angeles, Belvedere Gardens, Los Angeles County, California, United States of America",
+            "latitude": "34.0239015",
+            "longitude": "-118.1720156",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "long beach": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "latitude": "33.78538945",
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "springhill suites bakersfield": {
+            "closest_to": "bakersfield",
+            "locType": "hotel",
+            "address": "SpringHill Suites Bakersfield, Marriott Drive, Bakersfield, Kern County, California, 93301, United States of America",
+            "latitude": "35.3798357",
+            "longitude": "-119.049795236274",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "us hwy 101": {
+            "closest_to": "los angeles",
+            "locType": "primary",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "latitude": "32.9967358",
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "central coast": {
+            "closest_to": "bakersfield",
+            "locType": "residential",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "latitude": "35.3611193",
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "santa monica": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "latitude": "34.0195598",
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "new orleans": {
+            "closest_to": "los angeles",
+            "locType": "locality",
+            "address": "New Orleans Square, Anaheim, Orange County, California, United States of America",
+            "latitude": "33.8116219",
+            "longitude": "-117.9206364",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "sunset boulevard": {
+            "closest_to": "los angeles",
+            "locType": "primary",
+            "address": "Sunset Boulevard, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "latitude": "34.0759222",
+            "longitude": "-118.2554183",
+            "blogLinks": [
+                "https://www.tripadvisor.in/Attractions-g32655-Activities-Los_Angeles_California.html",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "big bear lake": {
+            "closest_to": "los angeles",
+            "locType": "water",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.253293",
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "united states": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "hollywood walk of fame": {
+            "closest_to": "los angeles",
+            "locType": "attraction",
+            "address": "Old Hollywood Bookshop, Walk of Fame, Whitley Heights, LA, Los Angeles County, California, 90028, United States of America",
+            "latitude": "34.1018331",
+            "longitude": "-118.3385158",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "pacific coast highway": {
+            "closest_to": "los angeles",
+            "locType": "primary",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "latitude": "33.6595127",
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "california science center": {
+            "closest_to": "los angeles",
+            "locType": "museum",
+            "address": "California Science Center, 700, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "latitude": "34.0159757",
+            "longitude": "-118.286286870567",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "pacific park": {
+            "closest_to": "los angeles",
+            "locType": "commercial",
+            "address": "Pacific Park, Aliso Viejo, Orange County, California, 92656, United States of America",
+            "latitude": "33.5588741",
+            "longitude": "-117.724068630701",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "norwalk": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Norwalk, Los Angeles County, California, United States of America",
+            "latitude": "33.9092802",
+            "longitude": "-118.0849168",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "santa ana": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "latitude": "33.7494951",
+            "longitude": "-117.8732212",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "los angeles": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "latitude": "34.0543942",
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.yelp.com/biz/interstate-5-los-angeles",
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "victorville": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "latitude": "34.5361067",
+            "longitude": "-117.2911564",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ]
+        },
+        "burbank": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "latitude": "34.1816482",
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "bakersfield bakersfield": {
+            "closest_to": "los angeles",
+            "locType": "station",
+            "address": "Bakersfield, 16th Street, Civic Center, Bakersfield, Kern County, California, 93301, United States of America",
+            "latitude": "35.371872",
+            "longitude": "-119.0085483",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "chester ave.": {
+            "closest_to": "los angeles",
+            "locType": "secondary",
+            "address": "Chester Avenue, Bakersfield, Kern County, California, 93301, United States of America",
+            "latitude": "35.3549745",
+            "longitude": "-119.0188577",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "hollywood bowl": {
+            "closest_to": "los angeles",
+            "locType": "theatre",
+            "address": "Hollywood Bowl, Los Tilos Road, Whitley Heights, LA, Los Angeles County, California, 90068, United States of America",
+            "latitude": "34.1121836",
+            "longitude": "-118.339277261641",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "buellton": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "latitude": "34.6134727",
+            "longitude": "-120.1936691",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf"
+            ]
+        },
+        "harris ranch": {
+            "closest_to": "bakersfield",
+            "locType": "hotel",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "latitude": "36.2535766",
+            "longitude": "-120.237368306069",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "el torito": {
+            "closest_to": "los angeles",
+            "locType": "restaurant",
+            "address": "El Torito, 14433, Ventura Boulevard, Sherman Oaks, LA, Los Angeles County, California, 91423, United States of America",
+            "latitude": "34.15108785",
+            "longitude": "-118.447739187814",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "west": {
+            "closest_to": "los angeles",
+            "locType": "taxiway",
+            "address": "W, Service road S, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "latitude": "33.9492548",
+            "longitude": "-118.4108078",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "springhill suites": {
+            "closest_to": "los angeles",
+            "locType": "hotel",
+            "address": "SpringHill Suites Lancaster Palmdale, 1811, West Avenue J-12, Lancaster, Los Angeles County, California, 93534, United States of America",
+            "latitude": "34.67902705",
+            "longitude": "-118.163917450489",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "baker": {
+            "closest_to": "los angeles",
+            "locType": "hamlet",
+            "address": "Baker, Kern County, California, United States of America",
+            "latitude": "35.0421963",
+            "longitude": "-117.6675603",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ]
+        },
+        "santa clarita": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "latitude": "34.3916641",
+            "longitude": "-118.5425859",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "griffith park observatory": {
+            "closest_to": "los angeles",
+            "locType": "attraction",
+            "address": "Griffith Park Observatory, West Observatory Road, Little Armenia, LA, Los Angeles County, California, 90027, United States of America",
+            "latitude": "34.1193312",
+            "longitude": "-118.300357",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "sylmar": {
+            "closest_to": "los angeles",
+            "locType": "suburb",
+            "address": "Sylmar, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.3076252",
+            "longitude": "-118.4492147",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "pacific palisades": {
+            "closest_to": "los angeles",
+            "locType": "neighbourhood",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "latitude": "34.0480643",
+            "longitude": "-118.5264705",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "la": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.yelp.com/biz/interstate-5-los-angeles",
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ]
+        },
+        "portland": {
+            "closest_to": "los angeles",
+            "locType": "residential",
+            "address": "Portland, Riverside, Riverside County, California, 92508, United States of America",
+            "latitude": "33.8979116",
+            "longitude": "-117.3105194",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "paso robles": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6267654",
+            "longitude": "-120.6912455",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "main street usa": {
+            "closest_to": "los angeles",
+            "locType": "secondary",
+            "address": "Main Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "latitude": "34.1619793",
+            "longitude": "-118.3108771",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "antelope valley": {
+            "closest_to": "los angeles",
+            "locType": "college",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "latitude": "34.67743",
+            "longitude": "-118.1865629",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "hollywood": {
+            "closest_to": "los angeles",
+            "locType": "suburb",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1028268",
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "https://www.tripadvisor.in/Attractions-g32655-Activities-Los_Angeles_California.html",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "america": {
+            "closest_to": "bakersfield",
+            "locType": "residential",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "latitude": "36.2573198",
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "newport beach": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "latitude": "33.6170092",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles county": {
+            "closest_to": "los angeles",
+            "locType": "administrative",
+            "address": "Los Angeles County, California, United States of America",
+            "latitude": "34.3155072",
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "kettleman city": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "latitude": "36.008937",
+            "longitude": "-119.962676860725",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "us": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pismo beach": {
+            "closest_to": "bakersfield",
+            "locType": "city",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "latitude": "35.1427533",
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "orange county": {
+            "closest_to": "los angeles",
+            "locType": "administrative",
+            "address": "Orange County, California, United States of America",
+            "latitude": "33.7500378",
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "carlsbad": {
+            "closest_to": "los angeles",
+            "locType": "city",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "latitude": "33.1580933",
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "calico": {
+            "closest_to": "bakersfield",
+            "locType": "locality",
+            "address": "Calico, Kern County, California, United States of America",
+            "latitude": "35.6327332",
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "oregon": {
+            "closest_to": "los angeles",
+            "locType": "residential",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "latitude": "33.7123207",
+            "longitude": "-117.7911567",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "springville": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "Springville, Wilson Drive, Springville, Tulare County, California, United States of America",
+            "latitude": "36.123081",
+            "longitude": "-118.839739899248",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "california aqueduct": {
+            "closest_to": "bakersfield",
+            "locType": "canal",
+            "address": "California Aqueduct, Fresno County, California, United States of America",
+            "latitude": "36.2979299",
+            "longitude": "-120.1567036",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        }
+    }
+}

@@ -1,0 +1,5 @@
+splitrows col: column1 on: '\n' quote: '\"'
+split col: column1 on: ',' quote: '\"'
+replace col: * with: '' on: '\"' global: true
+header
+join with: enroute_items_wO_aggregation_txt col: attraction_in = current_dataset.attraction_in, no_of_attractions = current_dataset.no_of_attractions, no_of_reviews = enroute_items_wO_aggregation_txt.no_of_reviews, url = enroute_items_wO_aggregation_txt.url, reviewComment = enroute_items_wO_aggregation_txt.reviewComment, activity_type = enroute_items_wO_aggregation_txt.activity_type, rank = enroute_items_wO_aggregation_txt.rank, max_rank = enroute_items_wO_aggregation_txt.max_rank, attraction = enroute_items_wO_aggregation_txt.attraction, contact_no = enroute_items_wO_aggregation_txt.contact_no, knownFor = enroute_items_wO_aggregation_txt.knownFor, address = enroute_items_wO_aggregation_txt.address, pinCode = enroute_items_wO_aggregation_txt.pinCode row: current_dataset.attraction_in == enroute_items_wO_aggregation_txt.attraction_in

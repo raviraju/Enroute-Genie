@@ -1,0 +1,927 @@
+{
+    "bakersfield": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-119.0194638",
+        "lat": "35.3738712",
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "importance": 0.74358237824296,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "113006",
+        "display_name": "Bakersfield, Kern County, California, United States of America",
+        "type": "city",
+        "place_id": "158454478"
+    },
+    "los angeles": {
+        "type": "city",
+        "class": "place",
+        "lat": "34.0543942",
+        "lon": "-118.2439408",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "osm_type": "relation",
+        "importance": 1.0289952798766,
+        "boundingbox": [
+            "33.7036216",
+            "34.337306",
+            "-118.6681901",
+            "-118.1552946"
+        ],
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "207359",
+        "display_name": "LA, Los Angeles County, California, United States of America",
+        "place_id": "159250198"
+    },
+    "mentions": {
+        "san diego": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7174209",
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "napa valley": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Napa Valley, Cold Spring, Campbell County, Kentucky, 41076, United States of America",
+            "latitude": "39.0234679",
+            "longitude": "-84.4504647",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "monterey bay": {
+            "closest_to": "",
+            "locType": "bay",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "latitude": "36.7999557",
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "california-nevada": {
+            "closest_to": "",
+            "locType": "hotel",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "latitude": "36.17310935",
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "cambria": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "latitude": "35.5641381",
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "angels camp": {
+            "closest_to": "",
+            "locType": "village",
+            "address": "Angels Camp, Calaveras County, California, United States of America",
+            "latitude": "38.0682555",
+            "longitude": "-120.5396455",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "la tolteca": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Tolteca Court, Snoboy, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America",
+            "latitude": "37.5085864",
+            "longitude": "-121.9266381",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "interstate 80": {
+            "closest_to": "",
+            "locType": "motorway",
+            "address": "Interstate 10, Desert Center, Riverside County, California, 92239, United States of America",
+            "latitude": "33.704135",
+            "longitude": "-115.44222",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "capitola": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Capitola, Santa Cruz County, California, United States of America",
+            "latitude": "36.9762927",
+            "longitude": "-121.9540576",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "san francisco bay": {
+            "closest_to": "",
+            "locType": "bay",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "latitude": "37.708264",
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles aqueduct": {
+            "closest_to": "",
+            "locType": "canal",
+            "address": "Los Angeles Aqueduct, Inyo County, California, United States of America",
+            "latitude": "36.6516297",
+            "longitude": "-118.0956309",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "bay area of california": {
+            "closest_to": "",
+            "locType": "region",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "latitude": "37.7884969",
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "broadway spring center": {
+            "closest_to": "",
+            "locType": "secondary",
+            "address": "Broadway, Spring Valley, San Diego County, California, 91941, United States of America",
+            "latitude": "32.751389",
+            "longitude": "-117.0122529",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "bradley": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Bradley, Dixie Street, Bradley, Monterey County, California, United States of America",
+            "latitude": "35.862856",
+            "longitude": "-120.803695455663",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "s.f.": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "California, Bosque de Canalejas, Jilotepec, M\u00e9xico, 54270, M\u00e9xico",
+            "latitude": "19.9908291",
+            "longitude": "-99.6183945",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "fresno": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "latitude": "36.748793",
+            "longitude": "-119.714839601149",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "california": {
+            "closest_to": "",
+            "locType": "village",
+            "address": "California, Santander, Colombia",
+            "latitude": "7.3480915",
+            "longitude": "-72.945787",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.yelp.com/biz/interstate-5-los-angeles",
+                "http://gocalifornia.about.com/od/BestInCalifornia/",
+                "https://www.tripadvisor.in/Attractions-g32655-Activities-Los_Angeles_California.html"
+            ]
+        },
+        "silicon valley": {
+            "closest_to": "",
+            "locType": "school",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "latitude": "37.4105333",
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pismo": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Pismo, La Paz, Baja California Sur, 23206, M\u00e9xico",
+            "latitude": "24.1378257",
+            "longitude": "-110.3437034",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "humboldt county": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Humboldt County, California, United States of America",
+            "latitude": "40.5997415",
+            "longitude": "-123.8997733",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "l.a.": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "latitude": "-13.8305494",
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "california state railroad museum": {
+            "closest_to": "",
+            "locType": "museum",
+            "address": "California State Railroad Museum, 125, I Street, Sacramento, Sacramento County, California, 95814, United States of America",
+            "latitude": "38.5846424",
+            "longitude": "-121.5038909",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "fort bragg": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Fort Bragg, Mendocino County, California, United States of America",
+            "latitude": "39.4447345",
+            "longitude": "-123.802699105743",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "jamestown": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Jamestown, Golden Oaks Drive, Volponi Acres, Tuolumne County, California, 95327, United States of America",
+            "latitude": "37.9588565",
+            "longitude": "-120.404431068133",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "grass valley": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Grass Valley, Nevada County, California, United States of America",
+            "latitude": "39.2086655",
+            "longitude": "-121.053122977412",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "pacific": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "latitude": "38.7601815",
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "nevada city": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Nevada City, Nevada County, California, United States of America",
+            "latitude": "39.2615606",
+            "longitude": "-121.0160593",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "san francisco": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808",
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "https://www.yelp.com/biz/interstate-5-los-angeles",
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "san juan bautista": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "latitude": "36.8455173",
+            "longitude": "-121.5379893",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "owens river": {
+            "closest_to": "",
+            "locType": "river",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "latitude": "37.4100005",
+            "longitude": "-118.3819013",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "mir": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Mir Mirou Drive, Los Altos Hills, Santa Clara County, California, 94022, United States of America",
+            "latitude": "37.3823701",
+            "longitude": "-122.1700025",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "san simeon": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6438587",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pacific ocean": {
+            "closest_to": "",
+            "locType": "cliff",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "latitude": "36.16305775",
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "nevada": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Nevada County, California, United States of America",
+            "latitude": "39.3540335",
+            "longitude": "-120.8089842",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "griffith park": {
+            "closest_to": "",
+            "locType": "service",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "latitude": "38.68813",
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "south lake tahoe": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "latitude": "38.929125",
+            "longitude": "-119.987846390157",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa cruz": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "latitude": "36.9735903",
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "the grove": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "The Grove, Merced County, California, United States of America",
+            "latitude": "37.4038272",
+            "longitude": "-120.594918",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Los_Angeles-753836/Things_To_Do-Los_Angeles-TG-C-2.html"
+            ]
+        },
+        "mexico": {
+            "closest_to": "",
+            "locType": "village",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "latitude": "28.973",
+            "longitude": "-111.8196666",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "shaver lake": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Shaver Lake, Huntington Lake Road, Rock Haven, Fresno County, California, 93664, United States of America",
+            "latitude": "37.09684",
+            "longitude": "-119.320258225573",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "north lake tahoe": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "California Avenue, South Lake Tahoe, El Dorado County, California, 96150, United States of America",
+            "latitude": "38.9234058",
+            "longitude": "-119.9967051",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "hollister": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Hollister, San Benito County, California, United States of America",
+            "latitude": "36.8524545",
+            "longitude": "-121.401602",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "sacramento": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "latitude": "38.5815719",
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "el dorado county": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "El Dorado County, California, United States of America",
+            "latitude": "38.7574137",
+            "longitude": "-120.5276128",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mt shasta": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Mount Shasta, Siskiyou County, California, United States of America",
+            "latitude": "41.3098746",
+            "longitude": "-122.3105665",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "central valley": {
+            "closest_to": "",
+            "locType": "tower",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "latitude": "40.5626504",
+            "longitude": "-122.4530663",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "king city": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "King City, Monterey County, California, United States of America",
+            "latitude": "36.2127439",
+            "longitude": "-121.1260286",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "chinatown": {
+            "closest_to": "",
+            "locType": "neighbourhood",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "latitude": "37.7999301",
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ]
+        },
+        "monterey": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "latitude": "36.5844165",
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "yosemite national park": {
+            "closest_to": "",
+            "locType": "national_park",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "latitude": "37.84054795",
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mission soledad": {
+            "closest_to": "",
+            "locType": "place_of_worship",
+            "address": "Mission Soledad, 36641, Fort Romie Road, Los Coche Adobe, Fort Romie, Monterey County, California, 93960, United States of America",
+            "latitude": "36.4046865",
+            "longitude": "-121.3560421",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "sierra mountain": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065",
+            "longitude": "-120.530573",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/BestInCalifornia/"
+            ]
+        },
+        "pinecrest": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Pinecrest, Nevada County, California, United States of America",
+            "latitude": "39.1626734",
+            "longitude": "-120.9682776",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "malibu": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7932142",
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "ca": {
+            "closest_to": "",
+            "locType": "postcode",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "latitude": "37.8242285466918",
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "mariposa": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Mariposa County, California, United States of America",
+            "latitude": "37.570148",
+            "longitude": "-119.9036591",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "lake tahoe": {
+            "closest_to": "",
+            "locType": "water",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "latitude": "39.0888982",
+            "longitude": "-120.050511752934",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "transverse range": {
+            "closest_to": "",
+            "locType": "unclassified",
+            "address": "Transverse Drive, Richmond District, SF, California, 94121, United States of America",
+            "latitude": "37.7716493",
+            "longitude": "-122.4815799",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "bear mountain road": {
+            "closest_to": "",
+            "locType": "tertiary",
+            "address": "Bear Mountain Road, Sherman, Shasta County, California, United States of America",
+            "latitude": "40.721773",
+            "longitude": "-122.2381749",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "columbia": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Columbia, Maiden Lane, Columbia, Tuolumne County, California, 95310, United States of America",
+            "latitude": "38.03227005",
+            "longitude": "-120.402418618899",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "anza-borrego desert": {
+            "closest_to": "",
+            "locType": "protected_area",
+            "address": "Anza-Borrego Desert State Park, Palm Canyon Drive, Borrego, San Diego County, California, 92004, United States of America",
+            "latitude": "33.2528053",
+            "longitude": "-116.330414288395",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "monterey aquarium": {
+            "closest_to": "",
+            "locType": "aquarium",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "latitude": "36.61809095",
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "santa nella": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "latitude": "38.497135",
+            "longitude": "-122.9666643",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k3555418-What_to_see_what_to_do_between_las_Vegas_and_Los_Angeles-California.html"
+            ]
+        },
+        "truckee": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "Truckee, Nevada County, California, United States of America",
+            "latitude": "39.327962",
+            "longitude": "-120.1832532",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "kettleman": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Kettleman, San Joaquin County, California, United States of America",
+            "latitude": "38.1163906",
+            "longitude": "-121.2436738",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf"
+            ]
+        },
+        "sharktooth hill": {
+            "closest_to": "",
+            "locType": "stream",
+            "address": "Sharktooth Creek, Fresno County, California, United States of America",
+            "latitude": "37.5043392",
+            "longitude": "-119.0249924",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "route 101": {
+            "closest_to": "",
+            "locType": "bar",
+            "address": "Route 101, 1332, Van Ness Avenue, Japantown, SF, California, 94109, United States of America",
+            "latitude": "37.7881229",
+            "longitude": "-122.4216319",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "jolon": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Jolon, Monterey County, California, United States of America",
+            "latitude": "35.9708004",
+            "longitude": "-121.1760321",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "las vegas": {
+            "closest_to": "",
+            "locType": "hotel",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "latitude": "36.17310935",
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "sonora": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "latitude": "37.9840911",
+            "longitude": "-120.382138",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "sierra nevada": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "latitude": "39.097593",
+            "longitude": "-121.1396689",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "yosemite": {
+            "closest_to": "",
+            "locType": "attraction",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.7488554",
+            "longitude": "-119.5893389",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "eureka": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Eureka, Humboldt County, California, United States of America",
+            "latitude": "40.8020712",
+            "longitude": "-124.1636728",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "sierra foothills": {
+            "closest_to": "",
+            "locType": "secondary",
+            "address": "Sierra Road, Berryessa, San Jos\u00e9, Santa Clara County, California, 95132, United States of America",
+            "latitude": "37.3933656",
+            "longitude": "-121.8609818",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ]
+        },
+        "washington": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "latitude": "40.0657724",
+            "longitude": "-79.8918435",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "carmel": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "latitude": "38.75511285",
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "san jose": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "latitude": "37.3361905",
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "bay bridge": {
+            "closest_to": "",
+            "locType": "abandoned",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "latitude": "37.8193514",
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "northern california": {
+            "closest_to": "",
+            "locType": "locality",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7349196",
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ]
+        },
+        "seattle": {
+            "closest_to": "",
+            "locType": "residential",
+            "address": "Seattle, Dorris, Siskiyou County, California, 96023, United States of America",
+            "latitude": "41.9641881",
+            "longitude": "-121.9226289",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "u.s.": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "latitude": "-32.5446226",
+            "longitude": "-61.5489543",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        },
+        "san joaquin valley": {
+            "closest_to": "",
+            "locType": "administrative",
+            "address": "San Joaquin County, California, United States of America",
+            "latitude": "37.9372901",
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ]
+        },
+        "sacramento river": {
+            "closest_to": "",
+            "locType": "river",
+            "address": "Sacramento River, Glenn County, California, United States of America",
+            "latitude": "39.5840295",
+            "longitude": "-121.9960598",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/points-interest-driving-los-angeles-lake-tahoe-105953.html"
+            ]
+        },
+        "salinas": {
+            "closest_to": "",
+            "locType": "city",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "latitude": "36.6744117",
+            "longitude": "-121.6550371",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5349841-Bakersfield_to_San_Fransico_drive-California.html"
+            ]
+        },
+        "central california": {
+            "closest_to": "",
+            "locType": "hamlet",
+            "address": "Central, Yolo County, California, United States of America",
+            "latitude": "38.392688",
+            "longitude": "-121.573011",
+            "blogLinks": [
+                "https://www.yelp.com/biz/interstate-5-los-angeles"
+            ]
+        }
+    }
+}
