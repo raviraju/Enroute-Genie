@@ -1,0 +1,881 @@
+{
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.248367"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "jerusalem": {
+            "latitude": "40.5175442",
+            "closest_to": "",
+            "address": "Jerusalem Creek, Shasta County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.7581059"
+        },
+        "ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/"
+            ],
+            "longitude": "-117.249321"
+        },
+        "bodie state historic park": {
+            "latitude": "38.2154734",
+            "closest_to": "",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0109761"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "' ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/"
+            ],
+            "longitude": "-117.249321"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "tonga": {
+            "latitude": "32.579494",
+            "closest_to": "",
+            "address": "Via Tonga, Otay Mesa West, San Ysidro, San Diego, San Diego County, California, 92154, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.0612559"
+        },
+        "trona": {
+            "latitude": "35.7627322",
+            "closest_to": "",
+            "address": "Trona, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.3728345"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "fort irwin": {
+            "latitude": "35.2627527",
+            "closest_to": "",
+            "address": "Fort Irwin, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.6847523"
+        },
+        "east los angeles": {
+            "latitude": "34.0239015",
+            "closest_to": "",
+            "address": "East Los Angeles, Belvedere Gardens, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1720156"
+        },
+        "palmdale": {
+            "latitude": "34.5793131",
+            "closest_to": "",
+            "address": "Palmdale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1171107"
+        },
+        "morocco": {
+            "latitude": "35.7806169",
+            "closest_to": "",
+            "address": "California, Tanger-Medina \u2d5f\u2d30\u2d4f\u2d4a\u2d30 \u2d5c\u2d49\u2d56\u2d55\u2d4e\u2d5c \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, arrondissement de Tanger-Medina \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, Tanger \u2d5c\u2d49\u2d4f \u2d49\u2d33\u2d33\u2d49 \u0637\u0646\u062c\u0629, pachalik de Tanger \u0637\u0646\u062c\u0629, Pr\u00e9fecture de Tanger-Assilah \u0639\u0645\u0627\u0644\u0629 \u0637\u0646\u062c\u0629-\u0623\u0635\u064a\u0644\u0629, Tanger-T\u00e9touan-Al Hoceima \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629-\u062a\u0637\u0648\u0627\u0646-\u0627\u0644\u062d\u0633\u064a\u0645\u0629, 90005, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-5.8368526"
+        },
+        "boonville": {
+            "latitude": "39.0091667",
+            "closest_to": "",
+            "address": "Boonville, Mendocino County, California, 95415, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.366111"
+        },
+        "santa fe springs": {
+            "latitude": "33.9482434",
+            "closest_to": "",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0676102"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://movie-tourist.blogspot.com/2015/08/dirty-harry-1971.html",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "yermo": {
+            "latitude": "34.9049849",
+            "closest_to": "",
+            "address": "Yermo, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8203126"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/sausalito"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "central valley": {
+            "latitude": "40.5626504",
+            "closest_to": "",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-122.4530663"
+        },
+        "aguanga": {
+            "latitude": "33.4428094",
+            "closest_to": "",
+            "address": "Aguanga, Riverside County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8650234"
+        },
+        "napa valley": {
+            "latitude": "39.0234679",
+            "closest_to": "",
+            "address": "Napa Valley, Cold Spring, Campbell County, Kentucky, 41076, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.upout.com/blog/san-francisco-3/7-easy-weekend-getaways-within-100-miles-of-san-francisco"
+            ],
+            "longitude": "-84.4504647"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "closest_to": "",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/"
+            ],
+            "longitude": "-117.8984509"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "woodland hills": {
+            "latitude": "34.1683386",
+            "closest_to": "",
+            "address": "Woodland Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.6059196"
+        },
+        "baldwin park": {
+            "latitude": "34.0854739",
+            "closest_to": "",
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.961176"
+        },
+        "mentone": {
+            "latitude": "34.05884",
+            "closest_to": "",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.109606374724"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "inglewood": {
+            "latitude": "33.9616801",
+            "closest_to": "",
+            "address": "Inglewood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.353131"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/sausalito",
+                "http://movie-tourist.blogspot.com/2015/08/dirty-harry-1971.html"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.92944"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "sylmar": {
+            "latitude": "34.3076252",
+            "closest_to": "",
+            "address": "Sylmar, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4492147"
+        },
+        "tulelake": {
+            "latitude": "41.9559885",
+            "closest_to": "",
+            "address": "Tulelake, Siskiyou County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.4774915"
+        },
+        "hopland": {
+            "latitude": "38.9729542",
+            "closest_to": "",
+            "address": "Hopland, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.1163917"
+        },
+        "southern pacific": {
+            "latitude": "34.391601",
+            "closest_to": "",
+            "address": "Southern Pacific, Fillmore, Ventura County, California, 93015, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/sausalito"
+            ],
+            "longitude": "-118.9223619"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "capitola": {
+            "latitude": "36.9762927",
+            "closest_to": "",
+            "address": "Capitola, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.upout.com/blog/san-francisco-3/7-easy-weekend-getaways-within-100-miles-of-san-francisco"
+            ],
+            "longitude": "-121.9540576"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.55089"
+        },
+        "coalinga": {
+            "latitude": "36.1298952",
+            "closest_to": "",
+            "address": "Coalinga, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.245046293019"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "brighton state beach": {
+            "latitude": "36.98295",
+            "closest_to": "",
+            "address": "New Brighton State Beach, Capitola, Santa Cruz County, California, 95010, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.upout.com/blog/san-francisco-3/7-easy-weekend-getaways-within-100-miles-of-san-francisco"
+            ],
+            "longitude": "-121.9361699"
+        },
+        "apple valley": {
+            "latitude": "34.5008311",
+            "closest_to": "",
+            "address": "Apple Valley, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.1858758"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "buena park": {
+            "latitude": "33.870413",
+            "closest_to": "",
+            "address": "Buena Park, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9962164"
+        },
+        "texas": {
+            "latitude": "29.7181118",
+            "closest_to": "",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://movie-tourist.blogspot.com/2015/08/dirty-harry-1971.html"
+            ],
+            "longitude": "-94.997906"
+        },
+        "ukiah": {
+            "latitude": "39.1501662",
+            "closest_to": "",
+            "address": "Ukiah, Mendocino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.207786"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "oroville": {
+            "latitude": "39.5137752",
+            "closest_to": "",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.5563589"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "garberville": {
+            "latitude": "40.1005685",
+            "closest_to": "",
+            "address": "Garberville, Humboldt County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.7961393"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "new york city": {
+            "latitude": "40.767819",
+            "closest_to": "",
+            "address": "California Sea Lion, 830, 5th Avenue, Upper East Side, Manhattan, New York County, NYC, New York, 10035, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-73.9717587"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "califia": {
+            "latitude": "34.4290422",
+            "closest_to": "",
+            "address": "Califia Court, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.8065791"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.147366"
+        },
+        "willow creek": {
+            "latitude": "40.9395774",
+            "closest_to": "",
+            "address": "Willow Creek, Humboldt County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.6314411"
+        },
+        "bay": {
+            "latitude": "33.6899249",
+            "closest_to": "",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-117.7729354"
+        },
+        "glendora": {
+            "latitude": "34.1361187",
+            "closest_to": "",
+            "address": "Glendora, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.8653389"
+        },
+        "lemoore": {
+            "latitude": "36.3007835",
+            "closest_to": "",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.7829106"
+        },
+        "whittier": {
+            "latitude": "33.9748932",
+            "closest_to": "",
+            "address": "Whittier, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0336974"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "arcata": {
+            "latitude": "40.8665166",
+            "closest_to": "",
+            "address": "Arcata, Humboldt County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-124.0828395"
+        },
+        "north hollywood": {
+            "latitude": "34.1729044",
+            "closest_to": "",
+            "address": "North Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.374037"
+        },
+        "gold country": {
+            "latitude": "35.300501",
+            "closest_to": "",
+            "address": "Gold Country Way, Bakersfield, Kern County, California, 93311, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-119.0856049"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/",
+                "http://movie-tourist.blogspot.com/2015/08/dirty-harry-1971.html",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.bestplaces.net/city/california/sausalito",
+                "https://www.thecrazytourist.com/top-15-things-stockton-ca/",
+                "http://www.sfgate.com/news/article/Stockton-travel-destination-Wall-Hub-San-Francisco-7668350.php"
+            ],
+            "longitude": "-72.945787"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.0172076"
+        }
+    },
+    "sausalito": {
+        "type": "administrative",
+        "osm_id": "2829689",
+        "class": "boundary",
+        "importance": 0.64561533453658,
+        "lat": "37.8590272",
+        "lon": "-122.4854693",
+        "boundingbox": [
+            "37.8436795",
+            "37.8731429",
+            "-122.5102612",
+            "-122.4753744"
+        ],
+        "display_name": "Sausalito, Marin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "place_id": "159575624",
+        "osm_type": "relation"
+    }
+}
