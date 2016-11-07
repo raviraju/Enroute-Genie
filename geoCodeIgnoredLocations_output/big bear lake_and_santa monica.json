@@ -1,0 +1,884 @@
+{
+    "santa monica": {
+        "boundingbox": [
+            "33.9666583",
+            "34.05056",
+            "-118.5513434",
+            "-118.4434259"
+        ],
+        "lon": "-118.4869738",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.84972348720023,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.0195598",
+        "osm_id": "3353288",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159526581",
+        "display_name": "Santa Monica, Los Angeles County, California, United States of America"
+    },
+    "big bear lake": {
+        "boundingbox": [
+            "34.2375569",
+            "34.2689983",
+            "-116.9775303",
+            "-116.8663043"
+        ],
+        "importance": 0.80624782713774,
+        "class": "natural",
+        "osm_id": "4045674",
+        "type": "water",
+        "lon": "-116.932209587315",
+        "osm_type": "relation",
+        "place_id": "159717820",
+        "lat": "34.253293",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
+    },
+    "mentions": {
+        "republic of korea": {
+            "longitude": "127.1131806",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "37.397072",
+            "address": "California Pizza Kitchen, \ubd84\ub2f9-\ub0b4\uace1 \ub3c4\uc2dc\uace0\uc18d\ud654\ub3c4\ub85c (Bundang-Naegok Metro Expressway), \ubd84\ub2f9\uad6c, \uc131\ub0a8\uc2dc (Seongnam), \uacbd\uae30, 13529, \ub300\ud55c\ubbfc\uad6d",
+            "locType": "restaurant"
+        },
+        "monterey bay": {
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.7999557",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay"
+        },
+        "l.a.": {
+            "longitude": "-67.9369134",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "-13.8305494",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet"
+        },
+        "san luis obispo county": {
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "35.3540209",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "donner lake rim": {
+            "longitude": "-120.3406539",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "",
+            "latitude": "39.349315",
+            "address": "Donner Lake Rim Trail, Donner, Nevada County, California, 95724, United States of America",
+            "locType": "footway"
+        },
+        "chicago": {
+            "longitude": "-122.2872948",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "37.7850531",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "hermosa": {
+            "longitude": "-121.8724176",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "38.0172961",
+            "address": "Hermosa, Pittsburg, Contra Costa County, California, 94565, United States of America",
+            "locType": "residential"
+        },
+        "rome": {
+            "longitude": "12.7977613",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "41.9628634",
+            "address": "California, Via della Missione, Tivoli, Paterno, Tivoli, RM, LAZ, 00019, Italia",
+            "locType": "pub"
+        },
+        "santa cruz mountains.the": {
+            "longitude": "-122.0712855",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.2188403",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "creek valley": {
+            "longitude": "-123.0482197",
+            "blogLinks": [
+                "https://www.vrbo.com/vacation-rentals/usa/california"
+            ],
+            "closest_to": "",
+            "latitude": "39.3751013",
+            "address": "Creek, Mendocino County, California, United States of America",
+            "locType": "stream"
+        },
+        "el campo santo": {
+            "longitude": "-117.1936458",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/"
+            ],
+            "closest_to": "",
+            "latitude": "32.751439",
+            "address": "El Campo Santo, San Diego Avenue, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "park"
+        },
+        "north street beach": {
+            "longitude": "-122.9648772",
+            "blogLinks": [
+                "https://www.vrbo.com/vacation-rentals/usa/california"
+            ],
+            "closest_to": "",
+            "latitude": "38.2510961",
+            "address": "North Street, Dillon Beach, Marin County, California, 94929, United States of America",
+            "locType": "residential"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "south bay": {
+            "longitude": "-122.4927499",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.794096",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay"
+        },
+        "santa clara county": {
+            "longitude": "-121.6846348",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.2333253",
+            "address": "Santa Clara County, California, United States of America",
+            "locType": "administrative"
+        },
+        "united kingdom": {
+            "longitude": "-1.9796882",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html"
+            ],
+            "closest_to": "",
+            "latitude": "52.4422729",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village"
+        },
+        "pacific crest trail": {
+            "longitude": "-120.6375709",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "",
+            "latitude": "38.69418",
+            "address": "Pacific Crest Trail, Pleasant Valley, El Dorado County, California, 95667, United States of America",
+            "locType": "residential"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/",
+                "https://www.tripadvisor.com/",
+                "http://bestwesterncalifornia.com/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.distance-cities.com/california"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "u.s.": {
+            "longitude": "-61.5489543",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "",
+            "latitude": "-32.5446226",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet"
+        },
+        "ca california": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "lucerne": {
+            "longitude": "-122.7963805",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "",
+            "latitude": "39.0901709",
+            "address": "Lucerne, Lake County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "napa valley": {
+            "longitude": "-84.4504647",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html"
+            ],
+            "closest_to": "",
+            "latitude": "39.0234679",
+            "address": "Napa Valley, Cold Spring, Campbell County, Kentucky, 41076, United States of America",
+            "locType": "residential"
+        },
+        "desert view trail": {
+            "longitude": "-116.4139785",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "",
+            "latitude": "32.8658996",
+            "address": "Desert View Trail, Mount Laguna, San Diego County, California, 91948, United States of America",
+            "locType": "footway"
+        },
+        "south lake tahoe": {
+            "longitude": "-119.987846390157",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.929125",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city"
+        },
+        "chilnualna falls": {
+            "longitude": "-119.633114",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "",
+            "latitude": "37.5486657",
+            "address": "North Chilnualna Falls Road, North Wawona, Mariposa County, California, 95389, United States of America",
+            "locType": "residential"
+        },
+        "cambria": {
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html"
+            ],
+            "closest_to": "",
+            "latitude": "35.5641381",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "surf city usa": {
+            "longitude": "-120.6349548",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8588436",
+            "address": "Surf City, Tuolumne County, California, United States of America",
+            "locType": "rapids"
+        },
+        "time square": {
+            "longitude": "-121.2515766",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "37.9370142",
+            "address": "Time Square Lane, Stockton, San Joaquin County, California, 95206, United States of America",
+            "locType": "residential"
+        },
+        "creek": {
+            "longitude": "-123.0482197",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "",
+            "latitude": "39.3751013",
+            "address": "Creek, Mendocino County, California, United States of America",
+            "locType": "stream"
+        },
+        "golden state": {
+            "longitude": "-121.9619226",
+            "blogLinks": [
+                "http://bestwesterncalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "39.6712719",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island"
+        },
+        "conde street": {
+            "longitude": "-117.1894746",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7574331",
+            "address": "Conde Street, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "residential"
+        },
+        "california-nevada": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "santa": {
+            "longitude": "-80.3796642",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "",
+            "latitude": "22.4804035",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet"
+        },
+        "morro bay": {
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html"
+            ],
+            "closest_to": "",
+            "latitude": "35.3658075",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "el dorado county": {
+            "longitude": "-120.5276128",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.7574137",
+            "address": "El Dorado County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "oakhurst": {
+            "longitude": "-119.657244022836",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.333178",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "locType": "administrative"
+        },
+        "lake tahoe": {
+            "longitude": "-120.050511752934",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://bestwesterncalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "39.0888982",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water"
+        },
+        "solano county": {
+            "longitude": "-121.9163554",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.2218938",
+            "address": "Solano County, California, United States of America",
+            "locType": "administrative"
+        },
+        "angel": {
+            "longitude": "-122.0138833",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/"
+            ],
+            "closest_to": "",
+            "latitude": "37.8250671",
+            "address": "Angel, Danville, Contra Costa County, California, 94526, United States of America",
+            "locType": "residential"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "humboldt county": {
+            "longitude": "-123.8997733",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "40.5997415",
+            "address": "Humboldt County, California, United States of America",
+            "locType": "administrative"
+        },
+        "beach haven": {
+            "longitude": "-121.4768049",
+            "blogLinks": [
+                "https://www.vrbo.com/vacation-rentals/usa/california"
+            ],
+            "closest_to": "",
+            "latitude": "38.421861",
+            "address": "Beach Haven Court, Elk Grove, Sacramento County, California, 95758, United States of America",
+            "locType": "residential"
+        },
+        "yosemite": {
+            "longitude": "-119.5893389",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html"
+            ],
+            "closest_to": "",
+            "latitude": "37.7488554",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction"
+        },
+        "san francisco bay area of california": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "sandusky county": {
+            "longitude": "-120.8679252",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "39.4898877",
+            "address": "Sandusky Creek, Sierra County, California, United States of America",
+            "locType": "stream"
+        },
+        "lake": {
+            "longitude": "-122.7776555",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "",
+            "latitude": "39.0505411",
+            "address": "Lake County, California, United States of America",
+            "locType": "administrative"
+        },
+        "calistoga": {
+            "longitude": "-122.583325948608",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.582615",
+            "address": "Calistoga, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "california": {
+            "longitude": "-72.945787",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.bigbear.com/things-to-do/",
+                "http://www.tripleblaze.com/best/?c=8",
+                "https://www.tripadvisor.com/",
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles",
+                "http://bestwesterncalifornia.com/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://www.distance-cities.com/california"
+            ],
+            "closest_to": "",
+            "latitude": "7.3480915",
+            "address": "California, Santander, Colombia",
+            "locType": "village"
+        },
+        "northern california": {
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7349196",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality"
+        },
+        "calico": {
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "35.6327332",
+            "address": "Calico, Kern County, California, United States of America",
+            "locType": "locality"
+        },
+        "america": {
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.2573198",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://bestwesterncalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "ocean city": {
+            "longitude": "-122.451380026325",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "",
+            "latitude": "37.72594135",
+            "address": "City College of San Francisco (CCSF) Ocean Campus, 50, Phelan Avenue, Ingleside, SF, California, 94112, United States of America",
+            "locType": "college"
+        },
+        "yosemite national park": {
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.84054795",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park"
+        },
+        "downtown la": {
+            "longitude": "-122.2715243",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "37.8036295",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood"
+        },
+        "silicon valley": {
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.4105333",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school"
+        },
+        "london": {
+            "longitude": "-119.4431784",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "36.4760619",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        },
+        "san diego avenue": {
+            "longitude": "-122.4666218",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.7084692",
+            "address": "San Diego Avenue, Ingleside, SF, California, 94112, United States of America",
+            "locType": "residential"
+        },
+        "mount shasta": {
+            "longitude": "-122.3105665",
+            "blogLinks": [
+                "http://bestwesterncalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "41.3098746",
+            "address": "Mount Shasta, Siskiyou County, California, United States of America",
+            "locType": "city"
+        },
+        "vallejo": {
+            "longitude": "-122.2566366",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.1040864",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific": {
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "38.7601815",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "china island": {
+            "longitude": "-120.1646242",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "",
+            "latitude": "33.9182749",
+            "address": "China Camp, Santa Rosa Island, California, United States of America",
+            "locType": "locality"
+        },
+        "old town san diego": {
+            "longitude": "-117.1969792",
+            "blogLinks": [
+                "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/"
+            ],
+            "closest_to": "",
+            "latitude": "32.7542167",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san jose": {
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.3361905",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.quora.com/Whats-a-unique-thing-to-do-in-Los-Angeles"
+            ],
+            "closest_to": "",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "monterey": {
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/ShowTopic-g32544-i5513-k4024330-Places_to_stop_between_San_Francisco_Palm_Springs-Joshua_Tree_California.html",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "36.5844165",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "redwood national park": {
+            "longitude": "-124.030095146171",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "",
+            "latitude": "41.27553155",
+            "address": "Redwood National Park, Redwood Creek Trail, Orick, Humboldt County, California, 95555, United States of America",
+            "locType": "national_park"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "griffith park": {
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "",
+            "latitude": "38.68813",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service"
+        },
+        "eureka": {
+            "longitude": "-124.1636728",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "40.8020712",
+            "address": "Eureka, Humboldt County, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "sacramento": {
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://bestwesterncalifornia.com/"
+            ],
+            "closest_to": "",
+            "latitude": "38.5815719",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city"
+        }
+    }
+}
