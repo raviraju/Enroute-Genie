@@ -1,0 +1,1879 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "carlsbad",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "san jose",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "san jose",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "west mission bay drive": {
+            "latitude": "32.764275",
+            "closest_to": "carlsbad",
+            "address": "West Mission Bay Drive, Old Town, San Diego, San Diego County, California, 92107, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2341419"
+        },
+        "cortez hill": {
+            "latitude": "32.721465",
+            "closest_to": "carlsbad",
+            "address": "Cortez Hill, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.159809"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "san jose",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "san diego central library": {
+            "latitude": "32.7088",
+            "closest_to": "carlsbad",
+            "address": "San Diego Central Library, 330, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "library",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1542279"
+        },
+        "palos verdes drive": {
+            "latitude": "37.5310595",
+            "closest_to": "san jose",
+            "address": "Palos Verdes Drive, San Mateo, San Mateo County, California, 94403, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-122.328956"
+        },
+        "crown point drive": {
+            "latitude": "32.793282",
+            "closest_to": "carlsbad",
+            "address": "Crown Point Drive, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2311629"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "carlsbad",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "redondo beach pier": {
+            "latitude": "33.8397546",
+            "closest_to": "san jose",
+            "address": "Redondo Pier Inn, South Pacific Coast Highway, Redondo Beach, Los Angeles County, California, 90277, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3853455"
+        },
+        "mount soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "san jose",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "san jose",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "carlsbad",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "carlsbad",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "belmont shore": {
+            "latitude": "33.7572435",
+            "closest_to": "san jose",
+            "address": "Belmont Shore, Long Beach, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1370106"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "carlsbad",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "san jose",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "carlsbad",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "san jose",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "carlsbad",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "burlap": {
+            "latitude": "33.8890214",
+            "closest_to": "san jose",
+            "address": "Burlap Avenue, Moreno Valley, Riverside County, California, 92551, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.2045009"
+        },
+        "gaslamp quarter": {
+            "latitude": "32.7109444",
+            "closest_to": "carlsbad",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1597028"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "san jose",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx",
+                "http://costarica.com/attractions/",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san jose",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "san jose",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "' arena boulevard": {
+            "latitude": "38.6430887",
+            "closest_to": "san jose",
+            "address": "Arena Boulevard, Sacramento, Sacramento County, California, 95834, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-121.5255377"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "san jose",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "san jose",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "san jose",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "park boulevard": {
+            "latitude": "32.7242198",
+            "closest_to": "carlsbad",
+            "address": "Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1511213"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "san jose",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "caribbean": {
+            "latitude": "33.81078775",
+            "closest_to": "san jose",
+            "address": "Pirates of the Caribbean, 50, Esplanade Road, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-117.921214705842"
+        },
+        "houston": {
+            "latitude": "34.4422871",
+            "closest_to": "san jose",
+            "address": "Houston, Plum Canyon, Canyon Country, Los Angeles County, California, 91351, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-118.4777157"
+        },
+        "cabrillo memorial drive": {
+            "latitude": "32.6999532",
+            "closest_to": "carlsbad",
+            "address": "Cabrillo Memorial Drive, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2480469"
+        },
+        "iowa": {
+            "latitude": "33.7127707",
+            "closest_to": "san jose",
+            "address": "Iowa, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-117.7875934"
+        },
+        "leucadia": {
+            "latitude": "33.0692223",
+            "closest_to": "carlsbad",
+            "address": "Leucadia, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.3026809"
+        },
+        "seaport village": {
+            "latitude": "32.7089976",
+            "closest_to": "carlsbad",
+            "address": "Seaport Village, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.170488716601"
+        },
+        "mission san diego": {
+            "latitude": "32.7808782",
+            "closest_to": "carlsbad",
+            "address": "Mission San Diego, Ward Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1109827"
+        },
+        "shelter island": {
+            "latitude": "32.7113133",
+            "closest_to": "carlsbad",
+            "address": "Shelter Island, San Diego, San Diego County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2300318"
+        },
+        "orosi valley": {
+            "latitude": "36.5449499",
+            "closest_to": "san jose",
+            "address": "Orosi, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-119.2873383"
+        },
+        "pfeiffer big sur state park": {
+            "latitude": "36.25330545",
+            "closest_to": "san jose",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.783295208903"
+        },
+        "harbor drive": {
+            "latitude": "34.5013497",
+            "closest_to": "san jose",
+            "address": "Harbor Drive, San Bernardino County, California, 92392, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2654027"
+        },
+        "coronado": {
+            "latitude": "32.6858854",
+            "closest_to": "carlsbad",
+            "address": "Coronado, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.183089"
+        },
+        "montana de oro state park": {
+            "latitude": "35.2714109",
+            "closest_to": "san jose",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.8888312"
+        },
+        "catalina islands": {
+            "latitude": "33.5827676",
+            "closest_to": "san jose",
+            "address": "Catalina Islands Street, Aliso Viejo, Orange County, California, 92656, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-117.71315"
+        },
+        "el paso": {
+            "latitude": "36.8487922",
+            "closest_to": "san jose",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "san jose",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "san jose",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "closest_to": "san jose",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "' island drive": {
+            "latitude": "37.7431747",
+            "closest_to": "san jose",
+            "address": "Island Drive, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.2377187"
+        },
+        "hotel del coronado": {
+            "latitude": "32.6803508",
+            "closest_to": "carlsbad",
+            "address": "Hotel Del Coronado, 1500, Orange Avenue, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1778919"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "san jose",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "san jose",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "playa blanca": {
+            "latitude": "33.047455",
+            "closest_to": "carlsbad",
+            "address": "Playa Blanca, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-117.2922519"
+        },
+        "lower cave": {
+            "latitude": "39.775448",
+            "closest_to": "san jose",
+            "address": "Lower Cave Trail, Chico, Butte County, California, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-121.7591079"
+        },
+        "belmont park": {
+            "latitude": "32.7709175",
+            "closest_to": "carlsbad",
+            "address": "Belmont Park, Ocean Front Walk, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.252157006201"
+        },
+        "vincent thomas bridge": {
+            "latitude": "33.7494878",
+            "closest_to": "san jose",
+            "address": "Vincent Thomas Bridge, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.2716112"
+        },
+        "torrey pines road": {
+            "latitude": "32.8491824",
+            "closest_to": "carlsbad",
+            "address": "Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2620194"
+        },
+        "north harbor drive": {
+            "latitude": "32.7118038",
+            "closest_to": "carlsbad",
+            "address": "North Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1726983"
+        },
+        "prospect street": {
+            "latitude": "32.8478832",
+            "closest_to": "carlsbad",
+            "address": "Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2741032"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "san jose",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "san jose",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "southern orange county beach": {
+            "latitude": "33.6301901",
+            "closest_to": "san jose",
+            "address": "Southern Hills Drive, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8689039"
+        },
+        "california resort": {
+            "latitude": "33.80638705",
+            "closest_to": "san jose",
+            "address": "DCA, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions"
+            ],
+            "longitude": "-117.919940244086"
+        },
+        "sports arena boulevard": {
+            "latitude": "32.7550644",
+            "closest_to": "carlsbad",
+            "address": "Sports Arena Boulevard, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2200137"
+        },
+        "catalina boulevard": {
+            "latitude": "32.7079443",
+            "closest_to": "carlsbad",
+            "address": "Catalina Boulevard, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2493992"
+        },
+        "bier garden": {
+            "latitude": "33.0441069",
+            "closest_to": "carlsbad",
+            "address": "Bier Garden, South Coast Highway 101, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "pub",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.293374002303"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "san jose",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "mission hills": {
+            "latitude": "32.7528279",
+            "closest_to": "carlsbad",
+            "address": "Mission Hills, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1869788"
+        },
+        "alabama": {
+            "latitude": "37.413435",
+            "closest_to": "san jose",
+            "address": "Alabama, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-118.6109719"
+        },
+        "national park": {
+            "latitude": "37.7488554",
+            "closest_to": "san jose",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "san jose",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "interstate freeway": {
+            "latitude": "33.7269731",
+            "closest_to": "carlsbad",
+            "address": "Interstate 10, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.2024855"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "san jose",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "chase palm park": {
+            "latitude": "34.41527625",
+            "closest_to": "san jose",
+            "address": "Chase Palm Park, East Cabrillo Boulevard, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.679267670006"
+        },
+        "la fortuna": {
+            "latitude": "40.5974067",
+            "closest_to": "san jose",
+            "address": "Fortuna, Humboldt County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-124.156034"
+        },
+        "mountain road": {
+            "latitude": "33.8076363",
+            "closest_to": "san jose",
+            "address": "Mountain Road, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.9208871"
+        },
+        "catalina": {
+            "latitude": "33.810513",
+            "closest_to": "san jose",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.920102663284"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "san jose",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "arista street": {
+            "latitude": "32.755437",
+            "closest_to": "carlsbad",
+            "address": "Arista Street, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1897859"
+        },
+        "goldfinch street": {
+            "latitude": "32.746819",
+            "closest_to": "carlsbad",
+            "address": "Goldfinch Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1713489"
+        },
+        "w. harbor drive": {
+            "latitude": "32.709333",
+            "closest_to": "carlsbad",
+            "address": "West Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1651666"
+        },
+        "la jolla parkway": {
+            "latitude": "32.8390806",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Parkway, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2361388"
+        },
+        "fifth avenue": {
+            "latitude": "38.0042562",
+            "closest_to": "san jose",
+            "address": "Fifth Avenue, Pinole, Contra Costa County, California, 94564, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.3023358"
+        },
+        "naples island": {
+            "latitude": "33.7559024",
+            "closest_to": "san jose",
+            "address": "Naples Islands, Long Beach, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1232477"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "san jose",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx",
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "north torrey pines road": {
+            "latitude": "32.9358252",
+            "closest_to": "carlsbad",
+            "address": "North Torrey Pines Road, Del Mar, San Diego, San Diego County, California, 92014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2608353"
+        },
+        "' ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "carlsbad",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.249321"
+        },
+        "hill street": {
+            "latitude": "32.724964",
+            "closest_to": "carlsbad",
+            "address": "Hill Street, San Diego, San Diego County, California, 92107, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2519229"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "san jose",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "carlsbad",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "san jose",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "mount soledad park": {
+            "latitude": "32.8411587",
+            "closest_to": "carlsbad",
+            "address": "Soledad Park, Soledad Park Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2439254"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "san jose",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "san jose",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "alamogordo": {
+            "latitude": "34.4364641",
+            "closest_to": "san jose",
+            "address": "Alamogordo Road, Saugus, Santa Clarita, Los Angeles County, California, 91350, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-118.5215448"
+        },
+        "newport avenue": {
+            "latitude": "32.7436805",
+            "closest_to": "carlsbad",
+            "address": "Newport Avenue, Old Town, San Diego, San Diego County, California, 92107, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2458648"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "san jose",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "central valley": {
+            "latitude": "40.5626504",
+            "closest_to": "san jose",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-122.4530663"
+        },
+        "stockton drive": {
+            "latitude": "37.9577016",
+            "closest_to": "san jose",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "san jose",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://costarica.com/attractions/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-120.507146"
+        },
+        "brooklyn": {
+            "latitude": "37.7857615",
+            "closest_to": "san jose",
+            "address": "Brooklyn Basin, Oakland, Alameda County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-122.24858"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "san jose",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "u.s.s.": {
+            "latitude": "36.7014631",
+            "closest_to": "san jose",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.smartdestinations.com/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go&allInc=true"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san jose",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "san jose",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "hermosa": {
+            "latitude": "38.0172961",
+            "closest_to": "san jose",
+            "address": "Hermosa, Pittsburg, Contra Costa County, California, 94565, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-121.8724176"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "san jose",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "san antonio": {
+            "latitude": "38.1838069",
+            "closest_to": "san jose",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://sg.answers.yahoo.com/question/index?qid=20070729085033AA5d8HI"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "tennessee": {
+            "latitude": "33.7116447",
+            "closest_to": "san jose",
+            "address": "Tennessee, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.7934117"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "san jose",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "gaffey street": {
+            "latitude": "36.9867714",
+            "closest_to": "san jose",
+            "address": "Gaffey Creek, Santa Cruz County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-121.7234429"
+        },
+        "hawaii": {
+            "latitude": "36.8347819",
+            "closest_to": "san jose",
+            "address": "Hawaii, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.7966952"
+        },
+        "mission bay drive": {
+            "latitude": "37.7703892",
+            "closest_to": "san jose",
+            "address": "Mission Bay Drive, Mission Creek, SF, California, 94158, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.3964262"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "san jose",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "soledad road": {
+            "latitude": "32.818256",
+            "closest_to": "carlsbad",
+            "address": "Soledad Road, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2413859"
+        },
+        "prepkitchen": {
+            "latitude": "32.7227877",
+            "closest_to": "carlsbad",
+            "address": "Prepkitchen Little Italy, 1660, India Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.1685125"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "carlsbad",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "broadway pier": {
+            "latitude": "32.7157143",
+            "closest_to": "carlsbad",
+            "address": "Broadway Pier, Loading Zone, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "pier",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.175060770741"
+        },
+        "washington street": {
+            "latitude": "32.7415883",
+            "closest_to": "carlsbad",
+            "address": "Washington Street, Kurtz Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1842757"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "san jose",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.smartdestinations.com/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go&allInc=true",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "carlsbad",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "redondo beach": {
+            "latitude": "33.8455911",
+            "closest_to": "san jose",
+            "address": "Redondo Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3886765"
+        },
+        "whaley house": {
+            "latitude": "32.7527886",
+            "closest_to": "carlsbad",
+            "address": "Whaley House Museum, San Diego Avenue, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1945865"
+        },
+        "carlsbad route": {
+            "latitude": "33.1580933",
+            "closest_to": "san jose",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "carlsbad california": {
+            "latitude": "33.1580933",
+            "closest_to": "san jose",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "beryl street": {
+            "latitude": "32.808758",
+            "closest_to": "carlsbad",
+            "address": "Beryl Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2316669"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "san jose",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://costarica.com/attractions/",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "golfito": {
+            "latitude": "37.4480471",
+            "closest_to": "san jose",
+            "address": "Golfland, 1199, Jacklin Road, Milpitas, Santa Clara County, California, 95035, United States of America",
+            "locType": "miniature_golf",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-121.890119828347"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "san jose",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "canon street": {
+            "latitude": "32.725689",
+            "closest_to": "carlsbad",
+            "address": "Canon Street, Old Town, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2373119"
+        },
+        "cuvier street": {
+            "latitude": "37.7334845",
+            "closest_to": "san jose",
+            "address": "Cuvier Street, Noe Valley, SF, California, 94112, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.4285744"
+        },
+        "santa monica freeway": {
+            "latitude": "34.0323355",
+            "closest_to": "san jose",
+            "address": "Santa Monica Freeway, Palms, LA, Los Angeles County, California, CA 90034, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3886136"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "carlsbad",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "norway": {
+            "latitude": "38.8246295",
+            "closest_to": "san jose",
+            "address": "Little Norway, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.0365723"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "san jose",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "san jose",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "legoland california": {
+            "latitude": "33.1278683",
+            "closest_to": "carlsbad",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san jose",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.396892"
+        },
+        "scott street": {
+            "latitude": "32.7231672",
+            "closest_to": "carlsbad",
+            "address": "Scott Street, Old Town, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2289215"
+        },
+        "carlsbad caverns": {
+            "latitude": "37.3072109",
+            "closest_to": "san jose",
+            "address": "Carlsbad Caverns Court, Newman, Stanislaus County, California, 95360, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-121.033348"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "san jose",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "petco park": {
+            "latitude": "32.70717575",
+            "closest_to": "carlsbad",
+            "address": "Petco Park, 100, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.156886653262"
+        },
+        "mission boulevard": {
+            "latitude": "32.799358",
+            "closest_to": "carlsbad",
+            "address": "Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2563629"
+        },
+        "old town san diego state historic park": {
+            "latitude": "32.7537731",
+            "closest_to": "carlsbad",
+            "address": "Old Town San Diego State Historic Park, Twiggs Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.194891467408"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "carlsbad",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego",
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "http://visitcarlsbad.com/attractions",
+                "http://www.smartdestinations.com/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go&allInc=true",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "san jose",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "carlsbad",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "presidio drive": {
+            "latitude": "32.7587998",
+            "closest_to": "carlsbad",
+            "address": "Presidio Drive, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1960775"
+        },
+        "catalina avenue": {
+            "latitude": "34.1340069",
+            "closest_to": "san jose",
+            "address": "Catalina Avenue, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1292997"
+        },
+        "pines road": {
+            "latitude": "39.6098793",
+            "closest_to": "san jose",
+            "address": "Four Pines, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-123.0127821"
+        },
+        "' ocean": {
+            "latitude": "33.9157306",
+            "closest_to": "san jose",
+            "address": "Ocean, Hawthorne, Los Angeles County, California, 90261, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-118.3763704"
+        },
+        "western united states": {
+            "latitude": "36.615671",
+            "closest_to": "san jose",
+            "address": "Western, San Benito County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.0670829"
+        },
+        "seaworld san diego": {
+            "latitude": "32.7659778",
+            "closest_to": "carlsbad",
+            "address": "SeaWorld San Diego, 500, Sea World Drive, Old Town, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.226626367006"
+        },
+        "santa fe": {
+            "latitude": "32.4395109",
+            "closest_to": "carlsbad",
+            "address": "Santa Fe, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-117.0336822"
+        },
+        "serra museum": {
+            "latitude": "32.7592166",
+            "closest_to": "carlsbad",
+            "address": "Juniper Serra Museum, Presidio Drive, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1939236"
+        },
+        "la jolla boulevard": {
+            "latitude": "32.8076713",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Boulevard, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2613568"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "san jose",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "lincoln": {
+            "latitude": "38.8598295",
+            "closest_to": "san jose",
+            "address": "Lincoln, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-121.342391957924"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "san jose",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san jose",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/",
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "http://visitcarlsbad.com/attractions",
+                "http://www.smartdestinations.com/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go&allInc=true",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://www.distancesfrom.com/us/directions-from-San-Jose-to-Carlsbad/DirectionHistory/21128930.aspx",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://visitcarlsbad.com/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "san jose",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "bird rock": {
+            "latitude": "38.23009225",
+            "closest_to": "san jose",
+            "address": "Bird Rock, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.994310613508"
+        },
+        "torrey pines": {
+            "latitude": "33.6004207",
+            "closest_to": "san jose",
+            "address": "Torrey Pines, Coto de Caza, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.5806448"
+        },
+        "ingraham street": {
+            "latitude": "32.7672782",
+            "closest_to": "carlsbad",
+            "address": "Ingraham Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2334356"
+        },
+        "san diego freeway": {
+            "latitude": "32.7285162",
+            "closest_to": "carlsbad",
+            "address": "San Diego Freeway, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1690377"
+        },
+        "fourth avenue": {
+            "latitude": "38.0024747",
+            "closest_to": "san jose",
+            "address": "Fourth Avenue, Pinole, Contra Costa County, California, 94564, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-122.3019445"
+        },
+        "carlsbad state beach": {
+            "latitude": "33.13596865",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad State Beach, Carlsbad Boulevard, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.cheapoair.com/miles-away/carlsbad-family-travel-guide/"
+            ],
+            "longitude": "-117.338366938891"
+        },
+        "south orange county": {
+            "latitude": "33.6589297",
+            "closest_to": "san jose",
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.667997530973"
+        },
+        "pacific beach": {
+            "latitude": "32.7978268",
+            "closest_to": "carlsbad",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-117.2403182"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san jose",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "taylor street": {
+            "latitude": "33.8797864",
+            "closest_to": "san jose",
+            "address": "Taylor Street, North Long Beach, Long Beach, Los Angeles County, California, 90805, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-118.2071834"
+        },
+        "east village": {
+            "latitude": "35.5663603",
+            "closest_to": "san jose",
+            "address": "East Village, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.thrillist.com/eat/san-diego/where-to-eat-and-drink-in-san-diego"
+            ],
+            "longitude": "-121.0788022"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "san jose",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "carlsbad",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "torrey": {
+            "latitude": "32.9573985",
+            "closest_to": "carlsbad",
+            "address": "Torrey Pines High School, Del Mar Heights Road, Del Mar, San Diego, San Diego County, California, 92130, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.224896678294"
+        },
+        "hidden valley road": {
+            "latitude": "34.1217136",
+            "closest_to": "san jose",
+            "address": "Hidden Valley Road, Hidden Valley Estates, Valley Village, LA, Los Angeles County, California, 90210, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-118.4026282"
+        }
+    },
+    "san jose": {
+        "type": "city",
+        "osm_id": "112143",
+        "class": "place",
+        "importance": 0.79127376502597,
+        "lat": "37.3361905",
+        "lon": "-121.8905832",
+        "boundingbox": [
+            "37.124503",
+            "37.4692175",
+            "-122.0456719",
+            "-121.5891529"
+        ],
+        "display_name": "San Jos\u00e9, Santa Clara County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159251412",
+        "osm_type": "relation"
+    }
+}

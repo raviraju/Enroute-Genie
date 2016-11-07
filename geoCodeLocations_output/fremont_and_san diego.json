@@ -1,0 +1,1491 @@
+{
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "fremont": {
+        "type": "city",
+        "osm_id": "111943",
+        "class": "place",
+        "importance": 0.70373394703995,
+        "lat": "37.5482697",
+        "lon": "-121.9885718",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159050638",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san diego",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "lake dolores": {
+            "latitude": "33.8330727",
+            "closest_to": "san diego",
+            "address": "Dolores, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2264594"
+        },
+        "museum of contemporary art san diego": {
+            "latitude": "32.8445548",
+            "closest_to": "san diego",
+            "address": "Museum of Contemporary Art San Diego, 700, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037-4291, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2779949"
+        },
+        "camino capistrano": {
+            "latitude": "33.5045525",
+            "closest_to": "san diego",
+            "address": "Camino Capistrano, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.6641659"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "fremont",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "san diego",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "san diego",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Fremont-to-San-Diego/FlightHistory/31548966.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "st. anthony": {
+            "latitude": "33.8449442",
+            "closest_to": "san diego",
+            "address": "Saints (St Anthony) Stadium, Clark Avenue, Bixby Knolls, Long Beach, Los Angeles County, California, 90712, United States of America",
+            "locType": "pitch",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.132889673818"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "san diego",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "mission creek rd.": {
+            "latitude": "33.329445",
+            "closest_to": "san diego",
+            "address": "Mission Creek Road, Winterwarm, San Diego County, California, 92028, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2382279"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san diego",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "fremont",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "san diego",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.sandiegostop10.com/SeeAndDo.aspx"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "san diego",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "closest_to": "fremont",
+            "address": "Yerba Buena Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3660816"
+        },
+        "main beach laguna": {
+            "latitude": "33.541692",
+            "closest_to": "san diego",
+            "address": "Main Beach, South Coast Highway, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.7847769"
+        },
+        "vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "san diego",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "san diego",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "san diego",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.108604"
+        },
+        "sin city": {
+            "latitude": "37.7771563",
+            "closest_to": "fremont",
+            "address": "Wong Tai Sin Temple, Balboa Street, Jordan Park, SF, California, 94121, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-122.4635886"
+        },
+        "colorado river": {
+            "latitude": "33.58648635",
+            "closest_to": "san diego",
+            "address": "Colorado River, Riviera Drive, East Blythe, Riverside County, California, 92225, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-114.542164096234"
+        },
+        "san francisco solano": {
+            "latitude": "38.21389995",
+            "closest_to": "fremont",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.458560315194"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "san diego",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "fremont",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-120.507146"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "san diego",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "fremont",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "atlanta": {
+            "latitude": "37.8129826",
+            "closest_to": "san diego",
+            "address": "Atlanta, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-121.1207728"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "san diego",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san diego",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "san diego",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "san diego",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "gaslamp quarter": {
+            "latitude": "32.7109444",
+            "closest_to": "san diego",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/"
+            ],
+            "longitude": "-117.1597028"
+        },
+        "redwood": {
+            "latitude": "33.45713595",
+            "closest_to": "san diego",
+            "address": "Redwood, Wolf Creek, Temecula, Riverside County, California, 92592, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-117.094843184352"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "san diego",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "otay lake reservoir": {
+            "latitude": "32.628006",
+            "closest_to": "san diego",
+            "address": "Lower Otay Reservoir, Eastlake Greens, San Diego County, California, 91915, United States of America",
+            "locType": "reservoir",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-116.926258556031"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "san diego",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "monterrey": {
+            "latitude": "32.5492861",
+            "closest_to": "san diego",
+            "address": "Monterrey, Mexicali, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-115.0704122"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "san diego",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "san diego",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "torrey pines": {
+            "latitude": "33.6004207",
+            "closest_to": "san diego",
+            "address": "Torrey Pines, Coto de Caza, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.5806448"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "fremont",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.timeanddate.com/worldclock/distances.html?n=224"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "san diego",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "bellagio": {
+            "latitude": "33.5203333",
+            "closest_to": "san diego",
+            "address": "Bellagio, Laguna Niguel, Orange County, California, 92677, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.7012358"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "san diego",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "fremont",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Fremont-to-San-Diego/FlightHistory/31548966.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "san diego mission rd.": {
+            "latitude": "32.784578",
+            "closest_to": "san diego",
+            "address": "San Diego Mission Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1091279"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "san diego",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "http://www.sandiego.org/",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "san diego",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "fremont",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "republic of california": {
+            "latitude": "34.0562192",
+            "closest_to": "san diego",
+            "address": "Republic Street, El Pueblo, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2397302"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "fremont",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "http://www.sandiegostop10.com/SeeAndDo.aspx"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "caribbean": {
+            "latitude": "33.81078775",
+            "closest_to": "san diego",
+            "address": "Pirates of the Caribbean, 50, Esplanade Road, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.921214705842"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "san diego",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "san diego river": {
+            "latitude": "32.7686163",
+            "closest_to": "san diego",
+            "address": "San Diego River, San Diego, San Diego County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1585474"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "san diego",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "closest_to": "san diego",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Fremont-to-San-Diego/FlightHistory/31548966.aspx"
+            ],
+            "longitude": "-121.9885718"
+        },
+        "states": {
+            "latitude": "36.7014631",
+            "closest_to": "san diego",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "el capitan": {
+            "latitude": "41.8690059",
+            "closest_to": "fremont",
+            "address": "El Capitan, Siskiyou County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-123.6122864"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "san diego",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.147366"
+        },
+        "torrey pines state beach": {
+            "latitude": "32.91754945",
+            "closest_to": "san diego",
+            "address": "Torrey Pines State Beach, Yucca Point Trail, Del Mar, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.259044437013"
+        },
+        "st. louis": {
+            "latitude": "39.6985046",
+            "closest_to": "fremont",
+            "address": "Saint Louis, Sierra County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.9249513"
+        },
+        "bristol": {
+            "latitude": "38.0181316",
+            "closest_to": "fremont",
+            "address": "Bristol, Hercules, Contra Costa County, California, 94547, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/"
+            ],
+            "longitude": "-122.2587078"
+        },
+        "cuba": {
+            "latitude": "35.9513438",
+            "closest_to": "san diego",
+            "address": "La Cuba, Kings County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.9804117"
+        },
+        "curry village": {
+            "latitude": "37.7368702",
+            "closest_to": "san diego",
+            "address": "Half Dome Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.5726635"
+        },
+        "caesar": {
+            "latitude": "36.8488441",
+            "closest_to": "san diego",
+            "address": "Caesar, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.7183391"
+        },
+        "death valley": {
+            "latitude": "36.42404725",
+            "closest_to": "san diego",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-116.914043572057"
+        },
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "closest_to": "fremont",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.535021480702"
+        },
+        "france": {
+            "latitude": "34.2013715",
+            "closest_to": "san diego",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.5935353"
+        },
+        "grand canyon": {
+            "latitude": "33.9332326",
+            "closest_to": "san diego",
+            "address": "Grand Canyon, Downtown Brea, Brea, Orange County, California, 92821, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.8915409"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "san diego",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "fremont",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "san miguel": {
+            "latitude": "35.7524679",
+            "closest_to": "san diego",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6962825"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "san diego",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "san diego",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "planet hollywood": {
+            "latitude": "34.10541765",
+            "closest_to": "san diego",
+            "address": "The Daily Planet, 5931, Franklin Avenue, Little Armenia, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "books",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.31904277488"
+        },
+        "canada": {
+            "latitude": "33.7298842",
+            "closest_to": "san diego",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "legoland california": {
+            "latitude": "33.1278683",
+            "closest_to": "san diego",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.sandiegostop10.com/SeeAndDo.aspx"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "hotel del coronado": {
+            "latitude": "32.6803508",
+            "closest_to": "san diego",
+            "address": "Hotel Del Coronado, 1500, Orange Avenue, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1778919"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "san diego",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "the riviera": {
+            "latitude": "38.568972",
+            "closest_to": "fremont",
+            "address": "La Riviera, Sparks Way, Mayhew, Sacramento County, California, 95827, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-121.351801220501"
+        },
+        "half dome": {
+            "latitude": "37.745962",
+            "closest_to": "san diego",
+            "address": "Half Dome, Mariposa County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.5330756"
+        },
+        "la jolla beach": {
+            "latitude": "34.0827849",
+            "closest_to": "san diego",
+            "address": "La Jolla Beach, Thornhill Broome campground, Sycamore Cove, Ventura County, California, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.0353783"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "closest_to": "san diego",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.1809078"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "fremont",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "san diego",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "sierras": {
+            "latitude": "37.39153875",
+            "closest_to": "san diego",
+            "address": "The Sierras Apartments, Winton, Merced County, California, 95388, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-120.612206560096"
+        },
+        "dana point harbor": {
+            "latitude": "33.4631376",
+            "closest_to": "san diego",
+            "address": "Dana Point Harbor Drive, Dana Point, Orange County, California, 92629, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.6897783"
+        },
+        "treasure island": {
+            "latitude": "37.82359685",
+            "closest_to": "fremont",
+            "address": "Treasure Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-122.370283844731"
+        },
+        "carlsbad village": {
+            "latitude": "33.1717184",
+            "closest_to": "san diego",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.322507"
+        },
+        "san fernando mission blvd.": {
+            "latitude": "34.2721749",
+            "closest_to": "san diego",
+            "address": "San Fernando Mission Boulevard, Mission Hills, Sylmar, LA, Los Angeles County, California, 91326, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.4668798"
+        },
+        "monterey st.": {
+            "latitude": "34.097787",
+            "closest_to": "san diego",
+            "address": "Monterey Street, Mount Washington, Highland Park, LA, Los Angeles County, California, 90065, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2146689"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "fremont",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "san diego",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/",
+                "http://www.sandiego.org/",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.distancesfrom.com/us/flight-distance-from-Fremont-to-San-Diego/FlightHistory/31548966.aspx",
+                "http://www.sandiegostop10.com/SeeAndDo.aspx",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://gocalifornia.about.com/",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "san diego",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "santa clara de asis": {
+            "latitude": "33.8802979",
+            "closest_to": "san diego",
+            "address": "Santa Clara de Asis, 22005, Avenida de la Paz, Yorba Linda, Orange County, California, 92887, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.746951586583"
+        },
+        "salinas river": {
+            "latitude": "35.2891002",
+            "closest_to": "san diego",
+            "address": "Salinas River, San Luis Obispo County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.3596546"
+        },
+        "seattle": {
+            "latitude": "41.9641881",
+            "closest_to": "fremont",
+            "address": "Seattle, Dorris, Siskiyou County, California, 96023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-121.9226289"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "closest_to": "san diego",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.675382525556"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "san diego",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "san diego",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "san diego",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "virgin islands": {
+            "latitude": "33.282207",
+            "closest_to": "san diego",
+            "address": "Virgin Islands Road, San Diego County, California, 92003, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.1851729"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "closest_to": "fremont",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3890349"
+        },
+        "paso robles": {
+            "latitude": "35.6267654",
+            "closest_to": "san diego",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6912455"
+        },
+        "san fran": {
+            "latitude": "35.142465",
+            "closest_to": "san diego",
+            "address": "Golden Hills, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-118.4903642"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "san diego",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "rio rd.": {
+            "latitude": "34.4960263",
+            "closest_to": "san diego",
+            "address": "El Rio Road, Victorville, San Bernardino County, California, 92392, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3317399"
+        },
+        "mount soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "san diego",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san diego",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "san diego",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/Attractions-g60750-Activities-San_Diego_California.html",
+                "https://www.tripadvisor.com/",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "glacier point": {
+            "latitude": "37.499192",
+            "closest_to": "san diego",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.8282379"
+        },
+        "barbados": {
+            "latitude": "33.6441814",
+            "closest_to": "san diego",
+            "address": "Barbados, Coral Gardens, Mission Viejo, Orange County, California, 92692, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.6427142"
+        },
+        "mission hills": {
+            "latitude": "32.7528279",
+            "closest_to": "san diego",
+            "address": "Mission Hills, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1869788"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "san diego",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "oregon": {
+            "latitude": "33.7123207",
+            "closest_to": "san diego",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-117.7911567"
+        },
+        "emerald city": {
+            "latitude": "38.9599078",
+            "closest_to": "fremont",
+            "address": "Emerald Bay, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-120.0979629"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "san diego",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "san diego",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "san luis rey": {
+            "latitude": "33.2319797",
+            "closest_to": "san diego",
+            "address": "San Luis Rey, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3236484"
+        },
+        "dallas": {
+            "latitude": "37.3099472",
+            "closest_to": "san diego",
+            "address": "Upper Dallas Lateral, Merced County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "longitude": "-120.6404967"
+        },
+        "chula vista": {
+            "latitude": "32.6400541",
+            "closest_to": "san diego",
+            "address": "Chula Vista, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.0841954"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "san diego",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "vegas strip": {
+            "latitude": "36.12050715",
+            "closest_to": "san diego",
+            "address": "California Pizza Kitchen, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.sandiego.org/"
+            ],
+            "longitude": "-115.173775796208"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "closest_to": "san diego",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.5379893"
+        },
+        "tobago": {
+            "latitude": "33.5183111",
+            "closest_to": "san diego",
+            "address": "Tobago, Laguna Niguel, Orange County, California, 92677, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.6818025"
+        },
+        "la valencia": {
+            "latitude": "34.413819",
+            "closest_to": "san diego",
+            "address": "Valencia, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-118.5610377"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "san diego",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.distancesfrom.com/us/flight-distance-from-Fremont-to-San-Diego/FlightHistory/31548966.aspx",
+                "https://www.tripadvisor.com/Attractions-g60750-Activities-San_Diego_California.html",
+                "http://traveltips.usatoday.com/plan-road-trip-seattle-san-diego-103406.html"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "san diego",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "strip": {
+            "latitude": "35.4671811",
+            "closest_to": "san diego",
+            "address": "Cherokee Strip, Kern County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-119.2606646"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "fremont",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "whaley house": {
+            "latitude": "32.7527886",
+            "closest_to": "san diego",
+            "address": "Whaley House Museum, San Diego Avenue, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1945865"
+        },
+        "la/las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "san diego",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "san antonio valley": {
+            "latitude": "38.1838069",
+            "closest_to": "fremont",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san diego",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "south mission drive": {
+            "latitude": "34.0857762",
+            "closest_to": "san diego",
+            "address": "South Mission Drive, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3098581"
+        },
+        "anza-borrego desert state park": {
+            "latitude": "33.2528053",
+            "closest_to": "san diego",
+            "address": "Anza-Borrego Desert State Park, Palm Canyon Drive, Borrego, San Diego County, California, 92004, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-116.330414288395"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "fremont",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "fremont",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "san buenaventura": {
+            "latitude": "34.2783355",
+            "closest_to": "san diego",
+            "address": "Ventura, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-119.2931742"
+        },
+        "yokohama": {
+            "latitude": "32.7821868",
+            "closest_to": "san diego",
+            "address": "Yokohama Court, San Diego, San Diego County, California, 92120, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "longitude": "-117.0520735"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "closest_to": "san diego",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/10/california-road-trip-yosemite-and-las-vegas/"
+            ],
+            "longitude": "-117.8984509"
+        },
+        "la valencia hotel": {
+            "latitude": "32.8486304",
+            "closest_to": "san diego",
+            "address": "La Valencia Hotel, 1132, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.273608324189"
+        }
+    }
+}

@@ -1,0 +1,3334 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "santa monica": {
+        "type": "city",
+        "osm_id": "3353288",
+        "class": "place",
+        "importance": 0.84972348720023,
+        "lat": "34.0195598",
+        "lon": "-118.4869738",
+        "boundingbox": [
+            "33.9666583",
+            "34.05056",
+            "-118.5513434",
+            "-118.4434259"
+        ],
+        "display_name": "Santa Monica, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159526581",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "hollywood boulevard": {
+            "latitude": "34.1016312",
+            "closest_to": "santa monica",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.32684"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "santa monica",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "sunset strip": {
+            "latitude": "33.7224763",
+            "closest_to": "san bernardino",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.1940439"
+        },
+        "sanborn avenue": {
+            "latitude": "34.1037982",
+            "closest_to": "santa monica",
+            "address": "Sanborn Avenue, Los Feliz, Atwater, LA, Los Angeles County, California, 90227, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.278623"
+        },
+        "beachwood drive": {
+            "latitude": "34.1048541",
+            "closest_to": "santa monica",
+            "address": "Beachwood Drive, Hollywood, LA, Los Angeles County, California, 90028-5420, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3212742"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "santa monica",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "la verne": {
+            "latitude": "34.1008426",
+            "closest_to": "santa monica",
+            "address": "La Verne, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.7678354"
+        },
+        "s. grand ave.": {
+            "latitude": "34.0352149",
+            "closest_to": "santa monica",
+            "address": "South Grand Avenue, South Park, Saint James Park, LA, Los Angeles County, California, 90015, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2666597"
+        },
+        "culver city": {
+            "latitude": "34.0211224",
+            "closest_to": "santa monica",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3964664"
+        },
+        "malibu beach": {
+            "latitude": "34.0327862",
+            "closest_to": "santa monica",
+            "address": "Malibu Beach, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.6884214"
+        },
+        "la cienega boulevard": {
+            "latitude": "34.0459813",
+            "closest_to": "santa monica",
+            "address": "La Cienega Boulevard, South Carthay, The Village Green, LA, Los Angeles County, California, 90035, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.376447"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "santa monica",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "old pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "santa monica",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "palm": {
+            "latitude": "33.8197667",
+            "closest_to": "santa monica",
+            "address": "Palm, Vista del Mar, Long Beach, Los Angeles County, California, 90810, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2188068"
+        },
+        "monterey park": {
+            "latitude": "34.0512156",
+            "closest_to": "santa monica",
+            "address": "Monterey Park, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1292289"
+        },
+        "los angeles city hall": {
+            "latitude": "34.05369605",
+            "closest_to": "santa monica",
+            "address": "Los Angeles City Hall, 200, North Spring Street, Civic Center, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "townhall",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.242921118334"
+        },
+        "terranea": {
+            "latitude": "33.7421172",
+            "closest_to": "santa monica",
+            "address": "Terranea Way, Ranchos Palos Verdes, Los Angeles County, California, 90275, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.396989"
+        },
+        "wrightwood": {
+            "latitude": "34.3583535",
+            "closest_to": "santa monica",
+            "address": "Wrightwood, Ross Street, Wrightwood, San Bernardino County, California, 92397, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.627599739034"
+        },
+        "manhattan": {
+            "latitude": "33.8109789",
+            "closest_to": "santa monica",
+            "address": "Manhattan, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.919744373725"
+        },
+        "peninsula": {
+            "latitude": "33.5987849",
+            "closest_to": "santa monica",
+            "address": "Peninsula, Corona del Mar, Newport Beach, Orange County, California, 92657, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.830566223937"
+        },
+        "main beach": {
+            "latitude": "33.541692",
+            "closest_to": "santa monica",
+            "address": "Main Beach, South Coast Highway, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7847769"
+        },
+        "pomona": {
+            "latitude": "34.0553813",
+            "closest_to": "santa monica",
+            "address": "Pomona, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.7517495"
+        },
+        "yucca valley": {
+            "latitude": "34.14154",
+            "closest_to": "san bernardino",
+            "address": "Yucca Valley, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.413654309413"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "santa monica",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "cajon pass": {
+            "latitude": "34.3251973",
+            "closest_to": "santa monica",
+            "address": "Cajon Pass, Summit Terrace, San Bernardino County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.4282748"
+        },
+        "colorado street": {
+            "latitude": "34.142486",
+            "closest_to": "santa monica",
+            "address": "Colorado Street, Glendale, Los Angeles County, California, 91204, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.2695919"
+        },
+        "sierra madre blvd south": {
+            "latitude": "34.161921",
+            "closest_to": "santa monica",
+            "address": "Sierra Madre Boulevard, Pasadena, Los Angeles County, California, 91024, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0698286"
+        },
+        "palm canyon drive": {
+            "latitude": "33.8521633",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.5515317"
+        },
+        "main street usa": {
+            "latitude": "34.1619793",
+            "closest_to": "santa monica",
+            "address": "Main Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3108771"
+        },
+        "oro grande": {
+            "latitude": "34.5988813",
+            "closest_to": "san bernardino",
+            "address": "Oro Grande, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.3342133"
+        },
+        "la quinta": {
+            "latitude": "33.677474",
+            "closest_to": "san bernardino",
+            "address": "La Quinta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-116.2958788"
+        },
+        "south los angeles": {
+            "latitude": "33.9275152",
+            "closest_to": "santa monica",
+            "address": "South Los Angeles, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2781287"
+        },
+        "san dimas": {
+            "latitude": "34.1066756",
+            "closest_to": "santa monica",
+            "address": "San Dimas, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.8067256"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa monica",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "south santa monica boulevard": {
+            "latitude": "34.0718843",
+            "closest_to": "santa monica",
+            "address": "South Santa Monica Boulevard, Beverly Hills, Los Angeles County, California, 90025, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.401871"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "santa monica",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/",
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "colorado": {
+            "latitude": "33.71351445",
+            "closest_to": "santa monica",
+            "address": "Colorado, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.791165718199"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "santa monica",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "long beach 's belmont shore": {
+            "latitude": "33.78354355",
+            "closest_to": "santa monica",
+            "address": "California Bridal Warehouse, 1365, Obispo Avenue, Belmont Shore, Long Beach, Los Angeles County, California, 90804, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.154843872298"
+        },
+        "iowa": {
+            "latitude": "33.7127707",
+            "closest_to": "santa monica",
+            "address": "Iowa, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/"
+            ],
+            "longitude": "-117.7875934"
+        },
+        "hyatt regency newport beach": {
+            "latitude": "33.6178933",
+            "closest_to": "santa monica",
+            "address": "Hyatt Regency Newport Beach, 1107, Jamboree Road, Balboa Island, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.888574552815"
+        },
+        "main street": {
+            "latitude": "34.10780565",
+            "closest_to": "santa monica",
+            "address": "Main Street, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91730, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.59857297034"
+        },
+        "hollywood bowl": {
+            "latitude": "34.1121836",
+            "closest_to": "santa monica",
+            "address": "Hollywood Bowl, Los Tilos Road, Whitley Heights, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.339277261641"
+        },
+        "s. broadway": {
+            "latitude": "33.9314102",
+            "closest_to": "santa monica",
+            "address": "South Broadway, South Los Angeles, LA, Los Angeles County, California, 90248, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2785003"
+        },
+        "staples center": {
+            "latitude": "34.0430046",
+            "closest_to": "santa monica",
+            "address": "Staples Center, Figueroa Street, South Park, Saint James Park, LA, Los Angeles County, California, 90015, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.267052502794"
+        },
+        "palm springs air museum": {
+            "latitude": "33.83250375",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.504677958796"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "santa monica",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "loma linda": {
+            "latitude": "34.075626",
+            "closest_to": "san bernardino",
+            "address": "Loma Linda, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.25204765"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa monica",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "forest lawn memorial park": {
+            "latitude": "34.12453735",
+            "closest_to": "santa monica",
+            "address": "Forest Lawn Memorial Park, Atwater, LA, Los Angeles County, California, 91205, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.245497004355"
+        },
+        "crescent avenue": {
+            "latitude": "33.8395138",
+            "closest_to": "santa monica",
+            "address": "Crescent Avenue, West Anaheim, Anaheim, Orange County, California, 90620, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.9800366"
+        },
+        "mojave river": {
+            "latitude": "34.810823",
+            "closest_to": "san bernardino",
+            "address": "Mojave River, San Bernardino County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2140293"
+        },
+        "victoria gardens": {
+            "latitude": "34.1109434",
+            "closest_to": "santa monica",
+            "address": "Victoria Gardens, South Mainstreet, Rancho Cucamonga, San Bernardino County, California, 91739, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-117.532065718501"
+        },
+        "cornell": {
+            "latitude": "34.1144504",
+            "closest_to": "santa monica",
+            "address": "Cornell, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/"
+            ],
+            "longitude": "-118.7778677"
+        },
+        "state route 86": {
+            "latitude": "33.7428408",
+            "closest_to": "san bernardino",
+            "address": "Indio Boulevard, Indio, Riverside County, California, 92203, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.2630521"
+        },
+        "boulder bay park": {
+            "latitude": "34.23859285",
+            "closest_to": "san bernardino",
+            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.949195007263"
+        },
+        "rancho santa margarita": {
+            "latitude": "33.6408845",
+            "closest_to": "santa monica",
+            "address": "Rancho Santa Margarita, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.602934"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "santa monica",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "oak glen": {
+            "latitude": "34.0494574",
+            "closest_to": "san bernardino",
+            "address": "Oak Glen, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.daytrippen.com/category/los-angeles-day-trips/"
+            ],
+            "longitude": "-116.9478044"
+        },
+        "la canada": {
+            "latitude": "33.7298842",
+            "closest_to": "santa monica",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "northridge": {
+            "latitude": "34.2285918",
+            "closest_to": "santa monica",
+            "address": "Northridge, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.5369315"
+        },
+        "lacy park": {
+            "latitude": "34.1201578",
+            "closest_to": "santa monica",
+            "address": "Lacy Park, Virginia Road, San Marino, Los Angeles County, California, 91108, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.122056601264"
+        },
+        "tamarind avenue": {
+            "latitude": "34.0944108",
+            "closest_to": "santa monica",
+            "address": "Tamarind Avenue, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3190489"
+        },
+        "los angeles international": {
+            "latitude": "33.94211345",
+            "closest_to": "santa monica",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.407057290249"
+        },
+        "lincoln boulevard": {
+            "latitude": "33.9593928",
+            "closest_to": "santa monica",
+            "address": "Lincoln Boulevard, Westchester, Playa Vista, LA, Los Angeles County, California, 90293, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.41883"
+        },
+        "california freeway": {
+            "latitude": "34.0029948",
+            "closest_to": "santa monica",
+            "address": "California, San Gabriel River Freeway, Pico Rivera, Los Angeles County, California, 90601, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.067515"
+        },
+        "riverside drive": {
+            "latitude": "33.8957664",
+            "closest_to": "san bernardino",
+            "address": "Riverside Drive, March Field, Riverside County, California, 92518, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.2523881"
+        },
+        "santa monica museum of art": {
+            "latitude": "34.0036108",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Museum of Art, 2nd Street, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4844786"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "san bernardino",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "san bernardino",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "santa monica",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "great park": {
+            "latitude": "33.95822585",
+            "closest_to": "santa monica",
+            "address": "The Forum, 3900, West Manchester Boulevard, Inglewood, Los Angeles County, California, 90305, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.34198065"
+        },
+        "mount pleasant": {
+            "latitude": "34.0044706",
+            "closest_to": "santa monica",
+            "address": "Mount Pleasant, Santa Cruz Island, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-119.6493364"
+        },
+        "malibu coast": {
+            "latitude": "34.03385755",
+            "closest_to": "santa monica",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "beaumont": {
+            "latitude": "33.9294606",
+            "closest_to": "san bernardino",
+            "address": "Beaumont, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.9772479"
+        },
+        "azusa": {
+            "latitude": "34.1338751",
+            "closest_to": "santa monica",
+            "address": "Azusa, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.9056045"
+        },
+        "el monte busway": {
+            "latitude": "34.0626318",
+            "closest_to": "santa monica",
+            "address": "El Monte Busway, University Hills, Boyle Heights, LA, Los Angeles County, California, 91803, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.165581"
+        },
+        "devore": {
+            "latitude": "34.2163964",
+            "closest_to": "santa monica",
+            "address": "Devore, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.4014364"
+        },
+        "alameda street": {
+            "latitude": "34.0208465",
+            "closest_to": "santa monica",
+            "address": "Alameda Street, Nevin, Little Tokyo Historic District, LA, Los Angeles County, California, 90021, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2394769"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "san bernardino",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "running springs": {
+            "latitude": "34.2124412",
+            "closest_to": "san bernardino",
+            "address": "Running Springs, Mountain Oak Drive, Fredalba, San Bernardino County, California, 92314, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.124877511921"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "santa monica",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "laguna canyon": {
+            "latitude": "33.5613752",
+            "closest_to": "santa monica",
+            "address": "Laguna College of Art and Design, Laguna Canyon Road, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7724545"
+        },
+        "montclair": {
+            "latitude": "34.0775104",
+            "closest_to": "santa monica",
+            "address": "Montclair, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.6897775"
+        },
+        "century boulevard": {
+            "latitude": "33.7696819",
+            "closest_to": "santa monica",
+            "address": "Century Boulevard, Koreatown, Garden Grove, Orange County, California, 92843, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.9384588"
+        },
+        "lenwood": {
+            "latitude": "34.8766497",
+            "closest_to": "san bernardino",
+            "address": "Lenwood, San Bernardino County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.1039313"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "santa monica",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.248367"
+        },
+        "rose bowl": {
+            "latitude": "34.1613231",
+            "closest_to": "santa monica",
+            "address": "Rose Bowl, Rose Bowl Drive, Pasadena, Los Angeles County, California, 91103, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.167655462606"
+        },
+        "state route 60": {
+            "latitude": "34.0334229",
+            "closest_to": "santa monica",
+            "address": "Pomona Boulevard, East Los Angeles, Eastmont, Los Angeles County, California, 90022, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.1517241"
+        },
+        "san marino": {
+            "latitude": "34.1215947",
+            "closest_to": "santa monica",
+            "address": "San Marino, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.1057393"
+        },
+        "south coast plaza": {
+            "latitude": "33.6907283",
+            "closest_to": "santa monica",
+            "address": "South Coast Plaza, Bear Street, Costa Mesa, Orange County, California, 92704, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.889168433903"
+        },
+        "hollywood west hollywood west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "santa monica",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "santa monica",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "rancho mirage": {
+            "latitude": "33.763346",
+            "closest_to": "san bernardino",
+            "address": "Rancho Mirage, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.4228595"
+        },
+        "canada": {
+            "latitude": "33.7298842",
+            "closest_to": "santa monica",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "claremont": {
+            "latitude": "34.0966764",
+            "closest_to": "santa monica",
+            "address": "Claremont, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.7197784"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "redlands": {
+            "latitude": "34.069909",
+            "closest_to": "san bernardino",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-117.248983896912"
+        },
+        "point dume": {
+            "latitude": "34.001631",
+            "closest_to": "santa monica",
+            "address": "Point Dume, Malibu, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.8066755"
+        },
+        "angel stadium of anaheim": {
+            "latitude": "33.8002599",
+            "closest_to": "santa monica",
+            "address": "Angel Stadium of Anaheim, South Douglass Road, Anaheim Resort District, Anaheim, Orange County, California, 92806, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.881742527598"
+        },
+        "santa monica city": {
+            "latitude": "34.0147339",
+            "closest_to": "santa monica",
+            "address": "KSRF-FM (Santa Monica), Wrightcrest Drive, Culver City, Los Angeles County, California, 90232, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.3814659"
+        },
+        "upland": {
+            "latitude": "34.09751",
+            "closest_to": "santa monica",
+            "address": "Upland, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.6483875"
+        },
+        "metro red": {
+            "latitude": "34.0861975",
+            "closest_to": "santa monica",
+            "address": "RED Studios Hollywood, Hollywood, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.328252510245"
+        },
+        "hostelling international santa monica": {
+            "latitude": "34.0137871",
+            "closest_to": "santa monica",
+            "address": "Hostelling International - Los Angeles/Santa Monica, 2nd Street, Santa Monica, Los Angeles County, California, 90403, United States of America",
+            "locType": "hostel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4962029"
+        },
+        "peninsula beverly hills": {
+            "latitude": "34.065796",
+            "closest_to": "santa monica",
+            "address": "The Peninsula Beverly Hills, South Santa Monica Boulevard, Beverly Hills, Los Angeles County, California, 90025, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4105736"
+        },
+        "alosta avenue": {
+            "latitude": "34.1287276",
+            "closest_to": "santa monica",
+            "address": "West Alosta Avenue, Glendora, Los Angeles County, California, 91741, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.8496911"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "santa monica",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "arizona-california": {
+            "latitude": "34.4631398",
+            "closest_to": "santa monica",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "cardiff": {
+            "latitude": "33.6883363",
+            "closest_to": "santa monica",
+            "address": "Cardiff, Westpark, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.806356451668"
+        },
+        "admiralty": {
+            "latitude": "33.9314094",
+            "closest_to": "santa monica",
+            "address": "Admiralty Avenue, Riverside, Riverside County, California, 92503, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.4472569"
+        },
+        "cabrillo boulevard": {
+            "latitude": "34.0121457",
+            "closest_to": "santa monica",
+            "address": "Cabrillo Boulevard, Mar Vista, LA, Los Angeles County, California, 90066, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4470019"
+        },
+        "marina del rey": {
+            "latitude": "33.9774017",
+            "closest_to": "santa monica",
+            "address": "Marina del Rey, Ocean Park, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4508017"
+        },
+        "lake elsinore": {
+            "latitude": "33.6680772",
+            "closest_to": "san bernardino",
+            "address": "Lake Elsinore, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3272614"
+        },
+        "hillhurst": {
+            "latitude": "34.1115595",
+            "closest_to": "santa monica",
+            "address": "Hillhurst Avenue, Los Feliz, Atwater, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2874465"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "closest_to": "santa monica",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8984509"
+        },
+        "moorpark": {
+            "latitude": "34.285558",
+            "closest_to": "santa monica",
+            "address": "Moorpark, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.8820413"
+        },
+        "aztec hotel": {
+            "latitude": "34.151536",
+            "closest_to": "santa monica",
+            "address": "Aztec Hotel, 311, West Foothill Boulevard, Monrovia, Los Angeles County, California, 91016, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0057962"
+        },
+        "beverlywood": {
+            "latitude": "34.0399803",
+            "closest_to": "santa monica",
+            "address": "Beverlywood Street, Palms, LA, Los Angeles County, California, 90064, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.3970483"
+        },
+        "california science center": {
+            "latitude": "34.0159757",
+            "closest_to": "santa monica",
+            "address": "California Science Center, 700, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.286286870567"
+        },
+        "calais": {
+            "latitude": "33.7347105",
+            "closest_to": "santa monica",
+            "address": "Calais, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7774669"
+        },
+        "valentino": {
+            "latitude": "34.0262418",
+            "closest_to": "santa monica",
+            "address": "Valentino, 3115, Pico Boulevard, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.457098"
+        },
+        "santa monica boulevard": {
+            "latitude": "34.0907545",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.317943"
+        },
+        "shamrock avenue": {
+            "latitude": "33.9999686",
+            "closest_to": "santa monica",
+            "address": "Shamrock Avenue, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3682239"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "santa monica",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.108604"
+        },
+        "w. temple st.": {
+            "latitude": "34.0589471",
+            "closest_to": "santa monica",
+            "address": "West Temple Street, Civic Center, Bunker Hill, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2474099"
+        },
+        "beverly gardens park": {
+            "latitude": "34.0723509",
+            "closest_to": "santa monica",
+            "address": "Beverly Gardens Park, Park Way, Beverly Hills, Los Angeles County, California, 90210, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.40346205"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "santa monica",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "santa monica",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "palisades park": {
+            "latitude": "34.2888905",
+            "closest_to": "santa monica",
+            "address": "Palisades Park, Brasilia Drive, Porter Ranch, LA, Los Angeles County, California, 91326, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.5459197"
+        },
+        "fawnskin": {
+            "latitude": "34.2680621",
+            "closest_to": "san bernardino",
+            "address": "Fawnskin, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.9425341"
+        },
+        "pioneertown": {
+            "latitude": "34.1566737",
+            "closest_to": "san bernardino",
+            "address": "Pioneertown, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.4961262"
+        },
+        "arlington avenue": {
+            "latitude": "33.9462466",
+            "closest_to": "santa monica",
+            "address": "Arlington Avenue, Riverside, Riverside County, California, 92505, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.4058021"
+        },
+        "arcadia": {
+            "latitude": "34.1362075",
+            "closest_to": "santa monica",
+            "address": "Arcadia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.0401496"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "santa monica",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "sunset-vermont metro": {
+            "latitude": "34.0983021",
+            "closest_to": "santa monica",
+            "address": "Elevator for Vermont/Sunset Red Line Metro Station, West Sunset Boulevard, Little Armenia, LA, Los Angeles County, California, 90027-5517, United States of America",
+            "locType": "subway_entrance",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2920262"
+        },
+        "eastside los angeles": {
+            "latitude": "34.0437923",
+            "closest_to": "santa monica",
+            "address": "Gold Line Eastside Extension, E 1st Street, Brooklyn Heights, Boyle Heights, LA, Los Angeles County, California, 90033, United States of America",
+            "locType": "light_rail",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2100503"
+        },
+        "mission road": {
+            "latitude": "34.0598451",
+            "closest_to": "santa monica",
+            "address": "Mission Road, Brooklyn Heights, Little Tokyo Historic District, LA, Los Angeles County, California, 90033, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2153458"
+        },
+        "santa anita park": {
+            "latitude": "34.1375071",
+            "closest_to": "santa monica",
+            "address": "Santa Anita Park, Santa Anita Race Track, Arcadia, Los Angeles County, California, 91007, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.0447896"
+        },
+        "palm canyon": {
+            "latitude": "33.7359824",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon, Palm Canyon Trail, Palm Springs, Riverside County, California, 92263, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.537629346211"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.daytrippen.com/category/los-angeles-day-trips/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "chino hills": {
+            "latitude": "33.9926803",
+            "closest_to": "santa monica",
+            "address": "Chino Hills, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7600559"
+        },
+        "malibu lagoon": {
+            "latitude": "34.0337414",
+            "closest_to": "santa monica",
+            "address": "Malibu Lagoon, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.681785448203"
+        },
+        "santa monica place": {
+            "latitude": "34.01361875",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Place, Colorado Avenue, Santa Monica, Los Angeles County, California, 90404, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.493745188273"
+        },
+        "wilshire": {
+            "latitude": "33.7805094",
+            "closest_to": "santa monica",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.9034923"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "san bernardino",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "silver lake": {
+            "latitude": "34.0896518",
+            "closest_to": "santa monica",
+            "address": "Silver Lake, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2693734"
+        },
+        "baldwin park": {
+            "latitude": "34.0854739",
+            "closest_to": "santa monica",
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.961176"
+        },
+        "exposition park": {
+            "latitude": "34.01496305",
+            "closest_to": "santa monica",
+            "address": "Exposition Park, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.287178776841"
+        },
+        "wiltern": {
+            "latitude": "34.0612702",
+            "closest_to": "santa monica",
+            "address": "Wiltern Theatre and Pellissier Building, 3780, Wilshire Boulevard, Koreatown, Little Armenia, LA, Los Angeles County, California, 90010, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.30856460083"
+        },
+        "adelaide drive": {
+            "latitude": "34.0303283",
+            "closest_to": "santa monica",
+            "address": "Adelaide Drive, Riviera, LA, Los Angeles County, California, 90402, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.5122006"
+        },
+        "rosemead": {
+            "latitude": "34.0676169",
+            "closest_to": "santa monica",
+            "address": "Rosemead, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.0879762"
+        },
+        "zuma beach county park": {
+            "latitude": "34.0214423",
+            "closest_to": "santa monica",
+            "address": "Zuma Beach County Park, Zuma Beach Access Road, Malibu, Los Angeles County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.830591574808"
+        },
+        "civic center drive": {
+            "latitude": "33.1937335",
+            "closest_to": "san bernardino",
+            "address": "Civic Center Drive, Vista, San Diego County, California, 92083, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.2343609"
+        },
+        "covina": {
+            "latitude": "34.0877926",
+            "closest_to": "santa monica",
+            "address": "Covina, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.8891163"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "santa monica",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "west covina": {
+            "latitude": "34.0686208",
+            "closest_to": "santa monica",
+            "address": "West Covina, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.9389525"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "santa monica",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/",
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "santa monica",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "san gabriels": {
+            "latitude": "34.0555665",
+            "closest_to": "santa monica",
+            "address": "Saint Gabriels Episcopal Church, East Graves Avenue, Monterey Park, Los Angeles County, California, 91755, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1234031"
+        },
+        "l.a. county": {
+            "latitude": "34.0363994",
+            "closest_to": "santa monica",
+            "address": "LA County, Santa Monica Beach Bike Path, Inceville, Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.537542576007"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "santa monica",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "san onofre state beach": {
+            "latitude": "33.4224773",
+            "closest_to": "santa monica",
+            "address": "San Onofre State Beach, Cristianitos Road, Marine Corps Base Camp Pendleton, San Diego County, California, 92672, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.580762404426"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "alhambra": {
+            "latitude": "34.0927361",
+            "closest_to": "santa monica",
+            "address": "Alhambra, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1268241"
+        },
+        "calimesa": {
+            "latitude": "34.0039044",
+            "closest_to": "san bernardino",
+            "address": "Calimesa, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.0619773"
+        },
+        "l'ermitage": {
+            "latitude": "34.072644",
+            "closest_to": "santa monica",
+            "address": "Viceroy L'Ermitage Beverly Hills, Burton Way, Beverly Hills, Los Angeles County, California, 90211, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.395423862227"
+        },
+        "desert hot springs": {
+            "latitude": "33.961124",
+            "closest_to": "san bernardino",
+            "address": "Desert Hot Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.5016783"
+        },
+        "golden state freeway": {
+            "latitude": "34.080595",
+            "closest_to": "santa monica",
+            "address": "Golden State Freeway, Dayton Avenue, Angelino Heights, LA, Los Angeles County, California, CA 90031, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2219316"
+        },
+        "simi hills": {
+            "latitude": "34.2848628",
+            "closest_to": "santa monica",
+            "address": "Simi Hills Lane, Simi Valley, Ventura County, California, 93063, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.6938941"
+        },
+        "wellington square": {
+            "latitude": "33.74613685",
+            "closest_to": "santa monica",
+            "address": "Wellington Square, Browning, Tustin, Orange County, California, 92780, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.818994089697"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "santa monica",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.108604"
+        },
+        "speedway": {
+            "latitude": "33.9611446",
+            "closest_to": "santa monica",
+            "address": "Speedway, Playa del Rey, LA, Los Angeles County, California, 90292, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4526722"
+        },
+        "olympic boulevard": {
+            "latitude": "34.0222555",
+            "closest_to": "santa monica",
+            "address": "Olympic Boulevard, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.4775647"
+        },
+        "carpinteria state beach": {
+            "latitude": "34.3920274",
+            "closest_to": "santa monica",
+            "address": "Carpinteria State Beach, 4th Street, Carpinteria, Santa Barbara County, California, 93013, United States of America",
+            "locType": "sanitary_dump_station",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-119.5197244"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "santa monica",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8181660-Route_66_between_Barstow_and_Needles-California.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "west 5th street": {
+            "latitude": "34.0470254",
+            "closest_to": "santa monica",
+            "address": "West 5th Street, Gallery Row, Bunker Hill, LA, Los Angeles County, California, 90014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.2490778"
+        },
+        "pelican hill": {
+            "latitude": "33.5930785",
+            "closest_to": "santa monica",
+            "address": "Pelican Hill, Newport Beach, Orange County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8389447"
+        },
+        "san bernardino freeway": {
+            "latitude": "34.083484",
+            "closest_to": "santa monica",
+            "address": "San Bernardino Freeway, San Bernardino, San Bernardino County, California, 92401, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.2997551"
+        },
+        "glendale boulevard": {
+            "latitude": "34.085747",
+            "closest_to": "santa monica",
+            "address": "Glendale Boulevard, Silver Lake, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2598068"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "santa monica",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "santa monica",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "moorten botanical garden": {
+            "latitude": "33.8005571",
+            "closest_to": "san bernardino",
+            "address": "Moorten Botanical garden, El Camino Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.545921911214"
+        },
+        "soto street": {
+            "latitude": "34.0322971",
+            "closest_to": "santa monica",
+            "address": "Soto Street, Ninth Street Junction, Boyle Heights, LA, Los Angeles County, California, 90033, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.2169715"
+        },
+        "wilshire boulevard": {
+            "latitude": "34.0617231",
+            "closest_to": "santa monica",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3036614"
+        },
+        "ontario international airport": {
+            "latitude": "34.05414245",
+            "closest_to": "santa monica",
+            "address": "LA/Ontario International Airport, Service Road 2, Ontario, San Bernardino County, California, 91743, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.59915759373"
+        },
+        "el monte": {
+            "latitude": "34.0751571",
+            "closest_to": "santa monica",
+            "address": "El Monte, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.0368489"
+        },
+        "seventh street": {
+            "latitude": "34.1935002",
+            "closest_to": "santa monica",
+            "address": "Seventh Street, Burbank, Los Angeles County, California, 91501, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.3119269"
+        },
+        "balboa pavilion": {
+            "latitude": "33.60270825",
+            "closest_to": "santa monica",
+            "address": "Balboa Pavilion, East Bay Avenue, Balboa Island, Newport Beach, Orange County, California, 92661, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.898871851149"
+        },
+        "pacific park": {
+            "latitude": "33.5588741",
+            "closest_to": "santa monica",
+            "address": "Pacific Park, Aliso Viejo, Orange County, California, 92656, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.724068630701"
+        },
+        "central avenue": {
+            "latitude": "33.9535912",
+            "closest_to": "santa monica",
+            "address": "Central Avenue, Riverside, Riverside County, California, 92504, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3851652"
+        },
+        "lake arrowhead": {
+            "latitude": "34.2592869",
+            "closest_to": "san bernardino",
+            "address": "Lake Arrowhead, Shelter Cove Lane, North Shore, San Bernardino County, California, 92407, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.185753981831"
+        },
+        "eureka drive": {
+            "latitude": "34.1386153",
+            "closest_to": "santa monica",
+            "address": "Eureka Drive, Universal City, North Hollywood, LA, Los Angeles County, California, 91604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.374537"
+        },
+        "pico boulevard": {
+            "latitude": "34.0551848",
+            "closest_to": "santa monica",
+            "address": "Pico Boulevard, South Carthay, The Village Green, LA, Los Angeles County, California, 90035, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3859303"
+        },
+        "los feliz boulevard": {
+            "latitude": "34.1254569",
+            "closest_to": "santa monica",
+            "address": "Los Feliz Boulevard, Atwater, LA, Los Angeles County, California, 91204, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2647736"
+        },
+        "studio city": {
+            "latitude": "34.1483989",
+            "closest_to": "santa monica",
+            "address": "Studio City, Valley Village, LA, Los Angeles County, California, 91604, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3961876"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "san bernardino",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "' angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "santa monica",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "newport bay": {
+            "latitude": "33.608355",
+            "closest_to": "santa monica",
+            "address": "Newport Bay, Via Lido Soud, Balboa Island, Newport Beach, Orange County, California, 92663, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.9092241"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "santa monica",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "manhattan beach boulevard": {
+            "latitude": "33.8874658",
+            "closest_to": "santa monica",
+            "address": "Manhattan Beach Boulevard, Lawndale, Los Angeles County, California, 90278, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.352391"
+        },
+        "hollywood hills": {
+            "latitude": "34.1311792",
+            "closest_to": "santa monica",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3355473"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "santa monica",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "colorado avenue": {
+            "latitude": "34.0202282",
+            "closest_to": "santa monica",
+            "address": "Colorado Avenue, Santa Monica, Los Angeles County, California, 90404, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4839559"
+        },
+        "tokyo little tokyo": {
+            "latitude": "34.0482697",
+            "closest_to": "santa monica",
+            "address": "Little Tokyo, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2417215"
+        },
+        "tokyo": {
+            "latitude": "34.0431787",
+            "closest_to": "santa monica",
+            "address": "Southern California Institute of Architecture, 960, East 3rd Street, Arts District, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2328066"
+        },
+        "carpinteria": {
+            "latitude": "34.3988838",
+            "closest_to": "santa monica",
+            "address": "Carpinteria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-119.5184563"
+        },
+        "langham huntington pasadena": {
+            "latitude": "34.1202821",
+            "closest_to": "santa monica",
+            "address": "The Langham Huntington, 1401, Huntington Circle, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1333115"
+        },
+        "palm springs visitors center": {
+            "latitude": "33.85839515",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "information",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.558183152534"
+        },
+        "palm desert": {
+            "latitude": "33.7288179",
+            "closest_to": "san bernardino",
+            "address": "Palm Desert, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.382571"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "santa monica",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "grizzly manor cafe": {
+            "latitude": "34.2437384",
+            "closest_to": "san bernardino",
+            "address": "Grizzly Manor Cafe, Jeffries Road, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.9017773"
+        },
+        "garvey avenue": {
+            "latitude": "34.0625025",
+            "closest_to": "santa monica",
+            "address": "Garvey Avenue, Monterey Park, Los Angeles County, California, 91755, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.10927"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "santa monica",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "santa monica",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "century city": {
+            "latitude": "34.0555654",
+            "closest_to": "santa monica",
+            "address": "Century City, Westwood, LA, Los Angeles County, California, 90067, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4178564"
+        },
+        "st. louis avenue": {
+            "latitude": "33.7744422",
+            "closest_to": "santa monica",
+            "address": "Saint Louis Avenue, Belmont Shore, Long Beach, Los Angeles County, California, 90814, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1666593"
+        },
+        "windward avenue": {
+            "latitude": "33.9870988",
+            "closest_to": "santa monica",
+            "address": "Windward Avenue, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4732524"
+        },
+        "japan": {
+            "latitude": "34.0833889",
+            "closest_to": "santa monica",
+            "address": "Japan LA, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-118.3494693"
+        },
+        "north baldwin avenue": {
+            "latitude": "34.1541089",
+            "closest_to": "santa monica",
+            "address": "North Baldwin Avenue, Arcadia, Los Angeles County, California, 91006, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.0532012"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "santa monica",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "meridian avenue": {
+            "latitude": "34.1206535",
+            "closest_to": "santa monica",
+            "address": "Meridian Avenue, Highland Park, LA, Los Angeles County, California, 90042, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1934141"
+        },
+        "vermont": {
+            "latitude": "33.712381",
+            "closest_to": "santa monica",
+            "address": "Vermont, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7907651"
+        },
+        "laguna art museum": {
+            "latitude": "33.5435374",
+            "closest_to": "santa monica",
+            "address": "Laguna Art Museum, 307, Cliff Drive, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.78821"
+        },
+        "santa monica pier.in": {
+            "latitude": "34.0104809",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "burton w. chace park": {
+            "latitude": "33.85453775",
+            "closest_to": "santa monica",
+            "address": "Burton W. Chace Park, Market Street, North Long Beach, Long Beach, Los Angeles County, California, 90805, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.194963709773"
+        },
+        "tarzana": {
+            "latitude": "34.1727967",
+            "closest_to": "santa monica",
+            "address": "Tarzana, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.5533689"
+        },
+        "olvera street": {
+            "latitude": "34.0581578",
+            "closest_to": "santa monica",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2373201"
+        },
+        "cathedral city": {
+            "latitude": "33.7810031",
+            "closest_to": "san bernardino",
+            "address": "Cathedral City, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-116.4640764"
+        },
+        "baldwin lake": {
+            "latitude": "34.2793278",
+            "closest_to": "san bernardino",
+            "address": "Baldwin Lake, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.7982897"
+        },
+        "tahquitz canyon": {
+            "latitude": "33.8231764",
+            "closest_to": "san bernardino",
+            "address": "East Tahquitz Canyon Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.528254"
+        },
+        "mother road": {
+            "latitude": "33.8058766",
+            "closest_to": "santa monica",
+            "address": "Route 66, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.9189801"
+        },
+        "pantages theatre": {
+            "latitude": "34.1022047",
+            "closest_to": "santa monica",
+            "address": "Pantages Theater, Argyle Avenue, Hollywood, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.325767232377"
+        },
+        "glendora": {
+            "latitude": "34.1361187",
+            "closest_to": "santa monica",
+            "address": "Glendora, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.8653389"
+        },
+        "beverly drive": {
+            "latitude": "34.1520028",
+            "closest_to": "santa monica",
+            "address": "Beverly Drive, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.3043842"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "santa monica",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "eagle rock": {
+            "latitude": "33.4723736",
+            "closest_to": "santa monica",
+            "address": "Eagle Rock, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.6053476"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "santa monica",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "tujunga avenue": {
+            "latitude": "34.1467463",
+            "closest_to": "santa monica",
+            "address": "Tujunga Avenue, Studio City, North Hollywood, LA, Los Angeles County, California, 91602, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3789969"
+        },
+        "riverside-san bernardino": {
+            "latitude": "34.908786",
+            "closest_to": "san bernardino",
+            "address": "Riverside Road, Harvard, San Bernardino County, California, 92365, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-116.6537219"
+        },
+        "highland": {
+            "latitude": "34.1283442",
+            "closest_to": "san bernardino",
+            "address": "Highland, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.2086512"
+        },
+        "kingman": {
+            "latitude": "33.3508348",
+            "closest_to": "san bernardino",
+            "address": "Kingman, 31422, Borrego Palm Canyon Road, San Diego County, California, United States of America",
+            "locType": "camp_site",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8181660-Route_66_between_Barstow_and_Needles-California.html"
+            ],
+            "longitude": "-116.5745266"
+        },
+        "cedros avenue": {
+            "latitude": "34.2318194",
+            "closest_to": "santa monica",
+            "address": "Cedros Avenue, Panorama City, Sepulveda, LA, Los Angeles County, California, 91402, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4535374"
+        },
+        "linden avenue": {
+            "latitude": "33.7746729",
+            "closest_to": "santa monica",
+            "address": "Linden Avenue, Willowville, Long Beach, Los Angeles County, California, 90813, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.1863606"
+        },
+        "catalina": {
+            "latitude": "33.810513",
+            "closest_to": "santa monica",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.920102663284"
+        },
+        "helendale": {
+            "latitude": "34.7438754",
+            "closest_to": "san bernardino",
+            "address": "Helendale, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.3244919"
+        },
+        "santa monica blvd.": {
+            "latitude": "34.0907545",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "el matador state beach": {
+            "latitude": "34.03821",
+            "closest_to": "santa monica",
+            "address": "El Matador State Beach, El Matador Beach Road, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.87629"
+        },
+        "vernon avenue": {
+            "latitude": "34.002869",
+            "closest_to": "santa monica",
+            "address": "Vernon Avenue, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.4628446"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa monica",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8181660-Route_66_between_Barstow_and_Needles-California.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "santa monica freeway": {
+            "latitude": "34.0323355",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Freeway, Palms, LA, Los Angeles County, California, CA 90034, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.3886136"
+        },
+        "stadium way": {
+            "latitude": "34.0807752",
+            "closest_to": "santa monica",
+            "address": "Stadium Way, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2474581"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "santa monica",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "west los angeles": {
+            "latitude": "34.0463986",
+            "closest_to": "santa monica",
+            "address": "West Los Angeles, Westwood, LA, Los Angeles County, California, 90025, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4481349"
+        },
+        "fairview park": {
+            "latitude": "33.74579525",
+            "closest_to": "san bernardino",
+            "address": "Fairview Park, Valle Vista, Riverside County, California, 92554, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.880757406863"
+        },
+        "west of san bernardino": {
+            "latitude": "34.0584214",
+            "closest_to": "santa monica",
+            "address": "Cooley Drive, Colton, San Bernardino County, California, 92324, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.3039291"
+        },
+        "rialto": {
+            "latitude": "34.1064001",
+            "closest_to": "santa monica",
+            "address": "Rialto, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.3703234"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "santa monica",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.daytrippen.com/category/los-angeles-day-trips/"
+            ],
+            "longitude": "-118.312628"
+        },
+        "royce hall": {
+            "latitude": "34.07284265",
+            "closest_to": "santa monica",
+            "address": "Royce Hall, Royce Drive, Bel Air, Westwood, LA, Los Angeles County, California, 90095, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.442278394935"
+        },
+        "franklin avenue": {
+            "latitude": "34.1052711",
+            "closest_to": "santa monica",
+            "address": "Franklin Avenue, Little Armenia, LA, Los Angeles County, California, 90028-5420, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.316494"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "closest_to": "santa monica",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.1809078"
+        },
+        "valley boulevard": {
+            "latitude": "34.0705038",
+            "closest_to": "santa monica",
+            "address": "Valley Boulevard, Rialto, San Bernardino County, California, 92376, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.3833491"
+        },
+        "naples": {
+            "latitude": "33.75419085",
+            "closest_to": "santa monica",
+            "address": "Naples, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.123797605753"
+        },
+        "hayloft": {
+            "latitude": "33.7362299",
+            "closest_to": "santa monica",
+            "address": "Hayloft, Orchard Hills, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "proposed",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.7532223"
+        },
+        "ocean vista point": {
+            "latitude": "33.6164859",
+            "closest_to": "santa monica",
+            "address": "Ocean Vista, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8850496"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "santa monica",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-117.870493"
+        },
+        "echo park avenue": {
+            "latitude": "34.076862",
+            "closest_to": "santa monica",
+            "address": "Echo Park Avenue, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2572863"
+        },
+        "pacific palisades": {
+            "latitude": "34.0480643",
+            "closest_to": "santa monica",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.5264705"
+        },
+        "barnsdall art park": {
+            "latitude": "34.1004417",
+            "closest_to": "santa monica",
+            "address": "Barnsdall Art Park, Upper Road, Little Armenia, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.294214664916"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "santa monica",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "portofino hotel": {
+            "latitude": "33.8454479",
+            "closest_to": "santa monica",
+            "address": "The Portofino Hotel & Marina, A Noble House Hotel, Portofino Way, Redondo Beach, Los Angeles County, California, 90277, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.3974906"
+        },
+        "new england": {
+            "latitude": "33.8793794",
+            "closest_to": "santa monica",
+            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.0890007"
+        },
+        "mulholland highway": {
+            "latitude": "34.1306145",
+            "closest_to": "santa monica",
+            "address": "Mulholland Highway, Hollywood Hills, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/"
+            ],
+            "longitude": "-118.3191905"
+        },
+        "sunnylands": {
+            "latitude": "33.77708755",
+            "closest_to": "san bernardino",
+            "address": "Sunnylands, Tamarisk Lane, Rancho Mirage, Riverside County, California, 92270, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.410729579276"
+        },
+        "academy road": {
+            "latitude": "34.0791529",
+            "closest_to": "santa monica",
+            "address": "Academy Road, New Chinatown, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2438563"
+        },
+        "rip curl": {
+            "latitude": "33.3988084",
+            "closest_to": "santa monica",
+            "address": "Rip Curl, 3801, South El Camino Real, San Clemente, Orange County, California, 92672, United States of America",
+            "locType": "surf",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.594197967535"
+        },
+        "lake forest": {
+            "latitude": "33.6469261",
+            "closest_to": "santa monica",
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/ca/lake_forest"
+            ],
+            "longitude": "-117.6859212"
+        },
+        "big bear lake": {
+            "latitude": "34.253293",
+            "closest_to": "san bernardino",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.932209587315"
+        },
+        "getty museum": {
+            "latitude": "34.07757975",
+            "closest_to": "santa monica",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "manhattan beach pier": {
+            "latitude": "33.8842512",
+            "closest_to": "santa monica",
+            "address": "Manhattan Beach Pier, Manhattan Beach, Los Angeles County, California, 90266, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4121547"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "santa monica",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "fashion island": {
+            "latitude": "33.61476865",
+            "closest_to": "santa monica",
+            "address": "Fashion Island, Newport Center, Newport Beach, Orange County, California, 62660, United States of America",
+            "locType": "retail;commercial;residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.872907649816"
+        },
+        "los angeles international airport": {
+            "latitude": "33.94211345",
+            "closest_to": "santa monica",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.407057290249"
+        },
+        "ramona boulevard": {
+            "latitude": "34.0761904",
+            "closest_to": "santa monica",
+            "address": "Ramona Boulevard, El Monte, Los Angeles County, California, 91732, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.0051952"
+        },
+        "union station los angeles": {
+            "latitude": "34.0560576",
+            "closest_to": "santa monica",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.235796451972"
+        },
+        "oatman": {
+            "latitude": "33.4629648",
+            "closest_to": "san bernardino",
+            "address": "Oatman Lane, Aguanga, Riverside County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8181660-Route_66_between_Barstow_and_Needles-California.html"
+            ],
+            "longitude": "-116.8575027"
+        },
+        "arroyo seco": {
+            "latitude": "34.1129526",
+            "closest_to": "santa monica",
+            "address": "Arroyo Seco, LA, Los Angeles County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.176531"
+        },
+        "piru": {
+            "latitude": "34.4152743",
+            "closest_to": "santa monica",
+            "address": "Piru, Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.7939823"
+        },
+        "idyllwild": {
+            "latitude": "33.7400209",
+            "closest_to": "san bernardino",
+            "address": "Idyllwild, Riverside County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.7189074"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san bernardino",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "santa monica",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/category/los-angeles-day-trips/",
+                "http://www.bestplaces.net/city/california/santa_monica",
+                "https://www.tripadvisor.com/Attractions-g33009-Activities-San_Bernardino_California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.bestplaces.net/city/ca/lake_forest",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8181660-Route_66_between_Barstow_and_Needles-California.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California",
+                "https://www.yelp.com/topic/san-bernardino-cities-to-visit-that-are-close-to-ontario-airport-san-bernardino"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "carroll avenue": {
+            "latitude": "34.0696986",
+            "closest_to": "santa monica",
+            "address": "Carroll Avenue, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2550378"
+        },
+        "santa monica mountain": {
+            "latitude": "34.0195598",
+            "closest_to": "santa monica",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "harbor boulevard": {
+            "latitude": "33.8172821",
+            "closest_to": "santa monica",
+            "address": "Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.9152933"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "santa monica",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "sunset boulevard": {
+            "latitude": "34.0759222",
+            "closest_to": "santa monica",
+            "address": "Sunset Boulevard, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.2554183"
+        },
+        "santa ana freeway": {
+            "latitude": "33.8512853",
+            "closest_to": "santa monica",
+            "address": "Santa Ana Freeway, West Anaheim, Anaheim, Orange County, California, 92801, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-117.9707394"
+        },
+        "angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "santa monica",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "san bernardino",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "los feliz": {
+            "latitude": "34.10815355",
+            "closest_to": "santa monica",
+            "address": "Los Feliz, Little Armenia, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.289935811004"
+        },
+        "huntington drive": {
+            "latitude": "34.1226732",
+            "closest_to": "santa monica",
+            "address": "Huntington Drive, San Pasqual, San Marino, Los Angeles County, California, 91108, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.1035069"
+        },
+        "playa del rey": {
+            "latitude": "33.9550828",
+            "closest_to": "santa monica",
+            "address": "Playa del Rey, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4367495"
+        },
+        "cheviot hills": {
+            "latitude": "34.147226",
+            "closest_to": "santa monica",
+            "address": "Cheviot Hills Court, Thousand Oaks, Ventura County, California, 91361, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.8523469"
+        },
+        "mission san juan capistrano": {
+            "latitude": "33.50381465",
+            "closest_to": "santa monica",
+            "address": "Mission San Juan Capistrano, El Camino Real, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.663061669391"
+        },
+        "colorado boulevard": {
+            "latitude": "34.1394485",
+            "closest_to": "santa monica",
+            "address": "Colorado Boulevard, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-118.2001327"
+        },
+        "palm springs art museum": {
+            "latitude": "33.82417945",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs Art Museum, 101, North Museum Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-116.55001323271"
+        },
+        "santa paula": {
+            "latitude": "34.3541659",
+            "closest_to": "santa monica",
+            "address": "Santa Paula, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.0592704"
+        },
+        "santa monica blvd": {
+            "latitude": "34.0907545",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "santa monica",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "palos verdes peninsula": {
+            "latitude": "33.77984925",
+            "closest_to": "santa monica",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "mount vernon avenue": {
+            "latitude": "33.9848526",
+            "closest_to": "santa monica",
+            "address": "Mount Vernon Avenue, Riverside, Riverside County, California, 92507, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_66_in_California"
+            ],
+            "longitude": "-117.3137072"
+        },
+        "crystal cove": {
+            "latitude": "33.5753324",
+            "closest_to": "santa monica",
+            "address": "Crystal Cove, Orange County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.8409285"
+        },
+        "santa monica stairs": {
+            "latitude": "34.030572",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Stairs, Riviera, LA, Los Angeles County, California, 90402, United States of America",
+            "locType": "steps",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.512595"
+        },
+        "metro": {
+            "latitude": "33.9880063",
+            "closest_to": "santa monica",
+            "address": "Metro, Windward Circle, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "bus_station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California",
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4710141"
+        },
+        "india street": {
+            "latitude": "34.1029755",
+            "closest_to": "santa monica",
+            "address": "India Street, Silver Lake Heights, Atwater, LA, Los Angeles County, California, 90039, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.255159"
+        },
+        "dana point": {
+            "latitude": "33.4669721",
+            "closest_to": "santa monica",
+            "address": "Dana Point, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-117.6981074"
+        },
+        "sunset junction": {
+            "latitude": "34.0926493",
+            "closest_to": "santa monica",
+            "address": "Sunset Junction, LA, Los Angeles County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.2807953"
+        },
+        "jefferson park": {
+            "latitude": "34.0272344",
+            "closest_to": "santa monica",
+            "address": "Jefferson Park, Cienega, LA, Los Angeles County, California, 90018, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Interstate_10_in_California"
+            ],
+            "longitude": "-118.3175755"
+        },
+        "ventura boulevard": {
+            "latitude": "34.1467275",
+            "closest_to": "santa monica",
+            "address": "Ventura Boulevard, Sherman Oaks, LA, Los Angeles County, California, 91423, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html"
+            ],
+            "longitude": "-118.4234198"
+        }
+    }
+}

@@ -1,0 +1,886 @@
+{
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "santa clarita",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.expedia.com/Glendale-Hotels.d8086.Travel-Guide-Hotels",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.248367"
+        },
+        "verdugo mountains": {
+            "latitude": "34.23053615",
+            "closest_to": "santa clarita",
+            "address": "Verdugo Mountains, Foothill Freeway, LA, Los Angeles County, California, 91042, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.269379957729"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "pasadena",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.108604"
+        },
+        "rose bowl": {
+            "latitude": "34.1613231",
+            "closest_to": "santa clarita",
+            "address": "Rose Bowl, Rose Bowl Drive, Pasadena, Los Angeles County, California, 91103, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-118.167655462606"
+        },
+        "san fernando": {
+            "latitude": "34.2819461",
+            "closest_to": "santa clarita",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "pasadena",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "culver city": {
+            "latitude": "34.0211224",
+            "closest_to": "santa clarita",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.3964664"
+        },
+        "raymond avenue": {
+            "latitude": "34.0199675",
+            "closest_to": "pasadena",
+            "address": "Raymond Avenue, Saint James Park, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.297728"
+        },
+        "pasadena freeway": {
+            "latitude": "34.111387",
+            "closest_to": "santa clarita",
+            "address": "Pasadena Freeway, Highland Park, LA, Los Angeles County, California, 90042, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1834725"
+        },
+        "ventura freeway": {
+            "latitude": "34.1456804",
+            "closest_to": "santa clarita",
+            "address": "Ventura Freeway, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1918437"
+        },
+        "brookside park": {
+            "latitude": "34.15369105",
+            "closest_to": "santa clarita",
+            "address": "Brookside Park, Fremont Drive, Pasadena, Los Angeles County, California, 91103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.164442667881"
+        },
+        "whittier hills": {
+            "latitude": "33.9397495",
+            "closest_to": "pasadena",
+            "address": "Whittwood Branch Whittier Public Library, Starbuck Street, Friendly Hills, Whittier, Los Angeles County, California, 90603, United States of America",
+            "locType": "library",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.993545449378"
+        },
+        "highland park": {
+            "latitude": "34.1099469",
+            "closest_to": "santa clarita",
+            "address": "Highland Park, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1969827"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "santa clarita",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "santa clarita",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.312628"
+        },
+        "arroyo seco": {
+            "latitude": "34.1129526",
+            "closest_to": "pasadena",
+            "address": "Arroyo Seco, LA, Los Angeles County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.176531"
+        },
+        "cypress park": {
+            "latitude": "34.0922322",
+            "closest_to": "santa clarita",
+            "address": "Cypress Park, Highland Park, LA, Los Angeles County, California, 90065, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.2245178"
+        },
+        "sherman oaks": {
+            "latitude": "34.1508718",
+            "closest_to": "santa clarita",
+            "address": "Sherman Oaks, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4489864"
+        },
+        "rancho santa ana botanic gardens": {
+            "latitude": "34.1115449",
+            "closest_to": "pasadena",
+            "address": "Rancho Santa Ana Botanic Garden, College Avenue, Claremont, Los Angeles County, California, 91711, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.7149677"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "pasadena",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/",
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "http://www.opentable.com/los-angeles-restaurants",
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "hollywood & los angeles": {
+            "latitude": "34.1028268",
+            "closest_to": "santa clarita",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa clarita",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa clarita",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "san fernando road": {
+            "latitude": "34.3113261",
+            "closest_to": "santa clarita",
+            "address": "San Fernando Road, Sylmar, LA, Los Angeles County, California, 91344, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4749246"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "santa clarita",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx",
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/",
+                "http://visitsantaclarita.com/",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "https://www.ridebooker.com/transfers/pasadena-ca/santa-clarita-ca/van",
+                "http://www.livability.com/ca",
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "santa monica mountains conservancy": {
+            "latitude": "34.15089545",
+            "closest_to": "santa clarita",
+            "address": "Santa Monica Mountains Conservancy, Reforma Road, Woodland Hills, LA, Los Angeles County, California, 91364, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.616054173671"
+        },
+        "pacific palisades": {
+            "latitude": "34.0480643",
+            "closest_to": "santa clarita",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.5264705"
+        },
+        "los angeles river": {
+            "latitude": "34.1557816",
+            "closest_to": "santa clarita",
+            "address": "Los Angeles River, LA, Los Angeles County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.4421904"
+        },
+        "los angeles zoo": {
+            "latitude": "34.1490441",
+            "closest_to": "santa clarita",
+            "address": "Los Angeles Zoo, Skyline Trail, West Glendale, LA, Los Angeles County, California, 91201, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "https://www.expedia.com/Glendale-Hotels.d8086.Travel-Guide-Hotels"
+            ],
+            "longitude": "-118.290384452722"
+        },
+        "cafe atlantic": {
+            "latitude": "34.07710555",
+            "closest_to": "pasadena",
+            "address": "Starbucks, South Atlantic Boulevard, Alhambra, Los Angeles County, California, 91803, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.134013978908"
+        },
+        "temescal canyon park": {
+            "latitude": "34.0505642",
+            "closest_to": "santa clarita",
+            "address": "Temescal Canyon Park, Temescal Canyon Park access road, Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.5298039"
+        },
+        "castaic lake": {
+            "latitude": "34.5406179",
+            "closest_to": "santa clarita",
+            "address": "Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-118.587025025849"
+        },
+        "old road": {
+            "latitude": "34.3328446",
+            "closest_to": "santa clarita",
+            "address": "The Old Road, LA, Los Angeles County, California, SCV, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.506284"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "pasadena",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "santa clarita valley": {
+            "latitude": "34.3916641",
+            "closest_to": "santa clarita",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://lafilmlocations.com/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa clarita",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "uptown whittier": {
+            "latitude": "33.9734916",
+            "closest_to": "pasadena",
+            "address": "Uptown Market, Mar Vista Street, East Whittier, Whittier, Los Angeles County, California, 90602:90605, United States of America",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.037741263868"
+        },
+        "cerritos": {
+            "latitude": "33.8644291",
+            "closest_to": "pasadena",
+            "address": "Cerritos, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.0539322"
+        },
+        "east whittier": {
+            "latitude": "33.9244577",
+            "closest_to": "pasadena",
+            "address": "East La Mirada, Leffingwell, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.9889524"
+        },
+        "santa clarita route": {
+            "latitude": "34.3916641",
+            "closest_to": "santa clarita",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "rose bowl stadium": {
+            "latitude": "34.1613231",
+            "closest_to": "santa clarita",
+            "address": "Rose Bowl, Rose Bowl Drive, Pasadena, Los Angeles County, California, 91103, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.167655462606"
+        },
+        "la brea": {
+            "latitude": "33.9170444",
+            "closest_to": "pasadena",
+            "address": "Brea, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants"
+            ],
+            "longitude": "-117.8888556"
+        },
+        "elysian park": {
+            "latitude": "34.08289815",
+            "closest_to": "santa clarita",
+            "address": "Elysian Park, Solano Canyon Drive, Dayton Avenue, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.234413340192"
+        },
+        "valencia town center": {
+            "latitude": "34.41642985",
+            "closest_to": "santa clarita",
+            "address": "Valencia Town Center, Valencia, Santa Clarita, Los Angeles County, California, 91355, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.557273163561"
+        },
+        "arroyo seco river": {
+            "latitude": "34.1129526",
+            "closest_to": "pasadena",
+            "address": "Arroyo Seco, LA, Los Angeles County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.176531"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "pasadena",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx",
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://www.ridebooker.com/transfers/pasadena-ca/santa-clarita-ca/van",
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "mount wilson": {
+            "latitude": "34.2263926",
+            "closest_to": "pasadena",
+            "address": "Mount Wilson, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.0661796"
+        },
+        "los angeles county flood control district": {
+            "latitude": "34.0471198",
+            "closest_to": "pasadena",
+            "address": "Los Angeles County Flood Control District, Rio Hondo Bike Path, El Monte, Los Angeles County, California, 91770, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.072834725479"
+        },
+        "raymond basin": {
+            "latitude": "33.848747",
+            "closest_to": "pasadena",
+            "address": "Raymond Retarding Basin, Anaheim, Orange County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.908131941059"
+        },
+        "dodger stadium": {
+            "latitude": "34.0736255",
+            "closest_to": "santa clarita",
+            "address": "Dodger Stadium, 1000, Vin Scully Avenue, New Chinatown, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.238969292435"
+        },
+        "orange grove boulevard": {
+            "latitude": "34.1455771",
+            "closest_to": "santa clarita",
+            "address": "Orange Grove Boulevard, Pasadena, Los Angeles County, California, 91123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1606048"
+        },
+        "millard canyon": {
+            "latitude": "34.2171737",
+            "closest_to": "santa clarita",
+            "address": "Millard, Millard Canyon Road, Altadena, Los Angeles County, California, 91001, United States of America",
+            "locType": "camp_site",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1454"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "santa clarita",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "santa clarita",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "harbor freeway": {
+            "latitude": "34.013624",
+            "closest_to": "pasadena",
+            "address": "Harbor Freeway, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.2806329"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "pasadena",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "santa clarita",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "metro gold line": {
+            "latitude": "34.0559711",
+            "closest_to": "pasadena",
+            "address": "Metro Gold Line, LA Union Station Underground Walkway, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "platform",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.2347778235"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "pasadena",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "old pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "pasadena",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "santa clarita",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "pasadena",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "sepulveda boulevard": {
+            "latitude": "34.1172036",
+            "closest_to": "santa clarita",
+            "address": "Sepulveda Boulevard, Encino, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4825211"
+        },
+        "bloomfield avenue": {
+            "latitude": "33.9176419",
+            "closest_to": "pasadena",
+            "address": "Bloomfield Avenue, Norwalk, Los Angeles County, California, 90650, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.0639303"
+        },
+        "culver": {
+            "latitude": "34.0211224",
+            "closest_to": "santa clarita",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.3964664"
+        },
+        "whittier": {
+            "latitude": "33.9748932",
+            "closest_to": "pasadena",
+            "address": "Whittier, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.0336974"
+        },
+        "santa monica bay": {
+            "latitude": "33.9350121",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Bay, South Bay Bike Path, El Segundo, Los Angeles County, California, 90245, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4667443"
+        },
+        "stevenson ranch": {
+            "latitude": "34.3804077",
+            "closest_to": "santa clarita",
+            "address": "Stevenson Ranch Parkway, Valencia, Los Angeles County, California, 91381, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels"
+            ],
+            "longitude": "-118.5843793"
+        },
+        "glendale galleria": {
+            "latitude": "34.1447621",
+            "closest_to": "santa clarita",
+            "address": "Glendale Galleria, 100, Galleria Way, Glendale, Los Angeles County, California, 91203, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://www.expedia.com/Glendale-Hotels.d8086.Travel-Guide-Hotels",
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.25890848688"
+        },
+        "angeles national forest": {
+            "latitude": "34.6169308",
+            "closest_to": "santa clarita",
+            "address": "ANF, Forest Route 6N32, Los Angeles County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.590355030544"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "pasadena",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "claremont": {
+            "latitude": "34.0966764",
+            "closest_to": "pasadena",
+            "address": "Claremont, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.7197784"
+        },
+        "alhambra": {
+            "latitude": "34.0927361",
+            "closest_to": "pasadena",
+            "address": "Alhambra, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1268241"
+        },
+        "greenleaf avenue": {
+            "latitude": "33.9564313",
+            "closest_to": "pasadena",
+            "address": "Greenleaf Avenue, Whittier, Los Angeles County, California, 90670, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.0464691"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "santa clarita",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "altadena": {
+            "latitude": "34.1863161",
+            "closest_to": "santa clarita",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.1352328"
+        },
+        "montecito heights": {
+            "latitude": "34.0809352",
+            "closest_to": "pasadena",
+            "address": "Montecito Street, Lincoln Heights, Highland Park, LA, Los Angeles County, California, 90031, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.2076084"
+        },
+        "colorado boulevard": {
+            "latitude": "34.1394485",
+            "closest_to": "santa clarita",
+            "address": "Colorado Boulevard, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.2001327"
+        },
+        "south pasadena": {
+            "latitude": "34.1133062",
+            "closest_to": "pasadena",
+            "address": "South Pasadena, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.147829"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "pasadena",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.108604"
+        },
+        "ventura boulevard": {
+            "latitude": "34.1467275",
+            "closest_to": "santa clarita",
+            "address": "Ventura Boulevard, Sherman Oaks, LA, Los Angeles County, California, 91423, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-118.4234198"
+        }
+    }
+}

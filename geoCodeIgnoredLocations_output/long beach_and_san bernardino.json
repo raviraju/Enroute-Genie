@@ -1,0 +1,2921 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "green line": {
+            "latitude": "34.432429",
+            "closest_to": "",
+            "address": "Green Lane, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.7129779"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "legoland california": {
+            "latitude": "33.1278683",
+            "closest_to": "",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "guadalajara": {
+            "latitude": "31.8509906",
+            "closest_to": "",
+            "address": "Guadalajara, Ensenada, Baja California, 22898, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.5757984"
+        },
+        "india": {
+            "latitude": "32.72025735",
+            "closest_to": "",
+            "address": "Star of India, North Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.173543004762"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "closest_to": "",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9885718"
+        },
+        "shell beach": {
+            "latitude": "35.1552532",
+            "closest_to": "",
+            "address": "Shell Beach, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.6723948"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "old town-mission valley": {
+            "latitude": "32.7566177",
+            "closest_to": "",
+            "address": "Old Town, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2028231"
+        },
+        "central park": {
+            "latitude": "37.391994",
+            "closest_to": "",
+            "address": "Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-122.0638948"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "north pole": {
+            "latitude": "19.3740853",
+            "closest_to": "",
+            "address": "California, 1291, Empresa, Ampliaci\u00f3n N\u00e1poles, Benito Ju\u00e1rez, CDMX, 03900, M\u00e9xico",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-99.1792586"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "imperial beach": {
+            "latitude": "32.5839444",
+            "closest_to": "",
+            "address": "Imperial Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1130848"
+        },
+        "kumeyaay": {
+            "latitude": "32.6464696",
+            "closest_to": "",
+            "address": "Kumeyaay Highway, Titus, San Diego County, California, 91934, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.1858258"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "kettner blvd.": {
+            "latitude": "32.725143",
+            "closest_to": "",
+            "address": "Kettner Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1698529"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "city hall": {
+            "latitude": "32.84439345",
+            "closest_to": "",
+            "address": "City Hall, Imperial, Imperial County, California, 92251, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-115.569543523702"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "lake cachuma": {
+            "latitude": "34.576971",
+            "closest_to": "",
+            "address": "Lake Cachuma, San Marcos Pass Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.945991073866"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "fort bragg": {
+            "latitude": "39.4447345",
+            "closest_to": "",
+            "address": "Fort Bragg, Mendocino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-123.802699105743"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "oceano": {
+            "latitude": "35.0988648",
+            "closest_to": "",
+            "address": "Oceano, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.612393"
+        },
+        "cuyamaca rancho state park": {
+            "latitude": "32.86396725",
+            "closest_to": "",
+            "address": "Cuyamaca Rancho State Park, Highway 79, Guatay, San Diego County, California, 92036, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.591579345466"
+        },
+        "gaslamp quarter": {
+            "latitude": "32.7109444",
+            "closest_to": "",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1597028"
+        },
+        "washington , dc": {
+            "latitude": "38.915572",
+            "closest_to": "",
+            "address": "California Street Northwest, Kalorama Heights, Washington, District of Columbia, 20008, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-77.0526014"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "montana de oro": {
+            "latitude": "35.310291",
+            "closest_to": "",
+            "address": "Montana Way, Vista De Oro Estates, Baywood-Los Osos, San Luis Obispo County, California, 93402, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.8532319"
+        },
+        "montgomery field": {
+            "latitude": "32.8149052",
+            "closest_to": "",
+            "address": "Montgomery Field, John J Montgomery Drive, Mission Valley, San Diego, San Diego County, California, 92123, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.140320448768"
+        },
+        "ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.249321"
+        },
+        "hillcrest": {
+            "latitude": "32.7483621",
+            "closest_to": "",
+            "address": "Hillcrest, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1609795"
+        },
+        "' ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.249321"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "calif": {
+            "latitude": "37.786376",
+            "closest_to": "",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "pismo": {
+            "latitude": "24.1378257",
+            "closest_to": "",
+            "address": "Pismo, La Paz, Baja California Sur, 23206, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-110.3437034"
+        },
+        "shanghai": {
+            "latitude": "37.34935045",
+            "closest_to": "",
+            "address": "Shanghai, Jackson Street, Hensley Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-121.894015266141"
+        },
+        "nazareth": {
+            "latitude": "32.784617",
+            "closest_to": "",
+            "address": "Nazareth Drive, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.1079923"
+        },
+        "latin america": {
+            "latitude": "32.88513545",
+            "closest_to": "",
+            "address": "Latin America Hall, North Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.243474813578"
+        },
+        "palomar": {
+            "latitude": "23.48019285",
+            "closest_to": "",
+            "address": "Palomar, Calzada Maestros Misioneros de 1930, Santiago, Los Cabos, Baja California Sur, M\u00e9xico",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-109.715262801301"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "closest_to": "",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.9980641"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "chandler": {
+            "latitude": "36.5873787",
+            "closest_to": "",
+            "address": "Chandler, Selma, Fresno County, California, 93662, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-119.633388"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "williams junction": {
+            "latitude": "37.297796",
+            "closest_to": "",
+            "address": "Williamsburg Drive, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95117, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.9501648"
+        },
+        "morena blvd": {
+            "latitude": "32.816795",
+            "closest_to": "",
+            "address": "Morena Boulevard, Pacific Beach, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2209089"
+        },
+        "north park": {
+            "latitude": "32.7408842",
+            "closest_to": "",
+            "address": "North Park, San Diego, San Diego County, California, 92104, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1305876"
+        },
+        "san diego mission rd.": {
+            "latitude": "32.784578",
+            "closest_to": "",
+            "address": "San Diego Mission Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1091279"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "linda vista road": {
+            "latitude": "32.805611",
+            "closest_to": "",
+            "address": "Linda Vista Road, Mission Valley, San Diego, San Diego County, California, 92111, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1553189"
+        },
+        "torrey pines state beach": {
+            "latitude": "32.91754945",
+            "closest_to": "",
+            "address": "Torrey Pines State Beach, Yucca Point Trail, Del Mar, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.259044437013"
+        },
+        "santa fe railroad": {
+            "latitude": "37.9313328",
+            "closest_to": "",
+            "address": "Santa Fe Railroad, West Ohio Avenue, Atchison Village, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-122.3742068"
+        },
+        "black 's beach": {
+            "latitude": "33.3358674",
+            "closest_to": "",
+            "address": "Black Sea Avenue, Salton Sea Beach, Imperial County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-115.9938426"
+        },
+        "monterrey": {
+            "latitude": "32.5492861",
+            "closest_to": "",
+            "address": "Monterrey, Mexicali, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-115.0704122"
+        },
+        "valley center": {
+            "latitude": "33.2183701",
+            "closest_to": "",
+            "address": "Valley Center, San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.0341966"
+        },
+        "sierra vista": {
+            "latitude": "37.1513327",
+            "closest_to": "",
+            "address": "Sierra Vista, Madera County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-120.2862883"
+        },
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "closest_to": "",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.535021480702"
+        },
+        "wisconsin": {
+            "latitude": "36.8358605",
+            "closest_to": "",
+            "address": "Wisconsin, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/270075308874996476/"
+            ],
+            "longitude": "-119.7945237"
+        },
+        "el paso": {
+            "latitude": "36.8487922",
+            "closest_to": "",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "san miguel": {
+            "latitude": "35.7524679",
+            "closest_to": "",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6962825"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://wikitravel.org/en/Los_Angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "tijuana": {
+            "latitude": "32.5008626",
+            "closest_to": "",
+            "address": "Tijuana, Baja California, M\u00e9xico",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.9641656"
+        },
+        "yuma": {
+            "latitude": "32.749997",
+            "closest_to": "",
+            "address": "Yuma Main Canal, Imperial County, California, United States of America",
+            "locType": "canal",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-114.6287508"
+        },
+        "san ysidro blvd": {
+            "latitude": "32.5520013",
+            "closest_to": "",
+            "address": "San Ysidro, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0430812"
+        },
+        "mulholland": {
+            "latitude": "37.871208",
+            "closest_to": "",
+            "address": "Mulholland, 1710, 4th Street, 4th Street Shops, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.3012819"
+        },
+        "pacific crest trail": {
+            "latitude": "38.69418",
+            "closest_to": "",
+            "address": "Pacific Crest Trail, Pleasant Valley, El Dorado County, California, 95667, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Activities/Camping.aspx"
+            ],
+            "longitude": "-120.6375709"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles",
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "laurel street": {
+            "latitude": "32.7313904",
+            "closest_to": "",
+            "address": "Laurel Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1594735"
+        },
+        "el cajon": {
+            "latitude": "32.7947731",
+            "closest_to": "",
+            "address": "El Cajon, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.9625268"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "king boulevard": {
+            "latitude": "36.2127439",
+            "closest_to": "",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.1260286"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "palomar airport road": {
+            "latitude": "33.1291437",
+            "closest_to": "",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "los angeles metro": {
+            "latitude": "14.7119101",
+            "closest_to": "",
+            "address": "East Los Angeles, California Village, San Bartolome, Quezon City, District V, Quezon City, Metro Manila, 1116, Philippines",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "121.0228751"
+        },
+        "palomar mountain": {
+            "latitude": "33.3228128",
+            "closest_to": "",
+            "address": "Palomar Mountain, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.8786358"
+        },
+        "north california": {
+            "latitude": "32.7976084",
+            "closest_to": "",
+            "address": "Northwest, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-117.2194385"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "pacific rim": {
+            "latitude": "40.8702874",
+            "closest_to": "",
+            "address": "Pacific Rim, 1021, I Street, Arcata, Humboldt County, California, 95518-4448, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-124.0877889"
+        },
+        "pacific islander": {
+            "latitude": "36.7366176",
+            "closest_to": "",
+            "address": "DBH: Asian Pacific Islander Program, Latino Team, S.E.E.S. Program, South Barton Avenue, Fresno County, California, 93702, United States of America",
+            "locType": "clinic",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-119.7504685"
+        },
+        "salinas river": {
+            "latitude": "35.2891002",
+            "closest_to": "",
+            "address": "Salinas River, San Luis Obispo County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.3596546"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://blog.elmonterv.com/index.php/2011/03/top-ten-list-of-places-to-see-in-san-bernardino/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "los posadas": {
+            "latitude": "-27.36738525",
+            "closest_to": "",
+            "address": "California, 215, C\u00f3rdoba, Centro, Delegaci\u00f3n Municipal Centro, Posadas, Municipio de Posadas, Departamento Capital, Mnes., 3300, Argentina",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-55.8965126230186"
+        },
+        "balboa park | balboa park-hillcrest": {
+            "latitude": "32.7310521",
+            "closest_to": "",
+            "address": "Balboa Park, Plaza de Balboa, North Park, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.146580648446"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://wikitravel.org/en/Los_Angeles",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "santa fe depot": {
+            "latitude": "32.7167353",
+            "closest_to": "",
+            "address": "Santa Fe Depot, Martin Luther King Promenade, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1698167"
+        },
+        "santee": {
+            "latitude": "32.8383828",
+            "closest_to": "",
+            "address": "Santee, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.9739166"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "closest_to": "",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3890349"
+        },
+        "paso robles": {
+            "latitude": "35.6267654",
+            "closest_to": "",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6912455"
+        },
+        "national parks": {
+            "latitude": "35.0310157",
+            "closest_to": "",
+            "address": "National Parks Service Road, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-115.383967"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "north county": {
+            "latitude": "39.7452174",
+            "closest_to": "",
+            "address": "California, 16th Street, Upper Downtown, Denver, Denver County, Colorado, 80211, United States of America",
+            "locType": "bus_stop",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-104.992379"
+        },
+        "westwood": {
+            "latitude": "40.3024675",
+            "closest_to": "",
+            "address": "Westwood, 3rd Street, Westwood, Lassen County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.010399151458"
+        },
+        "la mesa": {
+            "latitude": "32.7678288",
+            "closest_to": "",
+            "address": "La Mesa, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0230838"
+        },
+        "gila bend": {
+            "latitude": "32.8134269",
+            "closest_to": "",
+            "address": "Gila Bend Drive, Seeley, Imperial County, California, 92243, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-115.6753603"
+        },
+        "westlake": {
+            "latitude": "37.8168101",
+            "closest_to": "",
+            "address": "Westlake, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2592823"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "civic center drive": {
+            "latitude": "33.1937335",
+            "closest_to": "",
+            "address": "Civic Center Drive, Vista, San Diego County, California, 92083, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-117.2343609"
+        },
+        "mission valley": {
+            "latitude": "32.7768074",
+            "closest_to": "",
+            "address": "Mission Valley, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1520977"
+        },
+        "balboa park-hillcrest": {
+            "latitude": "32.7310521",
+            "closest_to": "",
+            "address": "Balboa Park, Plaza de Balboa, North Park, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.146580648446"
+        },
+        "downtown union station": {
+            "latitude": "35.38175325",
+            "closest_to": "",
+            "address": "KSFCU: Downtown Branch, 2424, Chester Avenue, Bakersfield, Kern County, California, 93301, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.018392892525"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "belgium": {
+            "latitude": "39.7276351",
+            "closest_to": "",
+            "address": "Belgium Avenue, Chico, Butte County, California, 95928, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.785498"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "shelter island": {
+            "latitude": "32.7113133",
+            "closest_to": "",
+            "address": "Shelter Island, San Diego, San Diego County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2300318"
+        },
+        "little italy": {
+            "latitude": "32.7234579",
+            "closest_to": "",
+            "address": "Little Italy, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1682719"
+        },
+        "escondido": {
+            "latitude": "33.1216751",
+            "closest_to": "",
+            "address": "Escondido, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0814848"
+        },
+        "tempe": {
+            "latitude": "33.4248191",
+            "closest_to": "",
+            "address": "California, Tempe Cascade, Maricopa County, Arizona, 8, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-111.8872863"
+        },
+        "downtown": {
+            "latitude": "37.8036295",
+            "closest_to": "",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2715243"
+        },
+        "germany": {
+            "latitude": "50.9590814",
+            "closest_to": "",
+            "address": "California, Lassallestra\u00dfe, M\u00fclheim, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50667-51149, Deutschland",
+            "locType": "beauty",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "7.009217"
+        },
+        "montana": {
+            "latitude": "37.413991",
+            "closest_to": "",
+            "address": "Montana, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-118.6129969"
+        },
+        "az": {
+            "latitude": "33.3547482",
+            "closest_to": "",
+            "address": "California, Gold Canyon RV & Golf Resort, San Tan Valley, Pinal County, Arizona, 85219, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-111.4698532"
+        },
+        "lindbergh field": {
+            "latitude": "32.73336075",
+            "closest_to": "",
+            "address": "San Diego International Airport, Air Lane, Old Town, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.193463366077"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "https://www.pinterest.com/pin/492510909221178685/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://blog.elmonterv.com/index.php/2011/03/top-ten-list-of-places-to-see-in-san-bernardino/",
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html",
+                "https://www.pinterest.com/pin/270075308874996476/",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-72.945787"
+        },
+        "foothill blvd": {
+            "latitude": "32.809746",
+            "closest_to": "",
+            "address": "Foothill Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-117.2474369"
+        },
+        "pico-union": {
+            "latitude": "39.5873865",
+            "closest_to": "",
+            "address": "Union Hill, Butte County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.3821874"
+        },
+        "new zealand": {
+            "latitude": "-41.1069272",
+            "closest_to": "",
+            "address": "California Drive, Totara Park, Upper Hutt, Upper Hutt City, Wellington, 5371, New Zealand/Aotearoa",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "175.0832904"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "san bernardino county": {
+            "latitude": "34.8253019",
+            "closest_to": "",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.0833143"
+        },
+        "west side": {
+            "latitude": "41.101001",
+            "closest_to": "",
+            "address": "California Street, Youngstown, Mahoning County, Ohio, 44509, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-80.7072619"
+        },
+        "san francisco solano": {
+            "latitude": "38.21389995",
+            "closest_to": "",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.458560315194"
+        },
+        "montclaire": {
+            "latitude": "32.817977",
+            "closest_to": "",
+            "address": "Montclaire, Mission Valley, San Diego, San Diego County, California, 92111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-117.177117047006"
+        },
+        "lancaster": {
+            "latitude": "34.6981064",
+            "closest_to": "",
+            "address": "Lancaster, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.1366152"
+        },
+        "san buenaventura": {
+            "latitude": "34.2783355",
+            "closest_to": "",
+            "address": "Ventura, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-119.2931742"
+        },
+        "rome": {
+            "latitude": "41.9628634",
+            "closest_to": "",
+            "address": "California, Via della Missione, Tivoli, Paterno, Tivoli, RM, LAZ, 00019, Italia",
+            "locType": "pub",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "12.7977613"
+        },
+        "red hill": {
+            "latitude": "35.5946767",
+            "closest_to": "",
+            "address": "Red Hill, Kern County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-118.8856501"
+        },
+        "spain": {
+            "latitude": "37.1412332",
+            "closest_to": "",
+            "address": "La California, Mor\u00f3n de la Frontera, Sevilla, Andaluc\u00eda, Espa\u00f1a",
+            "locType": "locality",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-5.4610806"
+        },
+        "flagstaff": {
+            "latitude": "38.7676791",
+            "closest_to": "",
+            "address": "Flagstaff Hill, El Dorado County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.0838339"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "x93long beach": {
+            "latitude": "35.13738",
+            "closest_to": "",
+            "address": "Beach, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-120.6345489"
+        },
+        "dinosaur hall": {
+            "latitude": "38.555919",
+            "closest_to": "",
+            "address": "Dinosaur Place, Davis, Yolo County, California, 95616, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.7772298"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "la purisima": {
+            "latitude": "26.1864328",
+            "closest_to": "",
+            "address": "La Pur\u00edsima, Comond\u00fa, Baja California Sur, M\u00e9xico",
+            "locType": "town",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-112.0756337"
+        },
+        "mackerricher state park": {
+            "latitude": "39.4932207",
+            "closest_to": "",
+            "address": "MacKerricher State Park, Mackerricher State Park Road, Cleone, Mendocino County, California, 95437, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-123.7936267"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "qualcomm stadium": {
+            "latitude": "32.7810139",
+            "closest_to": "",
+            "address": "Qualcomm Stadium, Qualcomm Way, Mission Valley, San Diego, San Diego County, California, 92123, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1196206"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "mid-city": {
+            "latitude": "37.5133425",
+            "closest_to": "",
+            "address": "Middle Bair Island, Redwood City, San Mateo County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2303835"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "del mar": {
+            "latitude": "32.9594891",
+            "closest_to": "",
+            "address": "Del Mar, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.2653145"
+        },
+        "lethbridge": {
+            "latitude": "32.971272",
+            "closest_to": "",
+            "address": "Lethbridge Way, San Diego, San Diego County, California, 92129, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1296619"
+        },
+        "utah": {
+            "latitude": "37.413408",
+            "closest_to": "",
+            "address": "Utah, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-118.6125359"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "closest_to": "",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.5379893"
+        },
+        "tecate": {
+            "latitude": "32.43593355",
+            "closest_to": "",
+            "address": "Tecate, Baja California, M\u00e9xico",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.273657068655"
+        },
+        "central valley": {
+            "latitude": "40.5626504",
+            "closest_to": "",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.4530663"
+        },
+        "las vegas strip": {
+            "latitude": "36.12050715",
+            "closest_to": "",
+            "address": "California Pizza Kitchen, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-115.173775796208"
+        },
+        "san luis rey": {
+            "latitude": "33.2319797",
+            "closest_to": "",
+            "address": "San Luis Rey, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3236484"
+        },
+        "fairfax": {
+            "latitude": "37.9872935",
+            "closest_to": "",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.5879673"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "san marcos": {
+            "latitude": "33.1433723",
+            "closest_to": "",
+            "address": "San Marcos, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.1661448"
+        },
+        "atlanta": {
+            "latitude": "37.8129826",
+            "closest_to": "",
+            "address": "Atlanta, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.1207728"
+        },
+        "town-mission valley": {
+            "latitude": "32.7537731",
+            "closest_to": "",
+            "address": "Old Town San Diego State Historic Park, Twiggs Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.194891467408"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "closest_to": "",
+            "address": "Yerba Buena Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3660816"
+        },
+        "metro subway": {
+            "latitude": "37.7417113",
+            "closest_to": "",
+            "address": "Bay Area Rapid Transit, Kingston Street, Noe Valley, SF, California, 94110, United States of America",
+            "locType": "subway",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.4223509"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "new stine": {
+            "latitude": "35.3349675",
+            "closest_to": "",
+            "address": "New Stine Road, Bakersfield, Kern County, California, 93309, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.0592842"
+        },
+        "argentina": {
+            "latitude": "-31.451096",
+            "closest_to": "",
+            "address": "California, C\u00f3rdoba, Departamento Capital, Cba., Argentina",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-64.205523"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "earth": {
+            "latitude": "35.4780569",
+            "closest_to": "",
+            "address": "Mountain Pass Rare Earth Mine, Mountain Pass, San Bernardino County, California, 92364, United States of America",
+            "locType": "quarry",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-115.541994345811"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "ritz carlton": {
+            "latitude": "37.791867",
+            "closest_to": "",
+            "address": "Ritz-Carlton, 600, Stockton Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.406834213408"
+        },
+        "australia": {
+            "latitude": "-32.6649999",
+            "closest_to": "",
+            "address": "California, Singleton, NSW, Australia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "150.9261111"
+        },
+        "mount carmel": {
+            "latitude": "36.3857956",
+            "closest_to": "",
+            "address": "Mount Carmel, Monterey County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-121.7882847"
+        },
+        "philippines": {
+            "latitude": "9.966227",
+            "closest_to": "",
+            "address": "California, San Pascual, Bohol, Central Visayas, Philippines",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "124.4144861"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "stockton & san jose": {
+            "latitude": "37.3404469",
+            "closest_to": "",
+            "address": "Stockton Avenue, College Park, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.9131994"
+        },
+        "east coast": {
+            "latitude": "37.858337",
+            "closest_to": "",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2447393"
+        },
+        "san antonio": {
+            "latitude": "38.1838069",
+            "closest_to": "",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "old town transit center": {
+            "latitude": "32.7548849",
+            "closest_to": "",
+            "address": "Old Town Transit Center, Congress Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1994928"
+        },
+        "switzerland": {
+            "latitude": "47.3688306",
+            "closest_to": "",
+            "address": "California, 22, Schiffl\u00e4nde, Rathaus, Altstadt, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8024, Schweiz, Suisse, Svizzera, Svizra",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "8.5445137"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "santa": {
+            "latitude": "22.4804035",
+            "closest_to": "",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-80.3796642"
+        },
+        "greece": {
+            "latitude": "43.222537",
+            "closest_to": "",
+            "address": "California Drive, Greece Town, Monroe County, New York, 14616, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-77.6362609"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "inland san diego county": {
+            "latitude": "33.119939",
+            "closest_to": "",
+            "address": "Inland Rail Trail, Escondido, San Diego County, California, 92025, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0913462"
+        },
+        "lemon grove": {
+            "latitude": "32.7425516",
+            "closest_to": "",
+            "address": "Lemon Grove, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0314171"
+        },
+        "san diego airport": {
+            "latitude": "33.1278146",
+            "closest_to": "",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "n. torrey pines rd": {
+            "latitude": "32.9358252",
+            "closest_to": "",
+            "address": "North Torrey Pines Road, Del Mar, San Diego, San Diego County, California, 92014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2608353"
+        },
+        "los angeles aqueduct": {
+            "latitude": "36.6516297",
+            "closest_to": "",
+            "address": "Los Angeles Aqueduct, Inyo County, California, United States of America",
+            "locType": "canal",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.0956309"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "san diego river": {
+            "latitude": "32.7686163",
+            "closest_to": "",
+            "address": "San Diego River, San Diego, San Diego County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1585474"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "poway": {
+            "latitude": "32.9628234",
+            "closest_to": "",
+            "address": "Poway, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0358645"
+        },
+        "italy": {
+            "latitude": "45.659844",
+            "closest_to": "",
+            "address": "California, MB, LOM, Italia",
+            "locType": "village",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "9.3130453"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "riverside-san bernardino": {
+            "latitude": "34.908786",
+            "closest_to": "",
+            "address": "Riverside Road, Harvard, San Bernardino County, California, 92365, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-116.6537219"
+        },
+        "kingman": {
+            "latitude": "33.3508348",
+            "closest_to": "",
+            "address": "Kingman, 31422, Borrego Palm Canyon Road, San Diego County, California, United States of America",
+            "locType": "camp_site",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.5745266"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside",
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://wikitravel.org/en/Los_Angeles",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "foothill boulevard": {
+            "latitude": "32.809746",
+            "closest_to": "",
+            "address": "Foothill Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-117.2474369"
+        },
+        "south africa": {
+            "latitude": "37.8749498",
+            "closest_to": "",
+            "address": "South Africa, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2378391"
+        },
+        "downtown la": {
+            "latitude": "37.8036295",
+            "closest_to": "",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2715243"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "san diego international airport": {
+            "latitude": "32.73336075",
+            "closest_to": "",
+            "address": "San Diego International Airport, Air Lane, Old Town, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.193463366077"
+        },
+        "mission trails regional park": {
+            "latitude": "32.7958834",
+            "closest_to": "",
+            "address": "Mission Trails Regional Park, Lake Shore Drive, San Diego, San Diego County, California, 91942:92119, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0366957"
+        },
+        "madera": {
+            "latitude": "37.1716264",
+            "closest_to": "",
+            "address": "Madera County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.773799"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "ethiopia": {
+            "latitude": "37.8567857",
+            "closest_to": "",
+            "address": "Ethiopia Restaurant, 2955, Telegraph Avenue, LeConte, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.259261231789"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "baja mexico": {
+            "latitude": "32.499412",
+            "closest_to": "",
+            "address": "Instituto Mexico de Baja California, Avenida Las Palmas, Tijuana, Baja California, 22106, M\u00e9xico",
+            "locType": "school",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.9866449"
+        },
+        "mission hills": {
+            "latitude": "32.7528279",
+            "closest_to": "",
+            "address": "Mission Hills, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1869788"
+        },
+        "national city": {
+            "latitude": "32.6781085",
+            "closest_to": "",
+            "address": "National City, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0991966"
+        },
+        "la live": {
+            "latitude": "36.9932131",
+            "closest_to": "",
+            "address": "California, East Morrissey, Eastside, Santa Cruz County, California, 95065, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.9845106"
+        },
+        "naval air station": {
+            "latitude": "32.701613",
+            "closest_to": "",
+            "address": "Naval Air Station North Island, F West Road, Coronado, San Diego County, California, 92135, United States of America",
+            "locType": "military",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2043364"
+        },
+        "santa ines": {
+            "latitude": "22.88332",
+            "closest_to": "",
+            "address": "Santa Ines, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-109.9425933"
+        },
+        "imperial valley": {
+            "latitude": "33.0305487",
+            "closest_to": "",
+            "address": "Imperial County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-115.3595665"
+        },
+        "clairemont mesa": {
+            "latitude": "32.8302448",
+            "closest_to": "",
+            "address": "Clairemont Mesa Boulevard, Pacific Beach, San Diego, San Diego County, California, 92117, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.215436"
+        },
+        "china bistro": {
+            "latitude": "32.6477593",
+            "closest_to": "",
+            "address": "China Bistro, De Los Obeliscos, Los Pinos, Mexicali, Baja California, 21000, M\u00e9xico",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California"
+            ],
+            "longitude": "-115.4519052"
+        },
+        "mission bay": {
+            "latitude": "37.7707742",
+            "closest_to": "",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "antelope valley": {
+            "latitude": "34.67743",
+            "closest_to": "",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "locType": "college",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.1865629"
+        },
+        "idaho": {
+            "latitude": "37.413354",
+            "closest_to": "",
+            "address": "Idaho, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-118.6119669"
+        },
+        "west broadway": {
+            "latitude": "32.7157697",
+            "closest_to": "",
+            "address": "West Broadway, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.167374"
+        },
+        "petco park": {
+            "latitude": "32.70717575",
+            "closest_to": "",
+            "address": "Petco Park, 100, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.156886653262"
+        },
+        "art deco": {
+            "latitude": "37.8065681",
+            "closest_to": "",
+            "address": "Art Deco Clock, Broadway, Uptown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "artwork",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2698945"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "closest_to": "",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.675382525556"
+        },
+        "armenia": {
+            "latitude": "4.5527389",
+            "closest_to": "",
+            "address": "California, Cl 14 N, La Campi\u00f1a, Armenia, Quind\u00edo, 630004, Colombia",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-75.65735805"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.pinterest.com/pin/492510909221178685/",
+                "https://www.yelp.com/biz/oceanside-metrolink-train-station-oceanside"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "viejas arena": {
+            "latitude": "32.77380925",
+            "closest_to": "",
+            "address": "Viejas Arena, Aztec Walk, San Diego, San Diego County, California, 92182, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.074548235413"
+        },
+        "la jolla shores": {
+            "latitude": "32.8556028",
+            "closest_to": "",
+            "address": "La Jolla Shores, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2536478"
+        },
+        "kettner blvd": {
+            "latitude": "32.725143",
+            "closest_to": "",
+            "address": "Kettner Boulevard, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1698529"
+        },
+        "seattle": {
+            "latitude": "41.9641881",
+            "closest_to": "",
+            "address": "Seattle, Dorris, Siskiyou County, California, 96023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs"
+            ],
+            "longitude": "-121.9226289"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/270075308874996476/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "avila beach": {
+            "latitude": "35.1799752",
+            "closest_to": "",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.7318417"
+        },
+        "china": {
+            "latitude": "37.9989198",
+            "closest_to": "",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.49033307856"
+        },
+        "south central": {
+            "latitude": "-23.6672542",
+            "closest_to": "",
+            "address": "Calif\u00f3rnia, Microrregi\u00e3o Arapucana, Mesorregi\u00e3o Norte Central Paranaense, PR, Regi\u00e3o Sul, Brasil",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-51.3554555"
+        },
+        "kansas city": {
+            "latitude": "37.7854258",
+            "closest_to": "",
+            "address": "Kansas City, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.2891519"
+        },
+        "san ysidro": {
+            "latitude": "32.5520013",
+            "closest_to": "",
+            "address": "San Ysidro, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0430812"
+        },
+        "san diego botanic gardens": {
+            "latitude": "33.053482",
+            "closest_to": "",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "north hills": {
+            "latitude": "-34.9455308",
+            "closest_to": "",
+            "address": "California, Beverly Hills, Punta Del Este, Maldonado, 20100, Uruguay",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-54.9348719"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.bestplaces.net/city/california/long_beach",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://wikitravel.org/en/Los_Angeles",
+                "http://www.bestplaces.net/city/california/brea"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://answers.yahoo.com/question/index?qid=20080328184800AA3D7Fs",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "fiesta hermosa": {
+            "latitude": "32.820389",
+            "closest_to": "",
+            "address": "Avenida Fiesta, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-117.2326969"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "detroit": {
+            "latitude": "37.8190177",
+            "closest_to": "",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "mission blvd.": {
+            "latitude": "32.799358",
+            "closest_to": "",
+            "address": "Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2563629"
+        },
+        "salem": {
+            "latitude": "39.0652059",
+            "closest_to": "",
+            "address": "California, Cincinnati, Hamilton County, Ohio, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/270075308874996476/"
+            ],
+            "longitude": "-84.4272385"
+        },
+        "chula vista": {
+            "latitude": "32.6400541",
+            "closest_to": "",
+            "address": "Chula Vista, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0841954"
+        },
+        "brazil": {
+            "latitude": "-23.6672542",
+            "closest_to": "",
+            "address": "Calif\u00f3rnia, Microrregi\u00e3o Arapucana, Mesorregi\u00e3o Norte Central Paranaense, PR, Regi\u00e3o Sul, Brasil",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-51.3554555"
+        },
+        "summit valley": {
+            "latitude": "35.1277437",
+            "closest_to": "",
+            "address": "Summit, Tehachapi, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Activities/Camping.aspx"
+            ],
+            "longitude": "-118.4139725"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "arroyo grande": {
+            "latitude": "35.1185869",
+            "closest_to": "",
+            "address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.5907251"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/long_beach"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "sassafras street": {
+            "latitude": "32.7353092",
+            "closest_to": "",
+            "address": "Sassafras Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1792479"
+        },
+        "jc penny": {
+            "latitude": "37.781387",
+            "closest_to": "",
+            "address": "JC Penny, CA 120, Manteca, San Joaquin County, California, 95337, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-121.2319169"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "washington": {
+            "latitude": "40.0657724",
+            "closest_to": "",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-79.8918435"
+        },
+        "alta california": {
+            "latitude": "37.3964868",
+            "closest_to": "",
+            "address": "Alta California, 20421, Geer Avenue, Irwin, Merced County, California, 95324, United States of America",
+            "locType": "house",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-120.8579018"
+        },
+        "albuquerque": {
+            "latitude": "32.8074701",
+            "closest_to": "",
+            "address": "Albuquerque Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-117.2184314"
+        },
+        "denmark": {
+            "latitude": "57.4379493",
+            "closest_to": "",
+            "address": "California, Lodsgade, Frederikshavn, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "10.5361043"
+        },
+        "st. louis": {
+            "latitude": "39.6985046",
+            "closest_to": "",
+            "address": "Saint Louis, Sierra County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-120.9249513"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html",
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "pacific beach": {
+            "latitude": "32.7978268",
+            "closest_to": "",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2403182"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "mcclellan-palomar airport": {
+            "latitude": "33.12754605",
+            "closest_to": "",
+            "address": "McClellan-Palomar Airport, Aircraft Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.281400045984"
+        },
+        "san antonio valley": {
+            "latitude": "38.1838069",
+            "closest_to": "",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "northern san diego county": {
+            "latitude": "32.7349196",
+            "closest_to": "",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "campo": {
+            "latitude": "37.8974258",
+            "closest_to": "",
+            "address": "El Campo, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.4652506"
+        },
+        "california desert": {
+            "latitude": "33.7348741",
+            "closest_to": "",
+            "address": "California Drive, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.317684"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "egypt": {
+            "latitude": "37.2547835",
+            "closest_to": "",
+            "address": "Egypt Creek, Inyo County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://wikitravel.org/en/Los_Angeles"
+            ],
+            "longitude": "-118.544859"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/492510909221178685/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "mission beach-pacific beach": {
+            "latitude": "32.7846357",
+            "closest_to": "",
+            "address": "The Mission, 3795, Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2527558"
+        }
+    },
+    "long beach": {
+        "type": "city",
+        "osm_id": "112100",
+        "class": "place",
+        "importance": 0.87291598958998,
+        "lat": "33.78538945",
+        "lon": "-118.158049215311",
+        "boundingbox": [
+            "33.6905847",
+            "33.8855951",
+            "-118.2489659",
+            "-118.0632824"
+        ],
+        "display_name": "Long Beach, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158641779",
+        "osm_type": "relation"
+    }
+}

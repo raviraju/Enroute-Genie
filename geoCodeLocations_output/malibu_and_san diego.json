@@ -1,0 +1,938 @@
+{
+    "malibu": {
+        "type": "residential",
+        "osm_id": "7335067",
+        "class": "highway",
+        "importance": 0.3,
+        "lat": "33.7932142",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "place_id": "58129970",
+        "lon": "-116.5023561",
+        "boundingbox": [
+            "33.7923238",
+            "33.7940184",
+            "-116.5023599",
+            "-116.5023526"
+        ],
+        "display_name": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+        "osm_type": "way"
+    },
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "san diego",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san diego",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "san diego",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "la jolla parkway": {
+            "latitude": "32.8390806",
+            "closest_to": "san diego",
+            "address": "La Jolla Parkway, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2361388"
+        },
+        "museum of contemporary art san diego": {
+            "latitude": "32.8445548",
+            "closest_to": "san diego",
+            "address": "Museum of Contemporary Art San Diego, 700, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037-4291, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2779949"
+        },
+        "santa fe station": {
+            "latitude": "32.4395109",
+            "closest_to": "san diego",
+            "address": "Santa Fe, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3917554-Train_to_take_from_old_town_to_malibu-California.html"
+            ],
+            "longitude": "-117.0336822"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "san diego",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "coronado bridge": {
+            "latitude": "32.6904606",
+            "closest_to": "san diego",
+            "address": "San Diego-Coronado Bridge, San Diego, San Diego County, California, 92118, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.1524863"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "malibu",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "san diego",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "san diego",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "san diego",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "canada": {
+            "latitude": "33.7298842",
+            "closest_to": "san diego",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "downtown san diego": {
+            "latitude": "33.1253528",
+            "closest_to": "san diego",
+            "address": "Palomar Health Downtown Campus, East Grand Avenue, Escondido, San Diego County, California, 92027, United States of America",
+            "locType": "hospital",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3917554-Train_to_take_from_old_town_to_malibu-California.html"
+            ],
+            "longitude": "-117.075213351358"
+        },
+        "torrey pines state beach": {
+            "latitude": "32.91754945",
+            "closest_to": "san diego",
+            "address": "Torrey Pines State Beach, Yucca Point Trail, Del Mar, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.259044437013"
+        },
+        "san diego freeway": {
+            "latitude": "32.7285162",
+            "closest_to": "san diego",
+            "address": "San Diego Freeway, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1690377"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "san diego",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "closest_to": "malibu",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.8766731"
+        },
+        "us hwy 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san diego",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "san diego",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "san diego",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "tijuana": {
+            "latitude": "32.5008626",
+            "closest_to": "san diego",
+            "address": "Tijuana, Baja California, M\u00e9xico",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-116.9641656"
+        },
+        "manhattan": {
+            "latitude": "33.8109789",
+            "closest_to": "malibu",
+            "address": "Manhattan, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.919744373725"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "malibu",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "old encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "san diego",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "harbor blvd": {
+            "latitude": "33.8172821",
+            "closest_to": "malibu",
+            "address": "Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-117.9152933"
+        },
+        "las virgenes": {
+            "latitude": "32.4444142",
+            "closest_to": "san diego",
+            "address": "Las Virgenes, Fracc. Garcia, Tijuana, Baja California, 22125, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-116.9273026"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "closest_to": "malibu",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.596723958419"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "san diego",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "san diego",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.quora.com/What-is-a-good-place-to-stay-overnight-midway-while-driving-from-San-Francisco-and-Los-Angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3917554-Train_to_take_from_old_town_to_malibu-California.html",
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "san diego",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.870493"
+        },
+        "kellogg park": {
+            "latitude": "32.8576255",
+            "closest_to": "san diego",
+            "address": "Kellogg Park, Camino del Oro, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.256379451174"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "san diego",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "la jolla shores": {
+            "latitude": "32.8556028",
+            "closest_to": "san diego",
+            "address": "La Jolla Shores, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2536478"
+        },
+        "interstate freeway": {
+            "latitude": "33.7269731",
+            "closest_to": "malibu",
+            "address": "Interstate 10, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.2024855"
+        },
+        "mecca": {
+            "latitude": "33.5701568",
+            "closest_to": "malibu",
+            "address": "Mecca, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-116.0745416"
+        },
+        "cypress point": {
+            "latitude": "33.5170137",
+            "closest_to": "san diego",
+            "address": "Cypress Point, Temecula, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.10695135087"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "san diego",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san diego",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.92944"
+        },
+        "shamel park": {
+            "latitude": "33.9455711",
+            "closest_to": "malibu",
+            "address": "Shamel Park, Arlington Avenue, Riverside, Riverside County, California, 92505:92506, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.3939339"
+        },
+        "southern orange county beach": {
+            "latitude": "33.6301901",
+            "closest_to": "san diego",
+            "address": "Southern Hills Drive, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8689039"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "malibu",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "otay lake reservoir": {
+            "latitude": "32.628006",
+            "closest_to": "san diego",
+            "address": "Lower Otay Reservoir, Eastlake Greens, San Diego County, California, 91915, United States of America",
+            "locType": "reservoir",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-116.926258556031"
+        },
+        "ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "san diego",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.249321"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san diego",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "moon california": {
+            "latitude": "33.7967376",
+            "closest_to": "malibu",
+            "address": "Moon, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-116.5099829"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "san diego",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "torrey pines road": {
+            "latitude": "32.8491824",
+            "closest_to": "san diego",
+            "address": "Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2620194"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san diego",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "closest_to": "malibu",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "san diego",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "san diego",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "harbor boulevard": {
+            "latitude": "33.8172821",
+            "closest_to": "malibu",
+            "address": "Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.9152933"
+        },
+        "chula vista": {
+            "latitude": "32.6400541",
+            "closest_to": "san diego",
+            "address": "Chula Vista, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.0841954"
+        },
+        "black hill": {
+            "latitude": "34.1788953",
+            "closest_to": "malibu",
+            "address": "Black Hill, San Bernardino County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-116.49196"
+        },
+        "ventura beach": {
+            "latitude": "32.772073",
+            "closest_to": "san diego",
+            "address": "Ventura Place, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2514716"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "san diego",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "cardiff": {
+            "latitude": "33.6883363",
+            "closest_to": "san diego",
+            "address": "Cardiff, Westpark, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.806356451668"
+        },
+        "oregon": {
+            "latitude": "33.7123207",
+            "closest_to": "san diego",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7911567"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "san diego",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "rodeo drive": {
+            "latitude": "32.824444",
+            "closest_to": "san diego",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2609329"
+        },
+        "torrey pines city beach": {
+            "latitude": "32.877269",
+            "closest_to": "san diego",
+            "address": "Torrey Pines City Beach, Scripps Coastal Reserve Biodiversity Trail, La Jolla, San Diego, San Diego County, California, 92093, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2511477"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "san diego",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3917554-Train_to_take_from_old_town_to_malibu-California.html",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "windansea": {
+            "latitude": "33.2139664",
+            "closest_to": "san diego",
+            "address": "Windansea Street, Oceanside, San Diego County, California, 92056, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2939696"
+        },
+        "avenida de la playa": {
+            "latitude": "32.853756",
+            "closest_to": "san diego",
+            "address": "Avenida de la Playa, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2537379"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "san diego",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "san diego",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "tillamook": {
+            "latitude": "32.728329",
+            "closest_to": "san diego",
+            "address": "Tillamook Bay Drive, San Diego, San Diego County, California, 92114, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.0726319"
+        },
+        "ventana": {
+            "latitude": "33.4767484",
+            "closest_to": "san diego",
+            "address": "Ventana, Morgan Hill, Riverside County, California, 92592, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
+            ],
+            "longitude": "-117.0594043"
+        },
+        "south orange county": {
+            "latitude": "33.6589297",
+            "closest_to": "san diego",
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.667997530973"
+        },
+        "catalina": {
+            "latitude": "33.810513",
+            "closest_to": "malibu",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.920102663284"
+        },
+        "pacific beach": {
+            "latitude": "32.7978268",
+            "closest_to": "san diego",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2403182"
+        },
+        "bay": {
+            "latitude": "33.6899249",
+            "closest_to": "san diego",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7729354"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "san diego",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "leucadia": {
+            "latitude": "33.0692223",
+            "closest_to": "san diego",
+            "address": "Leucadia, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.3026809"
+        },
+        "santa fe": {
+            "latitude": "32.4395109",
+            "closest_to": "san diego",
+            "address": "Santa Fe, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3917554-Train_to_take_from_old_town_to_malibu-California.html"
+            ],
+            "longitude": "-117.0336822"
+        },
+        "neptune": {
+            "latitude": "33.7953668",
+            "closest_to": "malibu",
+            "address": "Neptune, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-116.5067839"
+        },
+        "anza-borrego desert state park": {
+            "latitude": "33.2528053",
+            "closest_to": "san diego",
+            "address": "Anza-Borrego Desert State Park, Palm Canyon Drive, Borrego, San Diego County, California, 92004, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-116.330414288395"
+        },
+        "la jolla village drive west": {
+            "latitude": "32.8751708",
+            "closest_to": "san diego",
+            "address": "La Jolla Village Drive, San Diego, San Diego County, California, 92122, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.1999578"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "closest_to": "san diego",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "san diego",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "dana point": {
+            "latitude": "33.4669721",
+            "closest_to": "san diego",
+            "address": "Dana Point, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.6981074"
+        },
+        "la jolla shores drive": {
+            "latitude": "32.8509595",
+            "closest_to": "san diego",
+            "address": "La Jolla Shores Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.2542622"
+        },
+        "torrey": {
+            "latitude": "32.9573985",
+            "closest_to": "san diego",
+            "address": "Torrey Pines High School, Del Mar Heights Road, Del Mar, San Diego, San Diego County, California, 92130, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/la-jolla.aspx"
+            ],
+            "longitude": "-117.224896678294"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "closest_to": "malibu",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.504677958796"
+        }
+    }
+}

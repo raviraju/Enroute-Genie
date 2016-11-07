@@ -1,0 +1,765 @@
+{
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "philadelphia street": {
+            "latitude": "34.0338142",
+            "closest_to": "",
+            "address": "Philadelphia Street, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.5981519"
+        },
+        "loma prieta": {
+            "latitude": "37.1107807",
+            "closest_to": "",
+            "address": "Loma Prieta, Santa Clara County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-121.8446758"
+        },
+        "pittsburgh": {
+            "latitude": "39.5151683",
+            "closest_to": "",
+            "address": "Pittsburgh Hill, Yuba County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/pasadena-ca/santa-clarita-ca/van"
+            ],
+            "longitude": "-121.1002348"
+        },
+        "cuba": {
+            "latitude": "35.9513438",
+            "closest_to": "",
+            "address": "La Cuba, Kings County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-119.9804117"
+        },
+        "greenleaf": {
+            "latitude": "33.6802757",
+            "closest_to": "",
+            "address": "Greenleaf, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.8005007"
+        },
+        "california cycleway": {
+            "latitude": "41.7504607",
+            "closest_to": "",
+            "address": "California Coastal Cycleway, Del Norte County, California, 75531, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-124.1836164"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.expedia.com/Glendale-Hotels.d8086.Travel-Guide-Hotels"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "xb1ada flintridge": {
+            "latitude": "33.6338013",
+            "closest_to": "",
+            "address": "Flintridge, Turtle Rock, Irvine, Orange County, California, 92603, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.8111037"
+        },
+        "x93oakland bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-122.342234"
+        },
+        "dairy valley": {
+            "latitude": "40.8662807",
+            "closest_to": "",
+            "address": "Russell Dairy Creek, Lassen County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-121.0659096"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "rancho san pascual": {
+            "latitude": "33.6888531",
+            "closest_to": "",
+            "address": "Rancho San Pascual, La Quinta, Riverside County, California, 92253, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-116.2756437"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.expedia.com/Glendale-Hotels.d8086.Travel-Guide-Hotels",
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "united states of america": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "rodeo drive": {
+            "latitude": "32.824444",
+            "closest_to": "",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.2609329"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "antelope": {
+            "latitude": "38.7082357",
+            "closest_to": "",
+            "address": "Antelope, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-121.3299512"
+        },
+        "santa": {
+            "latitude": "22.4804035",
+            "closest_to": "",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx"
+            ],
+            "longitude": "-80.3796642"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "foothill freeway": {
+            "latitude": "34.1456794",
+            "closest_to": "",
+            "address": "Foothill Freeway, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.2913467"
+        },
+        "sedona": {
+            "latitude": "33.6916439",
+            "closest_to": "",
+            "address": "Sedona, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.6689202"
+        },
+        "pueblo de los angeles": {
+            "latitude": "18.9919063",
+            "closest_to": "",
+            "address": "California, Universitaria, Puebla, 72590, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-98.2033589"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.870493"
+        },
+        "green hotel": {
+            "latitude": "-17.0263221",
+            "closest_to": "",
+            "address": "Hostal California, 541, Blondell, Mollendo, Islay, Arequipa, 04416, Per\u00fa",
+            "locType": "hostel",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-72.0148895"
+        },
+        "los angeles orange": {
+            "latitude": "33.9282867",
+            "closest_to": "",
+            "address": "California Baptist University, Magnolia Avenue, Riverside, Riverside County, California, 92879, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.427248540447"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "palm desert": {
+            "latitude": "33.7288179",
+            "closest_to": "",
+            "address": "Palm Desert, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.382571"
+        },
+        "arroyo": {
+            "latitude": "32.420259",
+            "closest_to": "",
+            "address": "Arroyo, Playas de Rosarito, Baja California, M\u00e9xico",
+            "locType": "canal",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.0597097"
+        },
+        "upper arroyo": {
+            "latitude": "34.5379504",
+            "closest_to": "",
+            "address": "Upper North Fork Matilija Creek, Ventura County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-119.3540997"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "gaspar de portola": {
+            "latitude": "32.82975465",
+            "closest_to": "",
+            "address": "Gaspar de Portola Middle School, De Portola School Drwy, San Diego, San Diego County, California, 92124, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.091886081624"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "burton trail": {
+            "latitude": "39.1910439",
+            "closest_to": "",
+            "address": "Burton Creek State Park, Tahoe Cross Country Silver Trail, Tahoe City, Placer County, California, 96145, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-120.142020905249"
+        },
+        "mount washington": {
+            "latitude": "39.724897",
+            "closest_to": "",
+            "address": "Mount Washington, Plumas County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-120.713554"
+        },
+        "cali": {
+            "latitude": "3.41023085",
+            "closest_to": "",
+            "address": "California, Cali, Valle del Cauca, 760040, Colombia",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-76.5647481471698"
+        },
+        "catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California",
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "washington street": {
+            "latitude": "32.7415883",
+            "closest_to": "",
+            "address": "Washington Street, Kurtz Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.1842757"
+        },
+        "arroyo seco canyon": {
+            "latitude": "36.9636435",
+            "closest_to": "",
+            "address": "Arroyo Seco Canyon, Western Drive/Nobel, Westside, Santa Cruz, Santa Cruz County, California, 95017:95060, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-122.0534977"
+        },
+        "beverly": {
+            "latitude": "37.735364",
+            "closest_to": "",
+            "address": "Beverly, Ripon, San Joaquin County, California, 95366, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants"
+            ],
+            "longitude": "-121.1200909"
+        },
+        "gate dam": {
+            "latitude": "34.3507565",
+            "closest_to": "",
+            "address": "Dam, Ventura County, California, United States of America",
+            "locType": "dam",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-119.145813587945"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "eagle rock": {
+            "latitude": "33.4723736",
+            "closest_to": "",
+            "address": "Eagle Rock, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-118.6053476"
+        },
+        "south orange boulevard": {
+            "latitude": "33.7500378",
+            "closest_to": "",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-117.870493"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "dallas": {
+            "latitude": "37.3099472",
+            "closest_to": "",
+            "address": "Upper Dallas Lateral, Merced County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-120.6404967"
+        },
+        "rancho": {
+            "latitude": "33.77933665",
+            "closest_to": "",
+            "address": "El Rancho, San Jacinto, Riverside County, California, 92583, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-116.961064091183"
+        },
+        "fairfax": {
+            "latitude": "37.9872935",
+            "closest_to": "",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants"
+            ],
+            "longitude": "-122.5879673"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "washington": {
+            "latitude": "40.0657724",
+            "closest_to": "",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-79.8918435"
+        },
+        "flintridge": {
+            "latitude": "33.6338013",
+            "closest_to": "",
+            "address": "Flintridge, Turtle Rock, Irvine, Orange County, California, 92603, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-117.8111037"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "californie": {
+            "latitude": "37.786376",
+            "closest_to": "",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.pinterest.com/burbankprgal/home-c-a-l-i/"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Santa-Clarita/TravelFromHistory/31195768.aspx",
+                "https://lafilmlocations.com/",
+                "http://visitsantaclarita.com/",
+                "https://en.wikipedia.org/wiki/Arroyo_Seco,_Los_Angeles,_California",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles",
+                "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_California",
+                "https://www.ridebooker.com/transfers/pasadena-ca/santa-clarita-ca/van",
+                "http://www.livability.com/ca",
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-72.945787"
+        },
+        "italy": {
+            "latitude": "45.659844",
+            "closest_to": "",
+            "address": "California, MB, LOM, Italia",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "9.3130453"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.147366"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "palisades": {
+            "latitude": "32.974109",
+            "closest_to": "",
+            "address": "Palisades, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.0493668"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.expedia.com/Stevenson-Ranch-Hotels.d177785.Travel-Guide-Hotels",
+                "http://www.greatamericancountry.com/living/at-home/10-great-neighborhoods-in-los-angeles"
+            ],
+            "longitude": "-117.2725426"
+        },
+        "city hall": {
+            "latitude": "32.84439345",
+            "closest_to": "",
+            "address": "City Hall, Imperial, Imperial County, California, 92251, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g32859-Pasadena_California-Vacations.html"
+            ],
+            "longitude": "-115.569543523702"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.opentable.com/los-angeles-restaurants",
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.pasadenacarealestatehomes.com/blog/old-town-pasadena-restaurant-row-great-places-to-eat-in-pasadena/"
+            ],
+            "longitude": "-118.7559973"
+        }
+    }
+}

@@ -1,0 +1,988 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "huntington beach": {
+        "type": "city",
+        "osm_id": "5986511",
+        "class": "place",
+        "importance": 0.77972866689719,
+        "lat": "33.6783336",
+        "lon": "-118.0000165",
+        "boundingbox": [
+            "33.628892",
+            "33.7561955",
+            "-118.0824699",
+            "-117.940379"
+        ],
+        "display_name": "Huntington Beach, Orange County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159846085",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "hollywood boulevard": {
+            "latitude": "34.1016312",
+            "closest_to": "huntington beach",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.32684"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "huntington beach",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "santa ana river trail": {
+            "latitude": "33.8861041",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana River Trail, Eastvale, Riverside County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.6444344"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "san bernardino",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.55089"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "huntington beach",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/van",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/47-pax-bus",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/limo-bus-15",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Huntington-Beach-to-San-Bernardino-CA/FlightHistory/3353284.aspx",
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca",
+                "https://www.distancecalculator.net/from-san-bernardino-to-huntington-beach",
+                "http://www.bestplaces.net/city/california/huntington_beach",
+                "http://www.distancesfrom.com/us/distance-from-Huntington-Beach-to-San-Bernardino-CA/DistanceHistory/11697209.aspx",
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca/taxi"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "fountain valley": {
+            "latitude": "33.7038145",
+            "closest_to": "san bernardino",
+            "address": "Fountain Valley, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.9627348"
+        },
+        "moorten botanical garden": {
+            "latitude": "33.8005571",
+            "closest_to": "san bernardino",
+            "address": "Moorten Botanical garden, El Camino Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.545921911214"
+        },
+        "wrightwood": {
+            "latitude": "34.3583535",
+            "closest_to": "san bernardino",
+            "address": "Wrightwood, Ross Street, Wrightwood, San Bernardino County, California, 92397, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.627599739034"
+        },
+        "santa ana river": {
+            "latitude": "33.847255",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana River, Anaheim, Orange County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.8400508"
+        },
+        "valentino": {
+            "latitude": "34.0262418",
+            "closest_to": "huntington beach",
+            "address": "Valentino, 3115, Pico Boulevard, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.457098"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "huntington beach",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "huntington beach",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "palm canyon drive": {
+            "latitude": "33.8521633",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5515317"
+        },
+        "san joaquin hills": {
+            "latitude": "33.611689",
+            "closest_to": "san bernardino",
+            "address": "San Joaquin Hills, Orange County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.8367223"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "huntington beach",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/47-pax-bus",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "' angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "huntington beach",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "newport bay": {
+            "latitude": "33.608355",
+            "closest_to": "san bernardino",
+            "address": "Newport Bay, Via Lido Soud, Balboa Island, Newport Beach, Orange County, California, 92663, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.9092241"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san bernardino",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "inglewood": {
+            "latitude": "33.9616801",
+            "closest_to": "huntington beach",
+            "address": "Inglewood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.353131"
+        },
+        "n. euclid avenue": {
+            "latitude": "34.1462048",
+            "closest_to": "san bernardino",
+            "address": "North Euclid Avenue, Pasadena, Los Angeles County, California, 91101, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.1429385"
+        },
+        "tokyo": {
+            "latitude": "34.0431787",
+            "closest_to": "huntington beach",
+            "address": "Southern California Institute of Architecture, 960, East 3rd Street, Arts District, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2328066"
+        },
+        "mentone": {
+            "latitude": "34.05884",
+            "closest_to": "san bernardino",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-117.109606374724"
+        },
+        "s. waterman ave.": {
+            "latitude": "34.0943979",
+            "closest_to": "san bernardino",
+            "address": "South Waterman Avenue, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.278754"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "san bernardino",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "san bernardino",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "serfas club drive": {
+            "latitude": "33.8777357",
+            "closest_to": "san bernardino",
+            "address": "Serfas Club Drive, Eastvale, Riverside County, California, 92882, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.6148918"
+        },
+        "la canada": {
+            "latitude": "33.7298842",
+            "closest_to": "san bernardino",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "malibu beach": {
+            "latitude": "34.0327862",
+            "closest_to": "huntington beach",
+            "address": "Malibu Beach, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.6884214"
+        },
+        "redlands": {
+            "latitude": "34.069909",
+            "closest_to": "san bernardino",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.248983896912"
+        },
+        "los angeles international": {
+            "latitude": "33.94211345",
+            "closest_to": "huntington beach",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.407057290249"
+        },
+        "angelino heights": {
+            "latitude": "34.0702889",
+            "closest_to": "huntington beach",
+            "address": "Angelino Heights, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.2547964"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/van",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/47-pax-bus",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/limo-bus-15",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Huntington-Beach-to-San-Bernardino-CA/FlightHistory/3353284.aspx",
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca",
+                "https://www.distancecalculator.net/from-san-bernardino-to-huntington-beach",
+                "http://www.bestplaces.net/city/california/huntington_beach",
+                "http://www.distancesfrom.com/us/distance-from-Huntington-Beach-to-San-Bernardino-CA/DistanceHistory/11697209.aspx",
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca/taxi"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "san bernardino",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "malibu coast": {
+            "latitude": "34.03385755",
+            "closest_to": "huntington beach",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "tahquitz canyon": {
+            "latitude": "33.8231764",
+            "closest_to": "san bernardino",
+            "address": "East Tahquitz Canyon Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.528254"
+        },
+        "lake elsinore": {
+            "latitude": "33.6680772",
+            "closest_to": "san bernardino",
+            "address": "Lake Elsinore, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3272614"
+        },
+        "peninsula": {
+            "latitude": "33.5987849",
+            "closest_to": "san bernardino",
+            "address": "Peninsula, Corona del Mar, Newport Beach, Orange County, California, 92657, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.830566223937"
+        },
+        "laguna canyon": {
+            "latitude": "33.5613752",
+            "closest_to": "san bernardino",
+            "address": "Laguna College of Art and Design, Laguna Canyon Road, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7724545"
+        },
+        "olvera street": {
+            "latitude": "34.0581578",
+            "closest_to": "huntington beach",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2373201"
+        },
+        "green river road": {
+            "latitude": "34.51688",
+            "closest_to": "san bernardino",
+            "address": "Green River Road, Victorville, San Bernardino County, California, 92394, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.3493659"
+        },
+        "old town temecula": {
+            "latitude": "33.49487155",
+            "closest_to": "san bernardino",
+            "address": "Old Town Temecula, 5th Street, Villa Del Sol, Old Town, Temecula, Riverside County, California, 92590, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.149796716459"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "huntington beach",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "south coast plaza": {
+            "latitude": "33.6907283",
+            "closest_to": "san bernardino",
+            "address": "South Coast Plaza, Bear Street, Costa Mesa, Orange County, California, 92704, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.889168433903"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "san bernardino",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "san bernardino",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "fairview park": {
+            "latitude": "33.74579525",
+            "closest_to": "san bernardino",
+            "address": "Fairview Park, Valle Vista, Riverside County, California, 92554, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.880757406863"
+        },
+        "s. waterman avenue": {
+            "latitude": "34.0943979",
+            "closest_to": "san bernardino",
+            "address": "South Waterman Avenue, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.278754"
+        },
+        "metro red": {
+            "latitude": "34.0861975",
+            "closest_to": "huntington beach",
+            "address": "RED Studios Hollywood, Hollywood, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.328252510245"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "san bernardino",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-117.870493"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "huntington beach",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.distance-cities.com/distance-san-bernardino-ca-to-huntington-beach-ca",
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "seraphina road": {
+            "latitude": "33.5438866",
+            "closest_to": "san bernardino",
+            "address": "Seraphina Road, Avondale, Nicolas Valley, Temecula, Riverside County, California, 92591, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.1211377"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "san bernardino",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "huntington beach",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "mission san juan capistrano": {
+            "latitude": "33.50381465",
+            "closest_to": "san bernardino",
+            "address": "Mission San Juan Capistrano, El Camino Real, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.663061669391"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san bernardino",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "san bernardino",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "san marino": {
+            "latitude": "34.1215947",
+            "closest_to": "san bernardino",
+            "address": "San Marino, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.1057393"
+        },
+        "sierra del oro": {
+            "latitude": "33.8738996",
+            "closest_to": "san bernardino",
+            "address": "The Terraces at Sierra Del Oro, Corona, Riverside County, California, 92882, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.627095528354"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "san bernardino",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "waterman avenue": {
+            "latitude": "34.1496687",
+            "closest_to": "san bernardino",
+            "address": "Waterman Avenue, San Bernardino, San Bernardino County, California, 92404, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx"
+            ],
+            "longitude": "-117.2786646"
+        },
+        "colton": {
+            "latitude": "34.0739016",
+            "closest_to": "san bernardino",
+            "address": "Colton, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.3136546"
+        },
+        "union station los angeles": {
+            "latitude": "34.0560576",
+            "closest_to": "huntington beach",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.235796451972"
+        },
+        "pioneertown": {
+            "latitude": "34.1566737",
+            "closest_to": "san bernardino",
+            "address": "Pioneertown, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.4961262"
+        },
+        "getty museum": {
+            "latitude": "34.07757975",
+            "closest_to": "huntington beach",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "huntington beach",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "san bernardino",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "santa monica mountain": {
+            "latitude": "34.0195598",
+            "closest_to": "huntington beach",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "wilshire": {
+            "latitude": "33.7805094",
+            "closest_to": "san bernardino",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.9034923"
+        },
+        "hidden valley wildlife": {
+            "latitude": "33.9668647",
+            "closest_to": "san bernardino",
+            "address": "Hidden Valley Wildlife Area, Tomahawk Trail, Mira Loma, Eastvale, Riverside County, California, 92860, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx"
+            ],
+            "longitude": "-117.5069028"
+        },
+        "radford avenue studio city": {
+            "latitude": "34.1447608",
+            "closest_to": "huntington beach",
+            "address": "Radford Avenue, Studio City, Valley Village, LA, Los Angeles County, California, 91604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.3925972"
+        },
+        "palm canyon": {
+            "latitude": "33.7359824",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon, Palm Canyon Trail, Palm Springs, Riverside County, California, 92263, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.537629346211"
+        },
+        "chino hills": {
+            "latitude": "33.9926803",
+            "closest_to": "san bernardino",
+            "address": "Chino Hills, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.7600559"
+        },
+        "wilshire blvd": {
+            "latitude": "34.0617231",
+            "closest_to": "huntington beach",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.3036614"
+        },
+        "san antonio heights": {
+            "latitude": "34.153107",
+            "closest_to": "san bernardino",
+            "address": "San Antonio Heights, San Antonio Crescent East, San Antonio Heights, San Bernardino County, California, 91784, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.65997967193"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "huntington beach",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "san bernardino",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "hidden valley wildlife area": {
+            "latitude": "33.9668647",
+            "closest_to": "san bernardino",
+            "address": "Hidden Valley Wildlife Area, Tomahawk Trail, Mira Loma, Eastvale, Riverside County, California, 92860, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.5069028"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "huntington beach",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "santa ana": {
+            "latitude": "33.7494951",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.8732212"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "huntington beach",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "oak glen": {
+            "latitude": "34.0494574",
+            "closest_to": "san bernardino",
+            "address": "Oak Glen, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.9478044"
+        },
+        "san miguel drive": {
+            "latitude": "34.528094",
+            "closest_to": "san bernardino",
+            "address": "San Miguel Drive, Victorville, San Bernardino County, California, 92394, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.3363879"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "san bernardino",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.147366"
+        },
+        "south orange county": {
+            "latitude": "33.6589297",
+            "closest_to": "san bernardino",
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.667997530973"
+        },
+        "catalina": {
+            "latitude": "33.810513",
+            "closest_to": "san bernardino",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.920102663284"
+        },
+        "santa monica blvd": {
+            "latitude": "34.0907545",
+            "closest_to": "huntington beach",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.317943"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "huntington beach",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "huntington beach",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.248367"
+        },
+        "desert hot springs": {
+            "latitude": "33.961124",
+            "closest_to": "san bernardino",
+            "address": "Desert Hot Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5016783"
+        },
+        "cabot road": {
+            "latitude": "34.0116393",
+            "closest_to": "san bernardino",
+            "address": "Cabot road, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-117.3663633"
+        }
+    }
+}

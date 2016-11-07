@@ -1,0 +1,1429 @@
+{
+    "fresno": {
+        "type": "city",
+        "osm_id": "33120274",
+        "class": "place",
+        "importance": 0.79213103374115,
+        "lat": "36.748793",
+        "lon": "-119.714839601149",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "72530219",
+        "osm_type": "way"
+    },
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "merced": {
+            "latitude": "37.3029568",
+            "closest_to": "stockton",
+            "address": "Merced, Merced County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.4843268"
+        },
+        "lemoore": {
+            "latitude": "36.3007835",
+            "closest_to": "fresno",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.7829106"
+        },
+        "napa": {
+            "latitude": "38.2971367",
+            "closest_to": "stockton",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "san mateo": {
+            "latitude": "37.496904",
+            "closest_to": "stockton",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-122.3330572"
+        },
+        "guerneville": {
+            "latitude": "38.5116609",
+            "closest_to": "stockton",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.987128549631"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "stockton",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "tahoe resort": {
+            "latitude": "39.2577732",
+            "closest_to": "stockton",
+            "address": "Northstar at Tahoe Resort, Placer County, California, United States of America",
+            "locType": "winter_sports",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.133336248831"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "stockton",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "cotati": {
+            "latitude": "38.3266798",
+            "closest_to": "stockton",
+            "address": "Cotati, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.706844"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "stockton",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "emeryville": {
+            "latitude": "37.8314089",
+            "closest_to": "stockton",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/"
+            ],
+            "longitude": "-122.2865265"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "old town clovis": {
+            "latitude": "36.8339731",
+            "closest_to": "stockton",
+            "address": "Old Town Trail, Clovis, Fresno County, California, 93612, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-119.7044089"
+        },
+        "squaw valley": {
+            "latitude": "36.7402261",
+            "closest_to": "fresno",
+            "address": "Squaw Valley, Fresno County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-119.2467849"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "closest_to": "stockton",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "woodland": {
+            "latitude": "38.6786109",
+            "closest_to": "stockton",
+            "address": "Woodland, Yolo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.7733284"
+        },
+        "san joaquin county": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "fresno",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "sierra foothills": {
+            "latitude": "37.3933656",
+            "closest_to": "stockton",
+            "address": "Sierra Road, Berryessa, San Jos\u00e9, Santa Clara County, California, 95132, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.8609818"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "stockton",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "bass lake": {
+            "latitude": "37.3246665",
+            "closest_to": "stockton",
+            "address": "Bass Lake, Madera County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-119.5662538"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "stockton",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "fresno",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "stockton",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "folsom": {
+            "latitude": "38.6779591",
+            "closest_to": "stockton",
+            "address": "Folsom, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-121.1760582"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "stockton",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "harris ranch": {
+            "latitude": "36.2535766",
+            "closest_to": "fresno",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.237368306069"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "stockton",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "bodie state historic park": {
+            "latitude": "38.2154734",
+            "closest_to": "fresno",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0109761"
+        },
+        "san quentin": {
+            "latitude": "37.9413133",
+            "closest_to": "stockton",
+            "address": "San Quentin, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4849738"
+        },
+        "hanford": {
+            "latitude": "36.3274502",
+            "closest_to": "fresno",
+            "address": "Hanford, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.6456843"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "tulare": {
+            "latitude": "36.2516475",
+            "closest_to": "fresno",
+            "address": "Tulare County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-118.8525829"
+        },
+        "suisun": {
+            "latitude": "38.24690555",
+            "closest_to": "stockton",
+            "address": "Suisun City, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.971724116502"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "stockton",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "madera county": {
+            "latitude": "37.1716264",
+            "closest_to": "stockton",
+            "address": "Madera County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-119.773799"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "stockton",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "stockton",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "closest_to": "fresno",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "fresno",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "fresno",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://www.visitcentralvalley.com/places/",
+                "http://www.fresnobee.com/entertainment/article52496915.html",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "oakdale": {
+            "latitude": "37.7665947",
+            "closest_to": "stockton",
+            "address": "Oakdale, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-120.8471544"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "stockton",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "closest_to": "fresno",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "stanislaus county": {
+            "latitude": "37.5500871",
+            "closest_to": "stockton",
+            "address": "Stanislaus County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.0501424"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "closest_to": "stockton",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "west lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "stockton",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.050511752934"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "fresno",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "parkway": {
+            "latitude": "38.6789915",
+            "closest_to": "stockton",
+            "address": "The Parkway, Sacramento County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.1226108"
+        },
+        "sacramento river": {
+            "latitude": "39.5840295",
+            "closest_to": "stockton",
+            "address": "Sacramento River, Glenn County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.9960598"
+        },
+        "san joaquin river": {
+            "latitude": "37.5308299",
+            "closest_to": "stockton",
+            "address": "San Joaquin River, Madera County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.1862809"
+        },
+        "sacramento valley": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "alpine meadows": {
+            "latitude": "39.1785177",
+            "closest_to": "stockton",
+            "address": "Alpine Meadows, Placer County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.2276947"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "closest_to": "fresno",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html",
+                "http://www.visitcentralvalley.com/places/",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-119.2920584"
+        },
+        "san joaquin": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "turlock community theatre": {
+            "latitude": "37.4993327",
+            "closest_to": "stockton",
+            "address": "Turlock Community Theater, East Canal Drive, Turlock, Stanislaus County, California, 95380, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-120.832241"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "stockton",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "pinecrest": {
+            "latitude": "39.1626734",
+            "closest_to": "stockton",
+            "address": "Pinecrest, Nevada County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.9682776"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "fresno",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "stockton",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-120.846594"
+        },
+        "fresno pacific": {
+            "latitude": "36.72601005",
+            "closest_to": "fresno",
+            "address": "Fresno Pacific University, East Heaton Avenue, Fresno County, California, 93727, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-119.734190004115"
+        },
+        "vintage faire": {
+            "latitude": "37.68837415",
+            "closest_to": "stockton",
+            "address": "Vintage Faire Shopping Center, Sisk Road, Modesto, Stanislaus County, California, 95356, United States of America",
+            "locType": "marketplace",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.054025244537"
+        },
+        "nevada city": {
+            "latitude": "39.2615606",
+            "closest_to": "stockton",
+            "address": "Nevada City, Nevada County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html"
+            ],
+            "longitude": "-121.0160593"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "stockton",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "heavenly lake tahoe": {
+            "latitude": "38.9552182",
+            "closest_to": "stockton",
+            "address": "Heavenly Village Way, South Lake Tahoe, El Dorado County, California, 96156, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-119.9433114"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
+            "closest_to": "stockton",
+            "address": "Placerville, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.7985459"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "stockton",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "fig garden": {
+            "latitude": "35.3085705",
+            "closest_to": "fresno",
+            "address": "Fig Orchard, Kern County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-118.5825894"
+        },
+        "d.c.": {
+            "latitude": "36.82841715",
+            "closest_to": "stockton",
+            "address": "CL, Clovis, Fresno County, California, 93612, United States of America",
+            "locType": "basin",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.728121480654"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "fresno",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "closest_to": "stockton",
+            "address": "Lodi, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.387849546574"
+        },
+        "west sacramento": {
+            "latitude": "38.5804609",
+            "closest_to": "stockton",
+            "address": "West Sacramento, Yolo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.5302339"
+        },
+        "river park": {
+            "latitude": "38.5840776",
+            "closest_to": "stockton",
+            "address": "River Park, Erlewine Circle, Sacramento, Sacramento County, California, 95819, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-121.4486569"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "stockton",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "stockton",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "south sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitstockton.org/things-to-do/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "adventure park visalia": {
+            "latitude": "36.326007",
+            "closest_to": "fresno",
+            "address": "Adventure Park, West Cypress Avenue, Visalia, Tulare County, California, 93277, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-119.352945975"
+        },
+        "joaquin county": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "stockton",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "stockton",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "truckee": {
+            "latitude": "39.327962",
+            "closest_to": "stockton",
+            "address": "Truckee, Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html",
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.1832532"
+        },
+        "morro rock": {
+            "latitude": "35.369669",
+            "closest_to": "fresno",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "closest_to": "fresno",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "china": {
+            "latitude": "37.9989198",
+            "closest_to": "stockton",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-122.49033307856"
+        },
+        "fulton mall": {
+            "latitude": "36.73552975",
+            "closest_to": "stockton",
+            "address": "Fulton Mall, Fresno County, California, 93701, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-119.791520463653"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "stockton",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "geyserville": {
+            "latitude": "38.707687",
+            "closest_to": "stockton",
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.9024963"
+        },
+        "watsonville": {
+            "latitude": "36.9092773",
+            "closest_to": "stockton",
+            "address": "Watsonville, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.752907"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "stockton",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/",
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "locke": {
+            "latitude": "38.2504703",
+            "closest_to": "stockton",
+            "address": "Locke, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.5093973"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "fresno",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "stockton",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "yuba-sutter": {
+            "latitude": "39.1404477",
+            "closest_to": "stockton",
+            "address": "Yuba City, Sutter County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.6169107"
+        },
+        "coalinga": {
+            "latitude": "36.1298952",
+            "closest_to": "fresno",
+            "address": "Coalinga, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.245046293019"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html",
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "kingsburg": {
+            "latitude": "36.5138398",
+            "closest_to": "fresno",
+            "address": "Kingsburg, Fresno County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.5538928"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "fresno",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "forestville": {
+            "latitude": "38.4833405",
+            "closest_to": "stockton",
+            "address": "Forestville, Trenton Road, Trenton, Sonoma County, California, 95436, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.861584174866"
+        },
+        "roseville": {
+            "latitude": "38.72338",
+            "closest_to": "stockton",
+            "address": "Roseville, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html"
+            ],
+            "longitude": "-121.185878161131"
+        },
+        "sierra": {
+            "latitude": "39.5849065",
+            "closest_to": "stockton",
+            "address": "Sierra County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.530573"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "stockton",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "san pablo": {
+            "latitude": "37.9621457",
+            "closest_to": "stockton",
+            "address": "San Pablo, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/"
+            ],
+            "longitude": "-122.3455262"
+        },
+        "turlock lake": {
+            "latitude": "37.6118774",
+            "closest_to": "stockton",
+            "address": "Turlock Lake, Davis Road, Stanislaus County, California, 95323, United States of America",
+            "locType": "reservoir",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-120.5940883"
+        },
+        "kirkwood resort": {
+            "latitude": "38.6735093",
+            "closest_to": "stockton",
+            "address": "Kirkwood Mountain Resort, Alpine County, California, 95646, United States of America",
+            "locType": "winter_sports",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-120.059283709529"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "stockton",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "stockton",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "stockton",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "oroville": {
+            "latitude": "39.5137752",
+            "closest_to": "stockton",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.5563589"
+        },
+        "woodward park": {
+            "latitude": "37.7743722",
+            "closest_to": "stockton",
+            "address": "Woodward Park, Primrose Avenue, Manteca, San Joaquin County, California, 95337, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-121.2129963"
+        },
+        "clearlake": {
+            "latitude": "38.9582307",
+            "closest_to": "stockton",
+            "address": "Clearlake, Lake County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/"
+            ],
+            "longitude": "-122.6263727"
+        },
+        "manteca": {
+            "latitude": "37.7986184",
+            "closest_to": "stockton",
+            "address": "Manteca, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.2117147"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "stockton",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "lake county": {
+            "latitude": "39.0505411",
+            "closest_to": "stockton",
+            "address": "Lake County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.movoto.com/guide/ca/most-dangerous-places-in-california/"
+            ],
+            "longitude": "-122.7776555"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "fresno",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "rio vista": {
+            "latitude": "38.1557502",
+            "closest_to": "stockton",
+            "address": "Rio Vista, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.6913438"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "stockton",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "closest_to": "stockton",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "central california": {
+            "latitude": "38.392688",
+            "closest_to": "stockton",
+            "address": "Central, Yolo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-121.573011"
+        },
+        "colma": {
+            "latitude": "37.6768779",
+            "closest_to": "stockton",
+            "address": "Colma, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4596949"
+        },
+        "chukchansi park": {
+            "latitude": "36.73201265",
+            "closest_to": "stockton",
+            "address": "Chukchansi Park, Homerun Alley, Fresno County, California, 93721, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.fresnobee.com/entertainment/article52496915.html"
+            ],
+            "longitude": "-119.790271628903"
+        },
+        "yosemite falls": {
+            "latitude": "37.7542252",
+            "closest_to": "stockton",
+            "address": "Middle Cascades, Mariposa County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-119.5972922"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "fresno",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://choosingourownadventures.blogspot.com/2014/08/350-northern-california-field-trips.html"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "closest_to": "fresno",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/",
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "stockton",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "china peak mountain resort": {
+            "latitude": "37.2357234",
+            "closest_to": "fresno",
+            "address": "China Peak Mountain Resort, Huntington Lake Road, Big Creek, Fresno County, California, 93664, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://www.visitstockton.org/blog/13-ski-resorts-3-hours-from-stockton/"
+            ],
+            "longitude": "-119.1561028"
+        },
+        "fairfield": {
+            "latitude": "38.2493581",
+            "closest_to": "stockton",
+            "address": "Fairfield, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-122.0399662"
+        },
+        "vacaville": {
+            "latitude": "38.3565773",
+            "closest_to": "stockton",
+            "address": "Vacaville, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "longitude": "-121.9877443"
+        }
+    }
+}

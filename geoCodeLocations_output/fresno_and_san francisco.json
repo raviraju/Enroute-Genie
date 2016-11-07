@@ -1,0 +1,935 @@
+{
+    "fresno": {
+        "type": "city",
+        "osm_id": "33120274",
+        "class": "place",
+        "importance": 0.79213103374115,
+        "lat": "36.748793",
+        "lon": "-119.714839601149",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "72530219",
+        "osm_type": "way"
+    },
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "flagstaff": {
+            "latitude": "38.7676791",
+            "closest_to": "san francisco",
+            "address": "Flagstaff Hill, El Dorado County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-121.0838339"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "napa valley wine": {
+            "latitude": "38.3354299",
+            "closest_to": "san francisco",
+            "address": "BEST WESTERN PREMIER Ivy Hotel Napa, Wine Country Avenue, Napa, Napa County, California, 94558, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.3232132"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "fresno",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "san francisco",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "san francisco",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "san francisco",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "san francisco",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-120.507146"
+        },
+        "fresno airport": {
+            "latitude": "36.77616835",
+            "closest_to": "san francisco",
+            "address": "Fresno Yosemite International Airport, East Andersen Avenue, Fresno County, California, 93727, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.edisonlake.com/hikers/transportation"
+            ],
+            "longitude": "-119.719956716463"
+        },
+        "ashland": {
+            "latitude": "37.6946528",
+            "closest_to": "san francisco",
+            "address": "Ashland, Alameda County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way"
+            ],
+            "longitude": "-122.113853"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "fresno",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "fresno",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "san francisco",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "san francisco",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "san francisco",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "forestire underground gardens": {
+            "latitude": "36.8075845",
+            "closest_to": "san francisco",
+            "address": "Forestiere Underground Gardens, 5021, West Shaw Avenue, Highway City, Fresno County, California, 93722, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html"
+            ],
+            "longitude": "-119.881841"
+        },
+        "calif": {
+            "latitude": "37.786376",
+            "closest_to": "san francisco",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20110609171224AAMpcvd"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20110609171224AAMpcvd",
+                "http://www.sandiego.org/members/trains/amtrak.aspx",
+                "https://answers.yahoo.com/question/index?qid=20090523180633AAtsnTw",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html",
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.tripadvisor.com/Attractions-g32414-Activities-Fresno_California.html",
+                "http://blog.bluepipes.com/travel-nursing-in-california/",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san antonio": {
+            "latitude": "38.1838069",
+            "closest_to": "san francisco",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "san francisco",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way",
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "san francisco",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "closest_to": "fresno",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "harris ranch": {
+            "latitude": "36.2535766",
+            "closest_to": "san francisco",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.237368306069"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "san francisco",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.edisonlake.com/hikers/transportation",
+                "https://www.yelp.com/topic/fresno-day-trips-where-do-you-go",
+                "https://answers.yahoo.com/question/index?qid=20090523180633AAtsnTw",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html",
+                "http://www.fresno.gov/Visitors/ThingsToDo/Default.htm",
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "closest_to": "fresno",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "closest_to": "san francisco",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "oakhurst": {
+            "latitude": "37.333178",
+            "closest_to": "san francisco",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fresno-day-trips-where-do-you-go"
+            ],
+            "longitude": "-119.657244022836"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "san francisco",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "stinson beach": {
+            "latitude": "37.9008084",
+            "closest_to": "san francisco",
+            "address": "Stinson Beach, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20110609171224AAMpcvd"
+            ],
+            "longitude": "-122.64508"
+        },
+        "madison bear garden": {
+            "latitude": "39.7290957",
+            "closest_to": "san francisco",
+            "address": "Madison Bear Garden, West 2nd Street, Chico, Butte County, California, 95928, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way"
+            ],
+            "longitude": "-121.8426174"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "san francisco",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "closest_to": "san francisco",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "fresno",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "san francisco",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "san francisco",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "maiden lane": {
+            "latitude": "37.7880412",
+            "closest_to": "san francisco",
+            "address": "Maiden Lane, Chinatown, SF, California, 94108, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4066888"
+        },
+        "auberry road": {
+            "latitude": "36.9277096",
+            "closest_to": "san francisco",
+            "address": "Auberry Road, Fresno County, California, 93619, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fresno-day-trips-where-do-you-go"
+            ],
+            "longitude": "-119.7065792"
+        },
+        "mendocino": {
+            "latitude": "39.3176491",
+            "closest_to": "san francisco",
+            "address": "Mendocino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way",
+                "https://answers.yahoo.com/question/index?qid=20110609171224AAMpcvd"
+            ],
+            "longitude": "-123.4126398"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san francisco",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.396892"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san francisco",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.342234"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "san francisco",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "https://www.yelp.com/topic/fresno-day-trips-where-do-you-go",
+                "https://answers.yahoo.com/question/index?qid=20090523180633AAtsnTw",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "san francisco",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "shaw ave": {
+            "latitude": "35.502579",
+            "closest_to": "fresno",
+            "address": "Shaw Avenue, North Shafter, Shafter, Kern County, California, 93263, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html"
+            ],
+            "longitude": "-119.2849349"
+        },
+        "crissy field": {
+            "latitude": "37.80459605",
+            "closest_to": "san francisco",
+            "address": "Crissy Field, Golden Gate Promenade, Presidio Terrace, SF, California, 94129, United States of America",
+            "locType": "common",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.466607142075"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "fresno",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "closest_to": "fresno",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "marin": {
+            "latitude": "38.0409144",
+            "closest_to": "san francisco",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.6199637"
+        },
+        "angel island": {
+            "latitude": "37.862338",
+            "closest_to": "san francisco",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.430885671184"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "san francisco",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "san francisco",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "san francisco",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "san francisco",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/",
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "south rim": {
+            "latitude": "39.0214541",
+            "closest_to": "san francisco",
+            "address": "Rim, Plumas Lake, Yuba County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-121.5548741"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "san francisco",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g32414-Activities-Fresno_California.html",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "fresno",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7861322-Things_to_See_Visit_between_Fresno_and_San_Francisco-California.html"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "marin headlands": {
+            "latitude": "37.856162",
+            "closest_to": "san francisco",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.534327312107"
+        },
+        "alta bates summit medical center": {
+            "latitude": "37.86348965",
+            "closest_to": "san francisco",
+            "address": "Alta Bates Summit Medical Center, Blake Street, South Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-122.266717546244"
+        },
+        "dewey monument": {
+            "latitude": "37.7879582",
+            "closest_to": "san francisco",
+            "address": "Dewey Monument, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "monument",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4074977"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "san francisco",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "san francisco",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-120.050511752934"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "fresno",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://blog.bluepipes.com/travel-nursing-in-california/",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "williams": {
+            "latitude": "39.1546137",
+            "closest_to": "san francisco",
+            "address": "Williams, Colusa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-122.1494186"
+        },
+        "morrison planetarium": {
+            "latitude": "37.7699859",
+            "closest_to": "san francisco",
+            "address": "Morrison Planetarium, 55, Music Concourse Drive, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4656039"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "fresno",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "san francisco",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "closest_to": "san francisco",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "st. louis": {
+            "latitude": "39.6985046",
+            "closest_to": "san francisco",
+            "address": "Saint Louis, Sierra County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-120.9249513"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "fresno",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/members/trains/amtrak.aspx"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "closest_to": "fresno",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "san francisco",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "san francisco",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://blog.bluepipes.com/travel-nursing-in-california/"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "pebble beach golf course": {
+            "latitude": "36.56413635",
+            "closest_to": "san francisco",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
+            ],
+            "longitude": "-121.937790801787"
+        },
+        "vermilion valley resort": {
+            "latitude": "37.3763954",
+            "closest_to": "fresno",
+            "address": "Vermilion Valley Resort, Kaiser Pass Road, Mono Hot Springs, Fresno County, California, United States of America",
+            "locType": "guest_house",
+            "blogLinks": [
+                "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                "http://www.edisonlake.com/hikers/transportation"
+            ],
+            "longitude": "-119.0124766"
+        },
+        "vacaville": {
+            "latitude": "38.3565773",
+            "closest_to": "san francisco",
+            "address": "Vacaville, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-driving-from-sf-to-portland-what-to-see-along-the-way"
+            ],
+            "longitude": "-121.9877443"
+        }
+    }
+}

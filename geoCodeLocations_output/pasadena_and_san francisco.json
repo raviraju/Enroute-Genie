@@ -1,0 +1,2668 @@
+{
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "pasadena",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "pasadena",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://www.california-blog.com/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "san luis obispo museum of art": {
+            "latitude": "35.2795773",
+            "closest_to": "san francisco",
+            "address": "San Luis Obispo Museum of Art, 1010, Broad Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.6649345"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "san francisco",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "hawaii": {
+            "latitude": "36.8347819",
+            "closest_to": "san francisco",
+            "address": "Hawaii, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.7966952"
+        },
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "pasadena",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "san francisco",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "yreka": {
+            "latitude": "41.7326157",
+            "closest_to": "san francisco",
+            "address": "Yreka, Siskiyou County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.6377654"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "san francisco",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "closest_to": "pasadena",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.8766731"
+        },
+        "arroyo parkway": {
+            "latitude": "38.6709801",
+            "closest_to": "san francisco",
+            "address": "Willow Creek, Folsom, Sacramento County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-121.1287517"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "san francisco",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "bixby bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "san francisco",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "pasadena",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "cajon pass": {
+            "latitude": "34.3251973",
+            "closest_to": "pasadena",
+            "address": "Cajon Pass, Summit Terrace, San Bernardino County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.4282748"
+        },
+        "palos verdes peninsula ca": {
+            "latitude": "33.77984925",
+            "closest_to": "pasadena",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "sierra madre blvd south": {
+            "latitude": "34.161921",
+            "closest_to": "pasadena",
+            "address": "Sierra Madre Boulevard, Pasadena, Los Angeles County, California, 91024, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0698286"
+        },
+        "colorado river": {
+            "latitude": "33.58648635",
+            "closest_to": "pasadena",
+            "address": "Colorado River, Riviera Drive, East Blythe, Riverside County, California, 92225, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-114.542164096234"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "pasadena",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "pasadena",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "lenwood": {
+            "latitude": "34.8766497",
+            "closest_to": "pasadena",
+            "address": "Lenwood, San Bernardino County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.1039313"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "pasadena",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "san francisco",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "san francisco",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "san francisco",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "bel air": {
+            "latitude": "34.0827278",
+            "closest_to": "san francisco",
+            "address": "Bel Air, Westwood, LA, Los Angeles County, California, 90095, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.4479801"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "pasadena",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "grant avenue": {
+            "latitude": "33.27553",
+            "closest_to": "pasadena",
+            "address": "Grant Avenue, Salton City, Imperial County, California, 92275, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-115.9754509"
+        },
+        "santa monica beach": {
+            "latitude": "34.159111",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Drive, Channel Islands Beach, Ventura County, California, 93035, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-119.2203179"
+        },
+        "harris ranch": {
+            "latitude": "36.2535766",
+            "closest_to": "san francisco",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.237368306069"
+        },
+        "sierra drive": {
+            "latitude": "34.1822665",
+            "closest_to": "pasadena",
+            "address": "Sierra Drive, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.3285567"
+        },
+        "tea garden": {
+            "latitude": "33.7006659",
+            "closest_to": "pasadena",
+            "address": "Tea Garden, Northwood, Irvine, Orange County, California, 92620, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.7616589"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "pasadena",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.249321"
+        },
+        "mountain high": {
+            "latitude": "36.7332734",
+            "closest_to": "san francisco",
+            "address": "Rolinda High, Fresno County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-119.9745024"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "san francisco",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "pasadena",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "san francisco",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "pasadena",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "mcway falls trail": {
+            "latitude": "36.1578211",
+            "closest_to": "san francisco",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "dewey monument": {
+            "latitude": "37.7879582",
+            "closest_to": "san francisco",
+            "address": "Dewey Monument, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "monument",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4074977"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "san francisco",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "san francisco",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "san francisco",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "san francisco",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "san francisco",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "san luis": {
+            "latitude": "32.4962137",
+            "closest_to": "pasadena",
+            "address": "California Street, Bienestar Estates, San Luis, Yuma County, Arizona, 85336, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-114.7643625"
+        },
+        "cardiff": {
+            "latitude": "33.6883363",
+            "closest_to": "pasadena",
+            "address": "Cardiff, Westpark, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.806356451668"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "pasadena",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "closest_to": "san francisco",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "closest_to": "san francisco",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "goffs rd": {
+            "latitude": "34.7547621",
+            "closest_to": "pasadena",
+            "address": "Goffs Road, Essex, San Bernardino County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.2214411"
+        },
+        "east fork road": {
+            "latitude": "34.2368556",
+            "closest_to": "pasadena",
+            "address": "East Fork Road, Los Angeles County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.815204"
+        },
+        "little giants park": {
+            "latitude": "40.3410481",
+            "closest_to": "san francisco",
+            "address": "California Federation of Womens Clubs Grove, Avenue of the Giants, Weott, Humboldt County, California, 95565, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-123.9376025"
+        },
+        "wax museum": {
+            "latitude": "33.851179",
+            "closest_to": "pasadena",
+            "address": "Movieland Wax Museum, Beach Boulevard, Buena Park, Orange County, California, 90620, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.998936212862"
+        },
+        "financial district": {
+            "latitude": "34.0457621",
+            "closest_to": "pasadena",
+            "address": "Financial District, Bunker Hill, LA, Los Angeles County, California, 90079, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-118.2593046"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "san francisco",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "pasadena",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "devore": {
+            "latitude": "34.2163964",
+            "closest_to": "pasadena",
+            "address": "Devore, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.4014364"
+        },
+        "interstate highway": {
+            "latitude": "33.704135",
+            "closest_to": "pasadena",
+            "address": "Interstate 10, Desert Center, Riverside County, California, 92239, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.44222"
+        },
+        "santa fe railroad": {
+            "latitude": "37.9313328",
+            "closest_to": "san francisco",
+            "address": "Santa Fe Railroad, West Ohio Avenue, Atchison Village, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.3742068"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "san francisco",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "pfeiffer big sur state park": {
+            "latitude": "36.25330545",
+            "closest_to": "san francisco",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.783295208903"
+        },
+        "us hwy 101": {
+            "latitude": "32.9967358",
+            "closest_to": "pasadena",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "san francisco",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.248367"
+        },
+        "figueroa street": {
+            "latitude": "34.0006694",
+            "closest_to": "pasadena",
+            "address": "Figueroa Street, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.2827087"
+        },
+        "bacara": {
+            "latitude": "32.925055",
+            "closest_to": "pasadena",
+            "address": "Bacara Court, San Diego, San Diego County, California, 92145, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-117.009808"
+        },
+        "france": {
+            "latitude": "34.2013715",
+            "closest_to": "san francisco",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-118.5935353"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "closest_to": "san francisco",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "san francisco",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "pasadena",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "tijuana": {
+            "latitude": "32.5008626",
+            "closest_to": "pasadena",
+            "address": "Tijuana, Baja California, M\u00e9xico",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-116.9641656"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "san francisco",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "canada": {
+            "latitude": "33.7298842",
+            "closest_to": "pasadena",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "pasadena",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "big sur bakery": {
+            "latitude": "36.2359105",
+            "closest_to": "san francisco",
+            "address": "Big Sur Bakery, 47540, Cabrillo Highway, Posts, Monterey County, California, 93920, United States of America",
+            "locType": "bakery",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.7693642"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san francisco",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.342234"
+        },
+        "mt vernon": {
+            "latitude": "35.6971844",
+            "closest_to": "san francisco",
+            "address": "Mount Vernon, Kern County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-119.9662482"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "pasadena",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "old encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "pasadena",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "san francisco",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "arizona-california": {
+            "latitude": "34.4631398",
+            "closest_to": "pasadena",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "pomona valley": {
+            "latitude": "34.0553813",
+            "closest_to": "pasadena",
+            "address": "Pomona, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.7517495"
+        },
+        "melrose avenue": {
+            "latitude": "33.1005138",
+            "closest_to": "pasadena",
+            "address": "Melrose Avenue, San Elijo Hills, San Marcos, San Diego County, California, 92069, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.2145993"
+        },
+        "mountain springs rd": {
+            "latitude": "34.8298792",
+            "closest_to": "pasadena",
+            "address": "Mountain Springs Road, San Bernardino County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.0509214"
+        },
+        "aztec hotel": {
+            "latitude": "34.151536",
+            "closest_to": "pasadena",
+            "address": "Aztec Hotel, 311, West Foothill Boulevard, Monrovia, Los Angeles County, California, 91016, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0057962"
+        },
+        "crystal lake": {
+            "latitude": "39.3198533",
+            "closest_to": "san francisco",
+            "address": "Crystal Lake, Yuba Pass, Nevada County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-120.5772002"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "pasadena",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "whistler": {
+            "latitude": "34.3090058",
+            "closest_to": "san francisco",
+            "address": "Whistler Avenue, LA, Los Angeles County, California, 91344, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.5053852"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "closest_to": "san francisco",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "santa monica boulevard": {
+            "latitude": "34.0907545",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "shamrock avenue": {
+            "latitude": "33.9999686",
+            "closest_to": "pasadena",
+            "address": "Shamrock Avenue, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3682239"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "san francisco",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "san francisco",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "tillamook": {
+            "latitude": "32.728329",
+            "closest_to": "pasadena",
+            "address": "Tillamook Bay Drive, San Diego, San Diego County, California, 92114, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.0726319"
+        },
+        "essex": {
+            "latitude": "34.7336097",
+            "closest_to": "pasadena",
+            "address": "Essex, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.2449793"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "pasadena",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "needles": {
+            "latitude": "34.8480597",
+            "closest_to": "pasadena",
+            "address": "Needles, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-114.6141315"
+        },
+        "seal beach": {
+            "latitude": "33.741176",
+            "closest_to": "pasadena",
+            "address": "Seal Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.1046355"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "san francisco",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "san francisco",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "el rey theatre": {
+            "latitude": "37.7263516",
+            "closest_to": "san francisco",
+            "address": "El Rey Theatre, Fairfield Way, Saint Francis Wood, SF, California, 94127, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-122.463988096706"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "san francisco",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "san francisco",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "marin headlands": {
+            "latitude": "37.856162",
+            "closest_to": "san francisco",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.534327312107"
+        },
+        "highland": {
+            "latitude": "34.1283442",
+            "closest_to": "pasadena",
+            "address": "Highland, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.2086512"
+        },
+        "oregon": {
+            "latitude": "33.7123207",
+            "closest_to": "pasadena",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7911567"
+        },
+        "wilshire": {
+            "latitude": "33.7805094",
+            "closest_to": "pasadena",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.9034923"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "pasadena",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "pasadena",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "chase palm park": {
+            "latitude": "34.41527625",
+            "closest_to": "san francisco",
+            "address": "Chase Palm Park, East Cabrillo Boulevard, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.679267670006"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "san francisco",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "mojave desert ca": {
+            "latitude": "35.1456319",
+            "closest_to": "pasadena",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "western united states": {
+            "latitude": "36.615671",
+            "closest_to": "san francisco",
+            "address": "Western, San Benito County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.0670829"
+        },
+        "monterrey": {
+            "latitude": "32.5492861",
+            "closest_to": "pasadena",
+            "address": "Monterrey, Mexicali, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-115.0704122"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "pasadena",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "san francisco",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "san bernardino county": {
+            "latitude": "34.8253019",
+            "closest_to": "pasadena",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-116.0833143"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "closest_to": "san francisco",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "pebble beach golf course": {
+            "latitude": "36.56413635",
+            "closest_to": "san francisco",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.937790801787"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "san francisco",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "pasadena",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "san francisco",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "pasadena",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "fenner": {
+            "latitude": "34.8158313",
+            "closest_to": "pasadena",
+            "address": "Fenner, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.179145"
+        },
+        "west 5th street": {
+            "latitude": "34.0470254",
+            "closest_to": "pasadena",
+            "address": "West 5th Street, Gallery Row, Bunker Hill, LA, Los Angeles County, California, 90014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.2490778"
+        },
+        "mojave river": {
+            "latitude": "34.810823",
+            "closest_to": "pasadena",
+            "address": "Mojave River, San Bernardino County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2140293"
+        },
+        "vancouver": {
+            "latitude": "34.824773",
+            "closest_to": "san francisco",
+            "address": "Vancouver, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.4634669"
+        },
+        "los alamos": {
+            "latitude": "34.7379311",
+            "closest_to": "san francisco",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.26591036241"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "san francisco",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "san francisco",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "pasadena",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "big sur drive": {
+            "latitude": "37.1970544",
+            "closest_to": "san francisco",
+            "address": "Big Sur Drive, Almaden, San Jos\u00e9, Santa Clara County, California, 95120, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-121.83132"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "san francisco",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "maiden lane": {
+            "latitude": "37.7880412",
+            "closest_to": "san francisco",
+            "address": "Maiden Lane, Chinatown, SF, California, 94108, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4066888"
+        },
+        "wilshire boulevard": {
+            "latitude": "34.0617231",
+            "closest_to": "san francisco",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3036614"
+        },
+        "la cienega": {
+            "latitude": "34.0206504",
+            "closest_to": "san francisco",
+            "address": "Cienega, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3256682"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "san francisco",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "san francisco",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "pasadena",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "central avenue": {
+            "latitude": "33.9535912",
+            "closest_to": "pasadena",
+            "address": "Central Avenue, Riverside, Riverside County, California, 92504, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3851652"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "san francisco",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-120.507146"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "san francisco",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "pasadena",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.92944"
+        },
+        "western canyon rd": {
+            "latitude": "34.1195073",
+            "closest_to": "san francisco",
+            "address": "Western Canyon Road, Little Armenia, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3079514"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "san francisco",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "hollywood hills": {
+            "latitude": "34.1311792",
+            "closest_to": "san francisco",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3355473"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "san francisco",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "san francisco",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "closest_to": "pasadena",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "hearst castle": {
+            "latitude": "35.6853689",
+            "closest_to": "san francisco",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-121.167587299509"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "pasadena",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "pasadena",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "closest_to": "pasadena",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "san francisco",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "gilroy": {
+            "latitude": "37.0065078",
+            "closest_to": "san francisco",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.5631722"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "closest_to": "san francisco",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "pasadena",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "west los angeles": {
+            "latitude": "34.0463986",
+            "closest_to": "san francisco",
+            "address": "West Los Angeles, Westwood, LA, Los Angeles County, California, 90025, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4481349"
+        },
+        "napa": {
+            "latitude": "38.2971367",
+            "closest_to": "san francisco",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "san francisco",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "king city": {
+            "latitude": "36.2127439",
+            "closest_to": "san francisco",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.1260286"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "closest_to": "pasadena",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.596723958419"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "pasadena",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "san francisco",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "mulholland drive": {
+            "latitude": "34.1315268",
+            "closest_to": "san francisco",
+            "address": "Mulholland Drive, Sherman Oaks, LA, Los Angeles County, California, 90210-1054, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.4396261"
+        },
+        "lone cypress": {
+            "latitude": "36.5687376",
+            "closest_to": "san francisco",
+            "address": "The Lone Cypress, 17 Mile Drive, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.9652341"
+        },
+        "redondo beach": {
+            "latitude": "33.8455911",
+            "closest_to": "pasadena",
+            "address": "Redondo Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.3886765"
+        },
+        "mother road": {
+            "latitude": "33.8058766",
+            "closest_to": "pasadena",
+            "address": "Route 66, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.9189801"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "san francisco",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "pasadena",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "san francisco",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "daly city": {
+            "latitude": "37.7057671",
+            "closest_to": "san francisco",
+            "address": "Daly City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html"
+            ],
+            "longitude": "-122.4619204"
+        },
+        "santa lucia mountain": {
+            "latitude": "34.4379129",
+            "closest_to": "san francisco",
+            "address": "Santa Lucia, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-119.8003246"
+        },
+        "frisco": {
+            "latitude": "35.0714062",
+            "closest_to": "san francisco",
+            "address": "Frisco Way, Los Berros, San Luis Obispo County, California, 93420, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-120.5207138"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "san francisco",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "foothill boulevard": {
+            "latitude": "32.809746",
+            "closest_to": "pasadena",
+            "address": "Foothill Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2474369"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "closest_to": "pasadena",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.504677958796"
+        },
+        "santa monica blvd.": {
+            "latitude": "34.0907545",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "getty villa": {
+            "latitude": "34.0446906",
+            "closest_to": "san francisco",
+            "address": "Getty Villa, Getty Villa access road, Castellammare, Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.565470698712"
+        },
+        "malaga cove": {
+            "latitude": "33.8040218",
+            "closest_to": "pasadena",
+            "address": "Malaga Cove, Paseo del Mar, Palos Verdes Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3953175"
+        },
+        "monterey county": {
+            "latitude": "36.2231079",
+            "closest_to": "san francisco",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.3877427"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "san francisco",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "oceania": {
+            "latitude": "32.5186477",
+            "closest_to": "pasadena",
+            "address": "Boulevard Oceania, Rivera, Tijuana, Baja California, 22504, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.1214054"
+        },
+        "santa monica pier.in": {
+            "latitude": "34.0104809",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "san francisco",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "norway": {
+            "latitude": "38.8246295",
+            "closest_to": "san francisco",
+            "address": "Little Norway, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.0365723"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "san francisco",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "san francisco",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san francisco",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.396892"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "closest_to": "san francisco",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-118.1809078"
+        },
+        "point vicente park": {
+            "latitude": "33.7444611",
+            "closest_to": "pasadena",
+            "address": "Point Vicente Park, Hawthorne Boulevard, Ranchos Palos Verdes, Los Angeles County, California, 90275, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.4050731"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "san francisco",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "pasadena",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "albuquerque": {
+            "latitude": "32.8074701",
+            "closest_to": "pasadena",
+            "address": "Albuquerque Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2184314"
+        },
+        "redwood": {
+            "latitude": "33.45713595",
+            "closest_to": "pasadena",
+            "address": "Redwood, Wolf Creek, Temecula, Riverside County, California, 92592, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.094843184352"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "pasadena",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "pasadena",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "closest_to": "san francisco",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "san francisco",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "palos verdes drive": {
+            "latitude": "37.5310595",
+            "closest_to": "san francisco",
+            "address": "Palos Verdes Drive, San Mateo, San Mateo County, California, 94403, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-122.328956"
+        },
+        "bixby creek bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "san francisco",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "china": {
+            "latitude": "37.9989198",
+            "closest_to": "san francisco",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html"
+            ],
+            "longitude": "-122.49033307856"
+        },
+        "angel island": {
+            "latitude": "37.862338",
+            "closest_to": "san francisco",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.430885671184"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "san francisco",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "pasadena",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "crissy field": {
+            "latitude": "37.80459605",
+            "closest_to": "san francisco",
+            "address": "Crissy Field, Golden Gate Promenade, Presidio Terrace, SF, California, 94129, United States of America",
+            "locType": "common",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.466607142075"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "san francisco",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-San-Francisco/FlightHistory/34960493.aspx",
+                "http://eattraveleat.blogspot.com/2011/09/driving-scenes-los-angeles-to-san.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "la brea": {
+            "latitude": "33.9170444",
+            "closest_to": "pasadena",
+            "address": "Brea, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.8888556"
+        },
+        "altamont": {
+            "latitude": "37.7438175",
+            "closest_to": "san francisco",
+            "address": "Altamont, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.6627284"
+        },
+        "torrey pines road": {
+            "latitude": "32.8491824",
+            "closest_to": "pasadena",
+            "address": "Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-117.2620194"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "san francisco",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "san francisco",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "mount wilson observatory": {
+            "latitude": "34.22390655",
+            "closest_to": "san francisco",
+            "address": "Mount Wilson Observatory, Mount Wilson, Los Angeles County, California, 91023, United States of America",
+            "locType": "observatory",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.05755765126"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "pasadena",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "orlando": {
+            "latitude": "34.070432",
+            "closest_to": "san francisco",
+            "address": "South Orlando Avenue, Carthay Circle, LA, Los Angeles County, California, 90048, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3735726"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "pasadena",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "koreatown": {
+            "latitude": "34.0580134",
+            "closest_to": "san francisco",
+            "address": "Koreatown, Saint James Park, LA, Los Angeles County, California, 90010, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.3008094"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "san francisco",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "nepenthe": {
+            "latitude": "36.2218116",
+            "closest_to": "san francisco",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.7596564"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "pasadena",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "fairfax": {
+            "latitude": "37.9872935",
+            "closest_to": "san francisco",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-122.5879673"
+        },
+        "williams": {
+            "latitude": "39.1546137",
+            "closest_to": "san francisco",
+            "address": "Williams, Colusa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.1494186"
+        },
+        "morrison planetarium": {
+            "latitude": "37.7699859",
+            "closest_to": "san francisco",
+            "address": "Morrison Planetarium, 55, Music Concourse Drive, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4656039"
+        },
+        "san gabriel canyon road": {
+            "latitude": "34.1596011",
+            "closest_to": "pasadena",
+            "address": "San Gabriel Canyon Road, Azusa, Los Angeles County, California, 91702, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-117.907095"
+        },
+        "ocean avenue": {
+            "latitude": "37.7320759",
+            "closest_to": "san francisco",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.4736116"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "san francisco",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "closest_to": "san francisco",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "harper avenue": {
+            "latitude": "35.367525",
+            "closest_to": "san francisco",
+            "address": "Harper Avenue, Bakersfield, Kern County, California, 93307, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.9814079"
+        },
+        "santa monica blvd": {
+            "latitude": "34.0907545",
+            "closest_to": "san francisco",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.317943"
+        },
+        "bay": {
+            "latitude": "33.6899249",
+            "closest_to": "pasadena",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-117.7729354"
+        },
+        "palos verdes peninsula": {
+            "latitude": "33.77984925",
+            "closest_to": "pasadena",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "san franciso": {
+            "latitude": "37.9276609",
+            "closest_to": "san francisco",
+            "address": "Contra Costa Centre, Contra Costa County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-122.0558469"
+        },
+        "montana de oro state park": {
+            "latitude": "35.2714109",
+            "closest_to": "san francisco",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.8888312"
+        },
+        "half moon bay state beach": {
+            "latitude": "37.47903115",
+            "closest_to": "san francisco",
+            "address": "Half Moon Bay State Beach, Venice Boulevard, Half Moon Bay, San Mateo County, California, 94019, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-122.449789014662"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "san francisco",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com.au/ShowTopic-g60713-i30-k9321392-Overnight_between_Pasadena_and_San_Francisco_WHERE-San_Francisco_California.html"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "san francisco",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "dana point": {
+            "latitude": "33.4669721",
+            "closest_to": "pasadena",
+            "address": "Dana Point, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "https://www.tripadvisor.com.au/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html"
+            ],
+            "longitude": "-117.6981074"
+        },
+        "angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "san francisco",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://dguides.com/losangeles/features/top-10-scenic-drives/"
+            ],
+            "longitude": "-118.2000652"
+        }
+    }
+}

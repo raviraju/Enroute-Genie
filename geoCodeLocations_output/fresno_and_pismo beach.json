@@ -1,0 +1,812 @@
+{
+    "fresno": {
+        "type": "city",
+        "osm_id": "33120274",
+        "class": "place",
+        "importance": 0.79213103374115,
+        "lat": "36.748793",
+        "lon": "-119.714839601149",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "72530219",
+        "osm_type": "way"
+    },
+    "pismo beach": {
+        "type": "city",
+        "osm_id": "5192509",
+        "class": "place",
+        "importance": 0.62191850354092,
+        "lat": "35.1427533",
+        "lon": "-120.6412826",
+        "boundingbox": [
+            "35.114429",
+            "35.180996",
+            "-120.7144169",
+            "-120.6045662"
+        ],
+        "display_name": "Pismo Beach, San Luis Obispo County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159817717",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "merced": {
+            "latitude": "37.3029568",
+            "closest_to": "fresno",
+            "address": "Merced, Merced County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.4843268"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "fresno",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "fresno",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-120.846594"
+        },
+        "lobero theatre": {
+            "latitude": "34.4216681",
+            "closest_to": "pismo beach",
+            "address": "Lobero Theatre, Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.700020768116"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "pismo beach",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "vintage faire": {
+            "latitude": "37.68837415",
+            "closest_to": "fresno",
+            "address": "Vintage Faire Shopping Center, Sisk Road, Modesto, Stanislaus County, California, 95356, United States of America",
+            "locType": "marketplace",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.054025244537"
+        },
+        "mariposa": {
+            "latitude": "37.570148",
+            "closest_to": "fresno",
+            "address": "Mariposa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-119.9036591"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "pismo beach",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "jamestown": {
+            "latitude": "37.9588565",
+            "closest_to": "fresno",
+            "address": "Jamestown, Golden Oaks Drive, Volponi Acres, Tuolumne County, California, 95327, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.404431068133"
+        },
+        "mono lake": {
+            "latitude": "38.0077189",
+            "closest_to": "fresno",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "salmon creek": {
+            "latitude": "35.9104095",
+            "closest_to": "fresno",
+            "address": "Salmon Creek, Tulare County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-118.3668934"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "pismo beach",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.pinterest.com/explore/highway-1/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "pismo coast village": {
+            "latitude": "35.09702015",
+            "closest_to": "pismo beach",
+            "address": "2030, Pismo Coast Village Rv Storage, Oceano, San Luis Obispo County, California, 93445, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pismo-coast-village-rv-resort-pismo-beach-3",
+                "https://www.pinterest.com/pin/104568022576658713/"
+            ],
+            "longitude": "-120.610394615126"
+        },
+        "point san luis lighthouse": {
+            "latitude": "35.16023",
+            "closest_to": "pismo beach",
+            "address": "Point San Luis Lighthouse, Lighthouse Road, Port San Luis, San Luis Obispo County, California, 93424, United States of America",
+            "locType": "lighthouse",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/capismo/a/vacation.htm"
+            ],
+            "longitude": "-120.7604916"
+        },
+        "u.s.s.": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "hanford": {
+            "latitude": "36.3274502",
+            "closest_to": "pismo beach",
+            "address": "Hanford, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.6456843"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "pismo beach",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "lone pine": {
+            "latitude": "36.583176",
+            "closest_to": "fresno",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-118.078359194897"
+        },
+        "coarsegold": {
+            "latitude": "37.2621687",
+            "closest_to": "fresno",
+            "address": "Coarsegold, Madera County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-119.7009833"
+        },
+        "bixby bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "pismo beach",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "nepenthe": {
+            "latitude": "36.2218116",
+            "closest_to": "pismo beach",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.7596564"
+        },
+        "islay hill": {
+            "latitude": "35.2455305",
+            "closest_to": "pismo beach",
+            "address": "Islay Hill, San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.622392"
+        },
+        "point sur state historic park": {
+            "latitude": "36.315378",
+            "closest_to": "pismo beach",
+            "address": "Point Sur State Historic Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.881955510784"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "closest_to": "fresno",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.675382525556"
+        },
+        "columbia": {
+            "latitude": "38.03227005",
+            "closest_to": "fresno",
+            "address": "Columbia, Maiden Lane, Columbia, Tuolumne County, California, 95310, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.402418618899"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "pismo beach",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "mcway falls": {
+            "latitude": "36.1578211",
+            "closest_to": "pismo beach",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "fresno",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "state park": {
+            "latitude": "35.5818461",
+            "closest_to": "pismo beach",
+            "address": "State Park, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-121.1198923"
+        },
+        "monterey aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "fresno",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "morro rock morro rock": {
+            "latitude": "35.369669",
+            "closest_to": "pismo beach",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "fresno",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "sanora": {
+            "latitude": "36.8284119",
+            "closest_to": "fresno",
+            "address": "North Sanora Lane, Figarden, Sierra Sky Park, Fresno County, California, 93722, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-119.8654783"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "fresno",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "paso robles": {
+            "latitude": "35.6267654",
+            "closest_to": "pismo beach",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.6912455"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "fresno",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "utah": {
+            "latitude": "37.413408",
+            "closest_to": "fresno",
+            "address": "Utah, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-118.6125359"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "pismo beach",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "pfeiffer beach": {
+            "latitude": "36.23934855",
+            "closest_to": "pismo beach",
+            "address": "Pfeiffer Beach, Sycamore Canyon Road, Big Sur, Monterey County, California, 93920, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.81778571416"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "pismo beach",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "sonora": {
+            "latitude": "37.9840911",
+            "closest_to": "fresno",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.382138"
+        },
+        "kingsburg": {
+            "latitude": "36.5138398",
+            "closest_to": "pismo beach",
+            "address": "Kingsburg, Fresno County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.5538928"
+        },
+        "arlington theatre": {
+            "latitude": "34.4242119",
+            "closest_to": "pismo beach",
+            "address": "Arlington Theatre, 1317, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.70696995537"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "pismo beach",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "pismo beach",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "san fran": {
+            "latitude": "35.142465",
+            "closest_to": "pismo beach",
+            "address": "Golden Hills, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-118.4903642"
+        },
+        "tulare": {
+            "latitude": "36.2516475",
+            "closest_to": "fresno",
+            "address": "Tulare County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-118.8525829"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "pismo beach",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "pfeiffer state park": {
+            "latitude": "36.25330545",
+            "closest_to": "pismo beach",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-121.783295208903"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "pismo beach",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "fresno",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "pismo beach",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pismo-coast-village-rv-resort-pismo-beach-3",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops",
+                "https://www.pinterest.com/pin/104568022576658713/",
+                "http://gocalifornia.about.com/od/capismo/a/vacation.htm",
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "simeon highway": {
+            "latitude": "35.6438587",
+            "closest_to": "pismo beach",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "manteca": {
+            "latitude": "37.7986184",
+            "closest_to": "fresno",
+            "address": "Manteca, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-121.2117147"
+        },
+        "las cruces": {
+            "latitude": "34.5080438",
+            "closest_to": "pismo beach",
+            "address": "Las Cruces, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.2290396"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "pismo beach",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/capismo/a/vacation.htm",
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "united states highway 101": {
+            "latitude": "37.2593215",
+            "closest_to": "fresno",
+            "address": "Mercado California, Monterey Highway, Silver Creek, San Jos\u00e9, Santa Clara County, California, 95111, United States of America",
+            "locType": "convenience",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-121.807857"
+        },
+        "middle east": {
+            "latitude": "37.7542252",
+            "closest_to": "fresno",
+            "address": "Middle Cascades, Mariposa County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-119.5972922"
+        },
+        "cinco de mayo": {
+            "latitude": "34.274104",
+            "closest_to": "pismo beach",
+            "address": "Cinco de Mayo, Ventura, Ventura County, California, 93004, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pismo-coast-village-rv-resort-pismo-beach-3"
+            ],
+            "longitude": "-119.1561969"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "pismo beach",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "pismo state beach north": {
+            "latitude": "35.1061627",
+            "closest_to": "pismo beach",
+            "address": "Pismo State Beach, San Luis Obispo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.62834686522"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "pismo beach",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "bubblegum alley": {
+            "latitude": "35.2791663",
+            "closest_to": "pismo beach",
+            "address": "Bubblegum Alley, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6638629"
+        },
+        "mission san juan bautista": {
+            "latitude": "36.8455797",
+            "closest_to": "fresno",
+            "address": "Mission San Juan Bautista, 19, Franklin Street, San Juan Bautista, San Benito County, California, 95045-0000, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip"
+            ],
+            "longitude": "-121.5358589"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "pismo beach",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "pismo beach",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "san joaquin river": {
+            "latitude": "37.5308299",
+            "closest_to": "fresno",
+            "address": "San Joaquin River, Madera County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html"
+            ],
+            "longitude": "-119.1862809"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "pismo beach",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "santa barbara botanic garden": {
+            "latitude": "34.456953",
+            "closest_to": "pismo beach",
+            "address": "Santa Barbara Botanic Gardens, Mission Canyon Road, Mission Canyon, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.709585108231"
+        },
+        "splash cafe": {
+            "latitude": "35.2799521",
+            "closest_to": "pismo beach",
+            "address": "Splash Cafe, 893, Higuera Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-120.6615862"
+        },
+        "soda lake": {
+            "latitude": "35.23913735",
+            "closest_to": "pismo beach",
+            "address": "Soda Lake, Soda Lake Road, San Luis Obispo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.895515964214"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-towns-I-should-stop-in-sights-to-see-and-activities-to-do-on-a-central-to-northern-California-road-trip",
+                "http://californiathroughmylens.com/pacific-coast-highway-stops"
+            ],
+            "longitude": "-118.7559973"
+        }
+    }
+}

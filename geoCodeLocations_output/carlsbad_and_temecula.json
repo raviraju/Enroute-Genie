@@ -1,0 +1,732 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "temecula": {
+        "type": "city",
+        "osm_id": "3866463",
+        "class": "place",
+        "importance": 0.66507963701587,
+        "lat": "33.4946353",
+        "lon": "-117.147366",
+        "boundingbox": [
+            "33.4321253",
+            "33.554625",
+            "-117.2066944",
+            "-117.0548702"
+        ],
+        "display_name": "Temecula, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159718106",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "carlsbad",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "temecula",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "north torrey pines road": {
+            "latitude": "32.9358252",
+            "closest_to": "carlsbad",
+            "address": "North Torrey Pines Road, Del Mar, San Diego, San Diego County, California, 92014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2608353"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "temecula",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543",
+                "http://www.distancesfrom.com/travel-from-Carlsbad-Blvd-to-Temecula/TravelFromHistory/33203439.aspx",
+                "http://sandiegan.com/carlsbad/",
+                "http://wikitravel.org/en/San_Diego",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.trulia.com/voices/Traffic_and_Public_Transportation/What_is_the_drive_like_from_Temecula_to_San_Diego_-485854",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "palomar airport rd": {
+            "latitude": "33.1291437",
+            "closest_to": "temecula",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "temecula valley": {
+            "latitude": "33.4481335",
+            "closest_to": "temecula",
+            "address": "U.S. Mormon Battalion Trail, Temecula Valley, CA 79, Aguanga, Riverside County, California, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-116.8917787"
+        },
+        "legoland california": {
+            "latitude": "33.1278683",
+            "closest_to": "carlsbad",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "mount soledad park": {
+            "latitude": "32.8411587",
+            "closest_to": "carlsbad",
+            "address": "Soledad Park, Soledad Park Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2439254"
+        },
+        "la jolla shores": {
+            "latitude": "32.8556028",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Shores, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2536478"
+        },
+        "clairemont mesa": {
+            "latitude": "32.8302448",
+            "closest_to": "carlsbad",
+            "address": "Clairemont Mesa Boulevard, Pacific Beach, San Diego, San Diego County, California, 92117, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.215436"
+        },
+        "lake elsinore": {
+            "latitude": "33.6680772",
+            "closest_to": "temecula",
+            "address": "Lake Elsinore, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://activerain.com/blogsview/727162/the-ortega-highway-and-lake-elsinore--california"
+            ],
+            "longitude": "-117.3272614"
+        },
+        "soledad road": {
+            "latitude": "32.818256",
+            "closest_to": "carlsbad",
+            "address": "Soledad Road, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2413859"
+        },
+        "palomar airport": {
+            "latitude": "33.1291437",
+            "closest_to": "temecula",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "carlsbad blvd": {
+            "latitude": "33.1220759",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Boulevard, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/",
+                "http://www.distancesfrom.com/travel-from-Carlsbad-Blvd-to-Temecula/TravelFromHistory/33203439.aspx"
+            ],
+            "longitude": "-117.327437"
+        },
+        "north coast highway 101": {
+            "latitude": "33.0785156",
+            "closest_to": "carlsbad",
+            "address": "North Coast Highway 101, Encinitas, San Diego County, California, 92011, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3068846"
+        },
+        "palomar mountain": {
+            "latitude": "33.3228128",
+            "closest_to": "temecula",
+            "address": "Palomar Mountain, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.8786358"
+        },
+        "carlsbad village dr.": {
+            "latitude": "33.167503",
+            "closest_to": "temecula",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "mission boulevard": {
+            "latitude": "32.799358",
+            "closest_to": "carlsbad",
+            "address": "Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2563629"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "carlsbad",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543",
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "temecula",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "carlsbad",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "oceanside harbor": {
+            "latitude": "33.2078136",
+            "closest_to": "temecula",
+            "address": "Oceanside Harbor, Oceanside, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.3950393"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "temecula",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "prospect street": {
+            "latitude": "32.8478832",
+            "closest_to": "carlsbad",
+            "address": "Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2741032"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "carlsbad",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "temecula wine country": {
+            "latitude": "33.5334975",
+            "closest_to": "temecula",
+            "address": "Temecula Valley Wine Country, Valle de los Caballos, Riverside County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0334856"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "carlsbad",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "leucadia boulevard": {
+            "latitude": "33.0676713",
+            "closest_to": "carlsbad",
+            "address": "Leucadia Boulevard, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2641124"
+        },
+        "la jolla boulevard": {
+            "latitude": "32.8076713",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Boulevard, Pacific Beach, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2613568"
+        },
+        "torrey pines road": {
+            "latitude": "32.8491824",
+            "closest_to": "carlsbad",
+            "address": "Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2620194"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "temecula",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/travel-from-Carlsbad-Blvd-to-Temecula/TravelFromHistory/33203439.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Carlsbad-to-Temecula-CA/DistanceHistory/6008111.aspx",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx",
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "http://www.distancesfrom.com/us/travel-from-Carlsbad-to-temecula-ca/TravelFromHistory/3796213.aspx",
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "http://activerain.com/blogsview/727162/the-ortega-highway-and-lake-elsinore--california",
+                "http://visitcarlsbad.com/activities",
+                "http://sandiegan.com/carlsbad/",
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.distancesfrom.com/us/flight-distance-from-Carlsbad-to-temecula-ca/FlightHistory/3796213.aspx",
+                "http://visitcarlsbad.com/",
+                "http://www.distancesfrom.com/us/directions-from-Temecula-to-Carlsbad-CA-92008/DirectionHistory/2817762.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "hemet": {
+            "latitude": "33.778562",
+            "closest_to": "temecula",
+            "address": "Hemet, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543",
+                "https://www.trulia.com/voices/Traffic_and_Public_Transportation/What_is_the_drive_like_from_Temecula_to_San_Diego_-485854"
+            ],
+            "longitude": "-117.035766536246"
+        },
+        "rancho bernardo": {
+            "latitude": "33.0186103",
+            "closest_to": "carlsbad",
+            "address": "Rancho Bernardo, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.0610494"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "carlsbad",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "ellen browning scripps park": {
+            "latitude": "32.84931585",
+            "closest_to": "carlsbad",
+            "address": "Ellen Browning Scripps Park, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches.aspx"
+            ],
+            "longitude": "-117.275224864594"
+        },
+        "latin america": {
+            "latitude": "32.88513545",
+            "closest_to": "carlsbad",
+            "address": "Latin America Hall, North Torrey Pines Road, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.243474813578"
+        },
+        "north carlsbad": {
+            "latitude": "33.1296624",
+            "closest_to": "carlsbad",
+            "address": "N, Landau Court, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "taxiway",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.276553"
+        },
+        "murrieta": {
+            "latitude": "33.560832",
+            "closest_to": "temecula",
+            "address": "Murrieta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543",
+                "https://www.trulia.com/voices/Traffic_and_Public_Transportation/What_is_the_drive_like_from_Temecula_to_San_Diego_-485854"
+            ],
+            "longitude": "-117.2106563"
+        },
+        "carlsbad village drive": {
+            "latitude": "33.167503",
+            "closest_to": "temecula",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "la valencia hotel": {
+            "latitude": "32.8486304",
+            "closest_to": "carlsbad",
+            "address": "La Valencia Hotel, 1132, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.273608324189"
+        },
+        "carlsbad temecula": {
+            "latitude": "33.1530935",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Trailer Park, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Carlsbad-to-Temecula-CA/DistanceHistory/6008111.aspx"
+            ],
+            "longitude": "-117.3428159"
+        },
+        "lethbridge": {
+            "latitude": "32.971272",
+            "closest_to": "carlsbad",
+            "address": "Lethbridge Way, San Diego, San Diego County, California, 92129, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.1296619"
+        },
+        "south carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "temecula",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "temecula route": {
+            "latitude": "33.4946353",
+            "closest_to": "temecula",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/travel-from-Carlsbad-Blvd-to-Temecula/TravelFromHistory/33203439.aspx"
+            ],
+            "longitude": "-117.147366"
+        },
+        "carlsbad village": {
+            "latitude": "33.1717184",
+            "closest_to": "temecula",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.322507"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "carlsbad",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "inland san diego county": {
+            "latitude": "33.119939",
+            "closest_to": "carlsbad",
+            "address": "Inland Rail Trail, Escondido, San Diego County, California, 92025, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0913462"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "san diego airport": {
+            "latitude": "33.1278146",
+            "closest_to": "carlsbad",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "n. torrey pines rd": {
+            "latitude": "32.9358252",
+            "closest_to": "carlsbad",
+            "address": "North Torrey Pines Road, Del Mar, San Diego, San Diego County, California, 92014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2608353"
+        },
+        "morena blvd": {
+            "latitude": "32.816795",
+            "closest_to": "carlsbad",
+            "address": "Morena Boulevard, Pacific Beach, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2209089"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "temecula",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543",
+                "http://www.distancesfrom.com/travel-from-Carlsbad-Blvd-to-Temecula/TravelFromHistory/33203439.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Carlsbad-to-Temecula-CA/DistanceHistory/6008111.aspx",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx",
+                "http://activerain.com/blogsview/727162/the-ortega-highway-and-lake-elsinore--california",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.trulia.com/voices/Traffic_and_Public_Transportation/What_is_the_drive_like_from_Temecula_to_San_Diego_-485854",
+                "http://www.distancesfrom.com/us/flight-distance-from-Carlsbad-to-temecula-ca/FlightHistory/3796213.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Temecula-to-Carlsbad-CA-92008/DirectionHistory/2817762.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.147366"
+        },
+        "palomar airport road": {
+            "latitude": "33.1291437",
+            "closest_to": "temecula",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "pacific beach": {
+            "latitude": "32.7978268",
+            "closest_to": "carlsbad",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx",
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2403182"
+        },
+        "poway": {
+            "latitude": "32.9628234",
+            "closest_to": "carlsbad",
+            "address": "Poway, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.0358645"
+        },
+        "escondido": {
+            "latitude": "33.1216751",
+            "closest_to": "temecula",
+            "address": "Escondido, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Traffic_and_Public_Transportation/What_is_the_drive_like_from_Temecula_to_San_Diego_-485854",
+                "http://wikitravel.org/en/San_Diego",
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-117.0814848"
+        },
+        "mcclellan-palomar airport": {
+            "latitude": "33.12754605",
+            "closest_to": "carlsbad",
+            "address": "McClellan-Palomar Airport, Aircraft Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.281400045984"
+        },
+        "san pasqual valley": {
+            "latitude": "33.0917085",
+            "closest_to": "carlsbad",
+            "address": "San Pasqual, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/wineries/wine-tasting-in-san-diego.aspx"
+            ],
+            "longitude": "-116.9539176"
+        },
+        "torrey pines state beach": {
+            "latitude": "32.91754945",
+            "closest_to": "carlsbad",
+            "address": "Torrey Pines State Beach, Yucca Point Trail, Del Mar, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches.aspx",
+                "http://wikitravel.org/en/San_Diego"
+            ],
+            "longitude": "-117.259044437013"
+        },
+        "beryl street": {
+            "latitude": "32.808758",
+            "closest_to": "carlsbad",
+            "address": "Beryl Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2316669"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "temecula",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Diego",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "torrey": {
+            "latitude": "32.9573985",
+            "closest_to": "carlsbad",
+            "address": "Torrey Pines High School, Del Mar Heights Road, Del Mar, San Diego, San Diego County, California, 92130, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.224896678294"
+        },
+        "la jolla parkway": {
+            "latitude": "32.8390806",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Parkway, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/tours-sightseeing/san-diegos-59-mile-scenic-drive.aspx"
+            ],
+            "longitude": "-117.2361388"
+        }
+    }
+}

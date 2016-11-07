@@ -1,0 +1,1579 @@
+{
+    "pismo beach": {
+        "type": "city",
+        "osm_id": "5192509",
+        "class": "place",
+        "importance": 0.62191850354092,
+        "lat": "35.1427533",
+        "lon": "-120.6412826",
+        "boundingbox": [
+            "35.114429",
+            "35.180996",
+            "-120.7144169",
+            "-120.6045662"
+        ],
+        "display_name": "Pismo Beach, San Luis Obispo County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159817717",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "blind beach": {
+            "latitude": "38.4360257",
+            "closest_to": "sausalito",
+            "address": "Blind Beach, Goat Rock Road, Jenner, Sonoma County, California, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.1219479"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "pismo beach",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "creek valley": {
+            "latitude": "39.3751013",
+            "closest_to": "sausalito",
+            "address": "Creek, Mendocino County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-123.0482197"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "sausalito",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "pismo beach",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/38702878025571315/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "sausalito",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "hyatt regency": {
+            "latitude": "34.05472945",
+            "closest_to": "pismo beach",
+            "address": "Hyatt Regency, The LA Hotel Downtown, Figueroa Street, Financial District, Bunker Hill, LA, Los Angeles County, California, 90071, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-118.255604370831"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "sausalito",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "lake casitas": {
+            "latitude": "34.39272655",
+            "closest_to": "pismo beach",
+            "address": "Lake Casitas, Haley Ranch Road, Live Oak Acres, Ventura County, California, 93022, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-119.333147221653"
+        },
+        "nob hill": {
+            "latitude": "37.7932622",
+            "closest_to": "sausalito",
+            "address": "Nob Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4152489"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "sausalito",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "monterey & carmel": {
+            "latitude": "36.560602",
+            "closest_to": "sausalito",
+            "address": "Monterey Street, Carmel-by-the-Sea, Monterey County, California, 93923, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.9139199"
+        },
+        "comstock saloon": {
+            "latitude": "37.7969638",
+            "closest_to": "sausalito",
+            "address": "Comstock Saloon, 155, Columbus Avenue, Chinatown, SF, California, 94133, United States of America",
+            "locType": "bar",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4056425"
+        },
+        "westside road": {
+            "latitude": "34.5313012",
+            "closest_to": "pismo beach",
+            "address": "Westside Road, Victorville, San Bernardino County, California, 92395, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-117.2998854"
+        },
+        "oceano dunes state vehicular recreation area": {
+            "latitude": "35.0466838",
+            "closest_to": "pismo beach",
+            "address": "Oceano Dunes State Vehicular Recreation Area, Sand Highway, Callender, San Luis Obispo County, California, 93445, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.612508426361"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "pismo beach",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "closest_to": "sausalito",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.9980641"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "pismo beach",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "california bay": {
+            "latitude": "36.9634643",
+            "closest_to": "sausalito",
+            "address": "California & Bay, The Circles, Westside, Santa Cruz, Santa Cruz County, California, 95061, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/38702878025571315/"
+            ],
+            "longitude": "-122.0354573"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "sausalito",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/38702878025571315/",
+                "http://www.distancesfrom.com/us/distance-from-Sausalito-to-Pismo-Beach-CA-via-Big-Sur/DistanceHistory/2442624.aspx",
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "healdsburg plaza": {
+            "latitude": "38.61079805",
+            "closest_to": "sausalito",
+            "address": "Healdsburg Plaza, Matheson Street, Healdsburg, Sonoma County, California, 95448, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.870049905137"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "pismo beach",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "cal poly": {
+            "latitude": "35.30440705",
+            "closest_to": "sausalito",
+            "address": "Cal Poly, Mount Bishop Road, Paso Robles, San Luis Obispo County, California, 93407, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html"
+            ],
+            "longitude": "-120.670126285884"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "pismo beach",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "santa cruz street": {
+            "latitude": "38.514297",
+            "closest_to": "sausalito",
+            "address": "Santa Cruz Street, Depot Park, Sacramento, Sacramento County, California, 95828, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/"
+            ],
+            "longitude": "-121.3983639"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "sausalito",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "bodega": {
+            "latitude": "38.345194",
+            "closest_to": "sausalito",
+            "address": "Bodega, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-122.9738877"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "sausalito",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-120.507146"
+        },
+        "oceano": {
+            "latitude": "35.0988648",
+            "closest_to": "pismo beach",
+            "address": "Oceano, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html"
+            ],
+            "longitude": "-120.612393"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "sausalito",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/pismo-beach?changeCountry=GB",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "marina": {
+            "latitude": "36.6900785",
+            "closest_to": "sausalito",
+            "address": "Marina, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.800639730262"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "pismo beach",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "bodega bay": {
+            "latitude": "38.273529",
+            "closest_to": "sausalito",
+            "address": "Bodega Bay, Estero Lane, Bodega Bay, Sonoma County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.0061117"
+        },
+        "scotland": {
+            "latitude": "34.242229",
+            "closest_to": "pismo beach",
+            "address": "Scotland, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-117.4981065"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "pismo beach",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "pismo beach",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.pinterest.com/pin/373376625340290447/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "eastshore road": {
+            "latitude": "40.632381",
+            "closest_to": "sausalito",
+            "address": "Eastshore Road, Shasta County, California, 96089, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-122.4309089"
+        },
+        "sierra mar": {
+            "latitude": "36.229692",
+            "closest_to": "sausalito",
+            "address": "Sierra Mar, Bill's Trail, Posts, Monterey County, California, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.77167575"
+        },
+        "moonstone beach": {
+            "latitude": "35.573855",
+            "closest_to": "sausalito",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.1128747"
+        },
+        "sonoma valley": {
+            "latitude": "38.29331315",
+            "closest_to": "sausalito",
+            "address": "Sonoma Valley Chevron, 540, West Napa Street, Sonoma, Sonoma County, California, 95476, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.469385770353"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "sausalito",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "pismo beach",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "hearst castle": {
+            "latitude": "35.6853689",
+            "closest_to": "sausalito",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html"
+            ],
+            "longitude": "-121.167587299509"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "pismo beach",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "mission district": {
+            "latitude": "37.75993",
+            "closest_to": "sausalito",
+            "address": "Mission District, SF, California, 94110, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.4191375"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "sausalito",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "pismo beach",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "boudin bakery": {
+            "latitude": "37.808455",
+            "closest_to": "sausalito",
+            "address": "Boudin Bakery, 160, Jefferson Street, Russian Hill, SF, California, 94133, United States of America",
+            "locType": "bakery",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4149089"
+        },
+        "alaska": {
+            "latitude": "33.7147833",
+            "closest_to": "pismo beach",
+            "address": "Alaska, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-117.7917164"
+        },
+        "viking garden": {
+            "latitude": "33.7687836",
+            "closest_to": "pismo beach",
+            "address": "Viking Circle, Garden Grove, Orange County, California, 92843, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-117.9253327"
+        },
+        "napa": {
+            "latitude": "38.2971367",
+            "closest_to": "sausalito",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "russian river valley": {
+            "latitude": "38.4825985",
+            "closest_to": "sausalito",
+            "address": "Russian River, Sonoma County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-123.0082118"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "sausalito",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "lake cachuma": {
+            "latitude": "34.576971",
+            "closest_to": "pismo beach",
+            "address": "Lake Cachuma, San Marcos Pass Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-119.945991073866"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "sausalito",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "higuera street": {
+            "latitude": "34.0219755",
+            "closest_to": "pismo beach",
+            "address": "Higuera Street, The Village Green, LA, Los Angeles County, California, 90232, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-118.3779645"
+        },
+        "grover beach": {
+            "latitude": "35.1209452",
+            "closest_to": "pismo beach",
+            "address": "Grover Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.6218375"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "sausalito",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "sausalito",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "hilton scotts valley": {
+            "latitude": "37.03614125",
+            "closest_to": "sausalito",
+            "address": "Hilton Scotts Valley, Altenitas Road, Scotts Valley, Santa Cruz County, California, 95066, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-122.024364811192"
+        },
+        "bay flat road": {
+            "latitude": "38.3344787",
+            "closest_to": "sausalito",
+            "address": "Bay Flat Road, Bodega Bay, Sonoma County, California, 94923, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.0490508"
+        },
+        "u.s.a": {
+            "latitude": "37.7959257",
+            "closest_to": "sausalito",
+            "address": "Pacific Overseas Group (U.S.A) Inc., Grant Avenue, Chinatown, SF, California, 94133, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.4067326"
+        },
+        "goat rock beach": {
+            "latitude": "38.4459328",
+            "closest_to": "sausalito",
+            "address": "Goat Rock Beach, State Park Road, Jenner, Sonoma County, California, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.127068043045"
+        },
+        "avila": {
+            "latitude": "34.151876",
+            "closest_to": "pismo beach",
+            "address": "Avila, Los Angeles County, California, 91750, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-117.7559123"
+        },
+        "sonoma coast": {
+            "latitude": "38.41699",
+            "closest_to": "sausalito",
+            "address": "Sonoma Coast State Park, Coast Highway, Carmet, Sonoma County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-123.099028545174"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "sausalito",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "iowa": {
+            "latitude": "33.7127707",
+            "closest_to": "pismo beach",
+            "address": "Iowa, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-117.7875934"
+        },
+        "costeaux french bakery": {
+            "latitude": "38.6125449",
+            "closest_to": "sausalito",
+            "address": "Costeaux French Bakery, 417, Healdsburg Avenue, Healdsburg, Sonoma County, California, 95448, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.871590833871"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "sausalito",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "daly city": {
+            "latitude": "37.7057671",
+            "closest_to": "sausalito",
+            "address": "Daly City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-122.4619204"
+        },
+        "central california": {
+            "latitude": "38.392688",
+            "closest_to": "sausalito",
+            "address": "Central, Yolo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-121.573011"
+        },
+        "doran beach road": {
+            "latitude": "38.3148012",
+            "closest_to": "sausalito",
+            "address": "Doran Beach Road, Bodega Bay, Sonoma County, California, 94923, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.0432542"
+        },
+        "gaviota": {
+            "latitude": "34.4716558",
+            "closest_to": "pismo beach",
+            "address": "Gaviota, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.2148715"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "pismo beach",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "https://www.yelp.com/topic/los-angeles-best-places-in-between-la-and-san-luis-obispo"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "sausalito",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "pfeiffer big sur state park": {
+            "latitude": "36.25330545",
+            "closest_to": "sausalito",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.783295208903"
+        },
+        "kortum trail": {
+            "latitude": "38.4241851",
+            "closest_to": "sausalito",
+            "address": "Kortum Trail, Bridgehaven, Sonoma County, California, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.1146433"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "sausalito",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "sausalito",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "santa ynez": {
+            "latitude": "34.608637",
+            "closest_to": "pismo beach",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "mendocino county": {
+            "latitude": "39.3176491",
+            "closest_to": "sausalito",
+            "address": "Mendocino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-123.4126398"
+        },
+        "gualala": {
+            "latitude": "38.7674439",
+            "closest_to": "sausalito",
+            "address": "Gualala, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.529828"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "pismo beach",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "santa barbara county": {
+            "latitude": "34.7136533",
+            "closest_to": "pismo beach",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.9858231"
+        },
+        "sunshine state": {
+            "latitude": "34.1781856",
+            "closest_to": "pismo beach",
+            "address": "Sunshine State Equipment Rental, Magnolia Boulevard, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "equipment_rental",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-118.317711566601"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "sausalito",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "santa barbara valley": {
+            "latitude": "34.4221319",
+            "closest_to": "pismo beach",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "sausalito",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "bay lodge": {
+            "latitude": "36.62033185",
+            "closest_to": "sausalito",
+            "address": "Econo Lodge Bay Breeze, Del Monte Boulevard, Seaside, Monterey County, California, 93955, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-121.84129991486"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "pismo beach",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "pygmy forest trail": {
+            "latitude": "38.58012985",
+            "closest_to": "sausalito",
+            "address": "Pygmy Forest, North Trail, Walsh Landing, Sonoma County, California, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.308208422352"
+        },
+        "alexander valley": {
+            "latitude": "34.5991586",
+            "closest_to": "pismo beach",
+            "address": "Alexander Peak, Santa Barbara County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-119.7631938"
+        },
+        "sonoma plaza": {
+            "latitude": "38.29304285",
+            "closest_to": "sausalito",
+            "address": "Sonoma Plaza, East Spain Street, Sonoma, Sonoma County, California, 95476, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.457635310247"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "closest_to": "sausalito",
+            "address": "Lodi, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.387849546574"
+        },
+        "ojai": {
+            "latitude": "34.4480495",
+            "closest_to": "pismo beach",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "pismo beach",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-117.870493"
+        },
+        "santa ynez valley": {
+            "latitude": "34.608637",
+            "closest_to": "pismo beach",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "sausalito",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "valley ford": {
+            "latitude": "38.3174723",
+            "closest_to": "sausalito",
+            "address": "Valley Ford, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-122.9248903"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "sausalito",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "https://www.tripadvisor.com/Attractions-g32894-Activities-Pismo_Beach_San_Luis_Obispo_County_California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "haight-ashbury": {
+            "latitude": "37.7700462",
+            "closest_to": "sausalito",
+            "address": "Haight-Ashbury, SF, California, 94117, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4470138"
+        },
+        "beach": {
+            "latitude": "35.13738",
+            "closest_to": "pismo beach",
+            "address": "Beach, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-120.6345489"
+        },
+        "hotel union square": {
+            "latitude": "37.785799",
+            "closest_to": "sausalito",
+            "address": "Hotel Union Square, Powell Street, Chinatown, SF, California, 94133, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4077409"
+        },
+        "julia pfeiffer burns state park": {
+            "latitude": "36.16998345",
+            "closest_to": "sausalito",
+            "address": "Julia Pfeiffer Burns State Park, Ewoldsen trail, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.665388254615"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "pismo beach",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "new england": {
+            "latitude": "33.8793794",
+            "closest_to": "pismo beach",
+            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-118.0890007"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "sausalito",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "avila beach": {
+            "latitude": "35.1799752",
+            "closest_to": "sausalito",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.7318417"
+        },
+        "sea walk drive": {
+            "latitude": "33.9709365",
+            "closest_to": "pismo beach",
+            "address": "Sea Walk Drive, Del Rey, Playa Vista, LA, Los Angeles County, California, 90094, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-118.4254524"
+        },
+        "bodega harbor": {
+            "latitude": "38.3235281",
+            "closest_to": "sausalito",
+            "address": "Bodega Harbor, Bay Highway, Bodega Bay, Sonoma County, California, 94923, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.0477794"
+        },
+        "watsonville": {
+            "latitude": "36.9092773",
+            "closest_to": "sausalito",
+            "address": "Watsonville, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.752907"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "sausalito",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "san fran": {
+            "latitude": "35.142465",
+            "closest_to": "pismo beach",
+            "address": "Golden Hills, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/38702878025571315/",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-118.4903642"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "sausalito",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "sausalito",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html",
+                "https://www.pinterest.com/pin/38702878025571315/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "sausalito",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "sausalito",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "sausalito",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "channel islands national park": {
+            "latitude": "34.248597",
+            "closest_to": "pismo beach",
+            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.266377755078"
+        },
+        "arctic ocean": {
+            "latitude": "33.6671696",
+            "closest_to": "pismo beach",
+            "address": "Arctic Ocean Drive, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-117.6890868"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "sausalito",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "pismo beach",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g32894-Activities-Pismo_Beach_San_Luis_Obispo_County_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "sausalito",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "places california": {
+            "latitude": "34.0307533",
+            "closest_to": "pismo beach",
+            "address": "National Register of Historic Places building #87000576, Second Church of Christ, Scientist, 948, West Adams Boulevard, Saint James Park, LA, Los Angeles County, California, 90007, United States of America",
+            "locType": "building",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/38702878025571315/"
+            ],
+            "longitude": "-118.283079194407"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "sausalito",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "cazadero": {
+            "latitude": "38.533246",
+            "closest_to": "sausalito",
+            "address": "Cazadero, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.0852799"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "pismo beach",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-117.2725426"
+        },
+        "north beach": {
+            "latitude": "37.8011749",
+            "closest_to": "sausalito",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.409002"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "sausalito",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "pismo beach",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "sausalito",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Sausalito-to-Pismo-Beach-CA-via-Big-Sur/DistanceHistory/2442624.aspx",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.audleytravel.com/usa/california/places-to-go/pismo-beach?changeCountry=GB",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html",
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "sunset": {
+            "latitude": "39.2504459",
+            "closest_to": "sausalito",
+            "address": "Sunset, Sutter County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.6519139"
+        },
+        "vandenberg air force base/lompoc": {
+            "latitude": "34.7425933",
+            "closest_to": "pismo beach",
+            "address": "Vandenberg AFB, Cabrillo Highway, Santa Barbara County, California, 93437, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.515598534764"
+        },
+        "petaluma": {
+            "latitude": "38.295411",
+            "closest_to": "sausalito",
+            "address": "Petaluma, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-122.613693402033"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "sausalito",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "los olivos": {
+            "latitude": "34.6677646",
+            "closest_to": "pismo beach",
+            "address": "Los Olivos, Santa Barbara County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-120.1148469"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "pismo beach",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "pismo beach",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "victoria beach": {
+            "latitude": "33.51833175",
+            "closest_to": "pismo beach",
+            "address": "Victoria Beach, Lagunita Drive, Montage Resort & Spa, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/"
+            ],
+            "longitude": "-117.762036120946"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "sausalito",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "el dorado kitchen": {
+            "latitude": "38.293679",
+            "closest_to": "sausalito",
+            "address": "El Dorado Kitchen, 405, 1st Street West, Sonoma, Sonoma County, California, 95476, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.hopper.com/articles/768/17-great-destinations-for-foodies-in-california"
+            ],
+            "longitude": "-122.4589049"
+        },
+        "ravenswood": {
+            "latitude": "37.4763272",
+            "closest_to": "sausalito",
+            "address": "Ravenswood, San Mateo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-122.1352416"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "sausalito",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel",
+                "http://www.distancesfrom.com/us/distance-from-Sausalito-to-Pismo-Beach-CA-via-Big-Sur/DistanceHistory/2442624.aspx",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "the sea ranch": {
+            "latitude": "38.7151899",
+            "closest_to": "sausalito",
+            "address": "Sea Ranch, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sonomacounty.com/articles/itinerary-pacific-coastline-travel"
+            ],
+            "longitude": "-123.4544531"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "sausalito",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g33026-i382-k2856311-Drive_from_San_Francisco_to_San_luis_Obispo-San_Luis_Obispo_San_Luis_Obispo_County_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "sausalito",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/373376625340290447/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k170925-San_Francisco_to_Pismo_Beach_scenic_route_how_long-California.html"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "woodbridge": {
+            "latitude": "38.1540849",
+            "closest_to": "sausalito",
+            "address": "Woodbridge, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://therealmbahousewife.blogspot.com/2013/03/pch-roadtrip-from-la-to-san-francisco.html"
+            ],
+            "longitude": "-121.3013369"
+        }
+    },
+    "sausalito": {
+        "type": "administrative",
+        "osm_id": "2829689",
+        "class": "boundary",
+        "importance": 0.64561533453658,
+        "lat": "37.8590272",
+        "lon": "-122.4854693",
+        "boundingbox": [
+            "37.8436795",
+            "37.8731429",
+            "-122.5102612",
+            "-122.4753744"
+        ],
+        "display_name": "Sausalito, Marin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "place_id": "159575624",
+        "osm_type": "relation"
+    }
+}

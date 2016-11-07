@@ -1,0 +1,758 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "danville": {
+            "latitude": "37.8215929",
+            "closest_to": "",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9999605"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.846594"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-time-from-Carlsbad-to-Valencia-Santa-Clarita/TravelTimeHistory/29528106.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Clarita-to-Carlsbad/FlightHistory/21508333.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Carlsbad-to-Valencia-Santa-Clarita/TravelFromHistory/27257255.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Carlsbad-from-Santa-Clarita/HowFarHistory/21508333.aspx",
+                "http://www.distancesfrom.com/us/map-from-Carlsbad-to-Valencia-Santa-Clarita/MapHistory/29528106.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "orinda": {
+            "latitude": "37.8771476",
+            "closest_to": "",
+            "address": "Orinda, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1796887"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "guerneville": {
+            "latitude": "38.5116609",
+            "closest_to": "",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.987128549631"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "trona": {
+            "latitude": "35.7627322",
+            "closest_to": "",
+            "address": "Trona, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.3728345"
+        },
+        "emeryville": {
+            "latitude": "37.8314089",
+            "closest_to": "",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2865265"
+        },
+        "dublin": {
+            "latitude": "37.7021521",
+            "closest_to": "",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9357917"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
+            "closest_to": "",
+            "address": "Placerville, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.7985459"
+        },
+        "cotati": {
+            "latitude": "38.3266798",
+            "closest_to": "",
+            "address": "Cotati, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.706844"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "closest_to": "",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.8746788"
+        },
+        "fort irwin": {
+            "latitude": "35.2627527",
+            "closest_to": "",
+            "address": "Fort Irwin, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.6847523"
+        },
+        "boonville": {
+            "latitude": "39.0091667",
+            "closest_to": "",
+            "address": "Boonville, Mendocino County, California, 95415, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.366111"
+        },
+        "novato": {
+            "latitude": "38.1061979",
+            "closest_to": "",
+            "address": "Novato, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.568119"
+        },
+        "geyserville": {
+            "latitude": "38.707687",
+            "closest_to": "",
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.9024963"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "ripon": {
+            "latitude": "37.741595",
+            "closest_to": "",
+            "address": "Ripon, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.1243827"
+        },
+        "tulelake": {
+            "latitude": "41.9559885",
+            "closest_to": "",
+            "address": "Tulelake, Siskiyou County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.4774915"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "bodie state historic park": {
+            "latitude": "38.2154734",
+            "closest_to": "",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0109761"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "coalinga": {
+            "latitude": "36.1298952",
+            "closest_to": "",
+            "address": "Coalinga, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.245046293019"
+        },
+        "san quentin": {
+            "latitude": "37.9413133",
+            "closest_to": "",
+            "address": "San Quentin, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4849738"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "ukiah": {
+            "latitude": "39.1501662",
+            "closest_to": "",
+            "address": "Ukiah, Mendocino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.207786"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "oroville": {
+            "latitude": "39.5137752",
+            "closest_to": "",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.5563589"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-time-from-Carlsbad-to-Valencia-Santa-Clarita/TravelTimeHistory/29528106.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Clarita-to-Carlsbad/FlightHistory/21508333.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Carlsbad-from-Santa-Clarita/HowFarHistory/21508333.aspx",
+                "http://www.distancesfrom.com/us/map-from-Carlsbad-to-Valencia-Santa-Clarita/MapHistory/29528106.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "santa": {
+            "latitude": "22.4804035",
+            "closest_to": "",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Clarita-to-Carlsbad/FlightHistory/21508333.aspx"
+            ],
+            "longitude": "-80.3796642"
+        },
+        "garberville": {
+            "latitude": "40.1005685",
+            "closest_to": "",
+            "address": "Garberville, Humboldt County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.7961393"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "rocklin": {
+            "latitude": "38.7907339",
+            "closest_to": "",
+            "address": "Rocklin, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.2357827"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Carlsbad-to-santa-clarita-ca-91355/TravelFromHistory/3827759.aspx"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "willow creek": {
+            "latitude": "40.9395774",
+            "closest_to": "",
+            "address": "Willow Creek, Humboldt County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.6314411"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "hopland": {
+            "latitude": "38.9729542",
+            "closest_to": "",
+            "address": "Hopland, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.1163917"
+        },
+        "lemoore": {
+            "latitude": "36.3007835",
+            "closest_to": "",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.7829106"
+        },
+        "colma": {
+            "latitude": "37.6768779",
+            "closest_to": "",
+            "address": "Colma, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4596949"
+        },
+        "jerusalem": {
+            "latitude": "40.5175442",
+            "closest_to": "",
+            "address": "Jerusalem Creek, Shasta County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.7581059"
+        },
+        "arcata": {
+            "latitude": "40.8665166",
+            "closest_to": "",
+            "address": "Arcata, Humboldt County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-124.0828395"
+        },
+        "moraga": {
+            "latitude": "37.8347106",
+            "closest_to": "",
+            "address": "Moraga, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1295595"
+        },
+        "forestville": {
+            "latitude": "38.4833405",
+            "closest_to": "",
+            "address": "Forestville, Trenton Road, Trenton, Sonoma County, California, 95436, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.861584174866"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://visitsantaclarita.com/",
+                "http://visitcarlsbad.com/attractions",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-72.945787"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.4869193"
+        }
+    }
+}

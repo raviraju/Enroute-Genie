@@ -1,0 +1,982 @@
+{
+    "riverside": {
+        "type": "city",
+        "osm_id": "98628503",
+        "class": "place",
+        "importance": 0.72980766319189,
+        "lat": "33.9533546",
+        "lon": "-117.3961622",
+        "boundingbox": [
+            "33.8724207",
+            "34.0192691",
+            "-117.5237611",
+            "-117.2741721"
+        ],
+        "display_name": "Riverside, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "85715402",
+        "osm_type": "way"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "gallatin": {
+            "latitude": "40.5646162",
+            "closest_to": "",
+            "address": "Gallatin Peak, Lassen County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "longitude": "-120.7418996"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "dragoon": {
+            "latitude": "37.990701",
+            "closest_to": "",
+            "address": "Dragoon Circle, Knox Hill, Sonora, Tuolumne County, California, 95370, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-120.3951489"
+        },
+        "x93long beach": {
+            "latitude": "35.13738",
+            "closest_to": "",
+            "address": "Beach, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "longitude": "-120.6345489"
+        },
+        "san ramon": {
+            "latitude": "37.7799273",
+            "closest_to": "",
+            "address": "San Ramon, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9780152"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "dublin": {
+            "latitude": "37.7021521",
+            "closest_to": "",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9357917"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "gaviota": {
+            "latitude": "34.4716558",
+            "closest_to": "",
+            "address": "Gaviota, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.2148715"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "closest_to": "",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-121.312847098327"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "north pole": {
+            "latitude": "19.3740853",
+            "closest_to": "",
+            "address": "California, 1291, Empresa, Ampliaci\u00f3n N\u00e1poles, Benito Ju\u00e1rez, CDMX, 03900, M\u00e9xico",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-99.1792586"
+        },
+        "hercules": {
+            "latitude": "38.0171441",
+            "closest_to": "",
+            "address": "Hercules, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2885807"
+        },
+        "el paso": {
+            "latitude": "36.8487922",
+            "closest_to": "",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-120.507146"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "u.s.s.": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "petaluma": {
+            "latitude": "38.295411",
+            "closest_to": "",
+            "address": "Petaluma, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.613693402033"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/",
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "saratoga": {
+            "latitude": "37.2638324",
+            "closest_to": "",
+            "address": "Saratoga, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0230145"
+        },
+        "ritz carlton": {
+            "latitude": "37.791867",
+            "closest_to": "",
+            "address": "Ritz-Carlton, 600, Stockton Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.406834213408"
+        },
+        "pismo": {
+            "latitude": "24.1378257",
+            "closest_to": "",
+            "address": "Pismo, La Paz, Baja California Sur, 23206, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-110.3437034"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.roadsideamerica.com/location/ca/all",
+                "http://www.livability.com/ca",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "nazareth": {
+            "latitude": "32.784617",
+            "closest_to": "",
+            "address": "Nazareth Drive, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.1079923"
+        },
+        "los altos": {
+            "latitude": "37.3790629",
+            "closest_to": "",
+            "address": "Los Altos, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.1165779"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "santa": {
+            "latitude": "22.4804035",
+            "closest_to": "",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-80.3796642"
+        },
+        "pinnacles national park": {
+            "latitude": "36.4862515",
+            "closest_to": "",
+            "address": "Pinnacles National Park, Pinnacles Road, San Benito County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.171140689253"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "washington street": {
+            "latitude": "32.7415883",
+            "closest_to": "",
+            "address": "Washington Street, Kurtz Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.1842757"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "el capitan": {
+            "latitude": "41.8690059",
+            "closest_to": "",
+            "address": "El Capitan, Siskiyou County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-123.6122864"
+        },
+        "goleta": {
+            "latitude": "34.4358295",
+            "closest_to": "",
+            "address": "Goleta, Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.8276388"
+        },
+        "riverside-san bernardino": {
+            "latitude": "34.908786",
+            "closest_to": "",
+            "address": "Riverside Road, Harvard, San Bernardino County, California, 92365, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "longitude": "-116.6537219"
+        },
+        "carquinez strait": {
+            "latitude": "38.042402",
+            "closest_to": "",
+            "address": "Carquinez Strait, Pacific Avenue, Rodeo, Contra Costa County, California, 94572, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.271246054921"
+        },
+        "oceano dunes state vehicular recreation area": {
+            "latitude": "35.0466838",
+            "closest_to": "",
+            "address": "Oceano Dunes State Vehicular Recreation Area, Sand Highway, Callender, San Luis Obispo County, California, 93445, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.612508426361"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita",
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "santa ynez": {
+            "latitude": "34.608637",
+            "closest_to": "",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "danville": {
+            "latitude": "37.8215929",
+            "closest_to": "",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9999605"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "santa barbara county": {
+            "latitude": "34.7136533",
+            "closest_to": "",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.9858231"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "san pablo bay": {
+            "latitude": "38.0665874",
+            "closest_to": "",
+            "address": "San Pablo Bay, Marin County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.3844177"
+        },
+        "corcoran": {
+            "latitude": "36.120084",
+            "closest_to": "",
+            "address": "Corcoran, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.563801399957"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "closest_to": "",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.8746788"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "national parks": {
+            "latitude": "35.0310157",
+            "closest_to": "",
+            "address": "National Parks Service Road, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-115.383967"
+        },
+        "alamo creek park": {
+            "latitude": "37.7244438",
+            "closest_to": "",
+            "address": "Alamo Creek Park, Willow Creek Drive, Dublin, Alameda County, California, 94568, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.910967662648"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cupertino": {
+            "latitude": "37.3230107",
+            "closest_to": "",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0322518"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "bird park": {
+            "latitude": "32.73914695",
+            "closest_to": "",
+            "address": "Bird Park, 28th Street, North Park, San Diego, San Diego County, California, 92104, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.134159066525"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "santa clara county": {
+            "latitude": "37.2333253",
+            "closest_to": "",
+            "address": "Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-121.6846348"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "juarez": {
+            "latitude": "17.0712913",
+            "closest_to": "",
+            "address": "California, Calzada Ni\u00f1os H\u00e9roes de Chapultepec, Oaxaca, Oaxaca de Ju\u00e1rez, Oaxaca, 68050, M\u00e9xico",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-96.7190592"
+        },
+        "foster city": {
+            "latitude": "37.5600336",
+            "closest_to": "",
+            "address": "Foster City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2688521"
+        },
+        "windsor": {
+            "latitude": "38.519758",
+            "closest_to": "",
+            "address": "Windsor, Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.804427291464"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-120.050511752934"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "murphy avenue": {
+            "latitude": "37.383672",
+            "closest_to": "",
+            "address": "Murphy Avenue, Luna Park, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.8922413"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "new york city": {
+            "latitude": "40.767819",
+            "closest_to": "",
+            "address": "California Sea Lion, 830, 5th Avenue, Upper East Side, Manhattan, New York County, NYC, New York, 10035, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-73.9717587"
+        },
+        "washington": {
+            "latitude": "40.0657724",
+            "closest_to": "",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-79.8918435"
+        },
+        "texas": {
+            "latitude": "29.7181118",
+            "closest_to": "",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-94.997906"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://visitsantaclarita.com/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.bestplaces.net/city/california/santa_clarita",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.livability.com/ca",
+                "https://www.trulia.com/voices/Moving/What_is_it_like_to_live_in_Valencia_California_Wh-151121",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://www.bestplaces.net/county/california/santa_clara"
+            ],
+            "longitude": "-72.945787"
+        },
+        "new mexico": {
+            "latitude": "32.2644096",
+            "closest_to": "",
+            "address": "California Lateral, Mesilla, Do\u00f1a Ana County, New Mexico, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "https://americarocksdude.wordpress.com/2011/07/07/roadside-attractions-between-texas-and-california/"
+            ],
+            "longitude": "-106.8036705"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://www.trulia.com/voices/Moving/What_is_it_like_to_live_in_Valencia_California_Wh-151121",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "campo": {
+            "latitude": "37.8974258",
+            "closest_to": "",
+            "address": "El Campo, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.4652506"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "city hall": {
+            "latitude": "32.84439345",
+            "closest_to": "",
+            "address": "City Hall, Imperial, Imperial County, California, 92251, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-115.569543523702"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0712855"
+        }
+    }
+}

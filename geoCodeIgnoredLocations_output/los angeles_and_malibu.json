@@ -1,0 +1,926 @@
+{
+    "malibu": {
+        "type": "residential",
+        "osm_id": "7335067",
+        "class": "highway",
+        "importance": 0.3,
+        "lat": "33.7932142",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "place_id": "58129970",
+        "lon": "-116.5023561",
+        "boundingbox": [
+            "33.7923238",
+            "33.7940184",
+            "-116.5023599",
+            "-116.5023526"
+        ],
+        "display_name": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "california state beach": {
+            "latitude": "35.1711237",
+            "closest_to": "",
+            "address": "California Polytechnic State University Pier, Avila Beach, San Luis Obispo County, California, 93424, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm"
+            ],
+            "longitude": "-120.7409115"
+        },
+        "mendocino county": {
+            "latitude": "39.3176491",
+            "closest_to": "",
+            "address": "Mendocino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216"
+            ],
+            "longitude": "-123.4126398"
+        },
+        "san luis obispo museum of art": {
+            "latitude": "35.2795773",
+            "closest_to": "",
+            "address": "San Luis Obispo Museum of Art, 1010, Broad Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.6649345"
+        },
+        "big sur bakery": {
+            "latitude": "36.2359105",
+            "closest_to": "",
+            "address": "Big Sur Bakery, 47540, Cabrillo Highway, Posts, Monterey County, California, 93920, United States of America",
+            "locType": "bakery",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.7693642"
+        },
+        "mcway falls trail": {
+            "latitude": "36.1578211",
+            "closest_to": "",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "pt sur lighthouse": {
+            "latitude": "36.3063497",
+            "closest_to": "",
+            "address": "Point Sur Lighthouse, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "lighthouse",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.901627042301"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "westwood": {
+            "latitude": "40.3024675",
+            "closest_to": "",
+            "address": "Westwood, 3rd Street, Westwood, Lassen County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-121.010399151458"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "point lobos state park": {
+            "latitude": "38.77817125",
+            "closest_to": "",
+            "address": "Point Lobos State Park, Woodgate Way, Laureate, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.371560849992"
+        },
+        "malibu road": {
+            "latitude": "37.6492006",
+            "closest_to": "",
+            "address": "Malibu Road, Hayward, Alameda County, California, 94545, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm",
+                "https://www.latourist.com/index.php?page=attractions-links-malibu"
+            ],
+            "longitude": "-122.1132903"
+        },
+        "big sur river": {
+            "latitude": "36.2847874",
+            "closest_to": "",
+            "address": "Big Sur River, Monterey County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8527735"
+        },
+        "monterey county": {
+            "latitude": "36.2231079",
+            "closest_to": "",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.3877427"
+        },
+        "' soda lake": {
+            "latitude": "35.23913735",
+            "closest_to": "",
+            "address": "Soda Lake, Soda Lake Road, San Luis Obispo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.895515964214"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "https://www.expedia.com/Malibu-Hotels.d10217.Travel-Guide-Hotels",
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "bixby bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "wilder ranch state park": {
+            "latitude": "36.96021805",
+            "closest_to": "",
+            "address": "Wilder Ranch State Park, Coast Road, Westside, Santa Cruz County, California, 95060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.079566815934"
+        },
+        "newport": {
+            "latitude": "39.5773839",
+            "closest_to": "",
+            "address": "Newport, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32676-d272295-Reviews-El_Matador_State_Beach-Malibu_California.html"
+            ],
+            "longitude": "-123.7747387"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "pfeiffer beach": {
+            "latitude": "36.23934855",
+            "closest_to": "",
+            "address": "Pfeiffer Beach, Sycamore Canyon Road, Big Sur, Monterey County, California, 93920, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.81778571416"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.418809"
+        },
+        "la piedra": {
+            "latitude": "36.8102272",
+            "closest_to": "",
+            "address": "Piedra, Piedra Post Office, Fresno County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play"
+            ],
+            "longitude": "-119.3820697"
+        },
+        "nepenthe": {
+            "latitude": "36.2218116",
+            "closest_to": "",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.7596564"
+        },
+        "tamarindo": {
+            "latitude": "24.1200849",
+            "closest_to": "",
+            "address": "Tamarindo, La Paz, Baja California Sur, 23080, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play"
+            ],
+            "longitude": "-110.3210271"
+        },
+        "bixby creek bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "pebble beach": {
+            "latitude": "36.5664874",
+            "closest_to": "",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.10best.com/destinations/california/los-angeles/attractions/malibus-best/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.507146"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "mcway falls": {
+            "latitude": "36.1578211",
+            "closest_to": "",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "palos verdes drive": {
+            "latitude": "37.5310595",
+            "closest_to": "",
+            "address": "Palos Verdes Drive, San Mateo, San Mateo County, California, 94403, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm"
+            ],
+            "longitude": "-122.328956"
+        },
+        "point sur state historic park": {
+            "latitude": "36.315378",
+            "closest_to": "",
+            "address": "Point Sur State Historic Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.881955510784"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "state park": {
+            "latitude": "35.5818461",
+            "closest_to": "",
+            "address": "State Park, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.latourist.com/index.php?page=attractions-links-malibu"
+            ],
+            "longitude": "-121.1198923"
+        },
+        "brentwood": {
+            "latitude": "37.9317766",
+            "closest_to": "",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-121.6960265"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.10best.com/destinations/california/los-angeles/attractions/malibus-best/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.latourist.com/index.php?page=attractions-links-malibu",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "australia": {
+            "latitude": "-32.6649999",
+            "closest_to": "",
+            "address": "California, Singleton, NSW, Australia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "150.9261111"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32676-d272295-Reviews-El_Matador_State_Beach-Malibu_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "ano nuevo state park": {
+            "latitude": "37.1642859",
+            "closest_to": "",
+            "address": "A\u00f1o Nuevo State Park, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.328030779329"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "mir": {
+            "latitude": "37.3823701",
+            "closest_to": "",
+            "address": "Mir Mirou Drive, Los Altos Hills, Santa Clara County, California, 94022, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "longitude": "-122.1700025"
+        },
+        "east coast": {
+            "latitude": "37.858337",
+            "closest_to": "",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32676-d272295-Reviews-El_Matador_State_Beach-Malibu_California.html"
+            ],
+            "longitude": "-122.2447393"
+        },
+        "costa rica": {
+            "latitude": "9.9327612",
+            "closest_to": "",
+            "address": "California, Carmen, Cant\u00f3n San Jos\u00e9, Provincia San Jos\u00e9, 10101, Costa Rica",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play"
+            ],
+            "longitude": "-84.0665223"
+        },
+        "el matador": {
+            "latitude": "36.8099274",
+            "closest_to": "",
+            "address": "El Matador, Burl Avenue, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm",
+                "https://www.tripadvisor.com/Attraction_Review-g32676-d272295-Reviews-El_Matador_State_Beach-Malibu_California.html",
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play"
+            ],
+            "longitude": "-119.6754762"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "cross creek": {
+            "latitude": "36.4291147",
+            "closest_to": "",
+            "address": "Cross Creek, Tulare County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "https://www.latourist.com/index.php?page=attractions-links-malibu"
+            ],
+            "longitude": "-119.4152299"
+        },
+        "mullholland drive": {
+            "latitude": "37.8584346",
+            "closest_to": "",
+            "address": "EBMUD Mullholland Reservoir, Donald Drive, Rheem Valley, Moraga, Contra Costa County, California, 94556, United States of America",
+            "locType": "water_tank",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ],
+            "longitude": "-122.1430436"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "los alamos": {
+            "latitude": "34.7379311",
+            "closest_to": "",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.26591036241"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm",
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "old canyon road": {
+            "latitude": "37.5782129",
+            "closest_to": "",
+            "address": "Old Canyon Road, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216"
+            ],
+            "longitude": "-121.9689646"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32676-d272295-Reviews-El_Matador_State_Beach-Malibu_California.html",
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play",
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm",
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "washington": {
+            "latitude": "40.0657724",
+            "closest_to": "",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm"
+            ],
+            "longitude": "-79.8918435"
+        },
+        "islay hill": {
+            "latitude": "35.2455305",
+            "closest_to": "",
+            "address": "Islay Hill, San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.622392"
+        },
+        "paradise cove": {
+            "latitude": "37.8962016",
+            "closest_to": "",
+            "address": "Paradise Cove, El Campo, Marin County, California, 94920, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm"
+            ],
+            "longitude": "-122.4689008"
+        },
+        "moonstone beach": {
+            "latitude": "35.573855",
+            "closest_to": "",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.1128747"
+        },
+        "garrapata": {
+            "latitude": "10.337393",
+            "closest_to": "",
+            "address": "California, GARRAPATA, Magdalena, Colombia",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-74.4329156"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "palomar": {
+            "latitude": "23.48019285",
+            "closest_to": "",
+            "address": "Palomar, Calzada Maestros Misioneros de 1930, Santiago, Los Cabos, Baja California Sur, M\u00e9xico",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-109.715262801301"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "bubblegum alley": {
+            "latitude": "35.2791663",
+            "closest_to": "",
+            "address": "Bubblegum Alley, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6638629"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.timeout.com/los-angeles/things-to-do/best-beaches-in-la-top-coastal-escapes-to-surf-swim-and-play",
+                "http://www.10best.com/destinations/california/los-angeles/attractions/malibus-best/",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm",
+                "https://blog.virgin-atlantic.com/t5/Our-Places/mini-road-trips-los-angeles-to-santa-barbara/ba-p/1216",
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.expedia.com/Malibu-Hotels.d10217.Travel-Guide-Hotels"
+            ],
+            "longitude": "-72.945787"
+        },
+        "big sur village": {
+            "latitude": "36.270241",
+            "closest_to": "",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "california state parks": {
+            "latitude": "38.4366423",
+            "closest_to": "",
+            "address": "California State Parks, Adobe Canyon Road, Kenwood, Sonoma County, California, 95452, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/los-angeles-beaches.htm"
+            ],
+            "longitude": "-122.5126798"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "rio theatre": {
+            "latitude": "36.9801486",
+            "closest_to": "",
+            "address": "Rio Theatre, Soquel Avenue, Soquel Avenue Commercial Corridor, Eastside, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0104295"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "l.a": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.407502671706"
+        }
+    },
+    "los angeles": {
+        "type": "city",
+        "osm_id": "207359",
+        "class": "place",
+        "importance": 1.0289952798766,
+        "lat": "34.0543942",
+        "lon": "-118.2439408",
+        "boundingbox": [
+            "33.7036216",
+            "34.337306",
+            "-118.6681901",
+            "-118.1552946"
+        ],
+        "display_name": "LA, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159250198",
+        "osm_type": "relation"
+    }
+}

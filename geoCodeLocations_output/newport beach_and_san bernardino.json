@@ -1,0 +1,655 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "newport beach",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "santa ana river trail": {
+            "latitude": "33.8861041",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana River Trail, Eastvale, Riverside County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.6444344"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "san bernardino",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.55089"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "san bernardino",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.uber.com/cities/orange-county/",
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "balboa": {
+            "latitude": "33.5869669",
+            "closest_to": "newport beach",
+            "address": "Balboa, Orange County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32780-d4695690-Reviews-Balboa_Pier-Newport_Beach_California.html"
+            ],
+            "longitude": "-117.9008906"
+        },
+        "newport beach route": {
+            "latitude": "33.6170092",
+            "closest_to": "san bernardino",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-San-Bernardino-to-Newport-Beach/TravelFromHistory/21831855.aspx"
+            ],
+            "longitude": "-117.92944"
+        },
+        "stater bros.": {
+            "latitude": "33.9160206",
+            "closest_to": "san bernardino",
+            "address": "Stater Bros, Bridgepoint Court, Tiburon, Riverside, Riverside County, California, 92505, United States of America",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.4875587"
+        },
+        "s. waterman avenue": {
+            "latitude": "34.0943979",
+            "closest_to": "san bernardino",
+            "address": "South Waterman Avenue, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.278754"
+        },
+        "irvine spectrum center": {
+            "latitude": "33.65023015",
+            "closest_to": "san bernardino",
+            "address": "The Irvine Spectrum Center, Irvine, Orange County, California, 92618, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.743290013547"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "san bernardino",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "https://www.uber.com/cities/orange-county/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "newport beach",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "santa ana river": {
+            "latitude": "33.847255",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana River, Anaheim, Orange County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.8400508"
+        },
+        "disneyland resort": {
+            "latitude": "33.81193845",
+            "closest_to": "san bernardino",
+            "address": "DLR, Mill View Lane, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.921900616601"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "san bernardino",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "https://www.uber.com/cities/orange-county/"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "heritage hill": {
+            "latitude": "33.5171757",
+            "closest_to": "san bernardino",
+            "address": "Heritage, Temeku Hills, Temecula, Riverside County, California, 92591, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.118322"
+        },
+        "inland empire": {
+            "latitude": "33.73849885",
+            "closest_to": "san bernardino",
+            "address": "Inland Empire Energy Center, Romoland, Riverside County, California, 92585, United States of America",
+            "locType": "industrial",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32780-d4695690-Reviews-Balboa_Pier-Newport_Beach_California.html",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.16947092864"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san bernardino",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "san bernardino",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "california eureka": {
+            "latitude": "33.8070091",
+            "closest_to": "san bernardino",
+            "address": "Pixar Play Parade, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.9194387"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "newport beach",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san bernardino",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.distancesfrom.com/us/flight-distance-from-San-Bernardino-to-Newport-Beach-CA/FlightHistory/4871653.aspx",
+                "http://www.visitnewportbeach.com/travel/getting-here/",
+                "http://www.distancebetweencities.net/newport-beach_ca_and_san-bernardino_ca/",
+                "http://www.distancesfrom.com/us/travel-from-San-Bernardino-to-Newport-Beach/TravelFromHistory/21831855.aspx",
+                "http://www.distancesfrom.com/us/map-from-Newport-Beach-to-San-Bernardino/MapHistory/16101648.aspx",
+                "https://www.distancecalculator.net/from-san-bernardino-to-newport-beach",
+                "http://www.distancesfrom.com/us/travel-from-Newport-Beach-to-San-Bernardino/TravelFromHistory/16101648.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Newport-Beach-to-San-Bernardino/DistanceHistory/16101648.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Newport-Beach-to-San-Bernardino/DirectionHistory/16101648.aspx"
+            ],
+            "longitude": "-117.92944"
+        },
+        "lake forest": {
+            "latitude": "33.6469261",
+            "closest_to": "san bernardino",
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.6859212"
+        },
+        "hilton san bernardino": {
+            "latitude": "34.1096444",
+            "closest_to": "san bernardino",
+            "address": "Hilton Drive Industrial Park, Fontana, San Bernardino County, California, 92336, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.480020994389"
+        },
+        "little mountain drive": {
+            "latitude": "34.1537884",
+            "closest_to": "san bernardino",
+            "address": "Little Mountain Drive, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.3206339"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "san bernardino",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/",
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "colton": {
+            "latitude": "34.0739016",
+            "closest_to": "san bernardino",
+            "address": "Colton, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.3136546"
+        },
+        "laguna niguel": {
+            "latitude": "33.5225261",
+            "closest_to": "san bernardino",
+            "address": "Laguna Niguel, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.7075525"
+        },
+        "west marshall blvd": {
+            "latitude": "34.1492922",
+            "closest_to": "san bernardino",
+            "address": "West Marshall Boulevard, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.3125487"
+        },
+        "highland ave.": {
+            "latitude": "34.135757",
+            "closest_to": "san bernardino",
+            "address": "Highland Avenue, San Bernardino, San Bernardino County, California, 92346, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.1953088"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "san bernardino",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "newport beach",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "irvine park": {
+            "latitude": "33.9082151",
+            "closest_to": "san bernardino",
+            "address": "Irvine Park, Beaumont, Riverside County, California, 92223, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-116.9604311"
+        },
+        "langham huntington": {
+            "latitude": "34.1202821",
+            "closest_to": "san bernardino",
+            "address": "The Langham Huntington, 1401, Huntington Circle, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.1333115"
+        },
+        "san bernardino route": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Newport-Beach-to-San-Bernardino/TravelFromHistory/16101648.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Newport-Beach-to-San-Bernardino/DirectionHistory/16101648.aspx"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "s. waterman ave.": {
+            "latitude": "34.0943979",
+            "closest_to": "san bernardino",
+            "address": "South Waterman Avenue, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.278754"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "san bernardino",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "indonesia": {
+            "latitude": "34.06215715",
+            "closest_to": "newport beach",
+            "address": "Consulat General of the Republic of Indonesia, South Mariposa Avenue, Koreatown, Little Armenia, LA, Los Angeles County, California, 90020, United States of America",
+            "locType": "embassy",
+            "blogLinks": [
+                "https://www.uber.com/cities/orange-county/"
+            ],
+            "longitude": "-118.299570356312"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "newport beach",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "olvera street": {
+            "latitude": "34.0581578",
+            "closest_to": "newport beach",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.2373201"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "san bernardino",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "newport beach",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.distancesfrom.com/us/map-from-Newport-Beach-to-San-Bernardino/MapHistory/16101648.aspx",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "chino hills": {
+            "latitude": "33.9926803",
+            "closest_to": "san bernardino",
+            "address": "Chino Hills, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.7600559"
+        },
+        "redlands": {
+            "latitude": "34.069909",
+            "closest_to": "san bernardino",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Newport-Beach-to-San-Bernardino/TravelFromHistory/16101648.aspx"
+            ],
+            "longitude": "-117.248983896912"
+        },
+        "san manuel stadium": {
+            "latitude": "34.0966462",
+            "closest_to": "san bernardino",
+            "address": "San Manuel Stadium, South Berkeley Avenue, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.296879813425"
+        },
+        "hidden valley wildlife area": {
+            "latitude": "33.9668647",
+            "closest_to": "san bernardino",
+            "address": "Hidden Valley Wildlife Area, Tomahawk Trail, Mira Loma, Eastvale, Riverside County, California, 92860, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.5069028"
+        },
+        "perris hill": {
+            "latitude": "34.1344551",
+            "closest_to": "san bernardino",
+            "address": "Perris Hill, San Bernardino County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.2578197"
+        },
+        "santa ana": {
+            "latitude": "33.7494951",
+            "closest_to": "san bernardino",
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.8732212"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-San-Bernardino-to-Newport-Beach-CA/FlightHistory/4871653.aspx",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/",
+                "http://www.visitnewportbeach.com/travel/getting-here/",
+                "http://www.distancesfrom.com/us/travel-from-San-Bernardino-to-Newport-Beach/TravelFromHistory/21831855.aspx",
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx",
+                "http://www.distancesfrom.com/us/map-from-Newport-Beach-to-San-Bernardino/MapHistory/16101648.aspx",
+                "https://www.distancecalculator.net/from-san-bernardino-to-newport-beach",
+                "http://www.distancesfrom.com/us/travel-from-Newport-Beach-to-San-Bernardino/TravelFromHistory/16101648.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Newport-Beach-to-San-Bernardino/DistanceHistory/16101648.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Newport-Beach-to-San-Bernardino/DirectionHistory/16101648.aspx"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "san bernardino",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.147366"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "newport beach",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.248367"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "san bernardino",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "irvine park railroad": {
+            "latitude": "33.7962496",
+            "closest_to": "san bernardino",
+            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.754123588843"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "san bernardino",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "san bernardino",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.2725426"
+        },
+        "newport coast": {
+            "latitude": "33.6253226",
+            "closest_to": "san bernardino",
+            "address": "Newport Coast Drive, Turtle Rock, Irvine, Orange County, California, 92657, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.8293882"
+        },
+        "fountain valley": {
+            "latitude": "33.7038145",
+            "closest_to": "san bernardino",
+            "address": "Fountain Valley, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-117.9627348"
+        },
+        "fairmont newport beach": {
+            "latitude": "33.6671875",
+            "closest_to": "san bernardino",
+            "address": "Fairmont Newport Beach, Von Karman Avenue, Newport Beach, Orange County, California, 92697, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.visitnewportbeach.com/travel/getting-here/"
+            ],
+            "longitude": "-117.8626598"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "newport beach",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-118.0000165"
+        }
+    },
+    "newport beach": {
+        "type": "city",
+        "osm_id": "112956",
+        "class": "place",
+        "importance": 0.75631325724067,
+        "lat": "33.6170092",
+        "lon": "-117.92944",
+        "boundingbox": [
+            "33.5348773",
+            "33.6717531",
+            "-117.9959276",
+            "-117.7839003"
+        ],
+        "display_name": "Newport Beach, Orange County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157952615",
+        "osm_type": "relation"
+    }
+}

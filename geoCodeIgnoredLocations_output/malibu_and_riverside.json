@@ -1,0 +1,1926 @@
+{
+    "malibu": {
+        "type": "residential",
+        "osm_id": "7335067",
+        "class": "highway",
+        "importance": 0.3,
+        "lat": "33.7932142",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "place_id": "58129970",
+        "lon": "-116.5023561",
+        "boundingbox": [
+            "33.7923238",
+            "33.7940184",
+            "-116.5023599",
+            "-116.5023526"
+        ],
+        "display_name": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+        "osm_type": "way"
+    },
+    "riverside": {
+        "type": "city",
+        "osm_id": "98628503",
+        "class": "place",
+        "importance": 0.72980766319189,
+        "lat": "33.9533546",
+        "lon": "-117.3961622",
+        "boundingbox": [
+            "33.8724207",
+            "34.0192691",
+            "-117.5237611",
+            "-117.2741721"
+        ],
+        "display_name": "Riverside, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "85715402",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "hollywood sign": {
+            "latitude": "34.1340991",
+            "closest_to": "",
+            "address": "Hollywood Sign, Mount Lee Drive, Hollywood Hills, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.3216522"
+        },
+        "lemoore": {
+            "latitude": "36.3007835",
+            "closest_to": "",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.7829106"
+        },
+        "lancaster blvd": {
+            "latitude": "34.874125",
+            "closest_to": "",
+            "address": "Lancaster Boulevard, Kern County, California, 93524, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.9170289"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "cotati": {
+            "latitude": "38.3266798",
+            "closest_to": "",
+            "address": "Cotati, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.706844"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "melbourne": {
+            "latitude": "39.2832292",
+            "closest_to": "",
+            "address": "Melbourne, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-123.6508452"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "tonga": {
+            "latitude": "32.579494",
+            "closest_to": "",
+            "address": "Via Tonga, Otay Mesa West, San Ysidro, San Diego, San Diego County, California, 92154, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.0612559"
+        },
+        "morro bay state": {
+            "latitude": "35.3469188",
+            "closest_to": "",
+            "address": "Morro Bay Museum of Natural History, 20, Morro Bay State Park Road, Morro Bay, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-120.8443454"
+        },
+        "lake merced": {
+            "latitude": "37.71934845",
+            "closest_to": "",
+            "address": "Lake Merced, Lake Merced Bike Path, SF, California, 94132, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.494659699192"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.distancesfrom.com/us/travel-from-Malibu-to-Riverside/TravelFromHistory/29176542.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "closest_to": "",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "chilnualna falls": {
+            "latitude": "37.5486657",
+            "closest_to": "",
+            "address": "North Chilnualna Falls Road, North Wawona, Mariposa County, California, 95389, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "longitude": "-119.633114"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "bodie state historic park": {
+            "latitude": "38.2154734",
+            "closest_to": "",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0109761"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "ukiah": {
+            "latitude": "39.1501662",
+            "closest_to": "",
+            "address": "Ukiah, Mendocino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.207786"
+        },
+        "getty center drive": {
+            "latitude": "34.0886759",
+            "closest_to": "",
+            "address": "Getty Center Drive, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-118.4749678"
+        },
+        "badwater basin": {
+            "latitude": "36.2302592",
+            "closest_to": "",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-116.767444033304"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Malibu-to-Riverside/TravelFromHistory/29176542.aspx",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "verdugo mountains": {
+            "latitude": "34.23053615",
+            "closest_to": "",
+            "address": "Verdugo Mountains, Foothill Freeway, LA, Los Angeles County, California, 91042, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.269379957729"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "closest_to": "",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "closest_to": "",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "califia": {
+            "latitude": "34.4290422",
+            "closest_to": "",
+            "address": "Califia Court, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.8065791"
+        },
+        "santa monica bay": {
+            "latitude": "33.9350121",
+            "closest_to": "",
+            "address": "Santa Monica Bay, South Bay Bike Path, El Segundo, Los Angeles County, California, 90245, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.4667443"
+        },
+        "houston": {
+            "latitude": "34.4422871",
+            "closest_to": "",
+            "address": "Houston, Plum Canyon, Canyon Country, Los Angeles County, California, 91351, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.4777157"
+        },
+        "boron": {
+            "latitude": "35.0199035",
+            "closest_to": "",
+            "address": "Boron, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.668060165467"
+        },
+        "pacific crest trail": {
+            "latitude": "38.69418",
+            "closest_to": "",
+            "address": "Pacific Crest Trail, Pleasant Valley, El Dorado County, California, 95667, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-120.6375709"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "tx": {
+            "latitude": "29.7181118",
+            "closest_to": "",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-94.997906"
+        },
+        "jerusalem": {
+            "latitude": "40.5175442",
+            "closest_to": "",
+            "address": "Jerusalem Creek, Shasta County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.7581059"
+        },
+        "fuller avenue": {
+            "latitude": "37.3178767",
+            "closest_to": "",
+            "address": "Fuller Avenue, Little Italy, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95125, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-121.9014312"
+        },
+        "malibu creek": {
+            "latitude": "34.0834967",
+            "closest_to": "",
+            "address": "Malibu Creek, Los Angeles County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-118.7111397"
+        },
+        "pittsburgh": {
+            "latitude": "39.5151683",
+            "closest_to": "",
+            "address": "Pittsburgh Hill, Yuba County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-121.1002348"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.846594"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "closest_to": "",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "trona": {
+            "latitude": "35.7627322",
+            "closest_to": "",
+            "address": "Trona, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.3728345"
+        },
+        "emeryville": {
+            "latitude": "37.8314089",
+            "closest_to": "",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2865265"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
+            "closest_to": "",
+            "address": "Placerville, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.7985459"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "geyserville": {
+            "latitude": "38.707687",
+            "closest_to": "",
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.9024963"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "closest_to": "",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "inglewood": {
+            "latitude": "33.9616801",
+            "closest_to": "",
+            "address": "Inglewood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.353131"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "montara": {
+            "latitude": "37.5494205",
+            "closest_to": "",
+            "address": "Montara, The Cave, Montara, San Mateo County, California, 94039, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.493540904638"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "needles": {
+            "latitude": "34.8480597",
+            "closest_to": "",
+            "address": "Needles, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-114.6141315"
+        },
+        "limekiln": {
+            "latitude": "36.0227366",
+            "closest_to": "",
+            "address": "Limekiln State Park, Twitchell Elevator, Lucia, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-121.527771252348"
+        },
+        "north county": {
+            "latitude": "39.7452174",
+            "closest_to": "",
+            "address": "California, 16th Street, Upper Downtown, Denver, Denver County, Colorado, 80211, United States of America",
+            "locType": "bus_stop",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-104.992379"
+        },
+        "south fork": {
+            "latitude": "39.4260015",
+            "closest_to": "",
+            "address": "South Fork, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-123.7272359"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "stovepipe wells": {
+            "latitude": "36.6065528",
+            "closest_to": "",
+            "address": "Stovepipe Wells, Inyo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-117.1468689"
+        },
+        "yerba buena": {
+            "latitude": "34.3027736",
+            "closest_to": "",
+            "address": "Yerba Buena, Landslide, Watts Ranch, Los Angeles County, California, 91042, United States of America",
+            "locType": "reservoir_covered",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.3003675"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "illinois": {
+            "latitude": "34.4646044",
+            "closest_to": "",
+            "address": "Illinois, Paris, Los Angeles County, California, 93510, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1758901"
+        },
+        "south carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "garberville": {
+            "latitude": "40.1005685",
+            "closest_to": "",
+            "address": "Garberville, Humboldt County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.7961393"
+        },
+        "new york city": {
+            "latitude": "40.767819",
+            "closest_to": "",
+            "address": "California Sea Lion, 830, 5th Avenue, Upper East Side, Manhattan, New York County, NYC, New York, 10035, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-73.9717587"
+        },
+        "trail map": {
+            "latitude": "37.8127142",
+            "closest_to": "",
+            "address": "Map, Roberts Ridge Trail, Oakland, Alameda County, California, 94516, United States of America",
+            "locType": "information",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-122.1747058"
+        },
+        "downtown": {
+            "latitude": "37.8036295",
+            "closest_to": "",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-122.2715243"
+        },
+        "mojave desert ca": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.california-blog.com/",
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-72.945787"
+        },
+        "nevada avenue": {
+            "latitude": "34.1767299",
+            "closest_to": "",
+            "address": "Nevada Avenue, Woodland Hills, LA, Los Angeles County, California, 91367, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-118.6090514"
+        },
+        "virginia": {
+            "latitude": "37.9090178",
+            "closest_to": "",
+            "address": "California, Rockbridge County, Virginia, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-79.5869878"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "arcata": {
+            "latitude": "40.8665166",
+            "closest_to": "",
+            "address": "Arcata, Humboldt County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-124.0828395"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "closest_to": "",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "forestville": {
+            "latitude": "38.4833405",
+            "closest_to": "",
+            "address": "Forestville, Trenton Road, Trenton, Sonoma County, California, 95436, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.861584174866"
+        },
+        "north hollywood": {
+            "latitude": "34.1729044",
+            "closest_to": "",
+            "address": "North Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.374037"
+        },
+        "lancaster": {
+            "latitude": "34.6981064",
+            "closest_to": "",
+            "address": "Lancaster, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1366152"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "merced": {
+            "latitude": "37.3029568",
+            "closest_to": "",
+            "address": "Merced, Merced County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-120.4843268"
+        },
+        "fort irwin": {
+            "latitude": "35.2627527",
+            "closest_to": "",
+            "address": "Fort Irwin, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.6847523"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "palos verdes peninsula ca": {
+            "latitude": "33.77984925",
+            "closest_to": "",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "mishe mokwa trail": {
+            "latitude": "34.126007",
+            "closest_to": "",
+            "address": "Mishe Mokwa Trail, Ventura County, California, 91320, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.9355319"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "guerneville": {
+            "latitude": "38.5116609",
+            "closest_to": "",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.987128549631"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "yermo": {
+            "latitude": "34.9049849",
+            "closest_to": "",
+            "address": "Yermo, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8203126"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "boonville": {
+            "latitude": "39.0091667",
+            "closest_to": "",
+            "address": "Boonville, Mendocino County, California, 95415, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.366111"
+        },
+        "lone pine": {
+            "latitude": "36.583176",
+            "closest_to": "",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.078359194897"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "mount lee": {
+            "latitude": "34.1345796",
+            "closest_to": "",
+            "address": "Mount Lee, LA, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.3219735"
+        },
+        "pacific ocean highway": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "sylmar": {
+            "latitude": "34.3076252",
+            "closest_to": "",
+            "address": "Sylmar, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4492147"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "tulelake": {
+            "latitude": "41.9559885",
+            "closest_to": "",
+            "address": "Tulelake, Siskiyou County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.4774915"
+        },
+        "hopland": {
+            "latitude": "38.9729542",
+            "closest_to": "",
+            "address": "Hopland, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.1163917"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "lakewood center": {
+            "latitude": "38.7401815",
+            "closest_to": "",
+            "address": "Lakewood Sierra, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-120.5690929"
+        },
+        "australia": {
+            "latitude": "-32.6649999",
+            "closest_to": "",
+            "address": "California, Singleton, NSW, Australia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "150.9261111"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "ashford mill": {
+            "latitude": "35.91883095",
+            "closest_to": "",
+            "address": "Ashford Mill, Badwater Road, Inyo County, California, United States of America",
+            "locType": "ruins",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-116.683526291871"
+        },
+        "san quentin": {
+            "latitude": "37.9413133",
+            "closest_to": "",
+            "address": "San Quentin, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4849738"
+        },
+        "mt.": {
+            "latitude": "-11.8891419",
+            "closest_to": "",
+            "address": "Calif\u00f3rnia, Microrregi\u00e3o de Sinop, Mesorregi\u00e3o Norte Mato-Grossense, MT, Regi\u00e3o Centro-Oeste, Brasil",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-55.4576859"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "creek": {
+            "latitude": "39.3751013",
+            "closest_to": "",
+            "address": "Creek, Mendocino County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "longitude": "-123.0482197"
+        },
+        "palmdale": {
+            "latitude": "34.5793131",
+            "closest_to": "",
+            "address": "Palmdale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1171107"
+        },
+        "antelope valley": {
+            "latitude": "34.67743",
+            "closest_to": "",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "locType": "college",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1865629"
+        },
+        "loon lake": {
+            "latitude": "38.9998212",
+            "closest_to": "",
+            "address": "Loon Lake, Ice House Road, El Dorado County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-120.306228938508"
+        },
+        "montana": {
+            "latitude": "37.413991",
+            "closest_to": "",
+            "address": "Montana, Rovana, Inyo County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-118.6129969"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "san elijo": {
+            "latitude": "33.0228",
+            "closest_to": "",
+            "address": "San Elijo, Olivenhain, San Diego County, California, 92091, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-117.2283709"
+        },
+        "willow creek": {
+            "latitude": "40.9395774",
+            "closest_to": "",
+            "address": "Willow Creek, Humboldt County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.6314411"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "cheney trail": {
+            "latitude": "40.3858975",
+            "closest_to": "",
+            "address": "Cheney Creek, Lassen County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-120.7411076"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.distancesfrom.com/us/travel-from-Malibu-to-Riverside/TravelFromHistory/29176542.aspx",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "death valley": {
+            "latitude": "36.42404725",
+            "closest_to": "",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-116.914043572057"
+        },
+        "winter creek": {
+            "latitude": "37.0584375",
+            "closest_to": "",
+            "address": "Winter Creek, Santa Cruz County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-122.218167"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.396892"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "usa hostels san francisco": {
+            "latitude": "37.787519",
+            "closest_to": "",
+            "address": "USA Hostels San Francisco, 711, Post Street, Nob Hill, SF, California, 94109, United States of America",
+            "locType": "hostel",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.4138347"
+        },
+        "lake yosemite": {
+            "latitude": "37.3782665",
+            "closest_to": "",
+            "address": "Lake Yosemite, Lake Road, Merced County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-120.428286428413"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.312628"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "gaviota state park": {
+            "latitude": "34.51187925",
+            "closest_to": "",
+            "address": "Gaviota State Park, San Julian Road, Las Cruces, Santa Barbara County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-120.23689175403"
+        },
+        "malibu creek state park": {
+            "latitude": "34.0996554",
+            "closest_to": "",
+            "address": "Malibu Creek State Park, Las Virgenes Road, Calabasas, Los Angeles County, California, 91302, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.7120156"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.roadsideamerica.com/location/ca",
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "woodland hills": {
+            "latitude": "34.1683386",
+            "closest_to": "",
+            "address": "Woodland Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.6059196"
+        },
+        "embarcadero del norte": {
+            "latitude": "34.4172918",
+            "closest_to": "",
+            "address": "Embarcadero del Norte, Isla Vista, Santa Barbara County, California, 93117, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-119.85536"
+        },
+        "golden canyon": {
+            "latitude": "34.2743666",
+            "closest_to": "",
+            "address": "Golden Canyon Circle, Chatsworth, LA, Los Angeles County, California, 91311, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-118.613919"
+        },
+        "ridgecrest": {
+            "latitude": "35.6225064",
+            "closest_to": "",
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.6699413"
+        },
+        "l.a. basin": {
+            "latitude": "36.2302592",
+            "closest_to": "",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-116.767444033304"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "coalinga": {
+            "latitude": "36.1298952",
+            "closest_to": "",
+            "address": "Coalinga, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.245046293019"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "https://www.tripadvisor.com/Attractions-g32676-Activities-Malibu_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "runyon canyon": {
+            "latitude": "34.1053039",
+            "closest_to": "",
+            "address": "Runyon Canyon Road, Whitley Heights, LA, Los Angeles County, California, 90046, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.3509101"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "oroville": {
+            "latitude": "39.5137752",
+            "closest_to": "",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.5563589"
+        },
+        "longhorn": {
+            "latitude": "36.7861841",
+            "closest_to": "",
+            "address": "Longhorn Drive, Fresno County, California, 93657, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-119.2962228"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "hearst castle road": {
+            "latitude": "35.665699",
+            "closest_to": "",
+            "address": "Hearst Castle Road, San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-121.1852629"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "washington irving": {
+            "latitude": "39.05527",
+            "closest_to": "",
+            "address": "Washington Irving Drive, Weimar, Placer County, California, 95713, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-120.9601919"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "closest_to": "",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "colma": {
+            "latitude": "37.6768779",
+            "closest_to": "",
+            "address": "Colma, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4596949"
+        },
+        "stow lake": {
+            "latitude": "37.7689867",
+            "closest_to": "",
+            "address": "Stow Lake, Stow Lake Drive East, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-122.473116745565"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "rock pool": {
+            "latitude": "34.0973452",
+            "closest_to": "",
+            "address": "Rock Pool Trail, Malibu Bowl, Los Angeles County, California, 91302, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-118.7290169"
+        }
+    }
+}

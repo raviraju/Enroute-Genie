@@ -1,0 +1,873 @@
+{
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "montana de oro state park": {
+            "latitude": "35.2714109",
+            "closest_to": "",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.8888312"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-120.507146"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://inlovewithsandiego.blogspot.com/",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "ritz carlton": {
+            "latitude": "37.791867",
+            "closest_to": "",
+            "address": "Ritz-Carlton, 600, Stockton Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.406834213408"
+        },
+        "east county": {
+            "latitude": "39.7452174",
+            "closest_to": "",
+            "address": "California, 16th Street, Upper Downtown, Denver, Denver County, Colorado, 80211, United States of America",
+            "locType": "bus_stop",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-104.992379"
+        },
+        "fenner": {
+            "latitude": "34.8158313",
+            "closest_to": "",
+            "address": "Fenner, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.179145"
+        },
+        "yuma": {
+            "latitude": "32.749997",
+            "closest_to": "",
+            "address": "Yuma Main Canal, Imperial County, California, United States of America",
+            "locType": "canal",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.6287508"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "parker dam": {
+            "latitude": "34.2872371",
+            "closest_to": "",
+            "address": "Parker Dam, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.1430026"
+        },
+        "western united states": {
+            "latitude": "36.615671",
+            "closest_to": "",
+            "address": "Western, San Benito County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.0670829"
+        },
+        "palos verdes drive": {
+            "latitude": "37.5310595",
+            "closest_to": "",
+            "address": "Palos Verdes Drive, San Mateo, San Mateo County, California, 94403, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-122.328956"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "lincoln": {
+            "latitude": "38.8598295",
+            "closest_to": "",
+            "address": "Lincoln, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-121.342391957924"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "north pole": {
+            "latitude": "19.3740853",
+            "closest_to": "",
+            "address": "California, 1291, Empresa, Ampliaci\u00f3n N\u00e1poles, Benito Ju\u00e1rez, CDMX, 03900, M\u00e9xico",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-99.1792586"
+        },
+        "mt vernon": {
+            "latitude": "35.6971844",
+            "closest_to": "",
+            "address": "Mount Vernon, Kern County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-119.9662482"
+        },
+        "national parks": {
+            "latitude": "35.0310157",
+            "closest_to": "",
+            "address": "National Parks Service Road, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-115.383967"
+        },
+        "london bridge": {
+            "latitude": "40.705955",
+            "closest_to": "",
+            "address": "Bridge, French Gulch, Shasta County, California, 96033, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-122.6357289"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "mount soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "blythe": {
+            "latitude": "33.5603938",
+            "closest_to": "",
+            "address": "Blythe, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.912068997731"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "peru": {
+            "latitude": "-13.6784168",
+            "closest_to": "",
+            "address": "California, Andahuaylas, Apur\u00edmac, Per\u00fa",
+            "locType": "village",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-73.0512911"
+        },
+        "california highway 95": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-72.945787"
+        },
+        "colorado river": {
+            "latitude": "33.58648635",
+            "closest_to": "",
+            "address": "Colorado River, Riviera Drive, East Blythe, Riverside County, California, 92225, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.542164096234"
+        },
+        "mountain springs rd": {
+            "latitude": "34.8298792",
+            "closest_to": "",
+            "address": "Mountain Springs Road, San Bernardino County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.0509214"
+        },
+        "winterhaven": {
+            "latitude": "32.7365995",
+            "closest_to": "",
+            "address": "Winterhaven, I 8, Winterhaven, Imperial County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.639537316523"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "arroyo parkway": {
+            "latitude": "38.6709801",
+            "closest_to": "",
+            "address": "Willow Creek, Folsom, Sacramento County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-121.1287517"
+        },
+        "williams": {
+            "latitude": "39.1546137",
+            "closest_to": "",
+            "address": "Williams, Colusa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.1494186"
+        },
+        "england": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "washington": {
+            "latitude": "40.0657724",
+            "closest_to": "",
+            "address": "California, Washington County, Pennsylvania, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-79.8918435"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "mexico": {
+            "latitude": "28.973",
+            "closest_to": "",
+            "address": "California, Hermosillo, Sonora, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-111.8196666"
+        },
+        "king city": {
+            "latitude": "36.2127439",
+            "closest_to": "",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.1260286"
+        },
+        "needles": {
+            "latitude": "34.8480597",
+            "closest_to": "",
+            "address": "Needles, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-114.6141315"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "glamis": {
+            "latitude": "32.9961524",
+            "closest_to": "",
+            "address": "Glamis, Imperial County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-115.0723126"
+        },
+        "hearst castle": {
+            "latitude": "35.6853689",
+            "closest_to": "",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.167587299509"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "altamont": {
+            "latitude": "37.7438175",
+            "closest_to": "",
+            "address": "Altamont, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-121.6627284"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "carolina": {
+            "latitude": "35.9043367",
+            "closest_to": "",
+            "address": "California, Dare County, North Carolina, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-75.6804524"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "essex": {
+            "latitude": "34.7336097",
+            "closest_to": "",
+            "address": "Essex, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.2449793"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "gilroy": {
+            "latitude": "37.0065078",
+            "closest_to": "",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.5631722"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "closest_to": "",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "gaffey street": {
+            "latitude": "36.9867714",
+            "closest_to": "",
+            "address": "Gaffey Creek, Santa Cruz County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-121.7234429"
+        },
+        "hawaii": {
+            "latitude": "36.8347819",
+            "closest_to": "",
+            "address": "Hawaii, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.7966952"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "santa": {
+            "latitude": "22.4804035",
+            "closest_to": "",
+            "address": "California, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-80.3796642"
+        },
+        "pebble beach golf course": {
+            "latitude": "36.56413635",
+            "closest_to": "",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.937790801787"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "norway": {
+            "latitude": "38.8246295",
+            "closest_to": "",
+            "address": "Little Norway, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-120.0365723"
+        },
+        "ocean avenue": {
+            "latitude": "37.7320759",
+            "closest_to": "",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.4736116"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "bateau": {
+            "latitude": "37.8624963",
+            "closest_to": "",
+            "address": "Le Bateau Ivre, 2629, Telegraph Avenue, LeConte, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://inlovewithsandiego.blogspot.com/"
+            ],
+            "longitude": "-122.258614"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "santa fe railroad": {
+            "latitude": "37.9313328",
+            "closest_to": "",
+            "address": "Santa Fe Railroad, West Ohio Avenue, Atchison Village, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-122.3742068"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html",
+                "https://answers.yahoo.com/question/index?qid=20081102225554AAhg701",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-72.945787"
+        },
+        "vidal junction": {
+            "latitude": "34.1884981",
+            "closest_to": "",
+            "address": "Vidal Junction, US 95, Riverside County, California, United States of America",
+            "locType": "stop",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-114.5742399"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "goffs rd": {
+            "latitude": "34.7547621",
+            "closest_to": "",
+            "address": "Goffs Road, Essex, San Bernardino County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.2214411"
+        },
+        "san bernardino county": {
+            "latitude": "34.8253019",
+            "closest_to": "",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-116.0833143"
+        },
+        "interstate highway": {
+            "latitude": "33.704135",
+            "closest_to": "",
+            "address": "Interstate 10, Desert Center, Riverside County, California, 92239, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-115.44222"
+        },
+        "campo": {
+            "latitude": "37.8974258",
+            "closest_to": "",
+            "address": "El Campo, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-122.4652506"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "pfeiffer big sur state park": {
+            "latitude": "36.25330545",
+            "closest_to": "",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-121.783295208903"
+        }
+    }
+}

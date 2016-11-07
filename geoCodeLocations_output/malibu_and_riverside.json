@@ -1,0 +1,911 @@
+{
+    "malibu": {
+        "type": "residential",
+        "osm_id": "7335067",
+        "class": "highway",
+        "importance": 0.3,
+        "lat": "33.7932142",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "place_id": "58129970",
+        "lon": "-116.5023561",
+        "boundingbox": [
+            "33.7923238",
+            "33.7940184",
+            "-116.5023599",
+            "-116.5023526"
+        ],
+        "display_name": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+        "osm_type": "way"
+    },
+    "riverside": {
+        "type": "city",
+        "osm_id": "98628503",
+        "class": "place",
+        "importance": 0.72980766319189,
+        "lat": "33.9533546",
+        "lon": "-117.3961622",
+        "boundingbox": [
+            "33.8724207",
+            "34.0192691",
+            "-117.5237611",
+            "-117.2741721"
+        ],
+        "display_name": "Riverside, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "85715402",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "riverside",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "riverside",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "barton flats": {
+            "latitude": "34.1686804",
+            "closest_to": "riverside",
+            "address": "Barton Flats Road, Seven Oaks, San Bernardino County, California, 92305, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-116.8858987"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "riverside",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.147366"
+        },
+        "baldy road": {
+            "latitude": "33.765241",
+            "closest_to": "riverside",
+            "address": "Baldy Road, Pine Cove, Riverside County, California, 92549, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.7401519"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "riverside",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.248367"
+        },
+        "san gabriel river": {
+            "latitude": "34.1135293",
+            "closest_to": "riverside",
+            "address": "San Gabriel River, Irwindale, Los Angeles County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.9681697"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "riverside",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.55089"
+        },
+        "san jacinto peak": {
+            "latitude": "33.814463",
+            "closest_to": "riverside",
+            "address": "San Jacinto Peak, Riverside County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.6791833"
+        },
+        "solstice canyon": {
+            "latitude": "33.7239592",
+            "closest_to": "riverside",
+            "address": "Solstice, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.7778754"
+        },
+        "big laguna": {
+            "latitude": "34.253293",
+            "closest_to": "riverside",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.932209587315"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "riverside",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "closest_to": "riverside",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.8766731"
+        },
+        "east los angeles": {
+            "latitude": "34.0239015",
+            "closest_to": "riverside",
+            "address": "East Los Angeles, Belvedere Gardens, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1720156"
+        },
+        "south mount hawkins": {
+            "latitude": "34.3113909",
+            "closest_to": "riverside",
+            "address": "South Mount Hawkins, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.8103381"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "riverside",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "riverside",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "mount san antonio": {
+            "latitude": "34.2891206",
+            "closest_to": "riverside",
+            "address": "Mount San Antonio, San Bernardino County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-117.6464046"
+        },
+        "malibu canyon": {
+            "latitude": "33.7311196",
+            "closest_to": "riverside",
+            "address": "Malibu, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.7645118"
+        },
+        "mount baldy": {
+            "latitude": "34.2361168",
+            "closest_to": "riverside",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "whittier hills whittier": {
+            "latitude": "33.9397495",
+            "closest_to": "riverside",
+            "address": "Whittwood Branch Whittier Public Library, Starbuck Street, Friendly Hills, Whittier, Los Angeles County, California, 90603, United States of America",
+            "locType": "library",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "longitude": "-117.993545449378"
+        },
+        "angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "riverside",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "riverside",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "riverside",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "santa fe springs": {
+            "latitude": "33.9482434",
+            "closest_to": "riverside",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0676102"
+        },
+        "aguanga": {
+            "latitude": "33.4428094",
+            "closest_to": "riverside",
+            "address": "Aguanga, Riverside County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8650234"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "riverside",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "closest_to": "riverside",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.596723958419"
+        },
+        "anza-borrego desert": {
+            "latitude": "33.2528053",
+            "closest_to": "malibu",
+            "address": "Anza-Borrego Desert State Park, Palm Canyon Drive, Borrego, San Diego County, California, 92004, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.330414288395"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "riverside",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/",
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "aliso creek": {
+            "latitude": "33.602558",
+            "closest_to": "riverside",
+            "address": "Aliso Creek, Laguna Woods, Orange County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "longitude": "-117.7034805"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "riverside",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/",
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "alhambra": {
+            "latitude": "34.0927361",
+            "closest_to": "riverside",
+            "address": "Alhambra, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1268241"
+        },
+        "eaton canyon park": {
+            "latitude": "34.18216575",
+            "closest_to": "riverside",
+            "address": "Eaton Canyon Park, Canyon View Lane, Pasadena, Los Angeles County, California, 91107, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "longitude": "-118.095556461784"
+        },
+        "pauma creek": {
+            "latitude": "33.3033679",
+            "closest_to": "riverside",
+            "address": "Pauma Valley, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.9814166"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "riverside",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.92944"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "riverside",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.distancesfrom.com/us/travel-from-Malibu-to-Riverside/TravelFromHistory/29176542.aspx",
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "riverside",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "riverside",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "tea garden": {
+            "latitude": "33.7006659",
+            "closest_to": "riverside",
+            "address": "Tea Garden, Northwood, Irvine, Orange County, California, 92620, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-117.7616589"
+        },
+        "westport beach": {
+            "latitude": "33.637635",
+            "closest_to": "riverside",
+            "address": "Westport, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "longitude": "-117.8688239"
+        },
+        "mentone": {
+            "latitude": "34.05884",
+            "closest_to": "riverside",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.109606374724"
+        },
+        "arroyo seco": {
+            "latitude": "34.1129526",
+            "closest_to": "riverside",
+            "address": "Arroyo Seco, LA, Los Angeles County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.176531"
+        },
+        "idyllwild": {
+            "latitude": "33.7400209",
+            "closest_to": "riverside",
+            "address": "Idyllwild, Riverside County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.7189074"
+        },
+        "apple valley": {
+            "latitude": "34.5008311",
+            "closest_to": "riverside",
+            "address": "Apple Valley, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.1858758"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "closest_to": "riverside",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "riverside",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "buena park": {
+            "latitude": "33.870413",
+            "closest_to": "riverside",
+            "address": "Buena Park, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9962164"
+        },
+        "rockies": {
+            "latitude": "33.9859411",
+            "closest_to": "riverside",
+            "address": "Rockies Avenue, Desert Hot Springs, Riverside County, California, 92240, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-116.5443644"
+        },
+        "lytle creek": {
+            "latitude": "34.2591728",
+            "closest_to": "riverside",
+            "address": "Lytle Creek, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.5000511"
+        },
+        "scotland": {
+            "latitude": "34.242229",
+            "closest_to": "riverside",
+            "address": "Scotland, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-117.4981065"
+        },
+        "switzer falls": {
+            "latitude": "34.2566381",
+            "closest_to": "riverside",
+            "address": "Lower Switzer Falls, Rosemead, Los Angeles County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-118.1528679"
+        },
+        "greater los angeles": {
+            "latitude": "33.9864031",
+            "closest_to": "riverside",
+            "address": "Greater Cornerstone Baptist Church, Figueroa Street, Wildasin, Florence, LA, Los Angeles County, California, 90044, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.2822963"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "riverside",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/",
+                "http://www.distancesfrom.com/us/travel-from-Malibu-to-Riverside/TravelFromHistory/29176542.aspx",
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "palomar mountain state park": {
+            "latitude": "33.3375343",
+            "closest_to": "riverside",
+            "address": "Palomar Mountain State Park, State Park Road, Palomar Mountain, San Diego County, California, 92060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.9103031"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "riverside",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "riverside",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "mount islip": {
+            "latitude": "34.3450838",
+            "closest_to": "riverside",
+            "address": "Mount Islip, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.839936"
+        },
+        "baldwin park": {
+            "latitude": "34.0854739",
+            "closest_to": "riverside",
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.961176"
+        },
+        "lakewood": {
+            "latitude": "33.8503463",
+            "closest_to": "riverside",
+            "address": "Lakewood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.1171913"
+        },
+        "mt san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "riverside",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "riverside",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "malibu",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "hesperia": {
+            "latitude": "34.4263886",
+            "closest_to": "riverside",
+            "address": "Hesperia, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.3008783"
+        },
+        "corona beach": {
+            "latitude": "33.599523",
+            "closest_to": "riverside",
+            "address": "Corona del Mar, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.8724842"
+        },
+        "whittier": {
+            "latitude": "33.9748932",
+            "closest_to": "riverside",
+            "address": "Whittier, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0336974"
+        },
+        "san gorgonio wilderness": {
+            "latitude": "34.06096065",
+            "closest_to": "riverside",
+            "address": "San Gorgonio Wilderness, Pacific Crest Trail, San Bernardino County, California, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-116.704890057042"
+        },
+        "sturtevant falls": {
+            "latitude": "34.2116196",
+            "closest_to": "riverside",
+            "address": "Sturtevant Falls, Los Angeles County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-118.0195836"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "riverside",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "san gabriels": {
+            "latitude": "34.0555665",
+            "closest_to": "riverside",
+            "address": "Saint Gabriels Episcopal Church, East Graves Avenue, Monterey Park, Los Angeles County, California, 91755, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.1234031"
+        },
+        "beaumont": {
+            "latitude": "33.9294606",
+            "closest_to": "riverside",
+            "address": "Beaumont, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-116.9772479"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "riverside",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://onecoolthingeveryweekend.com/2013/09/09/road-trip-death-valley-national-park-in-one-day/"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "santa anita canyon": {
+            "latitude": "34.1842762",
+            "closest_to": "riverside",
+            "address": "Santa Anita Canyon Road, Los Angeles County, California, 91024, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.0239756"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "riverside",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "mountain station": {
+            "latitude": "33.6541559",
+            "closest_to": "riverside",
+            "address": "Mountain, Pinecrest, Mission Viejo, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-117.6417457"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "riverside",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "neptune": {
+            "latitude": "33.7953668",
+            "closest_to": "riverside",
+            "address": "Neptune, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hostelbookers.com/blog/destinations/north-america/usa-road-trip-san-fran/"
+            ],
+            "longitude": "-116.5067839"
+        },
+        "doane valley nature trail": {
+            "latitude": "33.3425572",
+            "closest_to": "riverside",
+            "address": "Doane Valley Nature Trail, Palomar Mountain, San Diego County, California, 92060, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://www.modernhiker.com/2014/09/18/15-best-summer-hikes-in-southern-california/"
+            ],
+            "longitude": "-116.9051241"
+        },
+        "west covina": {
+            "latitude": "34.0686208",
+            "closest_to": "riverside",
+            "address": "West Covina, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "longitude": "-117.9389525"
+        },
+        "altadena": {
+            "latitude": "34.1863161",
+            "closest_to": "riverside",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-118.1352328"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "closest_to": "riverside",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "mount baden-powell": {
+            "latitude": "34.3586117",
+            "closest_to": "riverside",
+            "address": "Mount Baden-Powell, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.modernhiker.com/la-hiking/"
+            ],
+            "longitude": "-117.7645039"
+        },
+        "glendora": {
+            "latitude": "34.1361187",
+            "closest_to": "riverside",
+            "address": "Glendora, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.8653389"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "closest_to": "riverside",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.504677958796"
+        }
+    }
+}

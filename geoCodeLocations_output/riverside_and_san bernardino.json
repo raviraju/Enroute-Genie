@@ -1,0 +1,491 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "riverside": {
+        "type": "city",
+        "osm_id": "98628503",
+        "class": "place",
+        "importance": 0.72980766319189,
+        "lat": "33.9533546",
+        "lon": "-117.3961622",
+        "boundingbox": [
+            "33.8724207",
+            "34.0192691",
+            "-117.5237611",
+            "-117.2741721"
+        ],
+        "display_name": "Riverside, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "85715402",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "san bernardino-riverside": {
+            "latitude": "33.9664051",
+            "closest_to": "san bernardino",
+            "address": "KOLA-FM (San Bernardino), Box Springs Mountain Road, Box Springs, Riverside County, California, 92557, United States of America",
+            "locType": "mast",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2886527"
+        },
+        "inland california": {
+            "latitude": "34.0227324",
+            "closest_to": "riverside",
+            "address": "Day Creek Inland Avenue Storm Drain, Eastvale, Riverside County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.5271257"
+        },
+        "moreno valley": {
+            "latitude": "33.937517",
+            "closest_to": "san bernardino",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "north san bernardino": {
+            "latitude": "34.2366266",
+            "closest_to": "san bernardino",
+            "address": "North, Meadowbrook Woods, San Bernardino County, California, 92326, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-san-bernardino-to-rancho-cucamonga"
+            ],
+            "longitude": "-117.2037027"
+        },
+        "haven avenue": {
+            "latitude": "34.0286666",
+            "closest_to": "riverside",
+            "address": "Haven Avenue, Ontario, San Bernardino County, California, 91764, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.5758293"
+        },
+        "dos lagos": {
+            "latitude": "33.8149199",
+            "closest_to": "riverside",
+            "address": "Dos Lagos, Corona, Riverside County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.5038671"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "riverside",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.55089"
+        },
+        "loma linda": {
+            "latitude": "34.075626",
+            "closest_to": "san bernardino",
+            "address": "Loma Linda, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/redlands",
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.25204765"
+        },
+        "stater bros.": {
+            "latitude": "33.9160206",
+            "closest_to": "riverside",
+            "address": "Stater Bros, Bridgepoint Court, Tiburon, Riverside, Riverside County, California, 92505, United States of America",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.4875587"
+        },
+        "riverside plaza": {
+            "latitude": "33.95508355",
+            "closest_to": "san bernardino",
+            "address": "Riverside Plaza, Riverside, Riverside County, California, 92506, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.390648360082"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "san bernardino",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "foothill freeway": {
+            "latitude": "34.1456794",
+            "closest_to": "san bernardino",
+            "address": "Foothill Freeway, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2913467"
+        },
+        "lake arrowhead": {
+            "latitude": "34.2592869",
+            "closest_to": "san bernardino",
+            "address": "Lake Arrowhead, Shelter Cove Lane, North Shore, San Bernardino County, California, 92407, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.185753981831"
+        },
+        "perris hill": {
+            "latitude": "34.1344551",
+            "closest_to": "san bernardino",
+            "address": "Perris Hill, San Bernardino County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.2578197"
+        },
+        "san bernardino freeway": {
+            "latitude": "34.083484",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino Freeway, San Bernardino, San Bernardino County, California, 92401, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2997551"
+        },
+        "inland center mall": {
+            "latitude": "34.08506055",
+            "closest_to": "san bernardino",
+            "address": "Inland Center, West Central Avenue, Inland Center, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.297473820788"
+        },
+        "ontario airport": {
+            "latitude": "34.0417312",
+            "closest_to": "riverside",
+            "address": "Prologis Park Ontario Airport, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.566879247477"
+        },
+        "little mountain drive": {
+            "latitude": "34.1537884",
+            "closest_to": "san bernardino",
+            "address": "Little Mountain Drive, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.3206339"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "riverside",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/redlands",
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "fontana": {
+            "latitude": "34.0922335",
+            "closest_to": "san bernardino",
+            "address": "Fontana, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-san-bernardino-to-rancho-cucamonga",
+                "https://en.wikipedia.org/wiki/Inland_Empire",
+                "http://www.riversidecvb.com/uniquely_riverside/landmarks_attractions.aspx"
+            ],
+            "longitude": "-117.4350479"
+        },
+        "colton": {
+            "latitude": "34.0739016",
+            "closest_to": "san bernardino",
+            "address": "Colton, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.3136546"
+        },
+        "rialto": {
+            "latitude": "34.1064001",
+            "closest_to": "san bernardino",
+            "address": "Rialto, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.3703234"
+        },
+        "moreno valley mall": {
+            "latitude": "33.93868495",
+            "closest_to": "san bernardino",
+            "address": "Moreno Valley Mall, Town Circle, Moreno Valley, Riverside County, California, 92553, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.271425211768"
+        },
+        "california theatre": {
+            "latitude": "34.10680785",
+            "closest_to": "san bernardino",
+            "address": "California Theatre, 562, West 4th Street, San Bernardino, San Bernardino County, California, 92401, United States of America",
+            "locType": "cinema",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.295461125042"
+        },
+        "rubidoux": {
+            "latitude": "33.994015",
+            "closest_to": "san bernardino",
+            "address": "Rubidoux, Pacific Avenue, Rubidoux, Jurupa Valley, Riverside County, California, 92509, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.riversidecvb.com/uniquely_riverside/landmarks_attractions.aspx"
+            ],
+            "longitude": "-117.423740584529"
+        },
+        "inland center": {
+            "latitude": "34.08565765",
+            "closest_to": "san bernardino",
+            "address": "Inland Center, San Bernardino, San Bernardino County, California, 92401, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.297268584191"
+        },
+        "hilton san bernardino": {
+            "latitude": "34.1096444",
+            "closest_to": "san bernardino",
+            "address": "Hilton Drive Industrial Park, Fontana, San Bernardino County, California, 92336, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.480020994389"
+        },
+        "highland": {
+            "latitude": "34.1283442",
+            "closest_to": "san bernardino",
+            "address": "Highland, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2086512"
+        },
+        "riverside municipal auditorium": {
+            "latitude": "33.9820649",
+            "closest_to": "san bernardino",
+            "address": "Riverside Municipal Auditorium, Lemon Street, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.370828873638"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "riverside",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "mentone": {
+            "latitude": "34.05884",
+            "closest_to": "san bernardino",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.109606374724"
+        },
+        "redlands": {
+            "latitude": "34.069909",
+            "closest_to": "san bernardino",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/redlands",
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.248983896912"
+        },
+        "san manuel stadium": {
+            "latitude": "34.0966462",
+            "closest_to": "san bernardino",
+            "address": "San Manuel Stadium, South Berkeley Avenue, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.296879813425"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/redlands",
+                "http://californiathroughmylens.com/route-66-san-bernardino-to-rancho-cucamonga",
+                "https://en.wikipedia.org/wiki/Inland_Empire",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "san bernardino valley": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "running springs": {
+            "latitude": "34.2124412",
+            "closest_to": "san bernardino",
+            "address": "Running Springs, Mountain Oak Drive, Fredalba, San Bernardino County, California, 92314, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.124877511921"
+        },
+        "inland empire and southern california": {
+            "latitude": "33.9423377",
+            "closest_to": "riverside",
+            "address": "Inland Empire Southern Baptist Association, Indiana Avenue, Riverside, Riverside County, California, 92503, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.3932403"
+        },
+        "highland ave.": {
+            "latitude": "34.135757",
+            "closest_to": "san bernardino",
+            "address": "Highland Avenue, San Bernardino, San Bernardino County, California, 92346, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.1953088"
+        },
+        "western riverside county": {
+            "latitude": "33.91087165",
+            "closest_to": "riverside",
+            "address": "14205, Western Municipal Water District, West March, Riverside County, California, 92518, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.289693447994"
+        },
+        "verdemont": {
+            "latitude": "34.1930639",
+            "closest_to": "san bernardino",
+            "address": "Verdemont, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.3675462"
+        },
+        "west marshall blvd": {
+            "latitude": "34.1492922",
+            "closest_to": "san bernardino",
+            "address": "West Marshall Boulevard, San Bernardino, San Bernardino County, California, 92405, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.3125487"
+        },
+        "ontario mills": {
+            "latitude": "34.07298725",
+            "closest_to": "riverside",
+            "address": "Ontario Mills, 1, Mills Circle, Ontario, San Bernardino County, California, 91764, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.551522311875"
+        },
+        "riverside-san bernardino-ontario": {
+            "latitude": "34.0189293",
+            "closest_to": "riverside",
+            "address": "East Riverside Drive, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire"
+            ],
+            "longitude": "-117.562719"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "san bernardino",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Inland_Empire",
+                "http://www.inlandempire.com/things-to-do/san-bernardino/"
+            ],
+            "longitude": "-117.2725426"
+        }
+    }
+}

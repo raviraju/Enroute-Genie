@@ -1,0 +1,615 @@
+{
+    "temecula": {
+        "type": "city",
+        "osm_id": "3866463",
+        "class": "place",
+        "importance": 0.66507963701587,
+        "lat": "33.4946353",
+        "lon": "-117.147366",
+        "boundingbox": [
+            "33.4321253",
+            "33.554625",
+            "-117.2066944",
+            "-117.0548702"
+        ],
+        "display_name": "Temecula, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159718106",
+        "osm_type": "relation"
+    },
+    "riverside": {
+        "type": "city",
+        "osm_id": "98628503",
+        "class": "place",
+        "importance": 0.72980766319189,
+        "lat": "33.9533546",
+        "lon": "-117.3961622",
+        "boundingbox": [
+            "33.8724207",
+            "34.0192691",
+            "-117.5237611",
+            "-117.2741721"
+        ],
+        "display_name": "Riverside, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "85715402",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "danville": {
+            "latitude": "37.8215929",
+            "closest_to": "",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9999605"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://patch.com/california/temecula",
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.248367"
+        },
+        "university heights": {
+            "latitude": "32.755606",
+            "closest_to": "",
+            "address": "University Heights, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.kpbs.org/news/2012/may/31/temecula-still-worth-commute/"
+            ],
+            "longitude": "-117.139477"
+        },
+        "orinda": {
+            "latitude": "37.8771476",
+            "closest_to": "",
+            "address": "Orinda, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1796887"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "dublin": {
+            "latitude": "37.7021521",
+            "closest_to": "",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.9357917"
+        },
+        "canada flintridge": {
+            "latitude": "34.1998302",
+            "closest_to": "",
+            "address": "La Ca\u00f1ada Flintridge, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.2005235"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.kpbs.org/news/2012/may/31/temecula-still-worth-commute/"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://patch.com/california/temecula"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "closest_to": "",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.8746788"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula",
+                "http://dogtrekker.com/Destination/inland-empire"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "novato": {
+            "latitude": "38.1061979",
+            "closest_to": "",
+            "address": "Novato, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.568119"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://dogtrekker.com/Destination/inland-empire"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.trulia.com/voices/Home_Buying/Is_Temecula_or_Oceanside_a_better_place_to_live_-105543"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.kpbs.org/news/2012/may/31/temecula-still-worth-commute/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.temeculawines.org/",
+                "http://www.bestplaces.net/city/california/temecula",
+                "http://www.kpbs.org/news/2012/may/31/temecula-still-worth-commute/",
+                "http://dogtrekker.com/Destination/inland-empire"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.pinterest.com/temecularealtor/temecula-fun-things-to-do/",
+                "http://www.kpbs.org/news/2012/may/31/temecula-still-worth-commute/",
+                "http://www.bestplaces.net/city/california/temecula",
+                "http://dogtrekker.com/Destination/inland-empire",
+                "http://www.riversidecvb.com/uniquely_riverside/landmarks_attractions.aspx"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "los alamitos": {
+            "latitude": "33.8038865",
+            "closest_to": "",
+            "address": "Los Alamitos, Orange County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.0772432"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula",
+                "http://patch.com/california/temecula"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "palm desert": {
+            "latitude": "33.7288179",
+            "closest_to": "",
+            "address": "Palm Desert, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-116.382571"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "ripon": {
+            "latitude": "37.741595",
+            "closest_to": "",
+            "address": "Ripon, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.1243827"
+        },
+        "carpinteria": {
+            "latitude": "34.3988838",
+            "closest_to": "",
+            "address": "Carpinteria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-119.5184563"
+        },
+        "california highway patrol": {
+            "latitude": "33.7517195",
+            "closest_to": "",
+            "address": "California Highway Patrol, 79650, Varner Road, Indio, Riverside County, California, 92203, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://patch.com/california/temecula"
+            ],
+            "longitude": "-116.2731591"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "henderson": {
+            "latitude": "37.4793824",
+            "closest_to": "",
+            "address": "Henderson, San Mateo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-122.1655199"
+        },
+        "moorpark": {
+            "latitude": "34.285558",
+            "closest_to": "",
+            "address": "Moorpark, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.8820413"
+        },
+        "agoura hills": {
+            "latitude": "34.1363945",
+            "closest_to": "",
+            "address": "Agoura Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.7745347"
+        },
+        "lawndale": {
+            "latitude": "33.88711",
+            "closest_to": "",
+            "address": "Lawndale, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.353148"
+        },
+        "calabasas": {
+            "latitude": "34.1446643",
+            "closest_to": "",
+            "address": "Calabasas, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.6440972"
+        },
+        "hawaiian gardens": {
+            "latitude": "33.8284787",
+            "closest_to": "",
+            "address": "Hawaiian Gardens, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.0743136"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "maywood": {
+            "latitude": "33.9866807",
+            "closest_to": "",
+            "address": "Maywood, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.1853489"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://patch.com/california/temecula"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "southwest": {
+            "latitude": "40.4370184",
+            "closest_to": "",
+            "address": "Southwest, Lassen Peak Highway, Tehama County, California, United States of America",
+            "locType": "camp_site",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-121.5324607"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://patch.com/california/temecula",
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-72.945787"
+        },
+        "poway": {
+            "latitude": "32.9628234",
+            "closest_to": "",
+            "address": "Poway, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-117.0358645"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "rocklin": {
+            "latitude": "38.7907339",
+            "closest_to": "",
+            "address": "Rocklin, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-121.2357827"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.temeculawines.org/",
+                "http://www.bestplaces.net/city/california/temecula"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "san bernardino county": {
+            "latitude": "34.8253019",
+            "closest_to": "",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/temecula",
+                "http://dogtrekker.com/Destination/inland-empire"
+            ],
+            "longitude": "-116.0833143"
+        },
+        "moraga": {
+            "latitude": "37.8347106",
+            "closest_to": "",
+            "address": "Moraga, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1295595"
+        },
+        "goleta": {
+            "latitude": "34.4358295",
+            "closest_to": "",
+            "address": "Goleta, Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-119.8276388"
+        },
+        "ridgecrest rd": {
+            "latitude": "34.4885699",
+            "closest_to": "",
+            "address": "Ridgecrest Road, Victorville, San Bernardino County, California, 92395, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://dogtrekker.com/Destination/inland-empire"
+            ],
+            "longitude": "-117.2773551"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/safest-cities-california-2016/"
+            ],
+            "longitude": "-122.1585776"
+        }
+    }
+}

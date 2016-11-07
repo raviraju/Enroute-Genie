@@ -1,0 +1,825 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "huntington beach": {
+        "type": "city",
+        "osm_id": "5986511",
+        "class": "place",
+        "importance": 0.77972866689719,
+        "lat": "33.6783336",
+        "lon": "-118.0000165",
+        "boundingbox": [
+            "33.628892",
+            "33.7561955",
+            "-118.0824699",
+            "-117.940379"
+        ],
+        "display_name": "Huntington Beach, Orange County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159846085",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "death valley": {
+            "latitude": "36.42404725",
+            "closest_to": "",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.914043572057"
+        },
+        "xa0hollywood boulevard": {
+            "latitude": "32.6636712",
+            "closest_to": "",
+            "address": "Boulevard, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.2736289"
+        },
+        "el pueblo de los angeles": {
+            "latitude": "18.9919063",
+            "closest_to": "",
+            "address": "California, Universitaria, Puebla, 72590, M\u00e9xico",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-98.2033589"
+        },
+        "rand camp": {
+            "latitude": "36.50672225",
+            "closest_to": "",
+            "address": "Gibson Beach, Gibson Beach access, Carmel Highlands, Monterey County, California, 93922, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.938769452436"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "myrtle creek": {
+            "latitude": "41.8624011",
+            "closest_to": "",
+            "address": "Myrtle Creek, Del Norte County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-124.0622658"
+        },
+        "griffith park": {
+            "latitude": "38.68813",
+            "closest_to": "",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.3121659"
+        },
+        "pismo beach pier": {
+            "latitude": "35.1388074",
+            "closest_to": "",
+            "address": "Pismo Beach Pier, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.6430002"
+        },
+        "l.a.": {
+            "latitude": "-13.8305494",
+            "closest_to": "",
+            "address": "California, Provincia Abel Iturralde, LPZ, Bolivia",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca/taxi",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-67.9369134"
+        },
+        "x93long beach": {
+            "latitude": "35.13738",
+            "closest_to": "",
+            "address": "Beach, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-120.6345489"
+        },
+        "hidden valley": {
+            "latitude": "38.764068",
+            "closest_to": "",
+            "address": "Hidden Valley, Placer County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-121.1632804"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "mission gorge": {
+            "latitude": "32.83415815",
+            "closest_to": "",
+            "address": "Mission Gorge Villa Mobile Home Park, Santee, San Diego County, California, 92071, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.011419893954"
+        },
+        "la jolla underwater park": {
+            "latitude": "32.874769",
+            "closest_to": "",
+            "address": "San Diego-La Jolla Underwater Park, La Jolla Shores Lane, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2528144"
+        },
+        "salvation mountain": {
+            "latitude": "33.25393385",
+            "closest_to": "",
+            "address": "Salvation Mountain, Beal Road, Niland, Imperial County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-115.472593717969"
+        },
+        "beatty": {
+            "latitude": "36.5880033",
+            "closest_to": "",
+            "address": "Beatty Junction, Inyo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.9431122"
+        },
+        "los alamos": {
+            "latitude": "34.7379311",
+            "closest_to": "",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.26591036241"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "titus canyon": {
+            "latitude": "36.82805",
+            "closest_to": "",
+            "address": "Titus Canyon Road, Inyo County, California, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1157339"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "closest_to": "",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.1809078"
+        },
+        "santa ynez valley": {
+            "latitude": "34.608637",
+            "closest_to": "",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.distancecalculator.net/from-san-bernardino-to-huntington-beach",
+                "http://www.distancesfrom.com/us/distance-from-Huntington-Beach-to-San-Bernardino-CA/DistanceHistory/11697209.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "jalama beach": {
+            "latitude": "34.505937",
+            "closest_to": "",
+            "address": "Jalama Beach Road, Jalama, Santa Barbara County, California, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.4992759"
+        },
+        "huntington": {
+            "latitude": "38.77704615",
+            "closest_to": "",
+            "address": "Huntington, Roseville, Placer County, California, 95678, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Huntington-Beach-to-San-Bernardino-CA/FlightHistory/3353284.aspx",
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-121.295904358288"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.507146"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "kern river valley": {
+            "latitude": "36.6816956",
+            "closest_to": "",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "halloween": {
+            "latitude": "37.254027",
+            "closest_to": "",
+            "address": "Spirit Halloween, Monterey Highway, Silver Creek, San Jos\u00e9, Santa Clara County, California, 95111, United States of America",
+            "locType": "department_store",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-121.7978643"
+        },
+        "new york city": {
+            "latitude": "40.767819",
+            "closest_to": "",
+            "address": "California Sea Lion, 830, 5th Avenue, Upper East Side, Manhattan, New York County, NYC, New York, 10035, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-73.9717587"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "mecca": {
+            "latitude": "33.5701568",
+            "closest_to": "",
+            "address": "Mecca, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.0745416"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "santa rosa mountains": {
+            "latitude": "33.412282",
+            "closest_to": "",
+            "address": "Santa Rosa Mountains State Wilderness, San Diego County, California, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.231717855027"
+        },
+        "mission san diego": {
+            "latitude": "32.7808782",
+            "closest_to": "",
+            "address": "Mission San Diego, Ward Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1109827"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "lone pine california": {
+            "latitude": "36.583176",
+            "closest_to": "",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.078359194897"
+        },
+        "coronado": {
+            "latitude": "32.6858854",
+            "closest_to": "",
+            "address": "Coronado, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.183089"
+        },
+        "point dume": {
+            "latitude": "34.001631",
+            "closest_to": "",
+            "address": "Point Dume, Malibu, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.8066755"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "piru": {
+            "latitude": "34.4152743",
+            "closest_to": "",
+            "address": "Piru, Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.7939823"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "titus canyon road": {
+            "latitude": "36.806013",
+            "closest_to": "",
+            "address": "Titus Canyon Road, Inyo County, California, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1861519"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "old town district": {
+            "latitude": "32.745575",
+            "closest_to": "",
+            "address": "California Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1854629"
+        },
+        "north beach": {
+            "latitude": "37.8011749",
+            "closest_to": "",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-122.409002"
+        },
+        "neverland": {
+            "latitude": "36.548132",
+            "closest_to": "",
+            "address": "Neverland, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.9195989"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Huntington-Beach-to-San-Bernardino-CA/DistanceHistory/11697209.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "fairfax": {
+            "latitude": "37.9872935",
+            "closest_to": "",
+            "address": "Fairfax, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-122.5879673"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "alabama hills": {
+            "latitude": "36.5677117",
+            "closest_to": "",
+            "address": "Alabama Hills, Inyo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.0898096"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "los olivos": {
+            "latitude": "34.6677646",
+            "closest_to": "",
+            "address": "Los Olivos, Santa Barbara County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.1148469"
+        },
+        "vasquez": {
+            "latitude": "36.7052505",
+            "closest_to": "",
+            "address": "Vasquez Creek, San Benito County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.9490524"
+        },
+        "califonia": {
+            "latitude": "27.35789705",
+            "closest_to": "",
+            "address": "Pen\u00ednsula de Baja California, Muleg\u00e9, Baja California Sur, M\u00e9xico",
+            "locType": "peninsula",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-113.380835042571"
+        },
+        "joshua tree national park": {
+            "latitude": "33.89706715",
+            "closest_to": "",
+            "address": "Joshua Tree National Park, Pinto Basin Road, Riverside County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-115.951115484517"
+        },
+        "south africa": {
+            "latitude": "37.8749498",
+            "closest_to": "",
+            "address": "South Africa, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-122.2378391"
+        },
+        "san diego botanic garden": {
+            "latitude": "33.053482",
+            "closest_to": "",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "jalama": {
+            "latitude": "34.4980409",
+            "closest_to": "",
+            "address": "Jalama, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.4946086"
+        },
+        "green river": {
+            "latitude": "41.4959281",
+            "closest_to": "",
+            "address": "California Drive, Green River, Sweetwater County, Wyoming, 82935, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx"
+            ],
+            "longitude": "-109.4506138"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://cms.sbcounty.gov/parks/Parks/SantaAnaRiverTrailandParkway.aspx",
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san bernardino county": {
+            "latitude": "34.8253019",
+            "closest_to": "",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.traillink.com/trail/santa-ana-river-trail.aspx"
+            ],
+            "longitude": "-116.0833143"
+        },
+        "goleta": {
+            "latitude": "34.4358295",
+            "closest_to": "",
+            "address": "Goleta, Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.8276388"
+        },
+        "riverside-san bernardino": {
+            "latitude": "34.908786",
+            "closest_to": "",
+            "address": "Riverside Road, Harvard, San Bernardino County, California, 92365, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/huntington_beach"
+            ],
+            "longitude": "-116.6537219"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "corona": {
+            "latitude": "37.0066161",
+            "closest_to": "",
+            "address": "La Corona, Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/guide/a-guide-to-socals-best-trick-or-treating-neighborhoods/"
+            ],
+            "longitude": "-121.9969062"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "santa barbara county park": {
+            "latitude": "34.7136533",
+            "closest_to": "",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.9858231"
+        },
+        "santa paula": {
+            "latitude": "34.3541659",
+            "closest_to": "",
+            "address": "Santa Paula, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.0592704"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/van",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/47-pax-bus",
+                "https://www.ridebooker.com/transfers/huntington-beach-ca/san-bernardino-ca/limo-bus-15",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.bestplaces.net/city/california/huntington_beach",
+                "https://www.ridebooker.com/transfers/san-bernardino-ca/huntington-beach-ca/taxi"
+            ],
+            "longitude": "-72.945787"
+        }
+    }
+}

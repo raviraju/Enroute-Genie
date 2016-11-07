@@ -1,0 +1,954 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "carlsbad",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "sunset strip": {
+            "latitude": "33.7224763",
+            "closest_to": "carlsbad",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1940439"
+        },
+        "barcelona": {
+            "latitude": "33.620459",
+            "closest_to": "pasadena",
+            "address": "Barcelona, El Toro Mobile Home Estates, Lake Forest, Orange County, California, 92694, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.6947324"
+        },
+        "palos verdes peninsula ca": {
+            "latitude": "33.77984925",
+            "closest_to": "pasadena",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "pasadena",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "legoland drive": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Legoland-Drive-Carlsbad/TravelFromHistory/10012114.aspx"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "palomar airport rd": {
+            "latitude": "33.1291437",
+            "closest_to": "carlsbad",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "pasadena",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "closest_to": "pasadena",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.8766731"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "carlsbad",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "montenegro": {
+            "latitude": "34.179739",
+            "closest_to": "pasadena",
+            "address": "Montenegro Circle, Thousand Oaks, Ventura County, California, 91320, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-118.9543239"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "pasadena",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "pasadena",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "carlsbad blvd": {
+            "latitude": "33.1220759",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Boulevard, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.327437"
+        },
+        "south carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "pasadena",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "carlsbad",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "pasadena",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "coachella": {
+            "latitude": "33.6795519",
+            "closest_to": "carlsbad",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1763379"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "pasadena",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "carlsbad",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "pasadena",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "carlsbad",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "carlsbad village dr.": {
+            "latitude": "33.167503",
+            "closest_to": "pasadena",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "korea": {
+            "latitude": "32.742474",
+            "closest_to": "carlsbad",
+            "address": "Korea Road, Old Town, San Diego, San Diego County, California, 92140, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2033459"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "carlsbad",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "pasadena",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "closest_to": "pasadena",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "pasadena",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "carlsbad",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "pasadena",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "pasadena",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles",
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "closest_to": "carlsbad",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.596723958419"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "pasadena",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "gaslamp quarter": {
+            "latitude": "32.7109444",
+            "closest_to": "carlsbad",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-117.1597028"
+        },
+        "van nuys": {
+            "latitude": "34.1866581",
+            "closest_to": "pasadena",
+            "address": "Van Nuys, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-118.4487289"
+        },
+        "rock spring": {
+            "latitude": "33.6940465",
+            "closest_to": "pasadena",
+            "address": "Rock Spring, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-117.7884599"
+        },
+        "la pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "pasadena",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.yellowpages.com/carlsbad-nm/la-pasadena"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "pasadena",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "pasadena",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "pasadena",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "closest_to": "pasadena",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "fullerton": {
+            "latitude": "33.8708215",
+            "closest_to": "pasadena",
+            "address": "Fullerton, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.9294164"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "closest_to": "carlsbad",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.504677958796"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "pasadena",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "south coast plaza": {
+            "latitude": "33.6907283",
+            "closest_to": "pasadena",
+            "address": "South Coast Plaza, Bear Street, Costa Mesa, Orange County, California, 92704, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.889168433903"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "pasadena",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "http://sandiegan.com/carlsbad/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "pasadena",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "san onofre": {
+            "latitude": "33.3803575",
+            "closest_to": "pasadena",
+            "address": "San Onofre, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.5736036"
+        },
+        "newport harbor": {
+            "latitude": "33.6083549",
+            "closest_to": "pasadena",
+            "address": "Newport Harbor Nautical Museum, 18th Street, Balboa Island, Newport Beach, Orange County, California, 92663, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.9245022"
+        },
+        "roselawn": {
+            "latitude": "32.744602",
+            "closest_to": "carlsbad",
+            "address": "Roselawn Avenue, City Heights, San Diego, San Diego County, California, 92105, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.yellowpages.com/carlsbad-nm/la-pasadena"
+            ],
+            "longitude": "-117.0931629"
+        },
+        "japan": {
+            "latitude": "34.0833889",
+            "closest_to": "pasadena",
+            "address": "Japan LA, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-118.3494693"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "pasadena",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles",
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "pasadena",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Carlsbad-to-Pasadena-CA/FlightHistory/2851241.aspx",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "chatsworth": {
+            "latitude": "34.2595715",
+            "closest_to": "pasadena",
+            "address": "Chatsworth, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-118.6023246"
+        },
+        "palomar airport": {
+            "latitude": "33.1291437",
+            "closest_to": "carlsbad",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "pasadena",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "carlsbad village drive": {
+            "latitude": "33.167503",
+            "closest_to": "pasadena",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "pasadena",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "carlsbad village": {
+            "latitude": "33.1717184",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.yellowpages.com/carlsbad-nm/la-pasadena",
+                "http://sandiegan.com/carlsbad/",
+                "http://carlsbad-village.com/"
+            ],
+            "longitude": "-117.322507"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "pasadena",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "metro": {
+            "latitude": "33.9880063",
+            "closest_to": "pasadena",
+            "address": "Metro, Windward Circle, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "bus_station",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-118.4710141"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "carlsbad",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles",
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "http://www.california-blog.com/",
+                "http://sandiegan.com/carlsbad/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "new england": {
+            "latitude": "33.8793794",
+            "closest_to": "pasadena",
+            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-118.0890007"
+        },
+        "legoland drive carlsbad": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Legoland-Drive-Carlsbad/TravelFromHistory/10012114.aspx"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "pasadena",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "pasadena",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Carlsbad-to-Pasadena-CA/FlightHistory/2851241.aspx",
+                "http://www.smartdestinations.com/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go",
+                "http://www.distancesfrom.com/us/travel-from-Carlsbad-to-Pasadena-CA/TravelFromHistory/2851241.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Pasadena-to-Carlsbad-CA/DistanceHistory/3224407.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Legoland-Drive-Carlsbad/TravelFromHistory/10012114.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "pasadena",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "seal beach": {
+            "latitude": "33.741176",
+            "closest_to": "pasadena",
+            "address": "Seal Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-118.1046355"
+        },
+        "mcclellan-palomar airport": {
+            "latitude": "33.12754605",
+            "closest_to": "carlsbad",
+            "address": "McClellan-Palomar Airport, Aircraft Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.281400045984"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Carlsbad-to-Pasadena-CA/FlightHistory/2851241.aspx",
+                "http://www.yellowpages.com/carlsbad-nm/la-pasadena",
+                "http://www.distancesfrom.com/us/travel-from-Carlsbad-to-Pasadena-CA/TravelFromHistory/2851241.aspx",
+                "http://carlsbad-village.com/",
+                "http://www.distancesfrom.com/us/distance-from-Pasadena-to-Carlsbad-CA/DistanceHistory/3224407.aspx",
+                "http://sandiegan.com/carlsbad/",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Legoland-Drive-Carlsbad/TravelFromHistory/10012114.aspx",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/",
+                "http://visitcarlsbad.com/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "madrid": {
+            "latitude": "33.6218516",
+            "closest_to": "pasadena",
+            "address": "Madrid, El Toro Mobile Home Estates, Lake Forest, Orange County, California, CA 92630, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/amtrak-pacific-surfliner-los-angeles"
+            ],
+            "longitude": "-117.6938265"
+        },
+        "leucadia boulevard": {
+            "latitude": "33.0676713",
+            "closest_to": "carlsbad",
+            "address": "Leucadia Boulevard, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2641124"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "hollywood blvd": {
+            "latitude": "34.1016312",
+            "closest_to": "pasadena",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.32684"
+        },
+        "north coast highway 101": {
+            "latitude": "33.0785156",
+            "closest_to": "carlsbad",
+            "address": "North Coast Highway 101, Encinitas, San Diego County, California, 92011, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.3068846"
+        },
+        "california mission": {
+            "latitude": "32.72181505",
+            "closest_to": "carlsbad",
+            "address": "California Western School of Law, Cedar Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-117.162483"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "pasadena",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "pasadena",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "palm springs tramway": {
+            "latitude": "33.85839515",
+            "closest_to": "carlsbad",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "information",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.558183152534"
+        },
+        "pebble": {
+            "latitude": "33.6678374",
+            "closest_to": "pasadena",
+            "address": "Pebble, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.7975199"
+        },
+        "north carlsbad": {
+            "latitude": "33.1296624",
+            "closest_to": "carlsbad",
+            "address": "N, Landau Court, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "taxiway",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.276553"
+        },
+        "palomar airport road": {
+            "latitude": "33.1291437",
+            "closest_to": "carlsbad",
+            "address": "Palomar Airport Road, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://sandiegan.com/carlsbad/"
+            ],
+            "longitude": "-117.2418974"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "pasadena",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7384025-Sights_between_Los_Angeles_and_San_Diego-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7870733-Great_places_to_stop_and_see_between_San_Diego_and_LA-California.html"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "legoland drive carlsbad route": {
+            "latitude": "33.1334161",
+            "closest_to": "carlsbad",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Legoland-Drive-Carlsbad/TravelFromHistory/10012114.aspx"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "carlsbad",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.5403029"
+        }
+    }
+}

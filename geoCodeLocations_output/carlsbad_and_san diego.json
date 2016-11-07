@@ -1,0 +1,632 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "coronado bridge": {
+            "latitude": "32.6904606",
+            "closest_to": "san diego",
+            "address": "San Diego-Coronado Bridge, San Diego, San Diego County, California, 92118, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.1524863"
+        },
+        "manta": {
+            "latitude": "32.7665531",
+            "closest_to": "san diego",
+            "address": "Manta, 500, Sea World Drive, Old Town, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.smartdestinations.com/blog/san-diego-itinerary/"
+            ],
+            "longitude": "-117.2272001"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "carlsbad",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "carlsbad",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "india": {
+            "latitude": "32.72025735",
+            "closest_to": "san diego",
+            "address": "Star of India, North Harbor Drive, Hillcrest, San Diego, San Diego County, California, 92106, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.173543004762"
+        },
+        "downtown san diego": {
+            "latitude": "33.1253528",
+            "closest_to": "san diego",
+            "address": "Palomar Health Downtown Campus, East Grand Avenue, Escondido, San Diego County, California, 92027, United States of America",
+            "locType": "hospital",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.075213351358"
+        },
+        "legoland california": {
+            "latitude": "33.1278683",
+            "closest_to": "san diego",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "california legoland": {
+            "latitude": "33.1278683",
+            "closest_to": "san diego",
+            "address": "Legoland California, 1, LEGOLAND drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/195132596327844645/"
+            ],
+            "longitude": "-117.311664211922"
+        },
+        "grand pacific drive": {
+            "latitude": "33.1288559",
+            "closest_to": "san diego",
+            "address": "Grand Pacific Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-117.3089108"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "san diego",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions",
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html",
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "south carlsbad state beach": {
+            "latitude": "33.08375185",
+            "closest_to": "san diego",
+            "address": "South Carlsbad State Beach, Carlsbad Boulevard, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.311268255243"
+        },
+        "del mar racetrack": {
+            "latitude": "32.9764414",
+            "closest_to": "san diego",
+            "address": "Del Mar Racetrack, Via de la Valle, Solana Beach, San Diego County, California, 92091, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.262964181472"
+        },
+        "carlsbad village drive": {
+            "latitude": "33.167503",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "belmont park": {
+            "latitude": "32.7709175",
+            "closest_to": "san diego",
+            "address": "Belmont Park, Ocean Front Walk, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.252157006201"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "san diego",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "seaport village san diego": {
+            "latitude": "32.7089976",
+            "closest_to": "san diego",
+            "address": "Seaport Village, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.170488716601"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "san diego",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "san diego",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html",
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://tourguidetim.com/legoland-california/",
+                "http://www.smartdestinations.com/blog/san_diego/",
+                "http://www.sandiego.org/where-to-stay.aspx",
+                "http://www.smartdestinations.com/blog/san-diego-itinerary/",
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields",
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "http://visitcarlsbad.com/attractions",
+                "https://www.tripadvisor.com/Attractions-g32171-Activities-Carlsbad_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "girard avenue": {
+            "latitude": "32.846642",
+            "closest_to": "san diego",
+            "address": "Girard Avenue, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.2744829"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "san diego",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "carlsbad",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "prospect street": {
+            "latitude": "32.8478832",
+            "closest_to": "san diego",
+            "address": "Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.2741032"
+        },
+        "la jolla village": {
+            "latitude": "32.86856685",
+            "closest_to": "san diego",
+            "address": "The Shops at La Jolla Village, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.231789731553"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "carlsbad",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "seaport village": {
+            "latitude": "32.7089976",
+            "closest_to": "san diego",
+            "address": "Seaport Village, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.170488716601"
+        },
+        "gaslamp quarter": {
+            "latitude": "32.7109444",
+            "closest_to": "san diego",
+            "address": "Gaslamp Quarter, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.1597028"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "san diego",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/195132596327844645/",
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "legoland drive": {
+            "latitude": "33.1334161",
+            "closest_to": "san diego",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "san diego botanic gardens": {
+            "latitude": "33.053482",
+            "closest_to": "san diego",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "san diego",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san diego",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html",
+                "http://tourguidetim.com/legoland-california/",
+                "https://www.tripoto.com/travel-guide/carlsbad",
+                "https://www.pinterest.com/pin/195132596327844645/",
+                "http://www.smartdestinations.com/blog/san-diego-itinerary/",
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe",
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields",
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "http://visitcarlsbad.com/attractions",
+                "http://visitcarlsbad.com/",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "rio grande": {
+            "latitude": "32.72995",
+            "closest_to": "san diego",
+            "address": "Rio Grande, North Jamul, San Diego County, California, 91935, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-116.8639529"
+        },
+        "presidio park": {
+            "latitude": "32.7572722",
+            "closest_to": "san diego",
+            "address": "Presidio Park, Cosoy Way, Old Town, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.1944791"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "san diego",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "spreckels park": {
+            "latitude": "32.6906076",
+            "closest_to": "san diego",
+            "address": "Spreckels Park, Orange Avenue, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.1764222"
+        },
+        "hyatt place san diego/vista-carlsbad": {
+            "latitude": "33.1394917",
+            "closest_to": "san diego",
+            "address": "Hyatt Place San Diego / Vista-Carlsbad, 2645, South Melrose Drive, Vista, San Diego County, California, 92081, United States of America",
+            "locType": "house",
+            "blogLinks": [
+                "https://sandiegocarlsbad.place.hyatt.com/en/hotel/activities.html"
+            ],
+            "longitude": "-117.245348"
+        },
+        "albuquerque": {
+            "latitude": "32.8074701",
+            "closest_to": "san diego",
+            "address": "Albuquerque Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-117.2184314"
+        },
+        "california mission": {
+            "latitude": "32.72181505",
+            "closest_to": "san diego",
+            "address": "California Western School of Law, Cedar Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.162483"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "carlsbad",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "tamarack avenue": {
+            "latitude": "33.148373",
+            "closest_to": "san diego",
+            "address": "Tamarack Avenue, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3439479"
+        },
+        "uc san diego": {
+            "latitude": "32.88377545",
+            "closest_to": "san diego",
+            "address": "Hopkins Parking Structure, Voigt Lane, San Diego, San Diego County, California, 92092, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "https://sandiegocarlsbad.place.hyatt.com/en/hotel/activities.html",
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.239357346441"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "san diego",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "mission basilica san diego de alcala": {
+            "latitude": "32.784591",
+            "closest_to": "san diego",
+            "address": "Mission Basilica San Diego de Alcala, Booth Hill Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.106440145877"
+        },
+        "carlsbad state beach": {
+            "latitude": "33.13596865",
+            "closest_to": "san diego",
+            "address": "Carlsbad State Beach, Carlsbad Boulevard, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://sandiegocarlsbad.place.hyatt.com/en/hotel/activities.html"
+            ],
+            "longitude": "-117.338366938891"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "carlsbad",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.147366"
+        },
+        "pacific palisades resort": {
+            "latitude": "33.1245722",
+            "closest_to": "san diego",
+            "address": "Grand Pacific Palisades Resort and Hotel, Armada Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.315434919128"
+        },
+        "san diego botanic garden": {
+            "latitude": "33.053482",
+            "closest_to": "san diego",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "sydney": {
+            "latitude": "32.9663437",
+            "closest_to": "san diego",
+            "address": "Sydney Rae Place, San Diego, San Diego County, California, 92129, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-117.1532177"
+        },
+        "via de la valle": {
+            "latitude": "32.9810019",
+            "closest_to": "san diego",
+            "address": "Via de la Valle, Del Mar, San Diego, San Diego County, California, 92091, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.2478872"
+        },
+        "leucadia": {
+            "latitude": "33.0692223",
+            "closest_to": "san diego",
+            "address": "Leucadia, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.3026809"
+        },
+        "santa fe": {
+            "latitude": "32.4395109",
+            "closest_to": "san diego",
+            "address": "Santa Fe, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-117.0336822"
+        },
+        "mission san diego": {
+            "latitude": "32.7808782",
+            "closest_to": "san diego",
+            "address": "Mission San Diego, Ward Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.1109827"
+        },
+        "carlsbad california": {
+            "latitude": "33.1580933",
+            "closest_to": "san diego",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions",
+                "https://www.pinterest.com/pin/195132596327844645/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "legoland san diego": {
+            "latitude": "33.1334161",
+            "closest_to": "san diego",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "san diego",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.1341977"
+        }
+    }
+}

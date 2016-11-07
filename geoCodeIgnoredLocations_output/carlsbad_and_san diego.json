@@ -1,0 +1,886 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "dallas texas": {
+            "latitude": "32.8687379",
+            "closest_to": "",
+            "address": "California Crossing Dam, Dallas, Dallas County, Texas, United States of America",
+            "locType": "dam",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-96.9225047"
+        },
+        "france": {
+            "latitude": "34.2013715",
+            "closest_to": "",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-118.5935353"
+        },
+        "buca de beppo": {
+            "latitude": "37.2511878",
+            "closest_to": "",
+            "address": "Buca di Beppo, 925, Blossom Hill Road, Almaden, San Jos\u00e9, Santa Clara County, California, 95032, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/195132596327844645/"
+            ],
+            "longitude": "-121.8633163"
+        },
+        "penny park": {
+            "latitude": "38.9226823",
+            "closest_to": "",
+            "address": "Little Penny, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-123.4577868"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html",
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "cape canaveral": {
+            "latitude": "28.3654625",
+            "closest_to": "",
+            "address": "California Avenue, Cocoa Beach, Brevard County, Florida, 32931, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-80.6056026"
+        },
+        "north county": {
+            "latitude": "39.7452174",
+            "closest_to": "",
+            "address": "California, 16th Street, Upper Downtown, Denver, Denver County, Colorado, 80211, United States of America",
+            "locType": "bus_stop",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-104.992379"
+        },
+        "maritime museum": {
+            "latitude": "33.7389075",
+            "closest_to": "",
+            "address": "Los Angeles Maritime Museum, Sampson Way, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-118.278682"
+        },
+        "alcazar garden": {
+            "latitude": "37.7868699",
+            "closest_to": "",
+            "address": "Alcazar Theatre, 650, Geary Street, Nob Hill, SF, California, 94109, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.41410859076"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "cannon road": {
+            "latitude": "33.9225345",
+            "closest_to": "",
+            "address": "Cannon Road, Riverside, Riverside County, California, 92506, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3369461"
+        },
+        "silver city": {
+            "latitude": "36.4660536",
+            "closest_to": "",
+            "address": "Silver City, Tulare County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-118.6459277"
+        },
+        "rose garden": {
+            "latitude": "37.3339825",
+            "closest_to": "",
+            "address": "Rose Garden, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-121.9240707"
+        },
+        "alamogordo": {
+            "latitude": "34.4364641",
+            "closest_to": "",
+            "address": "Alamogordo Road, Saugus, Santa Clarita, Los Angeles County, California, 91350, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-118.5215448"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.870493"
+        },
+        "mission bay": {
+            "latitude": "37.7707742",
+            "closest_to": "",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "el paso": {
+            "latitude": "36.8487922",
+            "closest_to": "",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "carlsbad caverns": {
+            "latitude": "37.3072109",
+            "closest_to": "",
+            "address": "Carlsbad Caverns Court, Newman, Stanislaus County, California, 95360, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html",
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-121.033348"
+        },
+        "new mexico": {
+            "latitude": "32.2644096",
+            "closest_to": "",
+            "address": "California Lateral, Mesilla, Do\u00f1a Ana County, New Mexico, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad",
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-106.8036705"
+        },
+        "las brisas": {
+            "latitude": "34.6453073",
+            "closest_to": "",
+            "address": "Las Brisas, Lancaster, Los Angeles County, California, 93551, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-118.1968741"
+        },
+        "deming": {
+            "latitude": "37.7604803",
+            "closest_to": "",
+            "address": "Deming Street, Cole Valley, SF, California, 94114, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-122.4453243"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "botanical garden": {
+            "latitude": "34.1914501",
+            "closest_to": "",
+            "address": "Botanical Garden, Thousand Oaks, Ventura County, California, 91360, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-118.8855607"
+        },
+        "lower cave": {
+            "latitude": "39.775448",
+            "closest_to": "",
+            "address": "Lower Cave Trail, Chico, Butte County, California, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-121.7591079"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "sante fe": {
+            "latitude": "36.8469799",
+            "closest_to": "",
+            "address": "Sante Fe, Herndon, Sierra Sky Park, Fresno County, California, 93722, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-119.9006526"
+        },
+        "tiger river": {
+            "latitude": "38.6810152",
+            "closest_to": "",
+            "address": "Tiger Lily, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-120.7749339"
+        },
+        "coast highway 101": {
+            "latitude": "33.6810673",
+            "closest_to": "",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-118.0333633"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.smartdestinations.com/blog/san_diego/"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "cloudcroft": {
+            "latitude": "39.2770151",
+            "closest_to": "",
+            "address": "Cloudcroft Court, Placer County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-120.1517359"
+        },
+        "china": {
+            "latitude": "37.9989198",
+            "closest_to": "",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.49033307856"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g32171-Activities-Carlsbad_California.html",
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "uk": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "botanical park": {
+            "latitude": "34.12822345",
+            "closest_to": "",
+            "address": "The Huntington Library, Art Collections, and Botanical Gardens, Euston Road, San Pasqual, San Marino, Los Angeles County, California, 91108, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-118.114629254261"
+        },
+        "california resort": {
+            "latitude": "33.80638705",
+            "closest_to": "",
+            "address": "DCA, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://visitcarlsbad.com/attractions"
+            ],
+            "longitude": "-117.919940244086"
+        },
+        "amusement parks": {
+            "latitude": "39.0550612",
+            "closest_to": "",
+            "address": "Old Coney Amusement Park, Clover Street, California, Cincinnati, Hamilton County, Ohio, 45228, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-84.4224403"
+        },
+        "disney": {
+            "latitude": "33.8136367",
+            "closest_to": "",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.91971186569"
+        },
+        "garden grove": {
+            "latitude": "33.7746292",
+            "closest_to": "",
+            "address": "Garden Grove, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.9463716"
+        },
+        "jervis bay": {
+            "latitude": "37.7393275",
+            "closest_to": "",
+            "address": "Jervis Bay, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-122.2508457"
+        },
+        "sonora": {
+            "latitude": "37.9840911",
+            "closest_to": "",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-120.382138"
+        },
+        "catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://visitcarlsbad.com/"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "australasia": {
+            "latitude": "37.8737195",
+            "closest_to": "",
+            "address": "Australasia, Lower Jordan Fire Trail, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.2373346"
+        },
+        "balboa park & balboa park gardens": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "san antonio": {
+            "latitude": "38.1838069",
+            "closest_to": "",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "torrey pines": {
+            "latitude": "33.6004207",
+            "closest_to": "",
+            "address": "Torrey Pines, Coto de Caza, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-117.5806448"
+        },
+        "gardens": {
+            "latitude": "33.6280068",
+            "closest_to": "",
+            "address": "Garden, Menifee, Riverside County, California, 92530, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.293612"
+        },
+        "texas": {
+            "latitude": "29.7181118",
+            "closest_to": "",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-94.997906"
+        },
+        "roswell": {
+            "latitude": "33.760936",
+            "closest_to": "",
+            "address": "Roswell Avenue, Belmont Shore, Long Beach, Los Angeles County, California, 90814, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html",
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-118.1435969"
+        },
+        "west": {
+            "latitude": "33.9492548",
+            "closest_to": "",
+            "address": "W, Service road S, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "taxiway",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-118.4108078"
+        },
+        "taos": {
+            "latitude": "33.6334329",
+            "closest_to": "",
+            "address": "Taos, Dove Canyon, Rancho Santa Margarita, Orange County, California, 92688, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-117.5939108"
+        },
+        "buena park": {
+            "latitude": "33.870413",
+            "closest_to": "",
+            "address": "Buena Park, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-117.9962164"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "loreto": {
+            "latitude": "25.88442735",
+            "closest_to": "",
+            "address": "Loreto, Baja California Sur, M\u00e9xico",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-111.502049587939"
+        },
+        "abq": {
+            "latitude": "35.0765416",
+            "closest_to": "",
+            "address": "California Street Southeast, Trumbull Village, ABQ, Bernalillo County, New Mexico, 87108, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-106.5752981"
+        },
+        "artesia": {
+            "latitude": "33.8690197",
+            "closest_to": "",
+            "address": "Artesia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g143018-i4829-k1909608-Places_to_visit_along_the_route_from_San_Diego_to_Carlsband-Carlsbad_Caverns_National_Park_.html"
+            ],
+            "longitude": "-118.0796194"
+        },
+        "u.s.": {
+            "latitude": "-32.5446226",
+            "closest_to": "",
+            "address": "La California, Municipio de Las Rosas, Departamento Belgrano, Sta. Fe, Argentina",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-61.5489543"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "state beach": {
+            "latitude": "34.03385755",
+            "closest_to": "",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://sandiegocarlsbad.place.hyatt.com/en/hotel/activities.html"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "park": {
+            "latitude": "37.501904",
+            "closest_to": "",
+            "address": "Park, Hornitos, Mariposa County, California, 3004, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-120.238185637585"
+        },
+        "power plant": {
+            "latitude": "37.31525805",
+            "closest_to": "",
+            "address": "Power Plant, Leigh Avenue, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-121.923997033574"
+        },
+        "houston": {
+            "latitude": "34.4422871",
+            "closest_to": "",
+            "address": "Houston, Plum Canyon, Canyon Country, Los Angeles County, California, 91351, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-118.4777157"
+        },
+        "oc": {
+            "latitude": "42.2076569",
+            "closest_to": "",
+            "address": "OC&E Woods Line State Trail, Altamont, Klamath County, Oregon, 97603, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-121.7529539"
+        },
+        "united kingdom": {
+            "latitude": "52.4422729",
+            "closest_to": "",
+            "address": "California, Birmingham, West Midlands, England, UK",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripoto.com/travel-guide/carlsbad"
+            ],
+            "longitude": "-1.9796882"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.smartdestinations.com/blog/san-diego-itinerary/",
+                "http://tourguidetim.com/legoland-california/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "kentucky": {
+            "latitude": "38.9186766",
+            "closest_to": "",
+            "address": "California, Campbell County, Kentucky, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-84.2635471"
+        },
+        "exit 48": {
+            "latitude": "33.7665882",
+            "closest_to": "",
+            "address": "exit, Palm Springs, Riverside County, California, 92263, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://tourguidetim.com/legoland-california/"
+            ],
+            "longitude": "-116.5387811"
+        },
+        "tamarack": {
+            "latitude": "38.4388012",
+            "closest_to": "",
+            "address": "Tamarack, Calaveras County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-120.076021"
+        },
+        "west texas": {
+            "latitude": "29.7181118",
+            "closest_to": "",
+            "address": "California, Baytown, Harris County, Texas, 77520, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/houston-road-trip-new-mexico-carlsbad-roswell-albuquerque-taos-and-santa-fe"
+            ],
+            "longitude": "-94.997906"
+        },
+        "national park": {
+            "latitude": "37.7488554",
+            "closest_to": "",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.yelp.com/biz/carlsbad-caverns-national-park-carlsbad"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k1193855-Places_to_visit_between_San_Diego_and_Anaheim-San_Diego_California.html"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "point loma": {
+            "latitude": "33.5466403",
+            "closest_to": "",
+            "address": "Point Loma, Laguna Niguel, Orange County, California, 92677, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/"
+            ],
+            "longitude": "-117.717867"
+        },
+        "california": {
+            "latitude": "7.3480915",
+            "closest_to": "",
+            "address": "California, Santander, Colombia",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.lajollabluebook.com/blog/must-see-attractions-in-san-diego/",
+                "http://tourguidetim.com/legoland-california/",
+                "https://www.pinterest.com/pin/195132596327844645/",
+                "http://www.smartdestinations.com/blog/san_diego/",
+                "https://sandiegocarlsbad.place.hyatt.com/en/hotel/activities.html",
+                "http://www.smartdestinations.com/blog/san-diego-itinerary/",
+                "https://www.gogobot.com/carlsbad-ca/things-to-do/the-flower-fields",
+                "http://visitcarlsbad.com/attractions",
+                "http://visitcarlsbad.com/",
+                "http://www.sandiego.com/attractions"
+            ],
+            "longitude": "-72.945787"
+        }
+    }
+}
