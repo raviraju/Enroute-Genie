@@ -4,6 +4,8 @@
 #Starting server on port 9000 with timeout of 5000 milliseconds.
 #StanfordCoreNLPServer listening at /0:0:0:0:0:0:0:0:9000
 
+#ON Installing GoogleScraper replace database.py in site-packages/GoogleScraper
+
 import argparse, json, os
 import urllib.request
 from pprint import pprint
@@ -69,9 +71,10 @@ def fetchBlogUrls(city_a, city_b):
         print(e)
 
     urls = []
+    #pprint(search)
     for serp in search.serps:
         for link in serp.links:
-            #print(link.getLink())
+            print(link.getLink())
             urls.append(link.getLink())
 
     #pauseInterval = random.uniform(1, 20)
@@ -206,10 +209,10 @@ def parseBlog(src):
     
     return noDup_blogLocations#blogLocations
 
-def comboResultsKnown(keyFileName):
-    return os.path.isfile('output/' + keyFileName) 
+def comboResultsKnown(output_path, keyFileName):
+    return os.path.isfile(output_path + keyFileName) 
 
-def process(listOfCitiesPath):
+def process(output_path, listOfCitiesPath):
     cities = set()
     with open(listOfCitiesPath) as json_data:
         listOfCities = json.load(json_data)
@@ -226,8 +229,8 @@ def process(listOfCitiesPath):
         else:
             key = city_b + '_and_' + city_a
         keyFileName = key + '.json'
-        if comboResultsKnown(keyFileName):
-            print("Combo {} was already captured results in : output/{}".format(key, keyFileName))
+        if comboResultsKnown(output_path, keyFileName):
+            print("Combo {} was already captured results in : {}{}".format(key, output_path,  keyFileName))
             continue
         global all_loc_data
         all_loc_data = {}
@@ -254,11 +257,11 @@ def process(listOfCitiesPath):
             locationsDict[loc] = list(sources)
         #srcDestBlogUrlsDict[key]['location_BlogUrls'] = locationsDict
         srcDestBlogUrlsDict['location_BlogUrls'] = locationsDict
-        with open('output/' + keyFileName, 'w') as outfile:
+        with open(output_path + keyFileName, 'w') as outfile:
             #json.dump(srcDestBlogUrlsDict[key], outfile, indent=4)
             json.dump(srcDestBlogUrlsDict, outfile, indent=4)
         comboCount += 1
-        print("Combo {} : {} Captured results into : output/{}.json".format(comboCount, key, key))
+        print("Combo {} : {} Captured results into : {}{}.json".format(comboCount, key, output_path, key))
             
         #pprint(srcDestBlogUrlsDict, indent=4)
 
@@ -269,11 +272,13 @@ def process(listOfCitiesPath):
 def main():
     parser = argparse.ArgumentParser(description="extract locations from blogs for given data")
     parser.add_argument("path", help="path to listOfCities json file")
+    parser.add_argument("output_path", help="path to output")
     args = parser.parse_args()
     listOfCitiesPath = args.path
+    output_path = args.output_path
     
-    if not os.path.exists('./output'):
-        os.makedirs('./output')
-    process(listOfCitiesPath)
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+    process(output_path, listOfCitiesPath)
         
 if __name__ == "__main__" : main()
