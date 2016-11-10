@@ -6,7 +6,7 @@ from geopy.distance import vincenty
 from geopy.exc import GeocoderServiceError
 import time
 from urllib.error import HTTPError
-
+#NOTE : create folders geoCodeLocations_output/ and geoCodeIgnoredLocations_output/, with state value updated
 citiesTowns = set()
 ca_geolocator = Nominatim()
 no_retry_attempt = 0
