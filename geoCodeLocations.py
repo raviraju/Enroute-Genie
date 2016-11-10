@@ -170,8 +170,11 @@ def parseBlogLocations(path_blogLocation):
 def main():
 	parser = argparse.ArgumentParser(description="get geoCode for location mentions extracted from blogs and filter out distant/irrelavant location_mentions")
 	parser.add_argument("path_blogLocation", help="path to blogLocation Jsons directory")
+	parser.add_argument("state_name", help="name of the state(ex : california, karnataka...)")
 	args = parser.parse_args()
 	path_blogLocation = args.path_blogLocation
+	global state
+	state = args.state_name
 	global cachedGeoDataDict
 	if os.path.isfile('cachedGeoData.json'):
 		with open('cachedGeoData.json', 'r') as cache_infile:
