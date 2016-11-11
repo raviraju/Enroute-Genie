@@ -1,0 +1,1222 @@
+{
+    "bangalore": {
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_type": "node",
+        "boundingbox": [
+            "12.8191198",
+            "13.1391198",
+            "77.4312997",
+            "77.7512997"
+        ],
+        "display_name": "Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+        "class": "place",
+        "osm_id": "3401391999",
+        "type": "city",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "77.5912997",
+        "lat": "12.9791198",
+        "place_id": "46592958",
+        "importance": 0.8183333454045
+    },
+    "dandeli": {
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+        "osm_type": "node",
+        "boundingbox": [
+            "15.2090284",
+            "15.2890284",
+            "74.5836037",
+            "74.6636037"
+        ],
+        "display_name": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+        "class": "place",
+        "osm_id": "612546262",
+        "type": "town",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "74.6236037",
+        "lat": "15.2490284",
+        "place_id": "5820025",
+        "importance": 0.5
+    },
+    "mentions": {
+        "bangalore railway": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "railway",
+            "longitude": "77.6182271274845",
+            "latitude": "13.001147",
+            "address": "Bangalore East Railway Station, Cox Town, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "kali river": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html"
+            ],
+            "locType": "river",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "shikra": {
+            "blogLinks": [
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html"
+            ],
+            "locType": "camp_site",
+            "longitude": "74.60215685001",
+            "latitude": "15.3242702",
+            "address": "Shikra Jungle Resort, SH28, Haregalli, Haliyala taluku, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "bangalore international": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "school",
+            "longitude": "77.6467233975225",
+            "latitude": "13.0471784",
+            "address": "Bangalore International School, Hennur Bagalur Road, Poojappa Layout, Agara, Geddalahalli, Bangalore Urban, Karnataka, 560 077, India",
+            "closest_to": "bangalore"
+        },
+        "kadamba": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "residential",
+            "longitude": "77.7436954",
+            "latitude": "12.9703178",
+            "address": "Kadamba Avenue, R. Narayanapura, Brookefields, Dodsworth Enclave, Bangalore Urban, Karnataka, 560066, India",
+            "closest_to": "bangalore"
+        },
+        "tumkur": {
+            "blogLinks": [
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "county",
+            "longitude": "77.0002445",
+            "latitude": "13.4999406",
+            "address": "Tumakuru, Tumkur district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "sowparnika": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "guest_house",
+            "longitude": "74.8121600727933",
+            "latitude": "13.86533575",
+            "address": "Sowparnika Guest House, NH766C;SH26, Kollur, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576220, India",
+            "closest_to": "dandeli"
+        },
+        "agumbe": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "village",
+            "longitude": "75.0965525",
+            "latitude": "13.5094998",
+            "address": "Agumbe, Tirthahalli taluk, Shimoga district, Karnataka, 577411, India",
+            "closest_to": "dandeli"
+        },
+        "ballari": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "city",
+            "longitude": "76.9125211",
+            "latitude": "15.1467299",
+            "address": "Ballari, Bellary taluk, Bellary district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "uttara kannada district": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "county",
+            "longitude": "74.583333",
+            "latitude": "14.883333",
+            "address": "Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "dharwad": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "city",
+            "longitude": "75.0066516",
+            "latitude": "15.4540505",
+            "address": "Dharwad, Dharawada taluku, Dharwad district, Karnataka, 580001, India",
+            "closest_to": "dandeli"
+        },
+        "kamalapur": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "yes",
+            "longitude": "75.003629911571",
+            "latitude": "15.4456282",
+            "address": "Kamalapur Nursing Home, Station Road, Kalyana nagar, Gandhinagar, Dharwad, Dharawada taluku, Dharwad district, Karnataka, 580001, India",
+            "closest_to": "dandeli"
+        },
+        "haveri": {
+            "blogLinks": [
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "town",
+            "longitude": "75.3996731",
+            "latitude": "14.7874825",
+            "address": "Haveri, Haveri taluku, Haveri district, Karnataka, 581110, India",
+            "closest_to": "dandeli"
+        },
+        "goa": {
+            "blogLinks": [
+                "http://www.inditales.com/dandeli-river-kali/",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore",
+                "https://www.makemytrip.com/routeplanner/bangalore-dandeli.html",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "restaurant",
+            "longitude": "77.6200027",
+            "latitude": "12.9750047",
+            "address": "Carnival De Goa, Bhaskaran Road, Gupta Layout, Halasuru, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "ragihalli": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "77.5745803",
+            "latitude": "12.7386426",
+            "address": "Ragihalli, Bangalore Urban, Karnataka, India",
+            "closest_to": "bangalore"
+        },
+        "alnavar": {
+            "blogLinks": [
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "yes",
+            "longitude": "74.7382699598533",
+            "latitude": "15.43378725",
+            "address": "Alnavar English School, SH93, Khanapura taluku, Belgaum district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "northern karnataka": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli"
+            ],
+            "locType": "company",
+            "longitude": "77.6804678",
+            "latitude": "12.9257442",
+            "address": "Northern Operating  Services Pvt Ltd, RMZ Ecospace, Internal Rd, RMZ Ecospace, Bellandur, Doddakannelli, Bangalore Urban, Karnataka, 560037, India",
+            "closest_to": "bangalore"
+        },
+        "bangalore": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "https://www.makemytrip.com/routeplanner/bangalore-dandeli.html",
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html",
+                "http://www.inditales.com/dandeli-river-kali/",
+                "http://journeymart.com/de/india/karnataka/dandeli-best-time-to-visit.aspx",
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html",
+                "https://www.thrillophilia.com/tours/white-water-rafting-at-dandeli"
+            ],
+            "locType": "city",
+            "longitude": "77.5912997",
+            "latitude": "12.9791198",
+            "address": "Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "dandeli"
+        },
+        "moyar": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "viewpoint",
+            "longitude": "76.631118",
+            "latitude": "11.6161121",
+            "address": "Moyar Gorge, Gundlupet - Coimbatore Highway, Bandipur, Gundlupet taluk, Chamarajanagar district, Karnataka, India",
+            "closest_to": "bangalore"
+        },
+        "kamalapura": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "75.7316366",
+            "latitude": "14.4449672",
+            "address": "Kamalapura, Harihara taluku, Davanagere district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "vittala": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "yes",
+            "longitude": "76.6237847175927",
+            "latitude": "12.30129655",
+            "address": "Vijaya Vittala PU College, Sahukar Chennaiah Road, Sarasvatipuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "sahyadri range": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "school",
+            "longitude": "75.2317987800043",
+            "latitude": "13.6983273",
+            "address": "Sahyadri Polytechnic, SH1, Seebinakere, Sankadahole, Tirthahalli taluk, Shimoga district, Karnataka, 577432, India",
+            "closest_to": "dandeli"
+        },
+        "valley": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "administrative",
+            "longitude": "75.7223521",
+            "latitude": "14.5203896",
+            "address": "Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "bombay": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "cafe",
+            "longitude": "77.5500256",
+            "latitude": "12.9632318",
+            "address": "Bombay tea hotel, Hosahalli Main Road, Rajajinagar 6th Block, Goripalya, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "dandeli"
+        },
+        "belgaum": {
+            "blogLinks": [
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html"
+            ],
+            "locType": "county",
+            "longitude": "74.75",
+            "latitude": "16.333333",
+            "address": "Belgaum, Belgaum district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "kali": {
+            "blogLinks": [
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "river",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "river cauvery": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "cinema",
+            "longitude": "77.5832796015599",
+            "latitude": "13.00262215",
+            "address": "Cauvery, 1st Main Road, Lower Palace Orchard, Guttahalli, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "dandeli"
+        },
+        "gobral": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli"
+            ],
+            "locType": "village",
+            "longitude": "74.6022222",
+            "latitude": "15.3230425",
+            "address": "Gobral, Haliyala taluku, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "dandeli": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "https://www.makemytrip.com/routeplanner/bangalore-dandeli.html",
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html",
+                "http://www.inditales.com/dandeli-river-kali/",
+                "http://journeymart.com/de/india/karnataka/dandeli-best-time-to-visit.aspx",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html"
+            ],
+            "locType": "town",
+            "longitude": "74.6236037",
+            "latitude": "15.2490284",
+            "address": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+            "closest_to": "dandeli"
+        },
+        "maharashtra": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "bank",
+            "longitude": "77.5856013",
+            "latitude": "12.9049455",
+            "address": "Bank of Maharashtra, 24th Main, K R Layout, Puttenahalli, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "bannerghatta national park": {
+            "blogLinks": [
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "national_park",
+            "longitude": "77.5722783830694",
+            "latitude": "12.77900335",
+            "address": "Bannerghatta National Park, Anekal Road, Begihalli, Bangalore Urban, Karnataka, 560076, India",
+            "closest_to": "bangalore"
+        },
+        "botanical garden": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "protected_area",
+            "longitude": "77.5744817798899",
+            "latitude": "13.08099125",
+            "address": "Botanical Garden, Cart road, Judicial Layout, Jakkur, Bangalore Urban, Karnataka, 560065, India",
+            "closest_to": "dandeli"
+        },
+        "kodasalli": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "dam",
+            "longitude": "74.5353892832085",
+            "latitude": "14.91893295",
+            "address": "Kodasalli Dam, Yallapura taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "vijayanagara": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "village",
+            "longitude": "74.7380455",
+            "latitude": "16.3270486",
+            "address": "Vijayanagara, Chikodi taluk, Belgaum district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "hubli": {
+            "blogLinks": [
+                "http://www.inditales.com/dandeli-river-kali/",
+                "https://www.makemytrip.com/routeplanner/bangalore-dandeli.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "city",
+            "longitude": "75.1379848",
+            "latitude": "15.3518378",
+            "address": "Hubballi - \u0cb9\u0cc1\u0cac\u0ccd\u0cac\u0cb3\u0ccd\u0cb3\u0cbf, Hubballi taluku, Dharwad district, Karnataka, 580020, India",
+            "closest_to": "dandeli"
+        },
+        "sykes point": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli"
+            ],
+            "locType": "viewpoint",
+            "longitude": "74.6488754",
+            "latitude": "15.0905368",
+            "address": "Sykes point, Ambikanagar road, Haliyala taluku, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "kerala": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "restaurant",
+            "longitude": "77.6382683",
+            "latitude": "12.9726449",
+            "address": "New Life Kerala Mess, Sai Baba Mandira Road, Mottappanapalaya, Indiranagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "north karnataka": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "service",
+            "longitude": "77.7660547",
+            "latitude": "13.0217151",
+            "address": "N, Chaithanya Samarpan, Kadugodi, Kannamangala, Bangalore Urban, Karnataka, 560066, India",
+            "closest_to": "bangalore"
+        },
+        "uttara kannada": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "http://www.inditales.com/dandeli-river-kali/",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.thrillophilia.com/tours/white-water-rafting-at-dandeli"
+            ],
+            "locType": "administrative",
+            "longitude": "74.4729163045979",
+            "latitude": "14.6726379",
+            "address": "Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "brahmagiri": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "peak",
+            "longitude": "75.490746",
+            "latitude": "12.3868578",
+            "address": "Brahmagiri, Madikeri taluku, Kodagu, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "india": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html"
+            ],
+            "locType": "administrative",
+            "longitude": "75.7223521",
+            "latitude": "14.5203896",
+            "address": "Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "malnad": {
+            "blogLinks": [
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html"
+            ],
+            "locType": "hospital",
+            "longitude": "75.7715495",
+            "latitude": "13.3160351",
+            "address": "Malnad Hospital, Mudigere-Kadur Road, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, 577101, India",
+            "closest_to": "dandeli"
+        },
+        "yellapur": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "town",
+            "longitude": "74.7061458",
+            "latitude": "14.9622518",
+            "address": "Yellapura, Yallapura taluk, Uttara Kannada, Karnataka, 581359, India",
+            "closest_to": "dandeli"
+        },
+        "bengal": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "industrial",
+            "longitude": "77.7517038151245",
+            "latitude": "13.0492646",
+            "address": "Bengal Lamps, Konadasapura, Bangalore Urban, Karnataka, 560066, India",
+            "closest_to": "bangalore"
+        },
+        "bandipur": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "village",
+            "longitude": "76.6285739",
+            "latitude": "11.6662708",
+            "address": "Bandipur, Gundlupet taluk, Chamarajanagar district, Karnataka, India",
+            "closest_to": "bangalore"
+        },
+        "dandeli wildlife sanctuary": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "national_park",
+            "longitude": "74.3665654142884",
+            "latitude": "15.1654776",
+            "address": "Dandeli Wildlife Sanctuary, SH146, Terali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "dakshina kashi": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "place_of_worship",
+            "longitude": "75.2439609",
+            "latitude": "12.838765",
+            "address": "Sahasralingeshwara Temple, Car Street, Uppinangadi, Putturu taluk, Dakshina Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "haliyal": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "town",
+            "longitude": "74.7646665",
+            "latitude": "15.3299733",
+            "address": "Haliyal, Haliyala taluku, Uttara Kannada, Karnataka, 581329, India",
+            "closest_to": "dandeli"
+        },
+        "davangere": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "commercial",
+            "longitude": "75.9197507909343",
+            "latitude": "14.4664457",
+            "address": "Davangere City Corporation Offices, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",
+            "closest_to": "dandeli"
+        },
+        "kabini": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "river",
+            "longitude": "76.4152088",
+            "latitude": "12.0140065",
+            "address": "Kabini, Heggadadevanakote taluk, Mysuru district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "bandipur national park": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "national_park",
+            "longitude": "76.4314968740264",
+            "latitude": "11.76682425",
+            "address": "Bandipur National Park, Kozhikode - Kollegal Highway, Gundlupet taluk, Chamarajanagar district, Karnataka, India",
+            "closest_to": "bangalore"
+        },
+        "manjarabad fort": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "attraction",
+            "longitude": "75.7580572896098",
+            "latitude": "12.9173302",
+            "address": "Manjarabad Fort, SH27, Hullahalli, Sakaleshapura taluk, Hassan district, Karnataka, 573134, India",
+            "closest_to": "dandeli"
+        },
+        "kunti betta": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "peak",
+            "longitude": "76.6982646",
+            "latitude": "12.5082433",
+            "address": "Kunti Betta, Pandavapura taluk, Mandya district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "ganeshgudi": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html"
+            ],
+            "locType": "village",
+            "longitude": "74.5335693",
+            "latitude": "15.2815822",
+            "address": "Ganeshagudi, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "anshi national park": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "national_park",
+            "longitude": "74.3934408094182",
+            "latitude": "14.9994424",
+            "address": "Anshi National Park, SH46, Bidoli, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "lakkavalli": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "75.1078097",
+            "latitude": "14.5841018",
+            "address": "Lakkavalli, Soraba taluk, Shimoga district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "siddapur": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "village",
+            "longitude": "74.911019",
+            "latitude": "13.6626885",
+            "address": "Siddapur, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576229, India",
+            "closest_to": "dandeli"
+        },
+        "ambika nagar": {
+            "blogLinks": [
+                "http://www.karnatakatourism.org/"
+            ],
+            "locType": "restaurant",
+            "longitude": "77.5557527",
+            "latitude": "12.9878802",
+            "address": "ambika hotel and bar, 638, 46th A cross, Rajajinagar 4th Block, Rajaji Nagar, Bengaluru, Bangalore Urban, Karnataka, 560010, India",
+            "closest_to": "dandeli"
+        },
+        "skandagiri": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "peak",
+            "longitude": "77.6826686",
+            "latitude": "13.4172558",
+            "address": "Kalwarbetta, Chikkaballapura taluk, Chikkaballapura district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "siddi": {
+            "blogLinks": [
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html"
+            ],
+            "locType": "fitness_centre",
+            "longitude": "76.6323756",
+            "latitude": "12.2933673",
+            "address": "Siddi Samadhi Yoga Center, Ramana Maharshi Road, Kuvempunagara, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "tamil nadu": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "bank",
+            "longitude": "76.9514152",
+            "latitude": "11.0025894",
+            "address": "KARNATAKA BANK, Diwan Bhadur Road, Five Corner, RS Puram, Coimbatore, Coimbatore district, Tamil Nadu, 641001, India",
+            "closest_to": "bangalore"
+        },
+        "new delhi": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "college",
+            "longitude": "76.6142178649055",
+            "latitude": "12.30911465",
+            "address": "Regional Institute of Education, Chaduranga Road, Jayalakshmipuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "kaneri": {
+            "blogLinks": [
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "river",
+            "longitude": "74.4834864",
+            "latitude": "15.0680686",
+            "address": "Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "coorg": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "town",
+            "longitude": "75.740031",
+            "latitude": "12.4204003",
+            "address": "Madikeri, Madikeri taluku, Kodagu, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "nandi": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "village",
+            "longitude": "75.8556266",
+            "latitude": "13.6434094",
+            "address": "Nandi, Tarikere taluku, Chikkamagaluru district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "raghavendra swamy": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "place_of_worship",
+            "longitude": "77.563636",
+            "latitude": "12.9276061",
+            "address": "Banashankari Raghavendra Swamy Mutt, 24th Main Road, Yediyur, Banashankari 2nd Stage, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "diggi": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "village",
+            "longitude": "76.8025595",
+            "latitude": "16.7083137",
+            "address": "Diggi, Shahapura taluku, Yadagiri district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "davanagere": {
+            "blogLinks": [
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "city",
+            "longitude": "75.9206361",
+            "latitude": "14.4661266",
+            "address": "Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",
+            "closest_to": "dandeli"
+        },
+        "silent valley": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "hotel",
+            "longitude": "76.5819054",
+            "latitude": "12.3459371",
+            "address": "Silent Shores Resort, Krishnaraja Sagara Road, Kurgalli, Bastipura, Srirangapattana taluk, Mandya district, Karnataka, 570027, India",
+            "closest_to": "dandeli"
+        },
+        "sagar": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "town",
+            "longitude": "75.0262551",
+            "latitude": "14.1666594",
+            "address": "Sagara, Sagara taluk, Shimoga district, Karnataka, 577400, India",
+            "closest_to": "dandeli"
+        },
+        "pune": {
+            "blogLinks": [
+                "http://www.inditales.com/dandeli-river-kali/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "trunk",
+            "longitude": "76.9479122",
+            "latitude": "17.8199745",
+            "address": "Pune - Machilipatnam Highway, Kaudiyala, Basavakalyana taluku, Bidar district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "brindavan gardens": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "garden",
+            "longitude": "76.5741029405883",
+            "latitude": "12.4208084",
+            "address": "Brindavan Gardens, Krishnaraja Sagara Road, Krushnarajasagara, Srirangapattana taluk, Mandya district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "nagajhari river": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "school",
+            "longitude": "74.5013412",
+            "latitude": "15.8351706",
+            "address": "Nagajhari School, Belgaum - Panaji Highway, Cantonment, Belagavi, Belagavi taluku, Belgaum district, Karnataka, 590001, India",
+            "closest_to": "dandeli"
+        },
+        "cauvery": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "cinema",
+            "longitude": "77.5832796015599",
+            "latitude": "13.00262215",
+            "address": "Cauvery, 1st Main Road, Lower Palace Orchard, Guttahalli, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "dandeli"
+        },
+        "hornbill river resort": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli"
+            ],
+            "locType": "hotel",
+            "longitude": "74.5407023",
+            "latitude": "15.2614776",
+            "address": "Hornbill Resort, SH34, Baapeli, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "sharavathi valley": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "yes",
+            "longitude": "77.6216184337102",
+            "latitude": "12.9464709",
+            "address": "Sharavathi Block, National Games Village Road, Ambedkar Nagar, Ejipura, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "river kaneri": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "river",
+            "longitude": "74.4834864",
+            "latitude": "15.0680686",
+            "address": "Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "india bengaluru": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "courthouse",
+            "longitude": "77.5925914",
+            "latitude": "12.977944",
+            "address": "Karnataka High Court, Dr B R Ambedkar Veedhi, Shantala Nagar, Gandhinagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "sita river": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "river",
+            "longitude": "74.9348242",
+            "latitude": "13.4787567",
+            "address": "Sita, Karkala taluk, Udupi district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "karnataka state": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "university",
+            "longitude": "76.6236231",
+            "latitude": "12.315382",
+            "address": "Karnataka State Open University, \u0cb9\u0cc1\u0ca3\u0cb8\u0cc2\u0cb0\u0cc1 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6, Gokulam, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "karnataka": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html",
+                "http://www.inditales.com/dandeli-river-kali/",
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "http://www.karnatakatourism.org/",
+                "https://www.thrillophilia.com/tours/white-water-rafting-at-dandeli"
+            ],
+            "locType": "atm",
+            "longitude": "76.6639936",
+            "latitude": "12.3084901",
+            "address": "Karnataka, Shalivahana Road, Nazarbad, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "mangalore": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "city",
+            "longitude": "74.8430082",
+            "latitude": "12.8698101",
+            "address": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",
+            "closest_to": "dandeli"
+        },
+        "vyasanakere": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "76.3553916",
+            "latitude": "15.1954023",
+            "address": "Vyasanakere, Hosapete taluk, Bellary district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "shankaracharya": {
+            "blogLinks": [
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html"
+            ],
+            "locType": "place_of_worship",
+            "longitude": "74.47864105",
+            "latitude": "16.25114055",
+            "address": "Jagadguru Shankaracharya Math, NH48, Bhimnagar, Sankeshwara, Hukkeri taluku, Belgaum district, Karnataka, 591313, India",
+            "closest_to": "dandeli"
+        },
+        "ooty-mysore": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "primary",
+            "longitude": "76.6586807",
+            "latitude": "12.2774807",
+            "address": "Ooty Road, Vidyaranyapuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "eco park": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "residential",
+            "longitude": "77.7007360166667",
+            "latitude": "12.9737284",
+            "address": "13, Alpine Eco Apartments, Doddanekundi, Bengaluru, Bangalore Urban, Karnataka, 560037, India",
+            "closest_to": "bangalore"
+        },
+        "nandi hills": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "hotel",
+            "longitude": "77.7194741670394",
+            "latitude": "13.268142",
+            "address": "Nandi Upahara, Nandhi Hills Road, Kottige Thimmanahalli, Devanahalli taluk, Bangalore Rural, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "hospet": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "town",
+            "longitude": "76.3870527",
+            "latitude": "15.266079",
+            "address": "Hosapete, Hosapete taluk, Bellary district, Karnataka, 583200, India",
+            "closest_to": "dandeli"
+        },
+        "dandeli river": {
+            "blogLinks": [
+                "https://www.thrillophilia.com/tours/white-water-rafting-at-dandeli"
+            ],
+            "locType": "town",
+            "longitude": "74.6236037",
+            "latitude": "15.2490284",
+            "address": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+            "closest_to": "dandeli"
+        },
+        "syntheri rock": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "attraction",
+            "longitude": "74.5242505",
+            "latitude": "15.0846142",
+            "address": "Syntheri Rock, SH46, Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "kudremukh": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "75.2523304",
+            "latitude": "13.2144007",
+            "address": "Kudremukha, Mudigere taluk, Chikkamagaluru district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "sri mallikarjuna temple": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "place_of_worship",
+            "longitude": "75.2508225556439",
+            "latitude": "13.4188371",
+            "address": "Sri Mallikarjuna Temple, Parking, Sringeri, Sringeri taluku, Chikkamagaluru district, Karnataka, 577592, India",
+            "closest_to": "dandeli"
+        },
+        "daroji": {
+            "blogLinks": [
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/"
+            ],
+            "locType": "village",
+            "longitude": "76.6667172",
+            "latitude": "15.2671318",
+            "address": "Daroji, Sanduru taluk, Bellary district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "nagajhari": {
+            "blogLinks": [
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "school",
+            "longitude": "74.5013412",
+            "latitude": "15.8351706",
+            "address": "Nagajhari School, Belgaum - Panaji Highway, Cantonment, Belagavi, Belagavi taluku, Belgaum district, Karnataka, 590001, India",
+            "closest_to": "dandeli"
+        },
+        "mumbai": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html",
+                "https://www.tripadvisor.in/ShowTopic-g293860-i511-k7430452-Weekend_getaways_between_Mumbai_and_Bangalore-India.html",
+                "https://www.tripoto.com/trip/a-traveler-s-guide-to-dandeli-wildlife-sanctuary-3013"
+            ],
+            "locType": "restaurant",
+            "longitude": "77.5718472",
+            "latitude": "13.0002869",
+            "address": "Mumbai Spice, 18/2, 10th Cross, Malleswaram, Vyalikaval, Malleswaram, Bengaluru, Bangalore Urban, Karnataka, 560003, India",
+            "closest_to": "dandeli"
+        },
+        "kudremukh national park": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "national_park",
+            "longitude": "75.1828713712862",
+            "latitude": "13.25397485",
+            "address": "Kudremukh National Park, SH66, Sringeri taluku, Chikkamagaluru district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "bison river resort": {
+            "blogLinks": [
+                "http://www.inditales.com/dandeli-river-kali/",
+                "https://www.thrillophilia.com/resorts-near-dandeli"
+            ],
+            "locType": "hotel",
+            "longitude": "74.5398118",
+            "latitude": "15.2638266",
+            "address": "Bison River Resort, SH34, Baapeli, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "sharavathi river": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/",
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "yes",
+            "longitude": "77.6216184337102",
+            "latitude": "12.9464709",
+            "address": "Sharavathi Block, National Games Village Road, Ambedkar Nagar, Ejipura, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "thirthahalli": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "trunk",
+            "longitude": "74.9626368",
+            "latitude": "13.4265327",
+            "address": "Thirthahalli - Udupi Highway, Shivapura, Karkala taluk, Udupi district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "chitradurga": {
+            "blogLinks": [
+                "https://www.makemytrip.com/bus-tickets/bangalore-dandeli-booking.html"
+            ],
+            "locType": "town",
+            "longitude": "76.4005122",
+            "latitude": "14.2266443",
+            "address": "Chitradurga, Chitradurga taluku, Chitradurga district, Karnataka, 577500, India",
+            "closest_to": "dandeli"
+        },
+        "hampi": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "village",
+            "longitude": "76.4606199",
+            "latitude": "15.3359769",
+            "address": "Hampe, Hosapete taluk, Bellary district, Karnataka, 583239, India",
+            "closest_to": "dandeli"
+        },
+        "hospete": {
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-for-a-2-day-trip-from-Bangalore-by-car"
+            ],
+            "locType": "primary",
+            "longitude": "76.0589884",
+            "latitude": "14.9122813",
+            "address": "Hospete - Harihara Road, Nandibevuru, Harapanahalli taluku, Davanagere district, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "river kali": {
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.india.com/explore/wildlife-sanctuaries-in-karnataka/",
+                "https://www.thrillophilia.com/resorts-near-dandeli",
+                "https://www.thrillophilia.com/tours/white-water-rafting-at-dandeli"
+            ],
+            "locType": "river",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        },
+        "kabini river": {
+            "blogLinks": [
+                "https://www.triphobo.com/blog/8-river-rafting-destinations-near-bangalore"
+            ],
+            "locType": "canal",
+            "longitude": "76.6477184",
+            "latitude": "12.0780998",
+            "address": "Kabini right bank canal, Nanjanagudu taluk, Mysuru district, Karnataka, India",
+            "closest_to": "bangalore"
+        },
+        "north west karnataka": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "http://www.beontheroad.com/2014/02/top-13-things-to-do-in-dandeli-karnataka.html"
+            ],
+            "locType": "service",
+            "longitude": "77.7660547",
+            "latitude": "13.0217151",
+            "address": "N, Chaithanya Samarpan, Kadugodi, Kannamangala, Bangalore Urban, Karnataka, 560066, India",
+            "closest_to": "bangalore"
+        },
+        "shalimar gardens": {
+            "blogLinks": [
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "hotel",
+            "longitude": "77.6373978",
+            "latitude": "12.9783904",
+            "address": "Shalimar, Chinmaya Mission Hospital Road, Indiranagar 1st Stage, Hoysala Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+            "closest_to": "bangalore"
+        },
+        "dandeli karnataka": {
+            "blogLinks": [
+                "http://www.inditales.com/dandeli-river-kali/"
+            ],
+            "locType": "town",
+            "longitude": "74.6236037",
+            "latitude": "15.2490284",
+            "address": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+            "closest_to": "dandeli"
+        },
+        "ooty": {
+            "blogLinks": [
+                "http://toufeeq.blogspot.com/2006/10/dandeli-trip.html",
+                "http://www.indianholiday.com/blog/places-to-visit-near-bangalore-monsoon-season/"
+            ],
+            "locType": "primary",
+            "longitude": "76.6586807",
+            "latitude": "12.2774807",
+            "address": "Ooty Road, Vidyaranyapuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+            "closest_to": "dandeli"
+        },
+        "anshi": {
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "village",
+            "longitude": "74.3708809",
+            "latitude": "14.9925559",
+            "address": "Anshi, Joida taluk, Uttara Kannada, Karnataka, India",
+            "closest_to": "dandeli"
+        }
+    }
+}
