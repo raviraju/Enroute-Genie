@@ -1,0 +1,991 @@
+{
+    "dandeli": {
+        "place_id": "5820025",
+        "osm_id": "612546262",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+        "osm_type": "node",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "display_name": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+        "type": "town",
+        "lon": "74.6236037",
+        "boundingbox": [
+            "15.2090284",
+            "15.2890284",
+            "74.5836037",
+            "74.6636037"
+        ],
+        "importance": 0.5,
+        "lat": "15.2490284",
+        "class": "place"
+    },
+    "kundapur": {
+        "place_id": "33849904",
+        "osm_id": "2806096352",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/education_school.p.20.png",
+        "osm_type": "node",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "display_name": "United Basel mission church Higher Primary School, Kundapur, Chikkansal Road, Vaderahobali, Kundapura, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576200, India",
+        "type": "school",
+        "lon": "74.6906749",
+        "boundingbox": [
+            "13.6343009",
+            "13.6344009",
+            "74.6906249",
+            "74.6907249"
+        ],
+        "importance": 0.201,
+        "lat": "13.6343509",
+        "class": "amenity"
+    },
+    "mentions": {
+        "veera narayana temple": {
+            "closest_to": "kundapur",
+            "address": "Veera Narayana Temple, Chikmagalur Javagal Road, Narasipura, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, India",
+            "longitude": "75.9953525",
+            "latitude": "13.2821212",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "place_of_worship"
+        },
+        "coastal karnataka": {
+            "closest_to": "kundapur",
+            "address": "Bharat Petroleum Mangalore Coastal Installation, Baikampady, Mangaluru taluk, Dakshina Kannada, Karnataka, 575014, India",
+            "longitude": "74.8137275833157",
+            "latitude": "12.96014675",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "industrial"
+        },
+        "india mangaluru": {
+            "closest_to": "kundapur",
+            "address": "National Institute of Technology, Karnataka, NH66, Mukka, Mangaluru taluk, Dakshina Kannada, Karnataka, 575025, India",
+            "longitude": "74.7949882494716",
+            "latitude": "13.01119095",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "college"
+        },
+        "belgaum": {
+            "closest_to": "dandeli",
+            "address": "Belgaum, Belgaum district, Karnataka, India",
+            "longitude": "74.75",
+            "latitude": "16.333333",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "county"
+        },
+        "chikmagalur": {
+            "closest_to": "kundapur",
+            "address": "Chikmagalur, Chikkamagaluru district, Karnataka, India",
+            "longitude": "75.5",
+            "latitude": "13.5",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "county"
+        },
+        "anshi national park": {
+            "closest_to": "kundapur",
+            "address": "Anshi National Park, SH46, Bidoli, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.3934408094182",
+            "latitude": "14.9994424",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "national_park"
+        },
+        "panambur - panambur beach": {
+            "closest_to": "kundapur",
+            "address": "Panambur Beach, Panambur Beach Road, Gandhinagar, Panambur, Mangaluru taluk, Dakshina Kannada, Karnataka, 575013, India",
+            "longitude": "74.8034667207214",
+            "latitude": "12.93907195",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "beach"
+        },
+        "gangolli": {
+            "closest_to": "kundapur",
+            "address": "Konchadi Radha Shyne Government Higher Primary School, Kharvikeri, Gangolli, NH66, Navunda, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576224, India",
+            "longitude": "74.6642475",
+            "latitude": "13.6554353",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "school"
+        },
+        "river nagajhari": {
+            "closest_to": "dandeli",
+            "address": "Nagajhari School, Belgaum - Panaji Highway, Cantonment, Belagavi, Belagavi taluku, Belgaum district, Karnataka, 590001, India",
+            "longitude": "74.5013412",
+            "latitude": "15.8351706",
+            "blogLinks": [
+                "http://travel.india.com/dandeli/"
+            ],
+            "locType": "school"
+        },
+        "river kaneri": {
+            "closest_to": "kundapur",
+            "address": "Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.4834864",
+            "latitude": "15.0680686",
+            "blogLinks": [
+                "http://travel.india.com/dandeli/",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "river"
+        },
+        "sirsi": {
+            "closest_to": "kundapur",
+            "address": "Sirsi, Shirasi taluk, Uttara Kannada, Karnataka, 581400, India",
+            "longitude": "74.8388611",
+            "latitude": "14.6192362",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "dharwad": {
+            "closest_to": "dandeli",
+            "address": "Dharwad, Dharawada taluku, Dharwad district, Karnataka, 580001, India",
+            "longitude": "75.0066516",
+            "latitude": "15.4540505",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "city"
+        },
+        "kali river": {
+            "closest_to": "kundapur",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "blogLinks": [
+                "http://www.dandelichalet.com/",
+                "http://www.nivalink.com/destination/kundapura",
+                "http://www.indiamike.com/india/karnataka-f38/places-around-dandeli-t25558/",
+                "https://www.tripoto.com/weekend-getaways/from-dandeli",
+                "http://travel.india.com/dandeli/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "river"
+        },
+        "nagajhari river": {
+            "closest_to": "dandeli",
+            "address": "Nagajhari School, Belgaum - Panaji Highway, Cantonment, Belagavi, Belagavi taluku, Belgaum district, Karnataka, 590001, India",
+            "longitude": "74.5013412",
+            "latitude": "15.8351706",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "school"
+        },
+        "half moon beach": {
+            "closest_to": "kundapur",
+            "address": "Half Moon Beach, Om beach road, Gokarna, Kumata taluk, Uttara Kannada, Karnataka, 581326, India",
+            "longitude": "74.3310971256284",
+            "latitude": "14.5179028",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "beach"
+        },
+        "markandeya river": {
+            "closest_to": "dandeli",
+            "address": "Markandeya, Belagavi taluku, Belgaum district, Karnataka, India",
+            "longitude": "74.5774895",
+            "latitude": "15.9707453",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "river"
+        },
+        "anshi": {
+            "closest_to": "kundapur",
+            "address": "Anshi, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.3708809",
+            "latitude": "14.9925559",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "village"
+        },
+        "karkala": {
+            "closest_to": "kundapur",
+            "address": "Karkala, Karkala taluk, Udupi district, Karnataka, 574104, India",
+            "longitude": "74.9959586",
+            "latitude": "13.2112826",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "kalaseshwara temple": {
+            "closest_to": "kundapur",
+            "address": "Kalaseshwara Temple, SH66, Kalasa, Mudigere taluk, Chikkamagaluru district, Karnataka, 577124, India",
+            "longitude": "75.363446975",
+            "latitude": "13.23228505",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "place_of_worship"
+        },
+        "uttara kannada": {
+            "closest_to": "kundapur",
+            "address": "Uttara Kannada, Karnataka, India",
+            "longitude": "74.4729163045979",
+            "latitude": "14.6726379",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "administrative"
+        },
+        "mullayanagiri": {
+            "closest_to": "kundapur",
+            "address": "Mullayyanagiri, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, 577101, India",
+            "longitude": "75.7214034",
+            "latitude": "13.3909217",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "peak"
+        },
+        "tunga": {
+            "closest_to": "kundapur",
+            "address": "Tunga, Tirthahalli taluk, Shimoga district, Karnataka, India",
+            "longitude": "75.3221835",
+            "latitude": "13.6632221",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "river"
+        },
+        "mangalore": {
+            "closest_to": "kundapur",
+            "address": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",
+            "longitude": "74.8430082",
+            "latitude": "12.8698101",
+            "blogLinks": [
+                "http://travel.india.com/dandeli/",
+                "http://www.indiamike.com/india/karnataka-f38/places-around-dandeli-t25558/",
+                "http://www.nivalink.com/destination/kundapura",
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "city"
+        },
+        "haliyal": {
+            "closest_to": "dandeli",
+            "address": "Haliyal, Haliyala taluku, Uttara Kannada, Karnataka, 581329, India",
+            "longitude": "74.7646665",
+            "latitude": "15.3299733",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "town"
+        },
+        "gokak": {
+            "closest_to": "dandeli",
+            "address": "Gokak, Gokak taluku, Belgaum district, Karnataka, 591307, India",
+            "longitude": "74.8224338",
+            "latitude": "16.1693033",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "sri mallikarjuna temple": {
+            "closest_to": "kundapur",
+            "address": "Sri Mallikarjuna Temple, Parking, Sringeri, Sringeri taluku, Chikkamagaluru district, Karnataka, 577592, India",
+            "longitude": "75.2508225556439",
+            "latitude": "13.4188371",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "place_of_worship"
+        },
+        "yellapur": {
+            "closest_to": "kundapur",
+            "address": "Yellapura, Yallapura taluk, Uttara Kannada, Karnataka, 581359, India",
+            "longitude": "74.7061458",
+            "latitude": "14.9622518",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "town"
+        },
+        "gurupura": {
+            "closest_to": "kundapur",
+            "address": "Gurupura, Tarikere taluku, Chikkamagaluru district, Karnataka, India",
+            "longitude": "75.7161587",
+            "latitude": "13.6686411",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "malpe": {
+            "closest_to": "kundapur",
+            "address": "Malpe, Udupi taluku, Udupi district, Karnataka, India",
+            "longitude": "74.7036914",
+            "latitude": "13.3507423",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "kundapura": {
+            "closest_to": "kundapur",
+            "address": "Kundapura, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576200, India",
+            "longitude": "74.6915722",
+            "latitude": "13.6250993",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "town"
+        },
+        "panaji": {
+            "closest_to": "dandeli",
+            "address": "Belgaum - Panaji Highway, Londa, Khanapura taluku, Belgaum district, Karnataka, India",
+            "longitude": "74.4876784",
+            "latitude": "15.4422981",
+            "blogLinks": [
+                "https://www.tripoto.com/weekend-getaways/from-dandeli"
+            ],
+            "locType": "trunk"
+        },
+        "sahyadri range": {
+            "closest_to": "kundapur",
+            "address": "Sahyadri Polytechnic, SH1, Seebinakere, Sankadahole, Tirthahalli taluk, Shimoga district, Karnataka, 577432, India",
+            "longitude": "75.2317987800043",
+            "latitude": "13.6983273",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "school"
+        },
+        "sahasralinga": {
+            "closest_to": "kundapur",
+            "address": "Sahasralinga, Shirasi taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.8077293",
+            "latitude": "14.7197633",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "hamlet"
+        },
+        "hubli": {
+            "closest_to": "dandeli",
+            "address": "Hubballi - \u0cb9\u0cc1\u0cac\u0ccd\u0cac\u0cb3\u0ccd\u0cb3\u0cbf, Hubballi taluku, Dharwad district, Karnataka, 580020, India",
+            "longitude": "75.1379848",
+            "latitude": "15.3518378",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "city"
+        },
+        "tirupati": {
+            "closest_to": "kundapur",
+            "address": "Malekallu Tirupathi, Arasikere taluku, Hassan district, Karnataka, India",
+            "longitude": "76.2727455",
+            "latitude": "13.3289007",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "village"
+        },
+        "mundgod": {
+            "closest_to": "kundapur",
+            "address": "Mundgod, Mundagoda taluk, Uttara Kannada, Karnataka, 581349, India",
+            "longitude": "75.0371451",
+            "latitude": "14.9705105",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "village"
+        },
+        "ratnagiri highway": {
+            "closest_to": "kundapur",
+            "address": "Ratnagiri Road, Basavannahalli, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, 577101, India",
+            "longitude": "75.7727724",
+            "latitude": "13.3292344",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "secondary"
+        },
+        "sagar": {
+            "closest_to": "kundapur",
+            "address": "Sagara, Sagara taluk, Shimoga district, Karnataka, 577400, India",
+            "longitude": "75.0262551",
+            "latitude": "14.1666594",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "town"
+        },
+        "kannur": {
+            "closest_to": "kundapur",
+            "address": "Netravati bridge - Kannur Bypass Road (Proposed), Padil, Bajal, Mangaluru taluk, Dakshina Kannada, Karnataka, 575007, India",
+            "longitude": "74.8858161",
+            "latitude": "12.8487602",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "construction"
+        },
+        "banavasi": {
+            "closest_to": "kundapur",
+            "address": "Banavasi, Shirasi taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "75.0129845",
+            "latitude": "14.5389738",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "syntheri rock": {
+            "closest_to": "kundapur",
+            "address": "Syntheri Rock, SH46, Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5242505",
+            "latitude": "15.0846142",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "attraction"
+        },
+        "unchalli falls": {
+            "closest_to": "kundapur",
+            "address": "\u0c89\u0c82\u0c9a\u0cb3\u0ccd\u0cb3\u0cbf \u0c9c\u0cb2\u0caa\u0cbe\u0ca4, Siddapura taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.7477592",
+            "latitude": "14.4097755",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "waterfall"
+        },
+        "uttara kannada district": {
+            "closest_to": "kundapur",
+            "address": "Uttara Kannada, Karnataka, India",
+            "longitude": "74.583333",
+            "latitude": "14.883333",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html"
+            ],
+            "locType": "county"
+        },
+        "castle rock": {
+            "closest_to": "dandeli",
+            "address": "Castle Rock, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.3347387",
+            "latitude": "15.3942582",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "village"
+        },
+        "sri siddhivinayaka temple": {
+            "closest_to": "kundapur",
+            "address": "Sri Siddhivinayaka Temple, NH766C;SH26, Guddekoppa, Hosanagara taluk, Shimoga district, Karnataka, India",
+            "longitude": "75.0599098",
+            "latitude": "13.8676974",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "place_of_worship"
+        },
+        "amboli": {
+            "closest_to": "dandeli",
+            "address": "Amboli, Khanapura taluku, Belgaum district, Karnataka, India",
+            "longitude": "74.4340839",
+            "latitude": "15.6456171",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "coorg": {
+            "closest_to": "kundapur",
+            "address": "Madikeri, Madikeri taluku, Kodagu, Karnataka, India",
+            "longitude": "75.740031",
+            "latitude": "12.4204003",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "madhukeshwara": {
+            "closest_to": "kundapur",
+            "address": "Madhukeshwara Temple, Kattinakere Road, Kattinakere Bus Stand, Soraba taluk, Shimoga district, Karnataka, India",
+            "longitude": "75.1480027",
+            "latitude": "14.3058996",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "place_of_worship"
+        },
+        "kodachadri": {
+            "closest_to": "kundapur",
+            "address": "Kodachadri, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, India",
+            "longitude": "74.8705395",
+            "latitude": "13.8565758",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "peak"
+        },
+        "sangameshwara": {
+            "closest_to": "kundapur",
+            "address": "Sangameshwara, Kalaghatagi taluku, Dharwad district, Karnataka, India",
+            "longitude": "74.87651",
+            "latitude": "15.184341",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "siddapur": {
+            "closest_to": "kundapur",
+            "address": "Siddapur, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576229, India",
+            "longitude": "74.911019",
+            "latitude": "13.6626885",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "village"
+        },
+        "chikkamagaluru": {
+            "closest_to": "kundapur",
+            "address": "Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, 577101, India",
+            "longitude": "75.7738743",
+            "latitude": "13.318014",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "city"
+        },
+        "jog falls": {
+            "closest_to": "kundapur",
+            "address": "Jog Falls, Joga - Kargal, Sagara taluk, Shimoga district, Karnataka, India",
+            "longitude": "74.8128715",
+            "latitude": "14.2276106",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "locality"
+        },
+        "udupi railway station": {
+            "closest_to": "kundapur",
+            "address": "Udupi Railway Station, Railway Godown Road, Indrali, Udupi, Udupi taluku, Udupi district, Karnataka, 576101, India",
+            "longitude": "74.7710217",
+            "latitude": "13.3360878",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "station"
+        },
+        "kali": {
+            "closest_to": "kundapur",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "river"
+        },
+        "kodasalli": {
+            "closest_to": "kundapur",
+            "address": "Kodasalli Dam, Yallapura taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5353892832085",
+            "latitude": "14.91893295",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "dam"
+        },
+        "u.s.": {
+            "closest_to": "kundapur",
+            "address": "Karnataka, India",
+            "longitude": "75.7223521",
+            "latitude": "14.5203896",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "administrative"
+        },
+        "gokul garden": {
+            "closest_to": "dandeli",
+            "address": "Gokul Garden, Gokul Road / Airport Road, Renuka Nagar, Padmaraj Nagar, Gokul, Hubballi taluku, Dharwad district, Karnataka, 580030, India",
+            "longitude": "75.1141861403246",
+            "latitude": "15.35009745",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "recreation_ground"
+        },
+        "dandeli wildlife sanctuary": {
+            "closest_to": "kundapur",
+            "address": "Dandeli Wildlife Sanctuary, SH146, Terali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.3665654142884",
+            "latitude": "15.1654776",
+            "blogLinks": [
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html"
+            ],
+            "locType": "national_park"
+        },
+        "kannada": {
+            "closest_to": "kundapur",
+            "address": "Dakshina Kannada, Karnataka, India",
+            "longitude": "75.1008028650794",
+            "latitude": "12.8114089",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "administrative"
+        },
+        "kundapur": {
+            "closest_to": "kundapur",
+            "address": "United Basel mission church Higher Primary School, Kundapur, Chikkansal Road, Vaderahobali, Kundapura, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576200, India",
+            "longitude": "74.6906749",
+            "latitude": "13.6343509",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura",
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "school"
+        },
+        "agumbe": {
+            "closest_to": "kundapur",
+            "address": "Agumbe, Tirthahalli taluk, Shimoga district, Karnataka, 577411, India",
+            "longitude": "75.0965525",
+            "latitude": "13.5094998",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "chennakeshava": {
+            "closest_to": "kundapur",
+            "address": "Chennakeshava Temple, NH73, Arakere, Arasikere taluku, Hassan district, Karnataka, 573112, India",
+            "longitude": "76.1294164",
+            "latitude": "13.3748908",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "place_of_worship"
+        },
+        "kudremukh national park": {
+            "closest_to": "kundapur",
+            "address": "Kudremukh National Park, SH66, Sringeri taluku, Chikkamagaluru district, Karnataka, India",
+            "longitude": "75.1828713712862",
+            "latitude": "13.25397485",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "national_park"
+        },
+        "sakleshpur": {
+            "closest_to": "kundapur",
+            "address": "Sakaleshpura, Sakaleshapura taluk, Hassan district, Karnataka, 573134, India",
+            "longitude": "75.7862318",
+            "latitude": "12.9434349",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "town"
+        },
+        "dakshina kannada": {
+            "closest_to": "kundapur",
+            "address": "Dakshina Kannada, Karnataka, India",
+            "longitude": "75.1008028650794",
+            "latitude": "12.8114089",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "administrative"
+        },
+        "om beach": {
+            "closest_to": "kundapur",
+            "address": "Om Beach, Om beach road, Gokarna, Kumata taluk, Uttara Kannada, Karnataka, 581326, India",
+            "longitude": "74.3254331800289",
+            "latitude": "14.5190376",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "beach"
+        },
+        "kaneri": {
+            "closest_to": "kundapur",
+            "address": "Kaneri, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.4834864",
+            "latitude": "15.0680686",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "river"
+        },
+        "tagore beach": {
+            "closest_to": "kundapur",
+            "address": "Rabindranath Tagore Beach, NH66, Kodibag, Karwar, Karavara taluk, Uttara Kannada, Karnataka, 581300, India",
+            "longitude": "74.126114099183",
+            "latitude": "14.81741155",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "beach"
+        },
+        "south goa": {
+            "closest_to": "dandeli",
+            "address": "Karnataka bank, NH66, Aquem, Fatorda, Margao, South Goa, Goa, 403600, India",
+            "longitude": "73.9583411",
+            "latitude": "15.2740083",
+            "blogLinks": [
+                "https://www.tripoto.com/weekend-getaways/from-dandeli"
+            ],
+            "locType": "bank"
+        },
+        "shimoga": {
+            "closest_to": "kundapur",
+            "address": "Shivamogga, Shivamogga taluku, Shimoga district, Karnataka, 577200, India",
+            "longitude": "75.569737",
+            "latitude": "13.9311723",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "city"
+        },
+        "parvati": {
+            "closest_to": "dandeli",
+            "address": "Parvati, Badami taluku, Bagalkote district, Karnataka, India",
+            "longitude": "75.7898501",
+            "latitude": "16.0395701",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "village"
+        },
+        "maravanthe": {
+            "closest_to": "kundapur",
+            "address": "Nethaji Subhash Chandra Bose Government High School, Maravanthe, NH66, Navunda, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576224, India",
+            "longitude": "74.6480358",
+            "latitude": "13.7316626",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/kundapura"
+            ],
+            "locType": "school"
+        },
+        "kudremukh peak": {
+            "closest_to": "kundapur",
+            "address": "Kudremukha, Mudigere taluk, Chikkamagaluru district, Karnataka, India",
+            "longitude": "75.2748196",
+            "latitude": "13.1255691",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "peak"
+        },
+        "ganeshgudi": {
+            "closest_to": "dandeli",
+            "address": "Ganeshagudi, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5335693",
+            "latitude": "15.2815822",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "village"
+        },
+        "margao": {
+            "closest_to": "dandeli",
+            "address": "Karnataka bank, NH66, Aquem, Fatorda, Margao, South Goa, Goa, 403600, India",
+            "longitude": "73.9583411",
+            "latitude": "15.2740083",
+            "blogLinks": [
+                "https://www.tripoto.com/weekend-getaways/from-dandeli"
+            ],
+            "locType": "bank"
+        },
+        "mahaganapati temple": {
+            "closest_to": "kundapur",
+            "address": "Mahaganapati Temple, Gokarna Road, Ganji Gadde, Kumata taluk, Uttara Kannada, Karnataka, 581326, India",
+            "longitude": "74.3172282",
+            "latitude": "14.5432584",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "place_of_worship"
+        },
+        "karwar": {
+            "closest_to": "kundapur",
+            "address": "Karwar, Karavara taluk, Uttara Kannada, Karnataka, 581300, India",
+            "longitude": "74.1319229",
+            "latitude": "14.8120931",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "town"
+        },
+        "ananthapadmanabha": {
+            "closest_to": "kundapur",
+            "address": "Kudupu Ananthapadmanabha Temple, Solapur-Mangalore Highway, Shakthinagar, Kulashekara, Kudupu, Mangaluru taluk, Dakshina Kannada, Karnataka, 575007, India",
+            "longitude": "74.8937899082456",
+            "latitude": "12.9039019",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "place_of_worship"
+        },
+        "kodagu": {
+            "closest_to": "kundapur",
+            "address": "Kodagu, Karnataka, India",
+            "longitude": "75.6677235950852",
+            "latitude": "12.38117345",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "administrative"
+        },
+        "river kali": {
+            "closest_to": "kundapur",
+            "address": "Kali, Joida taluk, Uttara Kannada, Karnataka, India",
+            "longitude": "74.5802901",
+            "latitude": "15.0145378",
+            "blogLinks": [
+                "http://travel.india.com/dandeli/",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "river"
+        },
+        "mullayanagiri range": {
+            "closest_to": "kundapur",
+            "address": "Mullayyanagiri, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru district, Karnataka, 577101, India",
+            "longitude": "75.7214034",
+            "latitude": "13.3909217",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "peak"
+        },
+        "belgaum railway station": {
+            "closest_to": "dandeli",
+            "address": "Belgaum, Belgaum - Panaji Highway, Cantonment, Belagavi, Belagavi taluku, Belgaum district, Karnataka, 590001, India",
+            "longitude": "74.509065",
+            "latitude": "15.8489677",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "station"
+        },
+        "mandalpatti": {
+            "closest_to": "kundapur",
+            "address": "Mandalpatti road junction, Galibidu Road, Kalakeri Nidugane, Madikeri taluku, Kodagu, Karnataka, India",
+            "longitude": "75.7307012",
+            "latitude": "12.4486242",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "attraction"
+        },
+        "kuppali": {
+            "closest_to": "kundapur",
+            "address": "Kuppali Road, Kuppalli, Tirthahalli taluk, Shimoga district, Karnataka, India",
+            "longitude": "75.3158067",
+            "latitude": "13.5998255",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "tertiary"
+        },
+        "dandeli": {
+            "closest_to": "dandeli",
+            "address": "Dandeli, Haliyala taluku, Uttara Kannada, Karnataka, 581325, India",
+            "longitude": "74.6236037",
+            "latitude": "15.2490284",
+            "blogLinks": [
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "http://www.nivalink.com/destination/kundapura",
+                "http://www.holidayiq.com/Dandeli-Sightseeing-345.html",
+                "http://journeymart.com/de/india/karnataka/dandeli-best-time-to-visit.aspx",
+                "http://travel.india.com/dandeli/",
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route",
+                "http://www.nivalink.com/destination/dandeli"
+            ],
+            "locType": "town"
+        },
+        "marikamba temple": {
+            "closest_to": "kundapur",
+            "address": "Marikamba Temple, NH766C;SH26, Halkal, \u0c95\u0cc1\u0c82\u0ca6\u0cbe\u0caa\u0cc1\u0cb0 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1, Udupi district, Karnataka, 576220, India",
+            "longitude": "74.8103631279317",
+            "latitude": "13.8626958",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "place_of_worship"
+        },
+        "gokarna beach": {
+            "closest_to": "kundapur",
+            "address": "Gokarna Beach, Gokarna Road, Ganji Gadde, Kumata taluk, Uttara Kannada, Karnataka, 581326, India",
+            "longitude": "74.3109489488919",
+            "latitude": "14.5516537",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "beach"
+        },
+        "gokarna": {
+            "closest_to": "kundapur",
+            "address": "Gokarna, Kumata taluk, Uttara Kannada, Karnataka, 581326, India",
+            "longitude": "74.3184418",
+            "latitude": "14.5439629",
+            "blogLinks": [
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "town"
+        },
+        "india": {
+            "closest_to": "kundapur",
+            "address": "Karnataka, India",
+            "longitude": "75.7223521",
+            "latitude": "14.5203896",
+            "blogLinks": [
+                "http://www.nivalink.com/destination/dandeli",
+                "http://www.nivalink.com/destination/kundapura",
+                "http://distancecalculator.globefeed.com/India_Distance_Calculator.asp?state=19",
+                "https://www.tripoto.com/weekend-getaways/from-dandeli",
+                "http://travel.india.com/dandeli/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka",
+                "http://travel.paintedstork.com/blog/2005/12/amazing-dandeli-world-of-wilderness.html",
+                "https://www.quora.com/What-are-some-good-places-to-visit-on-the-Goa-Mangalore-route"
+            ],
+            "locType": "administrative"
+        },
+        "sharavati": {
+            "closest_to": "kundapur",
+            "address": "Sharavati, Sagara taluk, Shimoga district, Karnataka, India",
+            "longitude": "74.7647294",
+            "latitude": "14.2360979",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-on-a-3-day-trip-in-and-around-Karnataka"
+            ],
+            "locType": "river"
+        }
+    }
+}
