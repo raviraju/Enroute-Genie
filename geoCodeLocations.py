@@ -1,3 +1,6 @@
+#ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie$ 
+# python34 geoCodeLocations.py output_candidate_location_from_blogs_using_NER/karnataka/ karnataka
+
 import argparse, os, json
 from pprint import pprint
 #http://geopy.readthedocs.io/en/latest/
