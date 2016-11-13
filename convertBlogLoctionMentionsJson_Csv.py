@@ -22,9 +22,9 @@ def convertToCSV(geoCodeLocations_output):
 	csvWriter = csv.writer(csvFile)
 	csvWriter_nonCity = csv.writer(csvFile_nonCity)
 	csvWriter_city = csv.writer(csvFile_city)
-	csvWriter.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "no_of_blogFiles", "mention_found_in_blogFiles"])
-	csvWriter_nonCity.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "no_of_blogFiles", "mention_found_in_blogFiles"])
-	csvWriter_city.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "no_of_blogFiles", "mention_found_in_blogFiles"])
+	csvWriter.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "mention_longitude", "mention_latitude", "no_of_blogFiles", "mention_found_in_blogFiles"])
+	csvWriter_nonCity.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "mention_longitude", "mention_latitude","no_of_blogFiles", "mention_found_in_blogFiles"])
+	csvWriter_city.writerow(["mention_name","mention_type", "mention_popularity", "mention_address", "mention_longitude", "mention_latitude", "no_of_blogFiles", "mention_found_in_blogFiles"])
 	count = 0
 	for path,fileName in rscandir(geoCodeLocations_output):
 		filePath = os.path.join(path, fileName)
@@ -46,14 +46,16 @@ def convertToCSV(geoCodeLocations_output):
 					allMentionsDict[mention]['mentioned_in_blogFiles'] = fileName
 					allMentionsDict[mention]['address']= mentions[mention]['address']
 					allMentionsDict[mention]['locType']= mentions[mention]['locType']
+					allMentionsDict[mention]['longitude']= mentions[mention]['longitude']
+					allMentionsDict[mention]['latitude']= mentions[mention]['latitude']
 					allMentionsDict[mention]['mentioned_in_blogURL'] = set(mentions[mention]['blogLinks'])
 				#print(allMentionsDict[mention])
 	for mention in allMentionsDict:
-		csvWriter.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
+		csvWriter.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], allMentionsDict[mention]['longitude'], allMentionsDict[mention]['latitude'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
 		if allMentionsDict[mention]['locType'] == "city":
-			csvWriter_city.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
+			csvWriter_city.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], allMentionsDict[mention]['longitude'], allMentionsDict[mention]['latitude'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
 		else:
-			csvWriter_nonCity.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
+			csvWriter_nonCity.writerow([mention,allMentionsDict[mention]['locType'], len(allMentionsDict[mention]['mentioned_in_blogURL']), allMentionsDict[mention]['address'], allMentionsDict[mention]['longitude'], allMentionsDict[mention]['latitude'], getNoOfBlogFiles(allMentionsDict[mention]['mentioned_in_blogFiles']), allMentionsDict[mention]['mentioned_in_blogFiles']])
 
 def convertToCSV_BlogUrls(geoCodeLocations_output):
 	csvFile = open('csvResults.csv', 'w')
