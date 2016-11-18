@@ -47,6 +47,8 @@ import json_lines, json, os, csv
 import argparse 
 #import pprint
 from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderServiceError
+from urllib.error import HTTPError
 import time
 ca_geolocator = Nominatim()
 cachedGeoDataDict = {}
@@ -60,21 +62,22 @@ def getGeoCodeDict(location):
     print("getGeoCodeDict({})".format(location))
     global no_of_saved_calls
     geoData = None
-    if location in cachedGeoDataDict:
-        no_of_saved_calls +=1
-        print("Found {} in cache, Saved {} call".format(location, no_of_saved_calls))
-        geoData = cachedGeoDataDict[location]
-    else:
-        time.sleep(sleepTime)
-        try:
-            geoDataObj = ca_geolocator.geocode(location + ', ' + state,timeout=20)
-            if geoDataObj:
-                cachedGeoDataDict[location] = geoDataObj.raw
-                geoData = cachedGeoDataDict[location]
-        except (ValueError, GeocoderServiceError):
-            return None
-    if geoData:
-        print(geoData['lon'], geoData['lat'])
+    if location:
+        if location in cachedGeoDataDict:
+            no_of_saved_calls +=1
+            print("Found {} in cache, Saved {} call".format(location, no_of_saved_calls))
+            geoData = cachedGeoDataDict[location]
+        else:
+            time.sleep(sleepTime)
+            try:
+                geoDataObj = ca_geolocator.geocode(location + ', ' + state,timeout=20)
+                if geoDataObj:
+                    cachedGeoDataDict[location] = geoDataObj.raw
+                    geoData = cachedGeoDataDict[location]
+            except (ValueError, GeocoderServiceError):
+                return None
+        if geoData:
+            print(geoData['lon'], geoData['lat'])
     return geoData
 
 def getAttractionFileName(attraction):
@@ -89,136 +92,151 @@ def main():
     tripAdvisorfilePath = args.input_path
     
     output_path = args.output_path + "tripAdvisor_attractions/"
-    
     if not os.path.exists(output_path):
         os.makedirs(output_path)
     
     csvFile_attractions = open(args.output_path + 'tripAdvisor_attractions.csv', 'w')
     csvWriter_attractions = csv.writer(csvFile_attractions)
                                     #attraction,        processedKnownFor,          reviewComment,          ranking,            no_of_reviews,                  contact,        attraction_in,      address,                                                            url ,           getAttractionFileName(attraction_in)
-    #csvWriter_attractions.writerow(["attraction_name","attraction_knownFor", "attraction_reviewComment", "attraction_ranking", "attraction_no_of_reviews", "attraction_contact","attraction_in", "attraction_address","attraction_longitude", "attraction_latitude","attraction_url", "attraction_in_file"])
-    csvWriter_attractions.writerow(["attraction_name","attraction_knownFor", "attraction_reviewComment", "attraction_ranking", "attraction_no_of_reviews", "attraction_contact","attraction_in", "attraction_address","attraction_url", "attraction_in_file"])
+    csvWriter_attractions.writerow(["attraction_name","attraction_knownFor", "attraction_reviewComment", "attraction_ranking", "attraction_no_of_reviews", "attraction_contact","attraction_in", "attraction_address","attraction_longitude", "attraction_latitude","attraction_url", "attraction_in_file"])
+    #csvWriter_attractions.writerow(["attraction_name","attraction_knownFor", "attraction_reviewComment", "attraction_ranking", "attraction_no_of_reviews", "attraction_contact","attraction_in", "attraction_address","attraction_url", "attraction_in_file"])
     
-    csvFile_attraction_in = open(args.output_path + 'tripAdvisor_attraction_in.csv', 'w')
-    csvWriter_attraction_in = csv.writer(csvFile_attraction_in)
+    #csvFile_attraction_in = open(args.output_path + 'tripAdvisor_attraction_in.csv', 'w')
+    #csvWriter_attraction_in = csv.writer(csvFile_attraction_in)
                                     #attraction_in,      getAttractionFileName(attraction_in)
-    csvWriter_attraction_in.writerow(["attraction_in", "attraction_longitude", "attraction_latitude", "attraction_in_file"])
+    #csvWriter_attraction_in.writerow(["attraction_in", "attraction_longitude", "attraction_latitude", "attraction_in_file"])
 
+    global cachedGeoDataDict
+    if os.path.isfile('tripAdvisor_cachedGeoData.json'):
+        with open('tripAdvisor_cachedGeoData.json', 'r') as cache_infile:
+            print("Loaded tripAdvisor_cachedGeoData")
+            cachedGeoDataDict = json.load(cache_infile)
+    else:
+        with open('tripAdvisor_cachedGeoData.json', 'w') as cache_outfile:
+            cachedGeoDataDict = {}
+            json.dump(cachedGeoDataDict,cache_outfile)
+            print("Initialized tripAdvisor_cachedGeoData")
     
-    
-    with open(args.output_path + 'attractions_Summary.jl', 'w') as outfile:
-        with open(tripAdvisorfilePath, encoding='utf8') as infile:
-            for item in json_lines.reader(infile):
-                if 'attraction_in' in item.keys():
-                    thing = item['attraction_in'][0]
-                    if not thing:#None
-                        continue
-                    attraction_in = thing
-                    
-                    url = item.get('url',None)
-                    if not url:#None
-                        continue
+    try:
+        with open(args.output_path + 'attractions_Summary.jl', 'w') as outfile:
+            with open(tripAdvisorfilePath, encoding='utf8') as infile:
+                for item in json_lines.reader(infile):
+                    if 'attraction_in' in item.keys():
+                        thing = item['attraction_in'][0]
+                        if not thing:#None
+                            continue
+                        attraction_in = thing
                         
-                    reviewCommentList = item.get('reviewComment',None)
-                    reviewComment = ""
-                    if reviewCommentList:
-                        reviewComment = reviewCommentList[0]
-                    
-                    processedDict = {}
-                    processedDict['attraction_in'] = attraction_in
-                    
-                    if not attraction_in in attractionsDict:
-                        attractionsDict[attraction_in] = {}
-                        longitude_attraction_in = ""
-                        latitude_attraction_in = ""
-                        geoLocDict_attraction_in = getGeoCodeDict(attraction_in)
-                        if geoLocDict_attraction_in:
-                            longitude_attraction_in = geoLocDict_attraction_in['lon']
-                            latitude_attraction_in = geoLocDict_attraction_in['lat']
-                        csvWriter_attraction_in.writerow([attraction_in, longitude_attraction_in, latitude_attraction_in, getAttractionFileName(attraction_in)])
-                        
-                    knownForList = item.get('knownFor',None)
-                    processedKnownFor = ""
-                    if knownForList:
-                        knownFor = knownForList[0]
-                        processedKnownFor = (knownFor.split("As featured in")[0])
-                        processedDict['knownFor'] = processedKnownFor
-
-                    addressList = item.get('address',None)
-                    address = ""
-                    if addressList:
-                        address = addressList[0]
-                        processedDict['address'] = address
-                    #longitude_address = ""
-                    #latitude_address = ""
-                    #geoLocDict_address = getGeoCodeDict(address)
-                    #if geoLocDict_address:
-                    #    longitude_address = geoLocDict_address['lon']
-                    #    latitude_address = geoLocDict_address['lat']
-                    #processedDict['longitude'] = longitude_address
-                    #processedDict['latitude'] = latitude_address
-                    
-                    rankingList = item.get('ranking',None)
-                    ranking = ""
-                    if rankingList:
-                        ranking = rankingList[0].strip('#')
-                        processedDict['rank'] = ranking
-
-                    no_of_reviewsList = item.get('no_of_reviews',None)
-                    no_of_reviews = ""
-                    if no_of_reviewsList:
-                        no_of_reviews = no_of_reviewsList[0]
-                        processedDict['no_of_reviews'] = no_of_reviews
-                        
-                    contactList = item.get('contact',None)
-                    contact = ""
-                    if contactList:
-                        contact = contactList[0]
-                        #print(contact)
-                        #print("\t", contact.replace('-','').replace('1-','').replace(' ','').replace('\)',''))
-                        processedDict['contact'] = contact
-                    
-                    attractionList = item.get('attraction',None)
-                    if attractionList:
-                        attraction = attractionList[0]
-                        processedDict['attraction'] = attraction
-                        if not attraction in attractionsDict[attraction_in]:
-                            attractionsDict[attraction_in][attraction] = {}
-                            #csvWriter_attractions.writerow([attraction,processedKnownFor, reviewComment, ranking, no_of_reviews, contact, attraction_in, address, longitude_address, latitude_address, url , getAttractionFileName(attraction_in)])
-                            csvWriter_attractions.writerow([attraction,processedKnownFor, reviewComment, ranking, no_of_reviews, contact, attraction_in, address, url , getAttractionFileName(attraction_in)])
+                        url = item.get('url',None)
+                        if not url:#None
+                            continue
                             
-                    attractionsDict[attraction_in][attraction]['knownFor'] = processedKnownFor
-                    attractionsDict[attraction_in][attraction]['address'] = address
-                    #attractionsDict[attraction_in][attraction]['latitude'] = latitude_address
-                    #attractionsDict[attraction_in][attraction]['longitude'] = longitude_address
-                    attractionsDict[attraction_in][attraction]['rank'] = ranking
-                    attractionsDict[attraction_in][attraction]['no_of_reviews'] = no_of_reviews
-                    attractionsDict[attraction_in][attraction]['contact'] = contact
-
-                    processedDict['url'] = url
-                    #attractionsDict[attraction_in][attraction]['url'] = url
-                    if 'urls' in attractionsDict[attraction_in][attraction]:
-                        attractionsDict[attraction_in][attraction]['urls'].append(url)
-                    else:
-                        attractionsDict[attraction_in][attraction]['urls'] = [url]
-
-
-                    processedDict['reviewComment'] = reviewComment
-                    if 'reviewComments' in attractionsDict[attraction_in][attraction]:
-                        attractionsDict[attraction_in][attraction]['reviewComments'].append(reviewComment)
-                    else:
-                        attractionsDict[attraction_in][attraction]['reviewComments'] = [reviewComment]
+                        reviewCommentList = item.get('reviewComment',None)
+                        reviewComment = ""
+                        if reviewCommentList:
+                            reviewComment = reviewCommentList[0]
                         
-                    json.dump(processedDict, outfile)
-                    print(file=outfile)    
-    with open(args.output_path + 'attractions_Summary.json', 'w') as outfile:
-        json.dump(attractionsDict, outfile, indent=4)
-    total_no_of_attractions = 0
-    for attraction in attractionsDict:
-        fileName = getAttractionFileName(attraction) #attraction.replace(' ','_').lower() + ".json"
-        total_no_of_attractions += len(attractionsDict[attraction].keys())
-        with open(output_path + fileName, 'w') as outfile:
-            json.dump(attractionsDict[attraction], outfile, indent=4)
-    print("Found {} attractions in {} places.\nSummary captured in : \ntripAdvisor_attractions.csv & tripAdvisor_attraction_in.csv \nattractionSummary.jl & attractionSummary.json \nAttractions found in {}".format(total_no_of_attractions, len(attractionsDict.keys()), output_path))
+                        processedDict = {}
+                        processedDict['attraction_in'] = attraction_in
+                        
+                        if not attraction_in in attractionsDict:
+                            attractionsDict[attraction_in] = {}
+                            #longitude_attraction_in = ""
+                            #latitude_attraction_in = ""
+                            #geoLocDict_attraction_in = getGeoCodeDict(attraction_in)
+                            #if geoLocDict_attraction_in:
+                            #    longitude_attraction_in = geoLocDict_attraction_in['lon']
+                            #    latitude_attraction_in = geoLocDict_attraction_in['lat']
+                            #csvWriter_attraction_in.writerow([attraction_in, longitude_attraction_in, latitude_attraction_in, getAttractionFileName(attraction_in)])
+                            
+                        knownForList = item.get('knownFor',None)
+                        processedKnownFor = ""
+                        if knownForList:
+                            knownFor = knownForList[0]
+                            processedKnownFor = (knownFor.split("As featured in")[0])
+                            processedDict['knownFor'] = processedKnownFor
+
+                        addressList = item.get('address',None)
+                        address = ""
+                        if addressList:
+                            address = addressList[0]
+                            processedDict['address'] = address
+                        longitude_address = ""
+                        latitude_address = ""
+                        geoLocDict_address = getGeoCodeDict(address)
+                        if geoLocDict_address:
+                            longitude_address = geoLocDict_address['lon']
+                            latitude_address = geoLocDict_address['lat']
+                        processedDict['longitude'] = longitude_address
+                        processedDict['latitude'] = latitude_address
+                        
+                        rankingList = item.get('ranking',None)
+                        ranking = ""
+                        if rankingList:
+                            ranking = rankingList[0].strip('#')
+                            processedDict['rank'] = ranking
+
+                        no_of_reviewsList = item.get('no_of_reviews',None)
+                        no_of_reviews = ""
+                        if no_of_reviewsList:
+                            no_of_reviews = no_of_reviewsList[0]
+                            processedDict['no_of_reviews'] = no_of_reviews
+                            
+                        contactList = item.get('contact',None)
+                        contact = ""
+                        if contactList:
+                            contact = contactList[0]
+                            #print(contact)
+                            #print("\t", contact.replace('-','').replace('1-','').replace(' ','').replace('\)',''))
+                            processedDict['contact'] = contact
+                        
+                        attractionList = item.get('attraction',None)
+                        if attractionList:
+                            attraction = attractionList[0]
+                            processedDict['attraction'] = attraction
+                            if not attraction in attractionsDict[attraction_in]:
+                                attractionsDict[attraction_in][attraction] = {}
+                                csvWriter_attractions.writerow([attraction,processedKnownFor, reviewComment, ranking, no_of_reviews, contact, attraction_in, address, longitude_address, latitude_address, url , getAttractionFileName(attraction_in)])
+                                #csvWriter_attractions.writerow([attraction,processedKnownFor, reviewComment, ranking, no_of_reviews, contact, attraction_in, address, url , getAttractionFileName(attraction_in)])
+                                
+                        attractionsDict[attraction_in][attraction]['knownFor'] = processedKnownFor
+                        attractionsDict[attraction_in][attraction]['address'] = address
+                        attractionsDict[attraction_in][attraction]['latitude'] = latitude_address
+                        attractionsDict[attraction_in][attraction]['longitude'] = longitude_address
+                        attractionsDict[attraction_in][attraction]['rank'] = ranking
+                        attractionsDict[attraction_in][attraction]['no_of_reviews'] = no_of_reviews
+                        attractionsDict[attraction_in][attraction]['contact'] = contact
+
+                        processedDict['url'] = url
+                        #attractionsDict[attraction_in][attraction]['url'] = url
+                        if 'urls' in attractionsDict[attraction_in][attraction]:
+                            attractionsDict[attraction_in][attraction]['urls'].append(url)
+                        else:
+                            attractionsDict[attraction_in][attraction]['urls'] = [url]
+
+
+                        processedDict['reviewComment'] = reviewComment
+                        if 'reviewComments' in attractionsDict[attraction_in][attraction]:
+                            attractionsDict[attraction_in][attraction]['reviewComments'].append(reviewComment)
+                        else:
+                            attractionsDict[attraction_in][attraction]['reviewComments'] = [reviewComment]
+                            
+                        json.dump(processedDict, outfile)
+                        print(file=outfile)    
+    except HTTPError as e:
+        content = e.read()
+    finally:
+        with open('tripAdvisor_cachedGeoData.json', 'w') as outfile:
+            json.dump(cachedGeoDataDict, outfile, indent=4)
+            print("cachedGeoData dumped to tripAdvisor_cachedGeoData.json")
+        with open(args.output_path + 'attractions_Summary.json', 'w') as outfile:
+            json.dump(attractionsDict, outfile, indent=4)
+        total_no_of_attractions = 0
+        for attraction in attractionsDict:
+            fileName = getAttractionFileName(attraction) #attraction.replace(' ','_').lower() + ".json"
+            total_no_of_attractions += len(attractionsDict[attraction].keys())
+            with open(output_path + fileName, 'w') as outfile:
+                json.dump(attractionsDict[attraction], outfile, indent=4)
+        print("Found {} attractions in {} places.\nSummary captured in : \ntripAdvisor_attractions.csv & tripAdvisor_attraction_in.csv \nattractionSummary.jl & attractionSummary.json \nAttractions found in {}".format(total_no_of_attractions, len(attractionsDict.keys()), output_path))
 
 if __name__ == "__main__" : main()
