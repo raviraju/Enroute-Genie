@@ -1,12 +1,216 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD</title>
+    <meta charset="utf-8"/>
+    <style>
+
+       #right-panel {
+          font-family: 'Roboto','sans-serif';
+          line-height: 30px;
+          padding-left: 10px;
+        }
+
+        #right-panel select, #right-panel input {
+          font-size: 15px;
+        }
+
+        #right-panel select {
+          width: 100%;
+        }
+
+        #right-panel i {
+          font-size: 12px;
+        }
+        html, body {
+          height: 100%;
+          margin: 0;
+          padding: 0;
+        }
+        #map {
+          height: 100%;
+          float: left;
+          width: 63%;
+          height: 100%;
+        }
+        #right-panel {
+          float: right;
+          width: 34%;
+          height: 100%;
+        }
+        .panel {
+          height: 100%;
+          overflow: auto;
+        }
+    </style>
+    <title>Enroute Genie</title>
     <script src="js/pouchdb-6.0.7.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <!--<script src="js/pouch.js"></script>-->
-    <script src="js/db.js"></script>
+    <!--script src="js/db.js"></script-->
+    <script>
+        var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_db');
+        pouchDB.info().then(function (info) {
+            //console.log(info);
+        })
+        function computeTotalDistance(result) {
+            var total = 0;
+            var myroute = result.routes[0];
+            for (var i = 0; i < myroute.legs.length; i++) {
+                total += myroute.legs[i].distance.value;
+            }
+            total = total / 1000;
+            miles = total * 0.621371;
+            miles_rounded = Math.round(miles * 10) / 10
+            //document.getElementById('total').innerHTML = total + ' km';
+            document.getElementById('total').innerHTML = miles_rounded  + ' miles';
+        }
+        function plotDirections(map, A, B){
+            var directionsService = new google.maps.DirectionsService();
+            //var directionsDisplay = new google.maps.DirectionsRenderer();
+            //directionsDisplay.setMap(map);
+            var directionsDisplay = new google.maps.DirectionsRenderer({
+                                                                        draggable: true,
+                                                                        map: map,
+                                                                        panel: document.getElementById('right-panel')
+                                                                        });
+            directionsDisplay.addListener('directions_changed', function() {
+                computeTotalDistance(directionsDisplay.getDirections());
+            });
+            directionsService.route({
+                                    origin: A,//{'placeId': origin_place_id},
+                                    destination: B,//{'placeId': destination_place_id},
+                                    travelMode: 'DRIVING',
+                                    provideRouteAlternatives: true}, function(response, status) {
+                                                                    if (status === 'OK') {
+                                                                      directionsDisplay.setDirections(response);
+                                                                      //To Display all multiple routes in map
+                                                                      /*for (var i = 0, len = response.routes.length; i < len; i++) {
+                                                                            new google.maps.DirectionsRenderer({
+                                                                                draggable: true,
+                                                                                map: map,
+                                                                                directions: response,
+                                                                                routeIndex: i
+                                                                            });
+                                                                        }*/
+                                                                      
+                                                                    } else {
+                                                                      window.alert('Directions request failed due to ' + status);
+                                                                    }
+                                                                }
+                                    );
+        }
+        function initMap() {
+            var latlng = new google.maps.LatLng(0, 0);
+            var mapOptions = {
+                zoom: 7,
+                center: latlng,
+                mapTypeControl: true,
+                mapTypeControlOptions: {
+                    style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+                    position: google.maps.ControlPosition.TOP_RIGHT
+                }
+            }
+            var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+            var geocoder = new google.maps.Geocoder();
+            var state = "California, United States of America"
+            geocoder.geocode( { 'address': state }, function(results, status) {
+                //console.log(results, status)
+                if (status == 'OK') {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker({map: map, position: results[0].geometry.location, title: state});
+                }
+            });
+            addMentionMarkers(map);
+        };
+        function openInNewTab(url) {
+            var win = window.open(url, '_blank');
+            win.focus();
+        }
+        function addMentionMarkers(map)
+        {
+            //src_and_dest = "anaheim_and_berkeley"
+            src_and_dest = "anaheim_and_beverly hill"
+            //https://developers.google.com/maps/documentation/javascript/examples/directions-simple  TODO Drop Down
+            pouchDB.get(src_and_dest).then(function (doc) {
+                console.log(doc);
+                //console.log(doc['mentions']);
+                //Plot Src and Destinations
+                //var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
+                var image = {
+                    url: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
+                    // This marker is 20 pixels wide by 32 pixels high.
+                    size: new google.maps.Size(60, 32)
+                };
+                srcDestLatLong = []
+                for (var key in doc) {
+                    if (doc.hasOwnProperty(key)) {
+                        //console.log(key);
+                        var non_src_dest_set = new Set(["_id", "_rev", "mentions"])
+                        if (!non_src_dest_set.has(key)){
+                            //console.log(key);
+                            var latlng = new google.maps.LatLng(doc[key]['lat'], doc[key]['lon']);
+                            //console.log(latlng);
+                            srcDestLatLong.push(latlng);
+                            var marker = new google.maps.Marker({map: map, 
+                                                                position: latlng, 
+                                                                title:doc[key]['display_name'], 
+                                                                animation: google.maps.Animation.DROP,
+                                                                icon: image});
+                        }
+                    }
+                }
+                plotDirections(map, srcDestLatLong[0], srcDestLatLong[1]);
+                //Plot Mentions
+                mentionsDict = doc['mentions']
+                for (var mention in mentionsDict) {
+                    if (mentionsDict.hasOwnProperty(mention)) {
+                        //console.log(mention, mentionsDict[mention]);
+                        //for (var detail in mentionsDict[mention]){
+                            //console.log(detail, mentionsDict[mention][detail]);
+                            var latlng = new google.maps.LatLng(mentionsDict[mention]['latitude'], mentionsDict[mention]['longitude']);
+                            var marker = new google.maps.Marker({map: map, position: latlng, title:mention, animation: google.maps.Animation.DROP});
+                            var blogLinks = [];
+                            var allBlogUrls = "";
+                            for(var blogUrlIndex in mentionsDict[mention]['blogLinks']){
+                                var url = mentionsDict[mention]['blogLinks'][blogUrlIndex];
+                                var link = '<a target="_blank" href="' + url + '">Blog_' + (parseInt(blogUrlIndex)+1) + '</a>'
+                                blogLinks.push(link);
+                                allBlogUrls += link + ", ";
+                            }
+                            //console.log(blogLinks);
+                            var content = '<div id="content">'+
+                                                  '<h1 id="firstHeading" class="firstHeading">' + mention.toUpperCase() + '</h1>'+
+                                                  '<div id="bodyContent">'+
+                                                      '<p>'+
+                                                      '<br><b>Address : </b>'+ mentionsDict[mention]['address'] +
+                                                      '<br><b>Location Type : </b>'+ mentionsDict[mention]['locType'] +
+                                                      '<br><b>Closest_To : </b>'+ mentionsDict[mention]['closest_to'] +
+                                                      '<br><b>Blog References : </b>'+ allBlogUrls +
+                                                      '</p>'+
+                                                  '</div>'+
+                                            '</div>';
+                            var infowindow = new google.maps.InfoWindow();
+                            google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
+                                return function() {
+                                    infowindow.setContent(content);
+                                    infowindow.open(map,marker);
+                                };
+                            })(marker,content,infowindow)); 
+
+
+                        //}
+                    }
+                }
+            });
+        }
+    </script>
 </head>
     <body>
+    <h3>Enroute Genie Mashup</h3>
+    <div id="map"></div>
+    <div id="right-panel">
+        <p>Total Distance: <span id="total"></span></p>
+    </div>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&callback=initMap">
+    </script>
     </body>
 </html>

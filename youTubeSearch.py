@@ -1,5 +1,4 @@
-#ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie$ python youT
-#ubeSearch.py data_record_linkage_csv/california/tripAdvisor_attraction_in.csv 0
+#ravirajukrishna@ubuntu:/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie$ python youTubeSearch.py data_record_linkage_csv/california/tripAdvisor_attraction_in.csv 0
 #Fetch Links for : top attractions in San Francisco
 #Fetch Links for : top attractions in Sausalito
 #Fetch Links for : top attractions in Mill Valley
