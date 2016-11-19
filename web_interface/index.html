@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8"/>
     <style>
-
        #right-panel {
           font-family: 'Roboto','sans-serif';
           line-height: 30px;
@@ -41,15 +40,59 @@
           height: 100%;
           overflow: auto;
         }
+        #floating-panel {
+            position: absolute;
+            top: 10px;
+            left: 25%;
+            z-index: 5;
+            background-color: #fff;
+            padding: 5px;
+            border: 1px solid #999;
+            text-align: center;
+            font-family: 'Roboto','sans-serif';
+            line-height: 30px;
+            padding-left: 10px;
+          }
     </style>
     <title>Enroute Genie</title>
-    <script src="js/pouchdb-6.0.7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pouchdb/6.0.7/pouchdb.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <!--script src="js/db.js"></script-->
     <script>
         var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_db');
-        pouchDB.info().then(function (info) {
-            //console.log(info);
+        var srcDestDict = {};
+        var map;
+        var markers = [];
+        function srcChanged(src){
+            console.log("Changed : ", src);
+            var destinations = srcDestDict[src];
+            for(var dest of destinations){
+                var end = document.getElementById("end");
+                var option = document.createElement("option");
+                option.text = dest;
+                end.add(option);
+            }
+        }
+        pouchDB.allDocs().then(function (info) {
+            for(var result of info.rows){
+                srcDest = (result.id).split('_and_');
+                //console.log(srcDest[0], srcDest[1]);
+                if(srcDest[0] in srcDestDict){
+                    srcDestDict[srcDest[0]].push(srcDest[1]);
+                }else{
+                    srcDestDict[srcDest[0]] = [srcDest[1]];
+                }
+            }
+            //console.log("srcDestDict : ", srcDestDict);
+            for(var src in srcDestDict){
+                if (srcDestDict.hasOwnProperty(src)){
+                    //console.log(src);
+                    var start = document.getElementById("start");
+                    var option = document.createElement("option");
+                    option.text = src;
+                    start.add(option);
+                    //console.log(srcDestDict[src]);
+                }
+            }
         })
         function computeTotalDistance(result) {
             var total = 0;
@@ -61,9 +104,12 @@
             miles = total * 0.621371;
             miles_rounded = Math.round(miles * 10) / 10
             //document.getElementById('total').innerHTML = total + ' km';
-            document.getElementById('total').innerHTML = miles_rounded  + ' miles';
+            //document.getElementById('total').innerHTML = miles_rounded  + ' miles';
         }
         function plotDirections(map, A, B){
+            var drivingDirections = document.getElementById('right-panel');
+            if(drivingDirections)
+                drivingDirections.innerHTML = "";
             var directionsService = new google.maps.DirectionsService();
             //var directionsDisplay = new google.maps.DirectionsRenderer();
             //directionsDisplay.setMap(map);
@@ -109,7 +155,8 @@
                     position: google.maps.ControlPosition.TOP_RIGHT
                 }
             }
-            var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+            map = new google.maps.Map(document.getElementById('map'), mapOptions);
+            map.setTilt(45);
             var geocoder = new google.maps.Geocoder();
             var state = "California, United States of America"
             geocoder.geocode( { 'address': state }, function(results, status) {
@@ -119,16 +166,23 @@
                     var marker = new google.maps.Marker({map: map, position: results[0].geometry.location, title: state});
                 }
             });
-            addMentionMarkers(map);
+            //src_and_dest = "anaheim_and_berkeley"
+            src_and_dest = "anaheim_and_beverly hill"
+            //addMentionMarkers(src_and_dest);
         };
         function openInNewTab(url) {
             var win = window.open(url, '_blank');
             win.focus();
         }
-        function addMentionMarkers(map)
-        {
-            //src_and_dest = "anaheim_and_berkeley"
-            src_and_dest = "anaheim_and_beverly hill"
+        function addMentionMarkers(src_and_dest){
+            
+            for (var i = 0; i < markers.length; i++) {
+                //console.log("set markers[i] to null", markers[i]);
+                markers[i].setMap(null);
+            }
+            markers = [];
+            initMap();
+            
             //https://developers.google.com/maps/documentation/javascript/examples/directions-simple  TODO Drop Down
             pouchDB.get(src_and_dest).then(function (doc) {
                 console.log(doc);
@@ -155,6 +209,7 @@
                                                                 title:doc[key]['display_name'], 
                                                                 animation: google.maps.Animation.DROP,
                                                                 icon: image});
+                            markers.push(marker);
                         }
                     }
                 }
@@ -168,6 +223,7 @@
                             //console.log(detail, mentionsDict[mention][detail]);
                             var latlng = new google.maps.LatLng(mentionsDict[mention]['latitude'], mentionsDict[mention]['longitude']);
                             var marker = new google.maps.Marker({map: map, position: latlng, title:mention, animation: google.maps.Animation.DROP});
+                            markers.push(marker);
                             var blogLinks = [];
                             var allBlogUrls = "";
                             for(var blogUrlIndex in mentionsDict[mention]['blogLinks']){
@@ -202,15 +258,33 @@
                 }
             });
         }
+        function fetchInfo(){
+            var src = document.getElementById("start").value;
+            var dest = document.getElementById("end").value;
+            console.log(src, dest);
+            var src_and_dest = src + '_and_' + dest;
+            addMentionMarkers(src_and_dest);
+        }
     </script>
 </head>
-    <body>
+<body>
     <h3>Enroute Genie Mashup</h3>
+    <div id="floating-panel">
+        <b>Start From: </b>
+        <select id="start" onchange="srcChanged(this.value)">
+            <option value="" selected>Select an end point...</option>
+        </select>
+        <b>End At: </b>
+        <select id="end">
+            <option value="" selected>Select another end point...</option>
+        </select>
+        <button id="genieBtn" onclick="fetchInfo()">Go Genie !!! </button>
+    </div>
     <div id="map"></div>
     <div id="right-panel">
-        <p>Total Distance: <span id="total"></span></p>
+        <!--<p>Total Distance: <span id="total"></span></p>-->
     </div>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&callback=initMap">
     </script>
-    </body>
+</body>
 </html>
