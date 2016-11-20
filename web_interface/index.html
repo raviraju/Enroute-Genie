@@ -7,6 +7,8 @@
           font-family: 'Roboto','sans-serif';
           line-height: 30px;
           padding-left: 10px;
+          overflow-y: auto;
+          height: 100px;
         }
 
         #right-panel select, #right-panel input {
@@ -28,12 +30,12 @@
         #map {
           height: 100%;
           float: left;
-          width: 63%;
+          width: 75%;
           height: 100%;
         }
         #right-panel {
           float: right;
-          width: 34%;
+          width: 22%;
           height: 100%;
         }
         .panel {
@@ -233,9 +235,17 @@
                                 allBlogUrls += link + ", ";
                             }
                             //console.log(blogLinks);
+                            var youTubeId = "lyFVxRn7zzQ";//width="420" height="315"
+                            var imgUrl1 = "http://cdn.history.com/sites/2/2015/05/hith-golden-gate-144833144-E.jpeg";
+                            var imgUrl2 = "http://cdn.history.com/sites/2/2015/02/golden-gate-bridge-iStock_000019197672Large-H.jpeg";
+                            var imgUrl3 = "http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/landmark-images/golden-gate.jpg";
                             var content = '<div id="content">'+
                                                   '<h1 id="firstHeading" class="firstHeading">' + mention.toUpperCase() + '</h1>'+
                                                   '<div id="bodyContent">'+
+                                                      '<iframe width="320" height="215" src="https://www.youtube.com/embed/' + youTubeId +'"></iframe>'+
+                                                      '<img src="' + imgUrl1 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
+                                                      '<img src="' + imgUrl2 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
+                                                      '<img src="' + imgUrl3 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
                                                       '<p>'+
                                                       '<br><b>Address : </b>'+ mentionsDict[mention]['address'] +
                                                       '<br><b>Location Type : </b>'+ mentionsDict[mention]['locType'] +
@@ -244,7 +254,7 @@
                                                       '</p>'+
                                                   '</div>'+
                                             '</div>';
-                            var infowindow = new google.maps.InfoWindow();
+                            var infowindow = new google.maps.InfoWindow({maxWidth: 800});
                             google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
                                 return function() {
                                     infowindow.setContent(content);

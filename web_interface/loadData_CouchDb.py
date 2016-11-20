@@ -1,3 +1,4 @@
+#https://pythonhosted.org/CouchDB/ https://pypi.python.org/pypi/CouchDB#downloads
 #python loadData_CouchDb.py data/
 #enroute_db database exists
 #Reading data from 1 : anaheim_and_berkeley.json

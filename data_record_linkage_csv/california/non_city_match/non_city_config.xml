@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <left-data-source class="cdc.impl.datasource.text.CSVDataSource" name="blogSrc">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="blogSrc"/>
+            <param name="input-file" value="/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/non_city_match/allBlogLocation_nonCity_Mentions.csv"/>
+        </params>
+        <row-model>
+            <column column="mention_name"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_name">
+                <empty-values/>
+            </column>
+            <column column="mention_type"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_type">
+                <empty-values/>
+            </column>
+            <column column="mention_popularity"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_popularity">
+                <empty-values/>
+            </column>
+            <column column="mention_address"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_address">
+                <empty-values/>
+            </column>
+            <column column="mention_longitude"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_longitude">
+                <empty-values/>
+            </column>
+            <column column="mention_latitude"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_latitude">
+                <empty-values/>
+            </column>
+            <column column="no_of_blogFiles"
+                converter="cdc.datamodel.converters.DummyConverter" name="no_of_blogFiles">
+                <empty-values/>
+            </column>
+            <column column="mention_found_in_blogFiles"
+                converter="cdc.datamodel.converters.DummyConverter" name="mention_found_in_blogFiles">
+                <empty-values/>
+            </column>
+        </row-model>
+        <preprocessing>
+            <deduplication>
+                <deduplication-condition acceptance-level="100">
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_name" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_type" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_popularity" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_address" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_longitude" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_latitude" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="no_of_blogFiles" weight="12">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="mention_found_in_blogFiles" weight="16">
+                        <params/>
+                    </condition>
+                </deduplication-condition>
+                <hashing-function columns="mention_name" hash="equality"/>
+                <minus-file file="/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/non_city_match/blogSrcDuplicates.csv"/>
+            </deduplication>
+        </preprocessing>
+    </left-data-source>
+    <right-data-source class="cdc.impl.datasource.text.CSVDataSource" name="sourceB">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="sourceB"/>
+            <param name="input-file" value="/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/non_city_match/tripAdvisor_attractions_with_LatLong_withYouTube.csv#ENC=UTF-8#"/>
+        </params>
+        <row-model>
+            <column column="attraction_name"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_name">
+                <empty-values/>
+            </column>
+            <column column="attraction_knownFor"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_knownFor">
+                <empty-values/>
+            </column>
+            <column column="attraction_reviewComment"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_reviewComment">
+                <empty-values/>
+            </column>
+            <column column="attraction_ranking"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_ranking">
+                <empty-values/>
+            </column>
+            <column column="attraction_no_of_reviews"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_no_of_reviews">
+                <empty-values/>
+            </column>
+            <column column="attraction_contact"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_contact">
+                <empty-values/>
+            </column>
+            <column column="attraction_in"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_in">
+                <empty-values/>
+            </column>
+            <column column="attraction_address"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_address">
+                <empty-values/>
+            </column>
+            <column column="attraction_longitude"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_longitude">
+                <empty-values/>
+            </column>
+            <column column="attraction_latitude"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_latitude">
+                <empty-values/>
+            </column>
+            <column column="attraction_url"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_url">
+                <empty-values/>
+            </column>
+            <column column="attraction_in_file"
+                converter="cdc.datamodel.converters.DummyConverter" name="attraction_in_file">
+                <empty-values/>
+            </column>
+            <column column="youTubeLinkIds"
+                converter="cdc.datamodel.converters.DummyConverter" name="youTubeLinkIds">
+                <empty-values/>
+            </column>
+        </row-model>
+        <preprocessing>
+            <deduplication>
+                <deduplication-condition acceptance-level="100">
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_name" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_knownFor" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_reviewComment" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_ranking" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_no_of_reviews" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_contact" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_in" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_address" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_longitude" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_latitude" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_url" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="attraction_in_file" weight="7">
+                        <params/>
+                    </condition>
+                    <condition
+                        class="cdc.impl.distance.EqualFieldsDistance"
+                        column="youTubeLinkIds" weight="16">
+                        <params/>
+                    </condition>
+                </deduplication-condition>
+                <hashing-function columns="attraction_name" hash="equality"/>
+                <minus-file file="/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/non_city_match/tripAdvisorSrc_Dup.csv"/>
+            </deduplication>
+        </preprocessing>
+    </right-data-source>
+    <join class="cdc.impl.join.snm.SNMJoin_v1" summary-left="false" summary-right="false">
+        <params>
+            <param name="sort-order-right" value="mention_name,mention_latitude,mention_longitude"/>
+            <param name="window" value="8"/>
+            <param name="sort-order-left" value="attraction_name,attraction_latitude,attraction_longitude"/>
+        </params>
+        <join-condition class="cdc.impl.conditions.WeightedJoinCondition">
+            <params>
+                <param name="acceptance-level" value="100"/>
+            </params>
+            <condition class="cdc.impl.distance.EditDistance"
+                left-column="mention_name"
+                right-column="attraction_name" weight="50">
+                <params>
+                    <param name="math-level-end" value="0.4"/>
+                    <param name="match-level-start" value="0.2"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.NumericDistance"
+                left-column="mention_latitude"
+                right-column="attraction_latitude" weight="25">
+                <params>
+                    <param name="numeric-difference" value="0.0,0.0"/>
+                    <param name="percent-difference" value=""/>
+                    <param name="use-lineral-approximation" value="true"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.NumericDistance"
+                left-column="mention_longitude"
+                right-column="attraction_longitude" weight="25">
+                <params>
+                    <param name="numeric-difference" value="0.0,0.0"/>
+                    <param name="percent-difference" value=""/>
+                    <param name="use-lineral-approximation" value="true"/>
+                </params>
+            </condition>
+        </join-condition>
+        <row-model>
+            <column name="mention_name" source="blogSrc"/>
+            <column name="mention_type" source="blogSrc"/>
+            <column name="mention_popularity" source="blogSrc"/>
+            <column name="mention_address" source="blogSrc"/>
+            <column name="mention_longitude" source="blogSrc"/>
+            <column name="mention_latitude" source="blogSrc"/>
+            <column name="no_of_blogFiles" source="blogSrc"/>
+            <column name="mention_found_in_blogFiles" source="blogSrc"/>
+            <column name="attraction_name" source="sourceB"/>
+            <column name="attraction_knownFor" source="sourceB"/>
+            <column name="attraction_reviewComment" source="sourceB"/>
+            <column name="attraction_ranking" source="sourceB"/>
+            <column name="attraction_no_of_reviews" source="sourceB"/>
+            <column name="attraction_contact" source="sourceB"/>
+            <column name="attraction_in" source="sourceB"/>
+            <column name="attraction_address" source="sourceB"/>
+            <column name="attraction_longitude" source="sourceB"/>
+            <column name="attraction_latitude" source="sourceB"/>
+            <column name="attraction_url" source="sourceB"/>
+            <column name="attraction_in_file" source="sourceB"/>
+            <column name="youTubeLinkIds" source="sourceB"/>
+        </row-model>
+    </join>
+    <results-savers>
+        <results-saver class="cdc.impl.resultsavers.DeduplicatingResultsSaver">
+            <params>
+                <param name="delete-duplicates" value="ask"/>
+                <param name="deduplication" value="left"/>
+            </params>
+            <savers>
+                <results-saver class="cdc.impl.resultsavers.CSVFileSaver">
+                    <params>
+                        <param name="encoding" value="UTF-8"/>
+                        <param name="output-file" value="/media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/non_city_match/non_city_results.csv"/>
+                    </params>
+                </results-saver>
+            </savers>
+        </results-saver>
+    </results-savers>
+</configuration>
