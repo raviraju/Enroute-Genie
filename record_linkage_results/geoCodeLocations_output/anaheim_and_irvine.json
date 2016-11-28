@@ -1,0 +1,920 @@
+{
+    "irvine": {
+        "osm_type": "relation",
+        "lon": "-117.8259818",
+        "type": "city",
+        "boundingbox": [
+            "33.5993914",
+            "33.7736521",
+            "-117.8687518",
+            "-117.6780258"
+        ],
+        "class": "place",
+        "place_id": "159062335",
+        "osm_id": "114485",
+        "lat": "33.6856969",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "importance": 0.55,
+        "display_name": "Irvine, Orange County, California, United States of America"
+    },
+    "anaheim": {
+        "osm_type": "relation",
+        "lon": "-117.9117319",
+        "type": "city",
+        "boundingbox": [
+            "33.7889241",
+            "33.8790572",
+            "-118.017421",
+            "-117.6735594"
+        ],
+        "class": "place",
+        "place_id": "159226845",
+        "osm_id": "253985",
+        "lat": "33.8347516",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "importance": 0.79164393262363,
+        "display_name": "Anaheim, Orange County, California, United States of America"
+    },
+    "mentions": {
+        "irvine": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447",
+                "http://www.yellowpages.com/irvine-ca/places-to-volunteer",
+                "http://ocmomblog.com/category/parks/irvine/",
+                "https://www.yelp.com/topic/irvine-untraditonal-places-to-go-to-in-oc-for-a-1-month-visit",
+                "https://www.tripadvisor.com/Attractions-g32530-Activities-Irvine_California.html",
+                "http://www.movoto.com/blog/top-ten/most-boring-places-in-california/"
+            ],
+            "address": "Irvine, Orange County, California, United States of America",
+            "longitude": -117.8259818,
+            "locType": "city",
+            "latitude": 33.6856969,
+            "closest_to": "irvine"
+        },
+        "brywood park": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Brywood Park, Bryan Avenue, Northwood, Irvine, Orange County, California, 92780, United States of America",
+            "longitude": -117.772895455479,
+            "locType": "park",
+            "latitude": 33.71247895,
+            "closest_to": "irvine"
+        },
+        "hotel irvine": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Hotel Irvine, Park Plaza, Westpark, Irvine, Orange County, California, 92614, United States of America",
+            "longitude": -117.840246764526,
+            "locType": "hotel",
+            "latitude": 33.6778967,
+            "closest_to": "irvine"
+        },
+        "pacific coast highway": {
+            "blogLinks": [
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "longitude": -118.0051687,
+            "locType": "primary",
+            "latitude": 33.6595127,
+            "closest_to": "irvine"
+        },
+        "octa": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "OCTA, La Palma Avenue, Anaheim, Orange County, California, 92807, United States of America",
+            "longitude": -117.8426734,
+            "locType": "bus_stop",
+            "latitude": 33.8546846,
+            "closest_to": "anaheim"
+        },
+        "chapman ave.": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Chapman Avenue, Garden Grove, Orange County, California, 92840, United States of America",
+            "longitude": -117.9196634,
+            "locType": "primary",
+            "latitude": 33.7888647,
+            "closest_to": "irvine"
+        },
+        "fashion island": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Fashion Island, Newport Center, Newport Beach, Orange County, California, 62660, United States of America",
+            "longitude": -117.872907649816,
+            "locType": "retail;commercial;residential",
+            "latitude": 33.61476865,
+            "closest_to": "irvine"
+        },
+        "anaheim/orange county": {
+            "blogLinks": [
+                "http://www.wegoplaces.com/things-to-do-in-anaheim-ca"
+            ],
+            "address": "Anaheim, Orange County, California, United States of America",
+            "longitude": -117.9117319,
+            "locType": "city",
+            "latitude": 33.8347516,
+            "closest_to": "anaheim"
+        },
+        "santa ana freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santa Ana Freeway, West Anaheim, Anaheim, Orange County, California, 92801, United States of America",
+            "longitude": -117.9707394,
+            "locType": "motorway",
+            "latitude": 33.8512853,
+            "closest_to": "anaheim"
+        },
+        "santa ana": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "longitude": -117.8732212,
+            "locType": "city",
+            "latitude": 33.7494951,
+            "closest_to": "irvine"
+        },
+        "glassell": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "South Glassell Street, Orange, Orange County, California, 92866, United States of America",
+            "longitude": -117.8531339,
+            "locType": "secondary",
+            "latitude": 33.7800634,
+            "closest_to": "irvine"
+        },
+        "villa park": {
+            "blogLinks": [
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Villa Park, Orange County, California, United States of America",
+            "longitude": -117.8206234,
+            "locType": "city",
+            "latitude": 33.8147541,
+            "closest_to": "irvine"
+        },
+        "balboa pavilion": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Balboa Pavilion, East Bay Avenue, Balboa Island, Newport Beach, Orange County, California, 92661, United States of America",
+            "longitude": -117.898871851149,
+            "locType": "yes",
+            "latitude": 33.60270825,
+            "closest_to": "irvine"
+        },
+        "beacon park": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Beacon Park, 501, Benchmark, El Camino Real, Irvine, Orange County, California, 92618, United States of America",
+            "longitude": -117.733413996379,
+            "locType": "park",
+            "latitude": 33.6886299,
+            "closest_to": "irvine"
+        },
+        "titan stadium": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Titan Stadium, Yorba Linda Boulevard, Fullerton, Orange County, California, 92831, United States of America",
+            "longitude": -117.886978160197,
+            "locType": "stadium",
+            "latitude": 33.8866744,
+            "closest_to": "anaheim"
+        },
+        "south - orange county": {
+            "blogLinks": [
+                "http://www.wegoplaces.com/things-to-do-in-anaheim-ca"
+            ],
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "longitude": -117.667997530973,
+            "locType": "yes",
+            "latitude": 33.6589297,
+            "closest_to": "irvine"
+        },
+        "sunny hills": {
+            "blogLinks": [
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Sunny Hills, Orange County, California, United States of America",
+            "longitude": -117.936588,
+            "locType": "hamlet",
+            "latitude": 33.8992488,
+            "closest_to": "anaheim"
+        },
+        "san gabriel river freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "San Gabriel River Freeway, Cerritos, Los Angeles County, California, 90713, United States of America",
+            "longitude": -118.0960848,
+            "locType": "motorway",
+            "latitude": 33.858588,
+            "closest_to": "anaheim"
+        },
+        "honda center": {
+            "blogLinks": [
+                "http://www.wegoplaces.com/things-to-do-in-anaheim-ca"
+            ],
+            "address": "Honda Center, 2695, East Katella Avenue, Anaheim Resort District, Anaheim, Orange County, California, 92806, United States of America",
+            "longitude": -117.876533859295,
+            "locType": "stadium",
+            "latitude": 33.80783155,
+            "closest_to": "irvine"
+        },
+        "harbor boulevard": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "longitude": -117.9152933,
+            "locType": "primary",
+            "latitude": 33.8172821,
+            "closest_to": "irvine"
+        },
+        "orangethorpe": {
+            "blogLinks": [
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Orangethorpe Avenue, Anaheim Hills, Anaheim, Orange County, California, 92807, United States of America",
+            "longitude": -117.7960034,
+            "locType": "primary",
+            "latitude": 33.8632511,
+            "closest_to": "anaheim"
+        },
+        "boston": {
+            "blogLinks": [
+                "https://www.apartmentlist.com/ca/anaheim"
+            ],
+            "address": "Boston, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "longitude": -117.7757132,
+            "locType": "residential",
+            "latitude": 33.696779,
+            "closest_to": "irvine"
+        },
+        "westminster": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Westminster, Orange County, California, United States of America",
+            "longitude": -117.985892,
+            "locType": "city",
+            "latitude": 33.7578041,
+            "closest_to": "irvine"
+        },
+        "placentia": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Placentia, Orange County, California, United States of America",
+            "longitude": -117.8617336,
+            "locType": "city",
+            "latitude": 33.8714814,
+            "closest_to": "anaheim"
+        },
+        "placentia ave ste a4costa mesa": {
+            "blogLinks": [
+                "http://www.yellowpages.com/irvine-ca/places-to-volunteer"
+            ],
+            "address": "Placentia Avenue, Costa Mesa, Orange County, California, 92627, United States of America",
+            "longitude": -117.9320942,
+            "locType": "tertiary",
+            "latitude": 33.6508847,
+            "closest_to": "irvine"
+        },
+        "anaheim canyon": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Anaheim Canyon, La Palma Avenue, Anaheim, Orange County, California, 92807, United States of America",
+            "longitude": -117.8404978,
+            "locType": "station",
+            "latitude": 33.8542053,
+            "closest_to": "anaheim"
+        },
+        "disney california adventure park": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "DCA, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "longitude": -117.919940244086,
+            "locType": "theme_park",
+            "latitude": 33.80638705,
+            "closest_to": "irvine"
+        },
+        "floral park": {
+            "blogLinks": [
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Floral Park, Cherry Tree, Cypress Village, Irvine, Orange County, California, 92709, United States of America",
+            "longitude": -117.755937348593,
+            "locType": "park",
+            "latitude": 33.688295,
+            "closest_to": "irvine"
+        },
+        "newport center": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Newport Center, Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.8753277,
+            "locType": "suburb",
+            "latitude": 33.6161794,
+            "closest_to": "irvine"
+        },
+        "irvine park railroad": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America",
+            "longitude": -117.754123588843,
+            "locType": "yes",
+            "latitude": 33.7962496,
+            "closest_to": "irvine"
+        },
+        "disneyland resort": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "DLR, Mill View Lane, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "longitude": -117.921900616601,
+            "locType": "administrative",
+            "latitude": 33.81193845,
+            "closest_to": "irvine"
+        },
+        "lake forest": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "longitude": -117.6859212,
+            "locType": "city",
+            "latitude": 33.6469261,
+            "closest_to": "irvine"
+        },
+        "balboa island": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.8920818,
+            "locType": "suburb",
+            "latitude": 33.6064778,
+            "closest_to": "irvine"
+        },
+        "anaheim hills": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Anaheim Hills, Anaheim, Orange County, California, United States of America",
+            "longitude": -117.7773861,
+            "locType": "suburb",
+            "latitude": 33.8444082,
+            "closest_to": "irvine"
+        },
+        "huntington beach": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html"
+            ],
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "longitude": -118.0000165,
+            "locType": "city",
+            "latitude": 33.6783336,
+            "closest_to": "irvine"
+        },
+        "balboa island ferry": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Balboa Island Ferry, Palm Street, Balboa Island, Newport Beach, Orange County, California, 92661, United States of America",
+            "longitude": -117.9002154,
+            "locType": "ferry_terminal",
+            "latitude": 33.6035099,
+            "closest_to": "irvine"
+        },
+        "balboa peninsula": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.8860521,
+            "locType": "suburb",
+            "latitude": 33.5975,
+            "closest_to": "irvine"
+        },
+        "santa ana valley": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "longitude": -117.8732212,
+            "locType": "city",
+            "latitude": 33.7494951,
+            "closest_to": "irvine"
+        },
+        "orange freeway": {
+            "blogLinks": [
+                "https://www.apartmentlist.com/ca/anaheim"
+            ],
+            "address": "Orange Freeway, Anaheim Resort District, Anaheim, Orange County, California, 92868, United States of America",
+            "longitude": -117.8788796,
+            "locType": "motorway",
+            "latitude": 33.8101232,
+            "closest_to": "irvine"
+        },
+        "costa mesa freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Costa Mesa Freeway, Anaheim, Orange County, California, 92865, United States of America",
+            "longitude": -117.830154,
+            "locType": "motorway",
+            "latitude": 33.8423894,
+            "closest_to": "irvine"
+        },
+        "san diego creek trail": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "San Diego Creek Trail, Woodbridge, Irvine, Orange County, California, 92614, United States of America",
+            "longitude": -117.8038448,
+            "locType": "cycleway",
+            "latitude": 33.6795768,
+            "closest_to": "irvine"
+        },
+        "garden grove": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Garden Grove, Orange County, California, United States of America",
+            "longitude": -117.9463716,
+            "locType": "city",
+            "latitude": 33.7746292,
+            "closest_to": "irvine"
+        },
+        "anaheim stadium": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Angel Stadium of Anaheim, South Douglass Road, Anaheim Resort District, Anaheim, Orange County, California, 92806, United States of America",
+            "longitude": -117.881742527598,
+            "locType": "stadium",
+            "latitude": 33.8002599,
+            "closest_to": "irvine"
+        },
+        "rancho los alamitos": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Rancho Alamitos High School, Dale Street, Koreatown, Garden Grove, Orange County, California, 92841, United States of America",
+            "longitude": -117.986659907091,
+            "locType": "school",
+            "latitude": 33.79819705,
+            "closest_to": "anaheim"
+        },
+        "angel stadium": {
+            "blogLinks": [
+                "https://www.apartmentlist.com/ca/anaheim",
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Angel Stadium of Anaheim, South Douglass Road, Anaheim Resort District, Anaheim, Orange County, California, 92806, United States of America",
+            "longitude": -117.881742527598,
+            "locType": "stadium",
+            "latitude": 33.8002599,
+            "closest_to": "irvine"
+        },
+        "santiago canyon": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santiago Canyon Landfill, 3099, Cowan Heights, Orange County, California, 92869, United States of America",
+            "longitude": -117.733124211204,
+            "locType": "landfill",
+            "latitude": 33.78114255,
+            "closest_to": "irvine"
+        },
+        "artesia freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Artesia Freeway, West Anaheim, Anaheim, Orange County, California, 90621, United States of America",
+            "longitude": -117.9841536,
+            "locType": "motorway",
+            "latitude": 33.8562322,
+            "closest_to": "anaheim"
+        },
+        "beach boulevard": {
+            "blogLinks": [
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html"
+            ],
+            "address": "Beach Boulevard, Huntington Beach, Orange County, California, 92648, United States of America",
+            "longitude": -117.988908,
+            "locType": "primary",
+            "latitude": 33.6894319,
+            "closest_to": "irvine"
+        },
+        "disneyland park": {
+            "blogLinks": [
+                "http://www.wegoplaces.com/things-to-do-in-anaheim-ca"
+            ],
+            "address": "Disneyland Park, Attraction Exit, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "longitude": -117.91971186569,
+            "locType": "theme_park",
+            "latitude": 33.8136367,
+            "closest_to": "irvine"
+        },
+        "buena park": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Buena Park, Orange County, California, United States of America",
+            "longitude": -117.9962164,
+            "locType": "city",
+            "latitude": 33.870413,
+            "closest_to": "anaheim"
+        },
+        "fullerton": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447"
+            ],
+            "address": "Fullerton, Orange County, California, United States of America",
+            "longitude": -117.9294164,
+            "locType": "city",
+            "latitude": 33.8708215,
+            "closest_to": "anaheim"
+        },
+        "knollcrest park": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Knollcrest Park, Quail Hill Parkway, Woodbridge, Irvine, Orange County, California, 92603, United States of America",
+            "longitude": -117.773902417266,
+            "locType": "park",
+            "latitude": 33.6487968,
+            "closest_to": "irvine"
+        },
+        "newport beach": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/",
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.92944,
+            "locType": "city",
+            "latitude": 33.6170092,
+            "closest_to": "irvine"
+        },
+        "aliso creek": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Aliso Creek, Laguna Woods, Orange County, California, United States of America",
+            "longitude": -117.7034805,
+            "locType": "stream",
+            "latitude": 33.602558,
+            "closest_to": "irvine"
+        },
+        "laguna freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Laguna Freeway, Woodbridge, Irvine, Orange County, California, 92618, United States of America",
+            "longitude": -117.7613863,
+            "locType": "motorway",
+            "latitude": 33.6516295,
+            "closest_to": "irvine"
+        },
+        "university community park": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "University Community Park, Beech Tree Lane, Turtle Rock, Irvine, Orange County, California, 92612, United States of America",
+            "longitude": -117.818749958995,
+            "locType": "park",
+            "latitude": 33.6605916,
+            "closest_to": "irvine"
+        },
+        "soak city": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Knott's Soak City USA, Beach Boulevard, Buena Park, Orange County, California, 90620, United States of America",
+            "longitude": -117.994935228187,
+            "locType": "theme_park",
+            "latitude": 33.8412877,
+            "closest_to": "anaheim"
+        },
+        "fountain valley": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Fountain Valley, Orange County, California, United States of America",
+            "longitude": -117.9627348,
+            "locType": "city",
+            "latitude": 33.7038145,
+            "closest_to": "irvine"
+        },
+        "downtown santa ana": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Downtown Santa Ana Historic District, North Sycamore Street, Santa Ana, Orange County, California, 92701, United States of America",
+            "longitude": -117.8686671,
+            "locType": "park",
+            "latitude": 33.7489063,
+            "closest_to": "irvine"
+        },
+        "peralta hills": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Peralta Hills, Orange County, California, United States of America",
+            "longitude": -117.817834,
+            "locType": "hamlet",
+            "latitude": 33.8444601,
+            "closest_to": "irvine"
+        },
+        "topeka": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Topeka, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "longitude": -117.7703945,
+            "locType": "residential",
+            "latitude": 33.6911755,
+            "closest_to": "irvine"
+        },
+        "tustin ranch": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Tustin Ranch, Tustin, Orange County, California, United States of America",
+            "longitude": -117.7860512,
+            "locType": "suburb",
+            "latitude": 33.7382811,
+            "closest_to": "irvine"
+        },
+        "brea mall": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Brea Mall, Downtown Brea, Brea, Orange County, California, 92821, United States of America",
+            "longitude": -117.88632442245,
+            "locType": "retail",
+            "latitude": 33.9152037,
+            "closest_to": "anaheim"
+        },
+        "santa ana river": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santa Ana River, Anaheim, Orange County, California, United States of America",
+            "longitude": -117.8400508,
+            "locType": "river",
+            "latitude": 33.847255,
+            "closest_to": "irvine"
+        },
+        "disneyland": {
+            "blogLinks": [
+                "https://www.apartmentlist.com/ca/anaheim",
+                "https://www.pinterest.com/pin/201043570838661673/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "longitude": -117.91971186569,
+            "locType": "theme_park",
+            "latitude": 33.8136367,
+            "closest_to": "irvine"
+        },
+        "pacific city": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Pacific City, Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "longitude": -117.9979236,
+            "locType": "mall",
+            "latitude": 33.6550833,
+            "closest_to": "irvine"
+        },
+        "anaheim": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447",
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html",
+                "http://www.yellowpages.com/irvine-ca/places-to-volunteer",
+                "https://www.yelp.com/topic/irvine-untraditonal-places-to-go-to-in-oc-for-a-1-month-visit",
+                "https://www.apartmentlist.com/ca/anaheim",
+                "http://visitanaheim.org/",
+                "http://visitanaheim.org/explore",
+                "https://www.pinterest.com/pin/201043570838661673/",
+                "http://www.wegoplaces.com/things-to-do-in-anaheim-ca"
+            ],
+            "address": "Anaheim, Orange County, California, United States of America",
+            "longitude": -117.9117319,
+            "locType": "city",
+            "latitude": 33.8347516,
+            "closest_to": "anaheim"
+        },
+        "the balboa peninsula": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.8860521,
+            "locType": "suburb",
+            "latitude": 33.5975,
+            "closest_to": "irvine"
+        },
+        "newport beach ca": {
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "longitude": -117.92944,
+            "locType": "city",
+            "latitude": 33.6170092,
+            "closest_to": "irvine"
+        },
+        "tustin": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Tustin, Orange County, California, United States of America",
+            "longitude": -117.8261659,
+            "locType": "city",
+            "latitude": 33.7458511,
+            "closest_to": "irvine"
+        },
+        "south orange county": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "longitude": -117.667997530973,
+            "locType": "yes",
+            "latitude": 33.6589297,
+            "closest_to": "irvine"
+        },
+        "quail hill irvine": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Quail Hill Shopping Center, Woodbridge, Irvine, Orange County, California, 92603, United States of America",
+            "longitude": -117.779042025334,
+            "locType": "retail",
+            "latitude": 33.65475605,
+            "closest_to": "irvine"
+        },
+        "garden grove freeway": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Garden Grove Freeway, Santa Ana, Orange County, California, 92866, United States of America",
+            "longitude": -117.8468428,
+            "locType": "motorway",
+            "latitude": 33.7755751,
+            "closest_to": "irvine"
+        },
+        "valley oak park": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "Valley Oak Park, San Diego Creek Bike Trail, Woodbridge, Irvine, Orange County, California, 92620, United States of America",
+            "longitude": -117.775492771241,
+            "locType": "park",
+            "latitude": 33.66655605,
+            "closest_to": "irvine"
+        },
+        "new hampshire": {
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "address": "New Hampshire, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "longitude": -117.7905719,
+            "locType": "residential",
+            "latitude": 33.7157856,
+            "closest_to": "irvine"
+        },
+        "newport harbor": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Newport Harbor Nautical Museum, 18th Street, Balboa Island, Newport Beach, Orange County, California, 92663, United States of America",
+            "longitude": -117.9245022,
+            "locType": "museum",
+            "latitude": 33.6083549,
+            "closest_to": "irvine"
+        },
+        "orange county": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "https://www.pinterest.com/avelyncvb/places-to-go-in-and-around-orange-county-ca/",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447",
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html",
+                "http://ocmomblog.com/category/parks/irvine/",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.apartmentlist.com/ca/anaheim",
+                "https://www.pinterest.com/pin/201043570838661673/",
+                "https://www.tripadvisor.com/Attractions-g29092-Activities-Anaheim_California.html"
+            ],
+            "address": "Orange County, California, United States of America",
+            "longitude": -117.870493,
+            "locType": "administrative",
+            "latitude": 33.7500378,
+            "closest_to": "irvine"
+        },
+        "orange": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Orange County, California, United States of America",
+            "longitude": -117.870493,
+            "locType": "administrative",
+            "latitude": 33.7500378,
+            "closest_to": "irvine"
+        },
+        "laguna beach": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California",
+                "http://traveltips.usatoday.com/beaches-anaheim-california-106258.html",
+                "https://www.pinterest.com/pin/201043570838661673/",
+                "http://www.ocweekly.com/news/the-5-best-cities-in-orange-county-for-oc-newbies-to-move-to-6465447",
+                "https://www.yelp.com/topic/irvine-untraditonal-places-to-go-to-in-oc-for-a-1-month-visit"
+            ],
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "longitude": -117.7834146,
+            "locType": "city",
+            "latitude": 33.5420888,
+            "closest_to": "irvine"
+        },
+        "north orange county": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "N, Portola Parkway, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+            "longitude": -117.67368765,
+            "locType": "yes",
+            "latitude": 33.6876849,
+            "closest_to": "irvine"
+        },
+        "orange county california": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Orange County, California, United States of America",
+            "longitude": -117.870493,
+            "locType": "administrative",
+            "latitude": 33.7500378,
+            "closest_to": "irvine"
+        },
+        "costa mesa": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "longitude": -117.9033169,
+            "locType": "city",
+            "latitude": 33.6633386,
+            "closest_to": "irvine"
+        },
+        "brea": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Brea, Orange County, California, United States of America",
+            "longitude": -117.8888556,
+            "locType": "city",
+            "latitude": 33.9170444,
+            "closest_to": "anaheim"
+        },
+        "west santa ana branch": {
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Orange_County,_California"
+            ],
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "longitude": -117.8732212,
+            "locType": "city",
+            "latitude": 33.7494951,
+            "closest_to": "irvine"
+        }
+    }
+}

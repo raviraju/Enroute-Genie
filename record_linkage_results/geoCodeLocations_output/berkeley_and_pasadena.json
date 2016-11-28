@@ -1,0 +1,611 @@
+{
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "pasadena": {
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "lon": "-118.1444778",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.7778961552687,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.1476452",
+        "osm_id": "3529725",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159486921",
+        "display_name": "Pasadena, Los Angeles County, California, United States of America"
+    },
+    "mentions": {
+        "monterey bay": {
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.7999557",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay"
+        },
+        "memorial park": {
+            "longitude": "-118.1474915",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1484733",
+            "address": "Memorial Park, Holly Street, Pasadena, Los Angeles County, California, 91102, United States of America",
+            "locType": "station"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Los-Angeles/TravelFromHistory/9439290.aspx",
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "san luis obispo county": {
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.3540209",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "el segundo": {
+            "longitude": "-118.3829549",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9122175",
+            "address": "El Segundo, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific coast highway": {
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6595127",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary"
+        },
+        "monterey bay aquarium": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "westchester": {
+            "longitude": "-118.4006321",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9597349",
+            "address": "Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Pasadena/MapHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-Berkeley/FlightHistory/27162160.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Pasadena/TravelTimeHistory/29611742.aspx",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.distancesfrom.com/us/how-far-is-Pasadena-from-Berkeley/HowFarHistory/18160320.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Los-Angeles/TravelFromHistory/9439290.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Pasadena/TravelFromHistory/29611742.aspx",
+                "https://www.ridebooker.com/transfers/pasadena-ca/berkeley-ca",
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx",
+                "https://www.ridebooker.com/transfers/berkeley-ca/pasadena-ca/van",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Pasadena/DirectionHistory/29611742.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "culver city": {
+            "longitude": "-118.3964664",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0211224",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "altadena": {
+            "longitude": "-118.1352328",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1863161",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "ca": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Pasadena/MapHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-Berkeley/FlightHistory/27162160.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Pasadena/TravelTimeHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Pasadena-from-Berkeley/HowFarHistory/18160320.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Los-Angeles/TravelFromHistory/9439290.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Pasadena/TravelFromHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "eagle rock": {
+            "longitude": "-118.6053476",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.4723736",
+            "address": "Eagle Rock, Los Angeles County, California, United States of America",
+            "locType": "island"
+        },
+        "hollywood blvd": {
+            "longitude": "-118.32684",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1016312",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Pasadena/MapHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-Berkeley/FlightHistory/27162160.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Pasadena/TravelTimeHistory/29611742.aspx",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.distancesfrom.com/us/how-far-is-Pasadena-from-Berkeley/HowFarHistory/18160320.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Pasadena/TravelFromHistory/29611742.aspx",
+                "https://www.ridebooker.com/transfers/pasadena-ca/berkeley-ca",
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.ridebooker.com/transfers/berkeley-ca/pasadena-ca/van",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Pasadena/DirectionHistory/29611742.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "hollywood": {
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1028268",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "burbank": {
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1816482",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "usa": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Pasadena-to-Berkeley/FlightHistory/27162160.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Pasadena-from-Berkeley/HowFarHistory/18160320.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "rosemead": {
+            "longitude": "-118.0879762",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0676169",
+            "address": "Rosemead, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "south pasadena": {
+            "longitude": "-118.147829",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1133062",
+            "address": "South Pasadena, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "wilshire": {
+            "longitude": "-117.9034923",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7805094",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "locType": "service"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "monterey": {
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Pasadena-from-Berkeley/HowFarHistory/18160320.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.5844165",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "china town": {
+            "longitude": "-122.407568",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7963119",
+            "address": "China Town, Duncombe Alley, Chinatown, SF, California, 94133, United States of America",
+            "locType": "marketplace"
+        },
+        "monrovia": {
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1483499",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "highland ave.": {
+            "longitude": "-117.1953088",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.135757",
+            "address": "Highland Avenue, San Bernardino, San Bernardino County, California, 92346, United States of America",
+            "locType": "primary"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "union station": {
+            "longitude": "-118.235796451972",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0560576",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "yes"
+        },
+        "santa fe springs": {
+            "longitude": "-118.0676102",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9482434",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "san marino": {
+            "longitude": "-118.1057393",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1215947",
+            "address": "San Marino, Los Angeles County, California, United States of America",
+            "locType": "town"
+        },
+        "pasadena route": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Pasadena/TravelFromHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Pasadena/DirectionHistory/29611742.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Pasadena/TravelTimeHistory/29611742.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "santa barbara": {
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4221319",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "american riviera": {
+            "longitude": "-121.3602199",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.576666",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary"
+        },
+        "metro": {
+            "longitude": "-118.4710141",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9880063",
+            "address": "Metro, Windward Circle, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "bus_station"
+        },
+        "hollywood hills": {
+            "longitude": "-118.3355473",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1311792",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "los angeles route": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Los-Angeles/TravelFromHistory/9439290.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "northern california": {
+            "longitude": "-117.1545973",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/berkeley-ca/pasadena-ca/van"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "32.7349196",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality"
+        },
+        "el cerrito": {
+            "longitude": "-117.52079768812",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.8410146",
+            "address": "El Cerrito, Quebec Avenue, El Cerrito, Pepper Corner, Riverside County, California, 92881, United States of America",
+            "locType": "administrative"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        },
+        "santa monica": {
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0195598",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "pismo beach": {
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "35.1427533",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "highland park": {
+            "longitude": "-118.1969827",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1099469",
+            "address": "Highland Park, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "carmel-by-the-sea": {
+            "longitude": "-121.9232878",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.5552387",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Pasadena/DirectionHistory/29611742.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "sierra madre villa": {
+            "longitude": "-118.0811921",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1478094",
+            "address": "Sierra Madre Villa, Foothill Freeway, Pasadena, Los Angeles County, California, 91107, United States of America",
+            "locType": "station"
+        },
+        "albany": {
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88687",
+            "address": "Albany, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "berkeley route": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Berkeley/DirectionHistory/19520539.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "memorial station": {
+            "longitude": "-122.4210812",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3544076-Hollywood_to_Pasadena_by_bus_taxi-California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8017451",
+            "address": "George Sterling Memorial, Lombard Street, Russian Hill, SF, California, 941234, United States of America",
+            "locType": "memorial"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Los-Angeles/TravelFromHistory/9439290.aspx"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/berkeley-ca/pasadena-ca/van"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        }
+    }
+}

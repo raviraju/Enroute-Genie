@@ -1,0 +1,545 @@
+{
+    "san diego": {
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "lon": "-117.1627713",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.93342309681118,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "32.7174209",
+        "osm_id": "253832",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "157988328",
+        "display_name": "San Diego, San Diego County, California, United States of America"
+    },
+    "big bear lake": {
+        "boundingbox": [
+            "34.2375569",
+            "34.2689983",
+            "-116.9775303",
+            "-116.8663043"
+        ],
+        "importance": 0.80624782713774,
+        "class": "natural",
+        "osm_id": "4045674",
+        "type": "water",
+        "lon": "-116.932209587315",
+        "osm_type": "relation",
+        "place_id": "159717820",
+        "lat": "34.253293",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
+    },
+    "mentions": {
+        "los angeles harbor": {
+            "longitude": "-118.2675706",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.7097418",
+            "address": "Los Angeles Harbor, Miner Street, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "locType": "bay"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "https://www.pinterest.com/kissthefaceofG/southern-ca-trips/",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "fawnskin": {
+            "longitude": "-116.9425341",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2680621",
+            "address": "Fawnskin, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "la jolla": {
+            "longitude": "-117.2742085",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "32.8472711",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb"
+        },
+        "moonridge": {
+            "longitude": "-116.8555852",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.2352857",
+            "address": "Moonridge, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "https://www.pinterest.com/kissthefaceofG/southern-ca-trips/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "hilton garden inn san bernardino": {
+            "longitude": "-117.55450015",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.0790286",
+            "address": "Hilton Garden Inn, 11481, Mission Vista Drive, Rancho Cucamonga, San Bernardino County, California, 91730, United States of America",
+            "locType": "hotel"
+        },
+        "newport beach": {
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.6170092",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "arizona": {
+            "longitude": "-117.5060679",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.4631398",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track"
+        },
+        "yucca valley": {
+            "longitude": "-116.413654309413",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.14154",
+            "address": "Yucca Valley, San Bernardino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "mojave desert": {
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "35.1456319",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert"
+        },
+        "arrowhead": {
+            "longitude": "-117.2872653",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.1477879",
+            "address": "Arrowhead, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "baker": {
+            "longitude": "-117.6675603",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "35.0421963",
+            "address": "Baker, Kern County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "inland empire": {
+            "longitude": "-117.16947092864",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.73849885",
+            "address": "Inland Empire Energy Center, Romoland, Riverside County, California, 92585, United States of America",
+            "locType": "industrial"
+        },
+        "camp rock road": {
+            "longitude": "-116.8579099",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.450908",
+            "address": "Camp Rock Road, San Bernardino County, California, 92356, United States of America",
+            "locType": "tertiary"
+        },
+        "victorville": {
+            "longitude": "-117.2911564",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.5361067",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "redlands": {
+            "longitude": "-117.248983896912",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.069909",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "halloran springs": {
+            "longitude": "-115.890563",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "35.372481",
+            "address": "Halloran Springs, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san bernardino county": {
+            "longitude": "-116.0833143",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.8253019",
+            "address": "San Bernardino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "big bear lake": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html",
+                "http://gocalifornia.about.com/od/cabigbear/",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "big bear": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "canada": {
+            "longitude": "-117.7641381",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.7298842",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential"
+        },
+        "inland center mall": {
+            "longitude": "-117.297473820788",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.08506055",
+            "address": "Inland Center, West Central Avenue, Inland Center, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "mall"
+        },
+        "old town inn": {
+            "longitude": "-117.2007533",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "32.7518995",
+            "address": "Old Town Inn, 4444, Pacific Highway, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "hotel"
+        },
+        "pahvant valley": {
+            "longitude": "-117.3546299",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.207317",
+            "address": "Pahvant Street, Oceanside, San Diego County, California, 92054, United States of America",
+            "locType": "residential"
+        },
+        "silver dry lake": {
+            "longitude": "-116.110943804023",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "35.33791495",
+            "address": "Silver Lake (Dry), Death Valley Road, San Bernardino County, California, 92309, United States of America",
+            "locType": "mud"
+        },
+        "north san diego": {
+            "longitude": "-117.2194385",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "32.7976084",
+            "address": "Northwest, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential"
+        },
+        "north shore drive": {
+            "longitude": "-117.5868906",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.0146349",
+            "address": "North Shore Drive, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "residential"
+        },
+        "boulder bay park": {
+            "longitude": "-116.949195007263",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.23859285",
+            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "park"
+        },
+        "north shore": {
+            "longitude": "-117.1842077",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2680613",
+            "address": "North Shore, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san bernardino": {
+            "longitude": "-117.2897651",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "34.1083449",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "hemet": {
+            "longitude": "-117.035766536246",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.778562",
+            "address": "Hemet, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "bellagio": {
+            "longitude": "-117.7012358",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.5203333",
+            "address": "Bellagio, Laguna Niguel, Orange County, California, 92677, United States of America",
+            "locType": "residential"
+        },
+        "mall of victor valley": {
+            "longitude": "-117.347349",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.4736697",
+            "address": "The Mall of Victor Valley, Amargosa Road, Victorville, San Bernardino County, California, 92392, United States of America",
+            "locType": "mall"
+        },
+        "amboy": {
+            "longitude": "-115.744441",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k4277257-Places_to_visit_round_trip_between_Las_Vegas_San_Diego-San_Diego_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.5577721",
+            "address": "Amboy, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.pinterest.com/kissthefaceofG/southern-ca-trips/",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k4277257-Places_to_visit_round_trip_between_Las_Vegas_San_Diego-San_Diego_California.html",
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.pinterest.com/kissthefaceofG/southern-ca-trips/",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "stanfield cutoff": {
+            "longitude": "-116.8845335",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2601412",
+            "address": "Stanfield Cutoff, Minnelusa, San Bernardino County, California, 92314, United States of America",
+            "locType": "tertiary"
+        },
+        "anaheim": {
+            "longitude": "-117.9117319",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.8347516",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "' desert hills": {
+            "longitude": "-116.5525497",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.8208901",
+            "address": "Desert Hills, San Jacinto Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "hotel"
+        },
+        "mallard bay": {
+            "longitude": "-117.0563279",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "san diego",
+            "latitude": "32.729572",
+            "address": "Mallard Street, Encanto, San Diego, San Diego County, California, 92114, United States of America",
+            "locType": "residential"
+        },
+        "wolf creek resort": {
+            "longitude": "-117.916002460128",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.7789302",
+            "address": "Great Wolf Lodge, Harbor Boulevard, Garden Grove, Orange County, California, 92840, United States of America",
+            "locType": "hotel"
+        },
+        "big bear snow play": {
+            "longitude": "-116.86709685",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.25837955",
+            "address": "Big Bear Snow Play, Big Bear Lake, San Bernardino County, California, 92314, United States of America",
+            "locType": "winter_sports"
+        },
+        "desert hills": {
+            "longitude": "-116.5525497",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.8208901",
+            "address": "Desert Hills, San Jacinto Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "hotel"
+        },
+        "luckie park": {
+            "longitude": "-116.0380661",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "35.1485944",
+            "address": "Luckie Park, Mojave Road, San Bernardino County, California, United States of America",
+            "locType": "park"
+        },
+        "palm springs": {
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k4277257-Places_to_visit_round_trip_between_Las_Vegas_San_Diego-San_Diego_California.html",
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "https://www.tripadvisor.com.au/ShowTopic-g60750-i41-k7576016-Driving_to_Las_Vegas_and_Big_Bear_Lake_Area-San_Diego_California.html",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.8246269",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "desert hills outlet": {
+            "longitude": "-116.812632966849",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g60750-i41-k830844-San_Diego_to_Big_Bear_Lake-San_Diego_California.html"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.92702895",
+            "address": "Desert Hills Premium Outlet, Seminole Drive, Cabazon, Riverside County, California, 92230, United States of America",
+            "locType": "parking"
+        },
+        "laguna beach": {
+            "longitude": "-117.7834146",
+            "blogLinks": [
+                "https://www.pinterest.com/kissthefaceofG/southern-ca-trips/"
+            ],
+            "closest_to": "san diego",
+            "latitude": "33.5420888",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city"
+        }
+    }
+}

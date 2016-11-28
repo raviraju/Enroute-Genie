@@ -1,0 +1,961 @@
+{
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "potrero hill": {
+            "latitude": "37.7565834",
+            "closest_to": "stockton",
+            "address": "Potrero Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.3991373"
+        },
+        "alamo": {
+            "latitude": "37.8502033",
+            "closest_to": "stockton",
+            "address": "Alamo, Contra Costa County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-122.0321839"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers",
+                "http://wikitravel.org/en/California",
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "stockton",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "santa rosa": {
+            "latitude": "38.4404675",
+            "closest_to": "san francisco",
+            "address": "Santa Rosa, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.7144313"
+        },
+        "west oakland": {
+            "latitude": "37.8048601",
+            "closest_to": "stockton",
+            "address": "West Oakland, 7th Street, South Prescott, Oakland, Alameda County, California, 94607, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.295172902631"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "stockton",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/California",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "san francisco",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "closest_to": "stockton",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.9980641"
+        },
+        "wilder ranch state park": {
+            "latitude": "36.96021805",
+            "closest_to": "san francisco",
+            "address": "Wilder Ranch State Park, Coast Road, Westside, Santa Cruz County, California, 95060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.079566815934"
+        },
+        "centennial boulevard": {
+            "latitude": "37.4047084",
+            "closest_to": "stockton",
+            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9694691"
+        },
+        "telegraph avenue": {
+            "latitude": "37.8102741",
+            "closest_to": "stockton",
+            "address": "Telegraph Avenue, Uptown, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.2694148"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "san francisco",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "stockton",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "mid-san joaquin valley": {
+            "latitude": "37.8379938",
+            "closest_to": "stockton",
+            "address": "Middle River, San Joaquin County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.3804151"
+        },
+        "south entrance": {
+            "latitude": "38.6466133",
+            "closest_to": "stockton",
+            "address": "South Entrance, Sacramento, Sacramento County, California, CA 95834, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-121.5138273"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "stockton",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "east oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "stockton",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "yolo": {
+            "latitude": "38.7184542",
+            "closest_to": "stockton",
+            "address": "Yolo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.9059"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/California",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "vermont street": {
+            "latitude": "37.7646654",
+            "closest_to": "stockton",
+            "address": "Vermont Street, Potrero Hill, SF, California, 94107, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.4045091"
+        },
+        "berlin": {
+            "latitude": "37.7914627",
+            "closest_to": "stockton",
+            "address": "Berlin Way, Dimond District, Oakland, Alameda County, California, 94602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers"
+            ],
+            "longitude": "-122.2096608"
+        },
+        "stockton airport": {
+            "latitude": "37.89246385",
+            "closest_to": "stockton",
+            "address": "Stockton Metropolitan Airport, East Sikorsky Street, Manteca Junction, San Joaquin County, California, 95206, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.237589712721"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "san francisco international airport": {
+            "latitude": "37.622452",
+            "closest_to": "san francisco",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/",
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.384071507814"
+        },
+        "stockton & san jose": {
+            "latitude": "37.3404469",
+            "closest_to": "stockton",
+            "address": "Stockton Avenue, College Park, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.9131994"
+        },
+        "solano": {
+            "latitude": "38.2218938",
+            "closest_to": "stockton",
+            "address": "Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.9163554"
+        },
+        "ano nuevo state park": {
+            "latitude": "37.1642859",
+            "closest_to": "san francisco",
+            "address": "A\u00f1o Nuevo State Park, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.328030779329"
+        },
+        "haight street": {
+            "latitude": "37.7701142",
+            "closest_to": "san francisco",
+            "address": "Haight Street, Haight-Ashbury, SF, California, 94117, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.446172"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers",
+                "http://wikitravel.org/en/California",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "kettleman": {
+            "latitude": "38.1163906",
+            "closest_to": "stockton",
+            "address": "Kettleman, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf"
+            ],
+            "longitude": "-121.2436738"
+        },
+        "mission district of san francisco": {
+            "latitude": "37.75993",
+            "closest_to": "san francisco",
+            "address": "Mission District, SF, California, 94110, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.4191375"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "stockton",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "point lobos state park": {
+            "latitude": "38.77817125",
+            "closest_to": "stockton",
+            "address": "Point Lobos State Park, Woodgate Way, Laureate, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-121.371560849992"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "stockton",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "stockton",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "san francisco",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "rio theatre": {
+            "latitude": "36.9801486",
+            "closest_to": "san francisco",
+            "address": "Rio Theatre, Soquel Avenue, Soquel Avenue Commercial Corridor, Eastside, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0104295"
+        },
+        "santa clara convention center": {
+            "latitude": "37.4044039",
+            "closest_to": "stockton",
+            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "conference_centre",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.975031612487"
+        },
+        "california state parks": {
+            "latitude": "38.4366423",
+            "closest_to": "san francisco",
+            "address": "California State Parks, Adobe Canyon Road, Kenwood, Sonoma County, California, 95452, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.5126798"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "gianera street": {
+            "latitude": "37.3997317",
+            "closest_to": "stockton",
+            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9677788"
+        },
+        "central california": {
+            "latitude": "38.392688",
+            "closest_to": "stockton",
+            "address": "Central, Yolo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.573011"
+        },
+        "agnew road": {
+            "latitude": "37.3943647",
+            "closest_to": "stockton",
+            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9488924"
+        },
+        "lost san francisco": {
+            "latitude": "37.7657871",
+            "closest_to": "san francisco",
+            "address": "The Lost Church, 65, Capp Street, Mission District, SF, California, 94103, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers"
+            ],
+            "longitude": "-122.418467011288"
+        },
+        "san joaquin": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/",
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "santa nella": {
+            "latitude": "38.497135",
+            "closest_to": "san francisco",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-122.9666643"
+        },
+        "gold hill": {
+            "latitude": "38.7610132",
+            "closest_to": "stockton",
+            "address": "Gold Hill, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-120.8846602"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "stockton",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html",
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "mission district": {
+            "latitude": "37.75993",
+            "closest_to": "san francisco",
+            "address": "Mission District, SF, California, 94110, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.4191375"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "stockton",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "san francisco",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "stockton",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.342234"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "stockton",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "sonora": {
+            "latitude": "37.9840911",
+            "closest_to": "stockton",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-120.382138"
+        },
+        "crosstown freeway": {
+            "latitude": "37.9528498",
+            "closest_to": "stockton",
+            "address": "Crosstown Freeway, Stockton, San Joaquin County, California, 95202, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.2746468"
+        },
+        "upper haight": {
+            "latitude": "37.7654172",
+            "closest_to": "san francisco",
+            "address": "Upper Terrace, Haight-Ashbury, SF, California, 94117, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.4433881"
+        },
+        "tioga road": {
+            "latitude": "37.6577485",
+            "closest_to": "stockton",
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-122.0821668"
+        },
+        "marin county": {
+            "latitude": "38.0409144",
+            "closest_to": "san francisco",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.6199637"
+        },
+        "virgin america": {
+            "latitude": "37.5887164",
+            "closest_to": "stockton",
+            "address": "Virgin America Parkway, Burlingame, San Mateo County, California, 94101, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.339995"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "stockton",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://wikitravel.org/en/California",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "vienna": {
+            "latitude": "37.403367",
+            "closest_to": "stockton",
+            "address": "Vienna, West Tasman Drive, Sunnyvale, Santa Clara County, California, 94089, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers"
+            ],
+            "longitude": "-122.0005288"
+        },
+        "sacramento international airport": {
+            "latitude": "38.68722345",
+            "closest_to": "stockton",
+            "address": "Sacramento International Airport, Airport Boulevard, Sacramento County, California, 95837, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.590370180632"
+        },
+        "san tomas aquino creek trail": {
+            "latitude": "37.4145764",
+            "closest_to": "stockton",
+            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9802759"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.theguardian.com/travel/2013/may/24/san-francisco-best-blogs-travellers",
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.visitstockton.org/about-us/getting-here/",
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "http://wikitravel.org/en/California",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco",
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/",
+                "http://wikitravel.org/en/California",
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "stockton",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "stockton",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.418809"
+        },
+        "sacramento county": {
+            "latitude": "38.4732259",
+            "closest_to": "stockton",
+            "address": "Sacramento County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-121.2980706"
+        },
+        "bay area of california": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "shoreline boulevard": {
+            "latitude": "37.4268136",
+            "closest_to": "stockton",
+            "address": "Shoreline Amphitheatre, North Shoreline Boulevard, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.080632160581"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "san francisco",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "asia": {
+            "latitude": "37.7949149",
+            "closest_to": "stockton",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/California"
+            ],
+            "longitude": "-122.2533348"
+        },
+        "north beach": {
+            "latitude": "37.8011749",
+            "closest_to": "stockton",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco"
+            ],
+            "longitude": "-122.409002"
+        },
+        "central stockton": {
+            "latitude": "37.972543",
+            "closest_to": "stockton",
+            "address": "North Central Avenue, Stockton, San Joaquin County, California, 95204, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.3043059"
+        },
+        "san joaquin street": {
+            "latitude": "38.5446141",
+            "closest_to": "stockton",
+            "address": "San Joaquin Street, Sacramento, Sacramento County, California, 95820, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.422894"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "san francisco",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "stockton street": {
+            "latitude": "37.7880146",
+            "closest_to": "stockton",
+            "address": "Stockton Street, Chinatown, SF, California, 94133, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.4066832"
+        },
+        "san joaquin county": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "stockton",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "rincon park": {
+            "latitude": "37.79125225",
+            "closest_to": "stockton",
+            "address": "Rincon Park, Herb Caen Way..., Financial District, SF, California, 94105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.389642839324"
+        },
+        "san joaquin route": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "haight-ashbury": {
+            "latitude": "37.7700462",
+            "closest_to": "san francisco",
+            "address": "Haight-Ashbury, SF, California, 94117, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco"
+            ],
+            "longitude": "-122.4470138"
+        },
+        "sierra foothills": {
+            "latitude": "37.3933656",
+            "closest_to": "stockton",
+            "address": "Sierra Road, Berryessa, San Jos\u00e9, Santa Clara County, California, 95132, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowUserReviews-g32037-d627479-r51783537-SpringHill_Suites_Bakersfield-Bakersfield_California.html"
+            ],
+            "longitude": "-121.8609818"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "stockton",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitstockton.org/about-us/getting-here/"
+            ],
+            "longitude": "-121.2907795"
+        }
+    }
+}

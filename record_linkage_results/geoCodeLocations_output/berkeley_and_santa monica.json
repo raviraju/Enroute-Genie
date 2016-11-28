@@ -1,0 +1,2313 @@
+{
+    "santa monica": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-118.4869738",
+        "lat": "34.0195598",
+        "boundingbox": [
+            "33.9666583",
+            "34.05056",
+            "-118.5513434",
+            "-118.4434259"
+        ],
+        "importance": 0.84972348720023,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "3353288",
+        "display_name": "Santa Monica, Los Angeles County, California, United States of America",
+        "type": "city",
+        "place_id": "159526581"
+    },
+    "berkeley": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-122.2728638",
+        "lat": "37.8708393",
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "importance": 0.78550511760774,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "2833528",
+        "display_name": "Berkeley, Alameda County, California, United States of America",
+        "type": "city",
+        "place_id": "159273659"
+    },
+    "mentions": {
+        "san diego": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7174209",
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "golden gate bridge": {
+            "closest_to": "berkeley",
+            "locType": "motorway",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "latitude": "37.8302809",
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "mission san luis": {
+            "closest_to": "santa monica",
+            "locType": "place_of_worship",
+            "address": "Mission San Luis Obispo de Tolosa, 782, Chorro Street, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "latitude": "35.2807422",
+            "longitude": "-120.664098712263",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "nepenthe": {
+            "closest_to": "santa monica",
+            "locType": "restaurant",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "latitude": "36.2218116",
+            "longitude": "-121.7596564",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "state beach": {
+            "closest_to": "santa monica",
+            "locType": "beach",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "latitude": "34.03385755",
+            "longitude": "-118.679064060789",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "venice beach": {
+            "closest_to": "santa monica",
+            "locType": "police",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "latitude": "33.9862012",
+            "longitude": "-118.4739815",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.tripadvisor.ca/ShowTopic-g33052-i158-k3193906-Distance_to_Venice_Beach-Santa_Monica_California.html"
+            ]
+        },
+        "rosemead": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Rosemead, Los Angeles County, California, United States of America",
+            "latitude": "34.0676169",
+            "longitude": "-118.0879762",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "monterey bay": {
+            "closest_to": "santa monica",
+            "locType": "bay",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "latitude": "36.7999557",
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "bay": {
+            "closest_to": "santa monica",
+            "locType": "service",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "latitude": "33.6899249",
+            "longitude": "-117.7729354",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "el segundo": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "El Segundo, Los Angeles County, California, United States of America",
+            "latitude": "33.9122175",
+            "longitude": "-118.3829549",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "santa monica boulevard": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "latitude": "34.0907545",
+            "longitude": "-118.317943",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "michigan ave.": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Michigan Avenue, Brooklyn Heights, Little Tokyo Historic District, LA, Los Angeles County, California, 90033, United States of America",
+            "latitude": "34.0500061",
+            "longitude": "-118.2199907",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "' ocean park inn": {
+            "closest_to": "santa monica",
+            "locType": "motel",
+            "address": "Ocean Park Inn, 4431, Ocean Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "latitude": "32.794937",
+            "longitude": "-117.2559169",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "pebble": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Pebble, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "latitude": "33.6678374",
+            "longitude": "-117.7975199",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "st. augustine": {
+            "closest_to": "santa monica",
+            "locType": "school",
+            "address": "University of California Santa Clara Extension in Silicon Valley, 2505, Augustine Drive, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "latitude": "37.3823601",
+            "longitude": "-121.9707884",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "san francisco": {
+            "closest_to": "berkeley",
+            "locType": "city",
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808",
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "ocean avenue": {
+            "closest_to": "santa monica",
+            "locType": "tram_stop",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "latitude": "37.7320759",
+            "longitude": "-122.4736116",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "topanga canyon boulevard": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Topanga Canyon Boulevard, Canoga Park, LA, Los Angeles County, California, 91303, United States of America",
+            "latitude": "34.2091793",
+            "longitude": "-118.6059598",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "owens river": {
+            "closest_to": "santa monica",
+            "locType": "river",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "latitude": "37.4100005",
+            "longitude": "-118.3819013",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "south pasadena": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "South Pasadena, Los Angeles County, California, United States of America",
+            "latitude": "34.1133062",
+            "longitude": "-118.147829",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "w. channel islands blvd": {
+            "closest_to": "santa monica",
+            "locType": "secondary",
+            "address": "West Channel Islands Boulevard, Oxnard, Ventura County, California, 93035, United States of America",
+            "latitude": "34.1757846",
+            "longitude": "-119.2225172",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "china town": {
+            "closest_to": "berkeley",
+            "locType": "marketplace",
+            "address": "China Town, Duncombe Alley, Chinatown, SF, California, 94133, United States of America",
+            "latitude": "37.7963119",
+            "longitude": "-122.407568",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "asia": {
+            "closest_to": "santa monica",
+            "locType": "restaurant",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "latitude": "37.7949149",
+            "longitude": "-122.2533348",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "glacier point": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
+            "latitude": "37.499192",
+            "longitude": "-119.8282379",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "west coast": {
+            "closest_to": "santa monica",
+            "locType": "plumber",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "latitude": "34.0222263",
+            "longitude": "-118.4051087",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "monterey county": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Monterey County, California, United States of America",
+            "latitude": "36.2231079",
+            "longitude": "-121.3877427",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "egypt": {
+            "closest_to": "santa monica",
+            "locType": "stream",
+            "address": "Egypt Creek, Inyo County, California, United States of America",
+            "latitude": "37.2547835",
+            "longitude": "-118.544859",
+            "blogLinks": [
+                "http://www.berkeley.edu/about/visit"
+            ]
+        },
+        "berkeley marina berkeley": {
+            "closest_to": "berkeley",
+            "locType": "neighbourhood",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "latitude": "37.8678664",
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "santa monica": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "latitude": "34.0195598",
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g33052-i158-k3193906-Distance_to_Venice_Beach-Santa_Monica_California.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "santa fe springs": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "latitude": "33.9482434",
+            "longitude": "-118.0676102",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "el dorado county": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "El Dorado County, California, United States of America",
+            "latitude": "38.7574137",
+            "longitude": "-120.5276128",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa maria": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "latitude": "34.9531295",
+            "longitude": "-120.4358576",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "wilshire boulevard": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "latitude": "34.0617231",
+            "longitude": "-118.3036614",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "japan": {
+            "closest_to": "santa monica",
+            "locType": "clothes",
+            "address": "Japan LA, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+            "latitude": "34.0833889",
+            "longitude": "-118.3494693",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "oxnard": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "latitude": "34.1976308",
+            "longitude": "-119.1803817",
+            "blogLinks": [
+                "http://www.tvfoodmaps.com/s1/CA",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "san jacinto": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "latitude": "33.7839084",
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "ca": {
+            "closest_to": "santa monica",
+            "locType": "postcode",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "latitude": "37.8242285466918",
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "central coast": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "latitude": "35.3611193",
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "san luis obispo museum of art": {
+            "closest_to": "santa monica",
+            "locType": "museum",
+            "address": "San Luis Obispo Museum of Art, 1010, Broad Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "latitude": "35.2795773",
+            "longitude": "-120.6649345",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "ocean ave.": {
+            "closest_to": "santa monica",
+            "locType": "tram_stop",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "latitude": "37.7320759",
+            "longitude": "-122.4736116",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "humboldt county": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Humboldt County, California, United States of America",
+            "latitude": "40.5997415",
+            "longitude": "-123.8997733",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "monrovia": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "latitude": "34.1483499",
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "san francisco bay": {
+            "closest_to": "santa monica",
+            "locType": "bay",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "latitude": "37.708264",
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "hollywood": {
+            "closest_to": "santa monica",
+            "locType": "suburb",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1028268",
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "santa monica pier": {
+            "closest_to": "santa monica",
+            "locType": "service",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "latitude": "34.0104809",
+            "longitude": "-118.4960541",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "carmel": {
+            "closest_to": "berkeley",
+            "locType": "residential",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "latitude": "38.75511285",
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa cruz beach boardwalk": {
+            "closest_to": "santa monica",
+            "locType": "attraction",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "latitude": "36.96446855",
+            "longitude": "-122.016027247326",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "mcway falls trail": {
+            "closest_to": "santa monica",
+            "locType": "waterfall",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "latitude": "36.1578211",
+            "longitude": "-121.6723957",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "carlsbad": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "latitude": "33.1580933",
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "carmel-by-the-sea": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "latitude": "36.5552387",
+            "longitude": "-121.9232878",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "wilshire blvd.": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "latitude": "34.0617231",
+            "longitude": "-118.3036614",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "manhattan beach": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "latitude": "33.8950839",
+            "longitude": "-118.4000146",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ]
+        },
+        "fremont": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "latitude": "37.5482697",
+            "longitude": "-121.9885718",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "malibu creek state park": {
+            "closest_to": "santa monica",
+            "locType": "nature_reserve",
+            "address": "Malibu Creek State Park, Las Virgenes Road, Calabasas, Los Angeles County, California, 91302, United States of America",
+            "latitude": "34.0996554",
+            "longitude": "-118.7120156",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "berkeley marina": {
+            "closest_to": "berkeley",
+            "locType": "neighbourhood",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "latitude": "37.8678664",
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "highland park": {
+            "closest_to": "santa monica",
+            "locType": "suburb",
+            "address": "Highland Park, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1099469",
+            "longitude": "-118.1969827",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "san luis obispo county": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "San Luis Obispo County, California, United States of America",
+            "latitude": "35.3540209",
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "westchester": {
+            "closest_to": "santa monica",
+            "locType": "neighbourhood",
+            "address": "Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "latitude": "33.9597349",
+            "longitude": "-118.4006321",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "mammoth lakes": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6432525",
+            "longitude": "-118.9668508",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "santa monica airport": {
+            "closest_to": "santa monica",
+            "locType": "aerodrome",
+            "address": "Santa Monica Municipal Airport, Donald Douglas Loop North, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "latitude": "34.01659745",
+            "longitude": "-118.450603511706",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "eureka": {
+            "closest_to": "berkeley",
+            "locType": "city",
+            "address": "Eureka, Humboldt County, California, United States of America",
+            "latitude": "40.8020712",
+            "longitude": "-124.1636728",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "palisades park": {
+            "closest_to": "santa monica",
+            "locType": "park",
+            "address": "Palisades Park, Brasilia Drive, Porter Ranch, LA, Los Angeles County, California, 91326, United States of America",
+            "latitude": "34.2888905",
+            "longitude": "-118.5459197",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "silicon valley": {
+            "closest_to": "santa monica",
+            "locType": "school",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "latitude": "37.4105333",
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa monica blvd": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "latitude": "34.0907545",
+            "longitude": "-118.317943",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "loews santa monica beach hotel": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "Loews Santa Monica Beach Hotel, 1700, Ocean Avenue, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "latitude": "34.0088592",
+            "longitude": "-118.4929199",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "lax": {
+            "closest_to": "santa monica",
+            "locType": "aerodrome",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "latitude": "33.94211345",
+            "longitude": "-118.407057290249",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "ocean beach": {
+            "closest_to": "santa monica",
+            "locType": "region",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7477784",
+            "longitude": "-117.249321",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "mullholland drive": {
+            "closest_to": "santa monica",
+            "locType": "water_tank",
+            "address": "EBMUD Mullholland Reservoir, Donald Drive, Rheem Valley, Moraga, Contra Costa County, California, 94556, United States of America",
+            "latitude": "37.8584346",
+            "longitude": "-122.1430436",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "palm motel": {
+            "closest_to": "santa monica",
+            "locType": "motel",
+            "address": "Palm Motel, 14th Street, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "latitude": "34.0154704",
+            "longitude": "-118.4759266",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "huntington beach": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "latitude": "33.6783336",
+            "longitude": "-118.0000165",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "los angeles county": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Los Angeles County, California, United States of America",
+            "latitude": "34.3155072",
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "san simeon": {
+            "closest_to": "santa monica",
+            "locType": "hamlet",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6438587",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pacific ocean": {
+            "closest_to": "santa monica",
+            "locType": "cliff",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "latitude": "36.16305775",
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "fresno": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "latitude": "36.748793",
+            "longitude": "-119.714839601149",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "santa monica blvd.": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "latitude": "34.0907545",
+            "longitude": "-118.317943",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "long beach": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "latitude": "33.78538945",
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "hollywood hills": {
+            "closest_to": "santa monica",
+            "locType": "suburb",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1311792",
+            "longitude": "-118.3355473",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "hollywood blvd": {
+            "closest_to": "santa monica",
+            "locType": "secondary",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "latitude": "34.1016312",
+            "longitude": "-118.32684",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "us hwy 101": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "latitude": "32.9967358",
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "big bear lake": {
+            "closest_to": "santa monica",
+            "locType": "water",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.253293",
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "sacramento": {
+            "closest_to": "berkeley",
+            "locType": "city",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "latitude": "38.5815719",
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "san-francisco": {
+            "closest_to": "berkeley",
+            "locType": "city",
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808",
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "urth cafe": {
+            "closest_to": "santa monica",
+            "locType": "restaurant",
+            "address": "Urth Cafe, 451, South Hewitt Street, Arts District, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "latitude": "34.0419337",
+            "longitude": "-118.2352821",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "middle earth": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Middle Earth, Turtle Rock, Irvine, Orange County, California, 92617, United States of America",
+            "latitude": "33.64434515",
+            "longitude": "-117.837186650942",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "burbank": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "latitude": "34.1816482",
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "lone pine": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "latitude": "36.583176",
+            "longitude": "-118.078359194897",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "wilshire": {
+            "closest_to": "santa monica",
+            "locType": "service",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "latitude": "33.7805094",
+            "longitude": "-117.9034923",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "wilshire blvd": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "latitude": "34.0617231",
+            "longitude": "-118.3036614",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "colorado ave.": {
+            "closest_to": "santa monica",
+            "locType": "secondary",
+            "address": "Colorado Avenue, Santa Monica, Los Angeles County, California, 90404, United States of America",
+            "latitude": "34.0202282",
+            "longitude": "-118.4839559",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "santa monica beach": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Santa Monica Drive, Channel Islands Beach, Ventura County, California, 93035, United States of America",
+            "latitude": "34.159111",
+            "longitude": "-119.2203179",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ]
+        },
+        "harbor blvd": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "latitude": "33.8172821",
+            "longitude": "-117.9152933",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "melrose avenue": {
+            "closest_to": "santa monica",
+            "locType": "secondary",
+            "address": "Melrose Avenue, San Elijo Hills, San Marcos, San Diego County, California, 92069, United States of America",
+            "latitude": "33.1005138",
+            "longitude": "-117.2145993",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ]
+        },
+        "sierra": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065",
+            "longitude": "-120.530573",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "ventura": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Ventura County, California, United States of America",
+            "latitude": "34.4458248",
+            "longitude": "-119.0779358",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "mid-city": {
+            "closest_to": "santa monica",
+            "locType": "island",
+            "address": "Middle Bair Island, Redwood City, San Mateo County, California, United States of America",
+            "latitude": "37.5133425",
+            "longitude": "-122.2303835",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "alcatraz": {
+            "closest_to": "berkeley",
+            "locType": "island",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "latitude": "37.8267283",
+            "longitude": "-122.422746492409",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "west hollywood": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "latitude": "34.0900091",
+            "longitude": "-118.3617442",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ]
+        },
+        "new york": {
+            "closest_to": "santa monica",
+            "locType": "service",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "latitude": "34.0143928",
+            "longitude": "-117.8984509",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "newport beach": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "latitude": "33.6170092",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa ynez": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "latitude": "34.608637",
+            "longitude": "-120.104677321497",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "santa monica downtown": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "North Santa Monica Avenue, Downtown Fullerton, Fullerton, Orange County, California, 92835, United States of America",
+            "latitude": "33.9084965",
+            "longitude": "-117.9314967",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "montana": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Montana, Rovana, Inyo County, California, United States of America",
+            "latitude": "37.413991",
+            "longitude": "-118.6129969",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "us": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "montana avenue": {
+            "closest_to": "santa monica",
+            "locType": "tertiary",
+            "address": "Montana Avenue, Westgate, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "latitude": "34.0505169",
+            "longitude": "-118.4725861",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "rodeo drive": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.824444",
+            "longitude": "-117.2609329",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "mammoth creek": {
+            "closest_to": "santa monica",
+            "locType": "stream",
+            "address": "Mammoth Creek, Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6055761",
+            "longitude": "-119.0090048",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "calico": {
+            "closest_to": "santa monica",
+            "locType": "locality",
+            "address": "Calico, Kern County, California, United States of America",
+            "latitude": "35.6327332",
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "culver city": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "latitude": "34.0211224",
+            "longitude": "-118.3964664",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "cambria": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "latitude": "35.5641381",
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "la jolla cove": {
+            "closest_to": "santa monica",
+            "locType": "beach",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "latitude": "32.85051835",
+            "longitude": "-117.273024234204",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "las virgenes": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Las Virgenes, Fracc. Garcia, Tijuana, Baja California, 22125, M\u00e9xico",
+            "latitude": "32.4444142",
+            "longitude": "-116.9273026",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "849 ocean avenue": {
+            "closest_to": "santa monica",
+            "locType": "secondary",
+            "address": "Ocean Avenue, Ingleside, SF, California, 94112, United States of America",
+            "latitude": "37.7229299",
+            "longitude": "-122.4444973",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "san jose": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "latitude": "37.3361905",
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "american riviera": {
+            "closest_to": "berkeley",
+            "locType": "tertiary",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "latitude": "38.576666",
+            "longitude": "-121.3602199",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "pacific coast": {
+            "closest_to": "santa monica",
+            "locType": "yes",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "latitude": "33.8047323",
+            "longitude": "-118.063517668143",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "metro": {
+            "closest_to": "santa monica",
+            "locType": "bus_station",
+            "address": "Metro, Windward Circle, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "latitude": "33.9880063",
+            "longitude": "-118.4710141",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "topanga canyon blvd.": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Topanga Canyon Boulevard, Canoga Park, LA, Los Angeles County, California, 91303, United States of America",
+            "latitude": "34.2091793",
+            "longitude": "-118.6059598",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "cal": {
+            "closest_to": "santa monica",
+            "locType": "prison",
+            "address": "CAL, 7018, Blair Road, Calipatria, Imperial County, California, 92233, United States of America",
+            "latitude": "33.16643595",
+            "longitude": "-115.484614171269",
+            "blogLinks": [
+                "http://www.berkeley.edu/about/visit"
+            ]
+        },
+        "south bay": {
+            "closest_to": "berkeley",
+            "locType": "bay",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "latitude": "37.794096",
+            "longitude": "-122.4927499",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "venice": {
+            "closest_to": "santa monica",
+            "locType": "suburb",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "latitude": "33.995044",
+            "longitude": "-118.4668874",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.tripadvisor.ca/ShowTopic-g33052-i158-k3193906-Distance_to_Venice_Beach-Santa_Monica_California.html"
+            ]
+        },
+        "emerald bay": {
+            "closest_to": "berkeley",
+            "locType": "hamlet",
+            "address": "Emerald Bay, El Dorado County, California, United States of America",
+            "latitude": "38.9599078",
+            "longitude": "-120.0979629",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "' ocean view hotel santa monica": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "Ocean View Hotel, Ocean Avenue, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "latitude": "34.0132753",
+            "longitude": "-118.496622749769",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "fulton mall": {
+            "closest_to": "santa monica",
+            "locType": "commercial",
+            "address": "Fulton Mall, Fresno County, California, 93701, United States of America",
+            "latitude": "36.73552975",
+            "longitude": "-119.791520463653",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "pico blvd.": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Pico Boulevard, South Carthay, The Village Green, LA, Los Angeles County, California, 90035, United States of America",
+            "latitude": "34.0551848",
+            "longitude": "-118.3859303",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "southern california": {
+            "closest_to": "santa monica",
+            "locType": "university",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "latitude": "34.0224149",
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "brentwood": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "latitude": "37.9317766",
+            "longitude": "-121.6960265",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "broadway": {
+            "closest_to": "berkeley",
+            "locType": "primary",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "latitude": "37.7958391",
+            "longitude": "-122.4226908",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "bergamot station": {
+            "closest_to": "santa monica",
+            "locType": "arts_centre",
+            "address": "Bergamot Station, Michigan Avenue, Santa Monica, Los Angeles County, California, 90404, United States of America",
+            "latitude": "34.0274916",
+            "longitude": "-118.468948342895",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "los alamos": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "latitude": "34.7379311",
+            "longitude": "-120.26591036241",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "santa barbara": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "latitude": "34.4221319",
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "santa monica mountains": {
+            "closest_to": "santa monica",
+            "locType": "protected_area",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "latitude": "34.11008435",
+            "longitude": "-118.789983284662",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "pacific islander": {
+            "closest_to": "santa monica",
+            "locType": "clinic",
+            "address": "DBH: Asian Pacific Islander Program, Latino Team, S.E.E.S. Program, South Barton Avenue, Fresno County, California, 93702, United States of America",
+            "latitude": "36.7366176",
+            "longitude": "-119.7504685",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "la quinta": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "La Quinta, Riverside County, California, United States of America",
+            "latitude": "33.677474",
+            "longitude": "-116.2958788",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "westwood": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Westwood, 3rd Street, Westwood, Lassen County, California, United States of America",
+            "latitude": "40.3024675",
+            "longitude": "-121.010399151458",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "los angeles county museum of art": {
+            "closest_to": "santa monica",
+            "locType": "museum",
+            "address": "Los Angeles County Museum of Art, Wilshire Boulevard, Park La Brea, The Village Green, LA, Los Angeles County, California, 90036, United States of America",
+            "latitude": "34.0634357",
+            "longitude": "-118.357997654056",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ]
+        },
+        "yosemite national park": {
+            "closest_to": "santa monica",
+            "locType": "national_park",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "latitude": "37.84054795",
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "orange county": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Orange County, California, United States of America",
+            "latitude": "33.7500378",
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "union station": {
+            "closest_to": "santa monica",
+            "locType": "yes",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "latitude": "34.0560576",
+            "longitude": "-118.235796451972",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "america": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "latitude": "36.2573198",
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "santa clara": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "latitude": "37.3541132",
+            "longitude": "-121.9551743",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "santa monica museum of art": {
+            "closest_to": "santa monica",
+            "locType": "museum",
+            "address": "Santa Monica Museum of Art, 2nd Street, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "latitude": "34.0036108",
+            "longitude": "-118.4844786",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "santa lucia mountain": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Santa Lucia, Santa Barbara County, California, 93111, United States of America",
+            "latitude": "34.4379129",
+            "longitude": "-119.8003246",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "morro bay": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "latitude": "35.3658075",
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "benicia": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Benicia, Solano County, California, United States of America",
+            "latitude": "38.049365",
+            "longitude": "-122.1585776",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "marin": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Marin County, California, United States of America",
+            "latitude": "38.0409144",
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.youtube.com/watch?v=Zet91RQGkP8"
+            ]
+        },
+        "south lake tahoe": {
+            "closest_to": "berkeley",
+            "locType": "city",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "latitude": "38.929125",
+            "longitude": "-119.987846390157",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "coachella": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "latitude": "33.6795519",
+            "longitude": "-116.1763379",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "kern river valley": {
+            "closest_to": "santa monica",
+            "locType": "river",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "highway 101": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "latitude": "32.9967358",
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "pacific palisades": {
+            "closest_to": "santa monica",
+            "locType": "neighbourhood",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "latitude": "34.0480643",
+            "longitude": "-118.5264705",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "lincoln blvd.": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Lincoln Boulevard, Westchester, Playa Vista, LA, Los Angeles County, California, 90293, United States of America",
+            "latitude": "33.9593928",
+            "longitude": "-118.41883",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "bayside hotel": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "Bayside Hotel, 2001, North Ocean Avenue, Santa Monica, Los Angeles County, California, CA 90405, United States of America",
+            "latitude": "34.0063022",
+            "longitude": "-118.4896687",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "beach": {
+            "closest_to": "santa monica",
+            "locType": "service",
+            "address": "Beach, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "latitude": "35.13738",
+            "longitude": "-120.6345489",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "sierra nevada": {
+            "closest_to": "berkeley",
+            "locType": "residential",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "latitude": "39.097593",
+            "longitude": "-121.1396689",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "ocean boulevard": {
+            "closest_to": "santa monica",
+            "locType": "motorway",
+            "address": "Ocean Boulevard, Wilmington, LA, Los Angeles County, California, 90731, United States of America",
+            "latitude": "33.7547252",
+            "longitude": "-118.249512",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "palm springs tramway": {
+            "closest_to": "santa monica",
+            "locType": "information",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "latitude": "33.85839515",
+            "longitude": "-116.558183152534",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "lake crowley": {
+            "closest_to": "santa monica",
+            "locType": "water",
+            "address": "Lake Crowley, Layton Springs Road, North Landing, Mono County, California, United States of America",
+            "latitude": "37.61903895",
+            "longitude": "-118.731056945814",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "monterey bay aquarium": {
+            "closest_to": "santa monica",
+            "locType": "aquarium",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "latitude": "36.61809095",
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "santa cruz wharf": {
+            "closest_to": "santa monica",
+            "locType": "gift",
+            "address": "Santa Cruz Bay Company, Municipal Wharf, Beach & Boardwalk District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "latitude": "36.9604473",
+            "longitude": "-122.0205393",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "bay area": {
+            "closest_to": "santa monica",
+            "locType": "region",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "latitude": "37.7884969",
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "california-nevada": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "latitude": "36.17310935",
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "beverly hills": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "latitude": "34.0736204",
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "pfeiffer big sur state park": {
+            "closest_to": "santa monica",
+            "locType": "park",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "latitude": "36.25330545",
+            "longitude": "-121.783295208903",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "eagle rock": {
+            "closest_to": "santa monica",
+            "locType": "island",
+            "address": "Eagle Rock, Los Angeles County, California, United States of America",
+            "latitude": "33.4723736",
+            "longitude": "-118.6053476",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "usa": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "pacific": {
+            "closest_to": "berkeley",
+            "locType": "hamlet",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "latitude": "38.7601815",
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.berkeley.edu/about/visit",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "muscle beach": {
+            "closest_to": "santa monica",
+            "locType": "sports_centre",
+            "address": "Muscle Beach, Ocean Front Walk, Venice, LA, Los Angeles County, California, 90292, United States of America",
+            "latitude": "33.985446",
+            "longitude": "-118.4725820875",
+            "blogLinks": [
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "https://www.tripadvisor.com/Attractions-g33052-Activities-Santa_Monica_California.html"
+            ]
+        },
+        "pacifica": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "latitude": "37.6138253",
+            "longitude": "-122.4869193",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "san francisco de solano": {
+            "closest_to": "berkeley",
+            "locType": "museum",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "latitude": "38.21389995",
+            "longitude": "-122.458560315194",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "big sur": {
+            "closest_to": "santa monica",
+            "locType": "village",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "latitude": "36.270241",
+            "longitude": "-121.8074544",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx"
+            ]
+        },
+        "santa monica bay": {
+            "closest_to": "santa monica",
+            "locType": "bay",
+            "address": "Santa Monica Bay, South Bay Bike Path, El Segundo, Los Angeles County, California, 90245, United States of America",
+            "latitude": "33.9350121",
+            "longitude": "-118.4667443",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "santa rosa street": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Santa Rosa Street, San Bernardino, San Bernardino County, California, 92346, United States of America",
+            "latitude": "34.1399806",
+            "longitude": "-117.1945227",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "altadena": {
+            "closest_to": "santa monica",
+            "locType": "town",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "latitude": "34.1863161",
+            "longitude": "-118.1352328",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "channel islands harbor": {
+            "closest_to": "santa monica",
+            "locType": "dock",
+            "address": "Channel Islands Harbor, Ventura County, California, United States of America",
+            "latitude": "34.1641716",
+            "longitude": "-119.2242751",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "lompoc": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "latitude": "34.6391501",
+            "longitude": "-120.4579408",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "las angeles": {
+            "closest_to": "santa monica",
+            "locType": "abandoned",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "latitude": "33.9995929",
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "pico boulevard": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Pico Boulevard, South Carthay, The Village Green, LA, Los Angeles County, California, 90035, United States of America",
+            "latitude": "34.0551848",
+            "longitude": "-118.3859303",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "big sur bakery": {
+            "closest_to": "santa monica",
+            "locType": "bakery",
+            "address": "Big Sur Bakery, 47540, Cabrillo Highway, Posts, Monterey County, California, 93920, United States of America",
+            "latitude": "36.2359105",
+            "longitude": "-121.7693642",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "snug harbor": {
+            "closest_to": "santa monica",
+            "locType": "hamlet",
+            "address": "Snug Harbor, Solano County, California, United States of America",
+            "latitude": "38.2014877",
+            "longitude": "-121.6126406",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "' ocean park boulevard": {
+            "closest_to": "santa monica",
+            "locType": "tertiary",
+            "address": "Ocean Park Boulevard, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "latitude": "34.001857",
+            "longitude": "-118.4845887",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "pasadena": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "latitude": "34.1476452",
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "blue plate": {
+            "closest_to": "santa monica",
+            "locType": "restaurant",
+            "address": "Blue Plate, 3218, Mission Street, Noe Valley, SF, California, 94110, United States of America",
+            "latitude": "37.74516",
+            "longitude": "-122.420371",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "disneyland": {
+            "closest_to": "santa monica",
+            "locType": "theme_park",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "latitude": "33.8136367",
+            "longitude": "-117.91971186569",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "albany": {
+            "closest_to": "berkeley",
+            "locType": "administrative",
+            "address": "Albany, Alameda County, California, United States of America",
+            "latitude": "37.88687",
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "solvang": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "latitude": "34.5958572",
+            "longitude": "-120.1390893",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "palm springs": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "latitude": "33.8246269",
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "lake isabella": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Lake Isabella, Keyesville Road, Kern County, California, 93240, United States of America",
+            "latitude": "35.637646",
+            "longitude": "-118.484657714814",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "chicago": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7850531",
+            "longitude": "-122.2872948",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "monterrey": {
+            "closest_to": "santa monica",
+            "locType": "village",
+            "address": "Monterrey, Mexicali, Baja California, M\u00e9xico",
+            "latitude": "32.5492861",
+            "longitude": "-115.0704122",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ]
+        },
+        "united states": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g33052-Activities-Santa_Monica_California.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "oceanside": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "latitude": "33.1958696",
+            "longitude": "-117.3794833",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "neptune": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Neptune, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7953668",
+            "longitude": "-116.5067839",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "oceana santa monica": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "Oceana Beach Club Hotel, Ocean Avenue, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "latitude": "34.021281",
+            "longitude": "-118.5060519",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "pacific coast highway": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "latitude": "33.6595127",
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "monterey": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "latitude": "36.5844165",
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "latitude": "34.0543942",
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g33052-i158-k3193906-Distance_to_Venice_Beach-Santa_Monica_California.html",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://wikitravel.org/en/Santa_Monica",
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "san francisco bay area": {
+            "closest_to": "santa monica",
+            "locType": "region",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "latitude": "37.7884969",
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "malibu": {
+            "closest_to": "santa monica",
+            "locType": "residential",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7932142",
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "lake tahoe": {
+            "closest_to": "berkeley",
+            "locType": "water",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "latitude": "39.0888982",
+            "longitude": "-120.050511752934",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "brentwood gardens": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "latitude": "37.9317766",
+            "longitude": "-121.6960265",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "lombard": {
+            "closest_to": "berkeley",
+            "locType": "hamlet",
+            "address": "Lombard, Napa County, California, United States of America",
+            "latitude": "38.1907508",
+            "longitude": "-122.2560822",
+            "blogLinks": [
+                "https://www.audleytravel.com/usa/california/places-to-go/los-angeles"
+            ]
+        },
+        "bixby creek bridge": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "latitude": "36.3710197",
+            "longitude": "-121.9017572",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ]
+        },
+        "seaview hotel": {
+            "closest_to": "santa monica",
+            "locType": "hotel",
+            "address": "Seaview Hotel, Vicente Terrace, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "latitude": "34.0079837",
+            "longitude": "-118.491224348628",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "malibu canyon road": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Malibu Canyon Road, Malibu Beach, Los Angeles County, California, 90265, United States of America",
+            "latitude": "34.0396213",
+            "longitude": "-118.700589",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/calamenu/ss/Driving-Californias-Malibu-Coast.htm"
+            ]
+        },
+        "la": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html"
+            ]
+        },
+        "san marino": {
+            "closest_to": "santa monica",
+            "locType": "town",
+            "address": "San Marino, Los Angeles County, California, United States of America",
+            "latitude": "34.1215947",
+            "longitude": "-118.1057393",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ]
+        },
+        "l.a. county": {
+            "closest_to": "santa monica",
+            "locType": "parking",
+            "address": "LA County, Santa Monica Beach Bike Path, Inceville, Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "latitude": "34.0363994",
+            "longitude": "-118.537542576007",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        },
+        "santa cruz": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "latitude": "36.9735903",
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://www.youtube.com/watch?v=Zet91RQGkP8",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "oakland": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557",
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "san luis obispo": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "latitude": "35.2827525",
+            "longitude": "-120.6596155",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "barstow": {
+            "closest_to": "santa monica",
+            "locType": "administrative",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "latitude": "34.8957684",
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "winchester blvd": {
+            "closest_to": "santa monica",
+            "locType": "primary",
+            "address": "Winchester Boulevard, Los Gatos, Santa Clara County, California, 95030, United States of America",
+            "latitude": "37.2573553",
+            "longitude": "-121.965075",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "sunset strip": {
+            "closest_to": "santa monica",
+            "locType": "living_street",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "latitude": "33.7224763",
+            "longitude": "-116.1940439",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ]
+        },
+        "pismo beach": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "latitude": "35.1427533",
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c197885/California:United-States:Sf.To.La.Coastal.Road.Primer.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ]
+        },
+        "berkeley": {
+            "closest_to": "santa monica",
+            "locType": "city",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "latitude": "37.8708393",
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.berkeley.edu/about/visit",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://wikitravel.org/en/Santa_Monica",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier-via-Santa-Barbara-Big-Sur-Monterey-Stanfo/HowFarHistory/16412397.aspx",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.distancesfrom.com/us/how-far-is-Berkeley-Marina-Berkeley-from-Santa-Monica-Pier/HowFarHistory/16412342.aspx"
+            ]
+        },
+        "montana ave": {
+            "closest_to": "santa monica",
+            "locType": "tertiary",
+            "address": "Montana Avenue, Westgate, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "latitude": "34.0505169",
+            "longitude": "-118.4725861",
+            "blogLinks": [
+                "http://wikitravel.org/en/Santa_Monica"
+            ]
+        }
+    }
+}

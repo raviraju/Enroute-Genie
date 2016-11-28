@@ -1,0 +1,1442 @@
+{
+    "pasadena": {
+        "type": "city",
+        "osm_id": "3529725",
+        "class": "place",
+        "importance": 0.7778961552687,
+        "lat": "34.1476452",
+        "lon": "-118.1444778",
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "display_name": "Pasadena, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159486921",
+        "osm_type": "relation"
+    },
+    "san diego": {
+        "type": "city",
+        "osm_id": "253832",
+        "class": "place",
+        "importance": 0.93342309681118,
+        "lat": "32.7174209",
+        "lon": "-117.1627713",
+        "boundingbox": [
+            "32.5347839",
+            "33.114249",
+            "-117.3098052",
+            "-116.9057225"
+        ],
+        "display_name": "San Diego, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157988328",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san diego",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "dateland": {
+            "latitude": "33.67346055",
+            "closest_to": "san diego",
+            "address": "Dateland Park, Cairo Ave, Coachella, Riverside County, California, 92236, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.173616606958"
+        },
+        "museum of contemporary art san diego": {
+            "latitude": "32.8445548",
+            "closest_to": "san diego",
+            "address": "Museum of Contemporary Art San Diego, 700, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037-4291, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.2779949"
+        },
+        "belmont shore": {
+            "latitude": "33.7572435",
+            "closest_to": "san diego",
+            "address": "Belmont Shore, Long Beach, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1370106"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "pasadena",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "west 5th street": {
+            "latitude": "34.0470254",
+            "closest_to": "san diego",
+            "address": "West 5th Street, Gallery Row, Bunker Hill, LA, Los Angeles County, California, 90014, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.2490778"
+        },
+        "mojave river": {
+            "latitude": "34.810823",
+            "closest_to": "pasadena",
+            "address": "Mojave River, San Bernardino County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2140293"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "san diego",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "san diego freeway": {
+            "latitude": "32.7285162",
+            "closest_to": "san diego",
+            "address": "San Diego Freeway, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1690377"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "san diego",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "julian": {
+            "latitude": "33.078597",
+            "closest_to": "san diego",
+            "address": "Julian, San Diego County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.6023153"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "pasadena",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "san diego",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "redondo beach pier": {
+            "latitude": "33.8397546",
+            "closest_to": "san diego",
+            "address": "Redondo Pier Inn, South Pacific Coast Highway, Redondo Beach, Los Angeles County, California, 90277, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3853455"
+        },
+        "main beach laguna": {
+            "latitude": "33.541692",
+            "closest_to": "san diego",
+            "address": "Main Beach, South Coast Highway, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.7847769"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "pasadena",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "pasadena",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "cajon pass": {
+            "latitude": "34.3251973",
+            "closest_to": "san diego",
+            "address": "Cajon Pass, Summit Terrace, San Bernardino County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.4282748"
+        },
+        "heritage hill": {
+            "latitude": "33.5171757",
+            "closest_to": "san diego",
+            "address": "Heritage, Temeku Hills, Temecula, Riverside County, California, 92591, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.118322"
+        },
+        "sierra madre blvd south": {
+            "latitude": "34.161921",
+            "closest_to": "san diego",
+            "address": "Sierra Madre Boulevard, Pasadena, Los Angeles County, California, 91024, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0698286"
+        },
+        "central avenue": {
+            "latitude": "33.9535912",
+            "closest_to": "san diego",
+            "address": "Central Avenue, Riverside, Riverside County, California, 92504, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3851652"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "san diego",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "naples island": {
+            "latitude": "33.7559024",
+            "closest_to": "san diego",
+            "address": "Naples Islands, Long Beach, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1232477"
+        },
+        "california eureka": {
+            "latitude": "33.8070091",
+            "closest_to": "san diego",
+            "address": "Pixar Play Parade, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.9194387"
+        },
+        "encinitas": {
+            "latitude": "33.0369867",
+            "closest_to": "san diego",
+            "address": "Encinitas, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.2919817"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "san diego",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "pasadena",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "san diego",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.92944"
+        },
+        "colorado": {
+            "latitude": "33.71351445",
+            "closest_to": "san diego",
+            "address": "Colorado, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-117.791165718199"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "san diego",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "sepulveda blvd": {
+            "latitude": "34.1172036",
+            "closest_to": "pasadena",
+            "address": "Sepulveda Boulevard, Encino, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-118.4825211"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "san diego",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "laguna niguel": {
+            "latitude": "33.5225261",
+            "closest_to": "san diego",
+            "address": "Laguna Niguel, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.7075525"
+        },
+        "otay lake reservoir": {
+            "latitude": "32.628006",
+            "closest_to": "san diego",
+            "address": "Lower Otay Reservoir, Eastlake Greens, San Diego County, California, 91915, United States of America",
+            "locType": "reservoir",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-116.926258556031"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "san diego",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "san diego",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "pasadena",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "torrey pines": {
+            "latitude": "33.6004207",
+            "closest_to": "san diego",
+            "address": "Torrey Pines, Coto de Caza, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.5806448"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "san diego",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "legoland": {
+            "latitude": "33.1334161",
+            "closest_to": "san diego",
+            "address": "Legoland Drive, Carlsbad, San Diego County, California, 92009, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3171628"
+        },
+        "nazareth": {
+            "latitude": "32.784617",
+            "closest_to": "san diego",
+            "address": "Nazareth Drive, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.1079923"
+        },
+        "salton sea": {
+            "latitude": "33.31215995",
+            "closest_to": "san diego",
+            "address": "Salton Sea, Imperial County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-115.779429602876"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "san diego",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "san diego",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "los angeles california": {
+            "latitude": "34.0543942",
+            "closest_to": "san diego",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20081102225554AAhg701"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "san diego",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "us hwy 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san diego",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "pasadena",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "borrego springs": {
+            "latitude": "33.255356",
+            "closest_to": "san diego",
+            "address": "Borrego Springs, Palm Canyon Drive, Borrego Springs, San Diego County, California, 92004, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.356946474425"
+        },
+        "solana beach": {
+            "latitude": "32.9905597",
+            "closest_to": "san diego",
+            "address": "Solana Beach, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.2691315"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "san diego",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "santa monica pier.in": {
+            "latitude": "34.0104809",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "pasadena",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "lake forest": {
+            "latitude": "33.6469261",
+            "closest_to": "san diego",
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.6859212"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "pasadena",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "redondo beach": {
+            "latitude": "33.8455911",
+            "closest_to": "san diego",
+            "address": "Redondo Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3886765"
+        },
+        "mother road": {
+            "latitude": "33.8058766",
+            "closest_to": "san diego",
+            "address": "Route 66, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.9189801"
+        },
+        "devore": {
+            "latitude": "34.2163964",
+            "closest_to": "san diego",
+            "address": "Devore, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.4014364"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "san diego",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "pasadena",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "torrey pines state beach": {
+            "latitude": "32.91754945",
+            "closest_to": "san diego",
+            "address": "Torrey Pines State Beach, Yucca Point Trail, Del Mar, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.259044437013"
+        },
+        "south orange county": {
+            "latitude": "33.6589297",
+            "closest_to": "san diego",
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.667997530973"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "san diego",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "foothill boulevard": {
+            "latitude": "32.809746",
+            "closest_to": "san diego",
+            "address": "Foothill Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2474369"
+        },
+        "imperial county": {
+            "latitude": "33.0305487",
+            "closest_to": "san diego",
+            "address": "Imperial County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-115.3595665"
+        },
+        "lenwood": {
+            "latitude": "34.8766497",
+            "closest_to": "pasadena",
+            "address": "Lenwood, San Bernardino County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.1039313"
+        },
+        "santa monica blvd.": {
+            "latitude": "34.0907545",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "olvera street": {
+            "latitude": "34.0581578",
+            "closest_to": "san diego",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.2373201"
+        },
+        "san diego international airport": {
+            "latitude": "32.73336075",
+            "closest_to": "san diego",
+            "address": "San Diego International Airport, Air Lane, Old Town, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-117.193463366077"
+        },
+        "bacara": {
+            "latitude": "32.925055",
+            "closest_to": "san diego",
+            "address": "Bacara Court, San Diego, San Diego County, California, 92145, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-117.009808"
+        },
+        "orange avenue": {
+            "latitude": "33.8115553",
+            "closest_to": "san diego",
+            "address": "Orange Avenue, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.5084992"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "pasadena",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "santa monica freeway": {
+            "latitude": "34.0323355",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Freeway, Palms, LA, Los Angeles County, California, CA 90034, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.3886136"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "san diego",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "san onofre": {
+            "latitude": "33.3803575",
+            "closest_to": "san diego",
+            "address": "San Onofre, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-117.5736036"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "san diego",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "west los angeles": {
+            "latitude": "34.0463986",
+            "closest_to": "pasadena",
+            "address": "West Los Angeles, Westwood, LA, Los Angeles County, California, 90025, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4481349"
+        },
+        "downtown san diego": {
+            "latitude": "33.1253528",
+            "closest_to": "san diego",
+            "address": "Palomar Health Downtown Campus, East Grand Avenue, Escondido, San Diego County, California, 92027, United States of America",
+            "locType": "hospital",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-117.075213351358"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "san diego",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "hotel del coronado": {
+            "latitude": "32.6803508",
+            "closest_to": "san diego",
+            "address": "Hotel Del Coronado, 1500, Orange Avenue, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1778919"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "pasadena",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-118.312628"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "san diego",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-117.870493"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "san diego",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "arizona-california": {
+            "latitude": "34.4631398",
+            "closest_to": "pasadena",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "dana point harbor": {
+            "latitude": "33.4631376",
+            "closest_to": "san diego",
+            "address": "Dana Point Harbor Drive, Dana Point, Orange County, California, 92629, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.6897783"
+        },
+        "golden acorn casino": {
+            "latitude": "32.7022228",
+            "closest_to": "san diego",
+            "address": "Golden Acorn Casino, Golden Acorn Casino and Travel Center, Live Oak Springs, San Diego County, California, 91906, United States of America",
+            "locType": "casino",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.3548244"
+        },
+        "carlsbad village": {
+            "latitude": "33.1717184",
+            "closest_to": "san diego",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.322507"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "san diego",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "san diego",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html",
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "https://answers.yahoo.com/question/index?qid=20081102225554AAhg701",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "vincent thomas bridge": {
+            "latitude": "33.7494878",
+            "closest_to": "san diego",
+            "address": "Vincent Thomas Bridge, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.2716112"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "san diego",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html",
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "https://answers.yahoo.com/question/index?qid=20081102225554AAhg701",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "http://californiathroughmylens.com/five-interesting-places-san-diego",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "aztec hotel": {
+            "latitude": "34.151536",
+            "closest_to": "san diego",
+            "address": "Aztec Hotel, 311, West Foothill Boulevard, Monrovia, Los Angeles County, California, 91016, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.0057962"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "san diego",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "catalina avenue": {
+            "latitude": "34.1340069",
+            "closest_to": "san diego",
+            "address": "Catalina Avenue, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.1292997"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san diego",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/",
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "desert view tower": {
+            "latitude": "32.6592422",
+            "closest_to": "san diego",
+            "address": "Desert View Tower, In-Ko-Pah Park Road, Boulder Park, Imperial County, California, 91934, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.0996206"
+        },
+        "leucadia": {
+            "latitude": "33.0692223",
+            "closest_to": "san diego",
+            "address": "Leucadia, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.3026809"
+        },
+        "el centro": {
+            "latitude": "32.792",
+            "closest_to": "san diego",
+            "address": "El Centro, Imperial County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-115.5630513"
+        },
+        "santa monica boulevard": {
+            "latitude": "34.0907545",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.317943"
+        },
+        "shamrock avenue": {
+            "latitude": "33.9999686",
+            "closest_to": "san diego",
+            "address": "Shamrock Avenue, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.3682239"
+        },
+        "southern orange county beach": {
+            "latitude": "33.6301901",
+            "closest_to": "san diego",
+            "address": "Southern Hills Drive, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-117.8689039"
+        },
+        "san diego botanic gardens": {
+            "latitude": "33.053482",
+            "closest_to": "san diego",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "los angeles international airport": {
+            "latitude": "33.94211345",
+            "closest_to": "san diego",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html",
+                "https://answers.yahoo.com/question/index?qid=20081102225554AAhg701"
+            ],
+            "longitude": "-118.407057290249"
+        },
+        "nebraska": {
+            "latitude": "33.7133039",
+            "closest_to": "san diego",
+            "address": "Nebraska, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-117.787062"
+        },
+        "irvine park": {
+            "latitude": "33.9082151",
+            "closest_to": "san diego",
+            "address": "Irvine Park, Beaumont, Riverside County, California, 92223, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-116.9604311"
+        },
+        "langham huntington": {
+            "latitude": "34.1202821",
+            "closest_to": "san diego",
+            "address": "The Langham Huntington, 1401, Huntington Circle, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.1333115"
+        },
+        "gila bend": {
+            "latitude": "32.8134269",
+            "closest_to": "san diego",
+            "address": "Gila Bend Drive, Seeley, Imperial County, California, 92243, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-115.6753603"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "pasadena",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "chula vista": {
+            "latitude": "32.6400541",
+            "closest_to": "san diego",
+            "address": "Chula Vista, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.0841954"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "san diego",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "albuquerque": {
+            "latitude": "32.8074701",
+            "closest_to": "san diego",
+            "address": "Albuquerque Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.2184314"
+        },
+        "boulder park": {
+            "latitude": "32.6589506",
+            "closest_to": "san diego",
+            "address": "Boulder Park, Imperial County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.1008485"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "pasadena",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "pasadena",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "san diego",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "irvine spectrum center": {
+            "latitude": "33.65023015",
+            "closest_to": "san diego",
+            "address": "The Irvine Spectrum Center, Irvine, Orange County, California, 92618, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.743290013547"
+        },
+        "interstate freeway": {
+            "latitude": "33.7269731",
+            "closest_to": "san diego",
+            "address": "Interstate 10, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-116.2024855"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "san diego",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "chase palm park": {
+            "latitude": "34.41527625",
+            "closest_to": "pasadena",
+            "address": "Chase Palm Park, East Cabrillo Boulevard, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/california-dreaming-road-trip-from-san-francisco-to-los-angeles/"
+            ],
+            "longitude": "-119.679267670006"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "san diego",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/travel-between-los-angeles-san-diego-63304.html"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "la valencia": {
+            "latitude": "34.413819",
+            "closest_to": "pasadena",
+            "address": "Valencia, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-118.5610377"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "pasadena",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "san diego",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.147366"
+        },
+        "whaley house": {
+            "latitude": "32.7527886",
+            "closest_to": "san diego",
+            "address": "Whaley House Museum, San Diego Avenue, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://californiathroughmylens.com/five-interesting-places-san-diego"
+            ],
+            "longitude": "-117.1945865"
+        },
+        "santa monica blvd": {
+            "latitude": "34.0907545",
+            "closest_to": "pasadena",
+            "address": "Santa Monica Boulevard, Little Armenia, LA, Los Angeles County, California, Ca 90038, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm",
+                "https://www.yelp.com/topic/san-francisco-stuff-to-see-between-sf-and-la"
+            ],
+            "longitude": "-118.317943"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "san diego",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c174834/California:United-States:Coast.Highway.Route.From.La.To.San.Diego.html"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "san diego",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "san diego",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "irvine park railroad": {
+            "latitude": "33.7962496",
+            "closest_to": "san diego",
+            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.754123588843"
+        },
+        "boulevard": {
+            "latitude": "32.6636712",
+            "closest_to": "san diego",
+            "address": "Boulevard, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.2736289"
+        },
+        "anza-borrego desert state park": {
+            "latitude": "33.2528053",
+            "closest_to": "san diego",
+            "address": "Anza-Borrego Desert State Park, Palm Canyon Drive, Borrego, San Diego County, California, 92004, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k3824645-Drive_from_San_Diego_to_Phoenix_anything_to_see-San_Diego_California.html"
+            ],
+            "longitude": "-116.330414288395"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "pasadena",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/route-66.htm"
+            ],
+            "longitude": "-118.248367"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "san diego",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.sandiego.org/articles/25-fun-free-things-to-do-in-san-diego.aspx"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "la valencia hotel": {
+            "latitude": "32.8486304",
+            "closest_to": "san diego",
+            "address": "La Valencia Hotel, 1132, Prospect Street, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60750-i41-k5258665-Looking_for_a_town_to_visit_between_L_A_and_San_Diego-San_Diego_California.html"
+            ],
+            "longitude": "-117.273608324189"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix dbr: <http://dbpedia.org/resource/>
+select DISTINCT ?subject ?label ?comment ?abstract
+where {
+?subject ?predicate ?object;
+dbo:locatedInArea dbr:California;
+dbo:abstract ?abstract1;
+rdfs:label ?label1;
+rdfs:comment ?comment1
+FILTER(langmatches(lang(?comment1),"en") && langmatches(lang(?abstract1),"en") && langmatches(lang(?label1),"en"))
+BIND(str(?comment1) AS ?comment)
+BIND(str(?abstract1) AS ?abstract)
+BIND(str(?label1) AS ?label)
+}

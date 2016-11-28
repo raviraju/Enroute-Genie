@@ -1,0 +1,1662 @@
+{
+    "fresno": {
+        "type": "city",
+        "osm_id": "33120274",
+        "class": "place",
+        "importance": 0.79213103374115,
+        "lat": "36.748793",
+        "lon": "-119.714839601149",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "72530219",
+        "osm_type": "way"
+    },
+    "santa monica": {
+        "type": "city",
+        "osm_id": "3353288",
+        "class": "place",
+        "importance": 0.84972348720023,
+        "lat": "34.0195598",
+        "lon": "-118.4869738",
+        "boundingbox": [
+            "33.9666583",
+            "34.05056",
+            "-118.5513434",
+            "-118.4434259"
+        ],
+        "display_name": "Santa Monica, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159526581",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "hollywood boulevard": {
+            "latitude": "34.1016312",
+            "closest_to": "santa monica",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-118.32684"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "santa monica",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "sunset strip": {
+            "latitude": "33.7224763",
+            "closest_to": "santa monica",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1940439"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "santa monica",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "surfrider beach": {
+            "latitude": "34.0329862",
+            "closest_to": "santa monica",
+            "address": "Surfrider Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.6798114"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "fresno",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=137"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "winchester blvd": {
+            "latitude": "37.2573553",
+            "closest_to": "fresno",
+            "address": "Winchester Boulevard, Los Gatos, Santa Clara County, California, 95030, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.965075"
+        },
+        "tioga pass": {
+            "latitude": "37.9109049",
+            "closest_to": "fresno",
+            "address": "Tioga Pass, Tuolumne County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.2578542"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "santa monica",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Monica-to-Fresno/FlightHistory/28825926.aspx"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "fresno",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "fresno",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "santa monica",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "dublin": {
+            "latitude": "37.7021521",
+            "closest_to": "fresno",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.9357917"
+        },
+        "el dorado county": {
+            "latitude": "38.7574137",
+            "closest_to": "fresno",
+            "address": "El Dorado County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-120.5276128"
+        },
+        "santa cruz mountains.the": {
+            "latitude": "37.2188403",
+            "closest_to": "fresno",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "santa monica",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "santa maria valley": {
+            "latitude": "34.947792",
+            "closest_to": "santa monica",
+            "address": "Santa Maria Valley, Barsug, Santa Barbara County, California, 93434, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-120.5647119"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "closest_to": "fresno",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-121.312847098327"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "santa monica",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "lake isabella": {
+            "latitude": "35.637646",
+            "closest_to": "santa monica",
+            "address": "Lake Isabella, Keyesville Road, Kern County, California, 93240, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.484657714814"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "fresno",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "fresno",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "lake crowley": {
+            "latitude": "37.61903895",
+            "closest_to": "fresno",
+            "address": "Lake Crowley, Layton Springs Road, North Landing, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.731056945814"
+        },
+        "coarsegold": {
+            "latitude": "37.2621687",
+            "closest_to": "fresno",
+            "address": "Coarsegold, Madera County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.7009833"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "santa monica",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "beijing": {
+            "latitude": "32.6596604",
+            "closest_to": "santa monica",
+            "address": "Beijing, Avenida Paraguay, Cuahutemoc Sur, Mexicali, Baja California, 21000, M\u00e9xico",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-115.4520934"
+        },
+        "philadelphia": {
+            "latitude": "33.8943097",
+            "closest_to": "santa monica",
+            "address": "Philadelphia Court, Riverside, Riverside County, California, 92503, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.4828685"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "santa monica",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "fresno",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-120.507146"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "santa monica",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "santa monica",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "emerald bay": {
+            "latitude": "38.9599078",
+            "closest_to": "fresno",
+            "address": "Emerald Bay, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-120.0979629"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa monica",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Monica-to-Fresno/FlightHistory/28825926.aspx",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "coachella": {
+            "latitude": "33.6795519",
+            "closest_to": "santa monica",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1763379"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa monica",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "santa monica",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.92944"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "santa monica",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "santa monica",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "hollywood hills": {
+            "latitude": "34.1311792",
+            "closest_to": "santa monica",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-118.3355473"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "fresno",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "santa monica",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "fresno",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "calico": {
+            "latitude": "35.6327332",
+            "closest_to": "santa monica",
+            "address": "Calico, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-119.206496"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "santa monica",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa monica",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "santa monica",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "kern river valley": {
+            "latitude": "36.6816956",
+            "closest_to": "santa monica",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "santa monica",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "san francisco bay area of california": {
+            "latitude": "37.7884969",
+            "closest_to": "fresno",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "fresno",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "sierra nevada": {
+            "latitude": "39.097593",
+            "closest_to": "fresno",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.1396689"
+        },
+        "badwater basin": {
+            "latitude": "36.2302592",
+            "closest_to": "santa monica",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.767444033304"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "fresno",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Monica-to-Fresno/FlightHistory/28825926.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "fresno",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "fresno",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "santa monica",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "santa monica",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Monica-to-Fresno/FlightHistory/28825926.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "fresno",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "santa monica",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "san diego hotel": {
+            "latitude": "32.70681915",
+            "closest_to": "santa monica",
+            "address": "Omni San Diego Hotel, 675, L Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.158593973277"
+        },
+        "las angeles": {
+            "latitude": "33.9995929",
+            "closest_to": "santa monica",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.0668337"
+        },
+        "lone cypress": {
+            "latitude": "36.5687376",
+            "closest_to": "fresno",
+            "address": "The Lone Cypress, 17 Mile Drive, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.9652341"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "santa monica",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "santa monica",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "fresno",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "fresno",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "fresno",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "santa monica",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "closest_to": "santa monica",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.2920584"
+        },
+        "big bear lake": {
+            "latitude": "34.253293",
+            "closest_to": "santa monica",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-116.932209587315"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "santa monica",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "mammoth lakes": {
+            "latitude": "37.6432525",
+            "closest_to": "fresno",
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.9668508"
+        },
+        "playa del rey": {
+            "latitude": "33.9550828",
+            "closest_to": "santa monica",
+            "address": "Playa del Rey, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4367495"
+        },
+        "santa monica state beach": {
+            "latitude": "34.0101407",
+            "closest_to": "santa monica",
+            "address": "Santa Monica State Beach, Santa Monica Beach Path, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.498714745971"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "closest_to": "fresno",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "santa monica",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "santa monica",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "fresno",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "fresno",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "south coast plaza": {
+            "latitude": "33.6907283",
+            "closest_to": "santa monica",
+            "address": "South Coast Plaza, Bear Street, Costa Mesa, Orange County, California, 92704, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.889168433903"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "santa monica",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "santa monica",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "panamint valley road": {
+            "latitude": "36.257055",
+            "closest_to": "santa monica",
+            "address": "Panamint Valley Road, Inyo County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.3555359"
+        },
+        "la hoya": {
+            "latitude": "33.91386",
+            "closest_to": "santa monica",
+            "address": "Hoya Place, Riverside, Riverside County, California, 92503, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.4332691"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "santa monica",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "santa monica",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "sandusky county": {
+            "latitude": "39.4898877",
+            "closest_to": "fresno",
+            "address": "Sandusky Creek, Sierra County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-120.8679252"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "santa monica",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "fresno",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-122.396892"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "santa monica",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "owens river": {
+            "latitude": "37.4100005",
+            "closest_to": "fresno",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.3819013"
+        },
+        "rodeo drive": {
+            "latitude": "32.824444",
+            "closest_to": "santa monica",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.2609329"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "fresno",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "oakhurst": {
+            "latitude": "37.333178",
+            "closest_to": "fresno",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-119.657244022836"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "fresno",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "santa monica",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.870493"
+        },
+        "nepenthe": {
+            "latitude": "36.2218116",
+            "closest_to": "fresno",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.7596564"
+        },
+        "julia pfeiffer burns state park": {
+            "latitude": "36.16998345",
+            "closest_to": "fresno",
+            "address": "Julia Pfeiffer Burns State Park, Ewoldsen trail, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.665388254615"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "santa monica",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Monica-to-Fresno/FlightHistory/28825926.aspx",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "closest_to": "santa monica",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.8984509"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "santa monica",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "santa monica",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "santa monica",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "badwater road": {
+            "latitude": "36.06739",
+            "closest_to": "santa monica",
+            "address": "Badwater Road, Inyo County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.7481439"
+        },
+        "bixby creek bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "fresno",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "santa monica",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "ridgecrest": {
+            "latitude": "35.6225064",
+            "closest_to": "santa monica",
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.6699413"
+        },
+        "fulton mall": {
+            "latitude": "36.73552975",
+            "closest_to": "fresno",
+            "address": "Fulton Mall, Fresno County, California, 93701, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.791520463653"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "fresno",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "santa clara county": {
+            "latitude": "37.2333253",
+            "closest_to": "fresno",
+            "address": "Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.6846348"
+        },
+        "mammoth creek": {
+            "latitude": "37.6055761",
+            "closest_to": "fresno",
+            "address": "Mammoth Creek, Mammoth Lakes, Mono County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.0090048"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "fresno",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "lone pine": {
+            "latitude": "36.583176",
+            "closest_to": "santa monica",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.078359194897"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "fresno",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "santa monica",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travelcalifornia.com/Cities/Santa_Barbara/santa_barbara.htm",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "grant grove": {
+            "latitude": "36.2554945",
+            "closest_to": "santa monica",
+            "address": "Grant, Inyo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.9939711"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "fresno",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "san francisco de solano": {
+            "latitude": "38.21389995",
+            "closest_to": "fresno",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.458560315194"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "fresno",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "santa monica",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "https://www.tripadvisor.com/Attractions-g33052-Activities-Santa_Monica_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "santa monica",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "kings river": {
+            "latitude": "36.7556141",
+            "closest_to": "santa monica",
+            "address": "Kings River, Fresno County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.4451345"
+        },
+        "maturango museum": {
+            "latitude": "35.629956",
+            "closest_to": "santa monica",
+            "address": "Maturango Museum, East Las Flores Avenue, Ridgecrest, Kern County, California, 93555, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.6695076"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "santa monica",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "hollywood blvd": {
+            "latitude": "34.1016312",
+            "closest_to": "santa monica",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.32684"
+        },
+        "glacier point": {
+            "latitude": "37.499192",
+            "closest_to": "fresno",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.8282379"
+        },
+        "getty center": {
+            "latitude": "34.07757975",
+            "closest_to": "santa monica",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "santa monica",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "fresno",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "santa monica",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "santa monica",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "palm springs tramway": {
+            "latitude": "33.85839515",
+            "closest_to": "santa monica",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "information",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.558183152534"
+        },
+        "yosemite valley": {
+            "latitude": "37.734435",
+            "closest_to": "fresno",
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.6064673"
+        },
+        "pebble": {
+            "latitude": "33.6678374",
+            "closest_to": "santa monica",
+            "address": "Pebble, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-117.7975199"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "santa monica",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "little italy": {
+            "latitude": "32.7234579",
+            "closest_to": "santa monica",
+            "address": "Little Italy, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-117.1682719"
+        },
+        "playboy mansion": {
+            "latitude": "34.07646035",
+            "closest_to": "santa monica",
+            "address": "The Playboy Mansion, Charing Cross Road, Bel Air, Westwood, LA, Los Angeles County, California, 90024, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-118.429529173368"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "santa monica",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "pebble beach": {
+            "latitude": "36.5664874",
+            "closest_to": "fresno",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "cambria cafe": {
+            "latitude": "35.564123",
+            "closest_to": "santa monica",
+            "address": "Cambria Cafe, 2282, Main Street, Fiscalini Ranch Preserve, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-121.0817237"
+        },
+        "asia": {
+            "latitude": "37.7949149",
+            "closest_to": "fresno",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/"
+            ],
+            "longitude": "-122.2533348"
+        },
+        "santa cruz wharf": {
+            "latitude": "36.9604473",
+            "closest_to": "fresno",
+            "address": "Santa Cruz Bay Company, Municipal Wharf, Beach & Boardwalk District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "gift",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.0205393"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "santa monica",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "santa monica",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "tioga road": {
+            "latitude": "37.6577485",
+            "closest_to": "fresno",
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-122.0821668"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "santa monica",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://www.romanticbug.com/romantic-places-in-california.html"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "half moon bay state beach": {
+            "latitude": "37.47903115",
+            "closest_to": "fresno",
+            "address": "Half Moon Bay State Beach, Venice Boulevard, Half Moon Bay, San Mateo County, California, 94019, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g33052-Activities-Santa_Monica_California.html"
+            ],
+            "longitude": "-122.449789014662"
+        },
+        "kings canyon national park": {
+            "latitude": "36.91527845",
+            "closest_to": "santa monica",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.607655759626"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "fresno",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "santa monica",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "solano county": {
+            "latitude": "38.2218938",
+            "closest_to": "fresno",
+            "address": "Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-121.9163554"
+        },
+        "muscle beach": {
+            "latitude": "33.985446",
+            "closest_to": "santa monica",
+            "address": "Muscle Beach, Ocean Front Walk, Venice, LA, Los Angeles County, California, 90292, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas/",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4725820875"
+        },
+        "lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "fresno",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-120.050511752934"
+        }
+    }
+}

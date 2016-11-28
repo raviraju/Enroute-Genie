@@ -1,0 +1,2559 @@
+{
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "los angeles": {
+        "boundingbox": [
+            "33.7036216",
+            "34.337306",
+            "-118.6681901",
+            "-118.1552946"
+        ],
+        "lon": "-118.2439408",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 1.0289952798766,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.0543942",
+        "osm_id": "207359",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159250198",
+        "display_name": "LA, Los Angeles County, California, United States of America"
+    },
+    "mentions": {
+        "embarcadero": {
+            "longitude": "-122.396892",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7928455",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station"
+        },
+        "hollywood": {
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1028268",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "pebble beach golf course": {
+            "longitude": "-121.937790801787",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.56413635",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course"
+        },
+        "bear mountain road": {
+            "longitude": "-122.2381749",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "40.721773",
+            "address": "Bear Mountain Road, Sherman, Shasta County, California, United States of America",
+            "locType": "tertiary"
+        },
+        "durant square": {
+            "longitude": "-122.257962530456",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.86818265",
+            "address": "Durant Square, Durant Avenue, Southside, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "food_court"
+        },
+        "bancroft way": {
+            "longitude": "-122.2636507",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8681473",
+            "address": "Bancroft Way, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "secondary"
+        },
+        "jupiter": {
+            "longitude": "-120.2826922",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "38.122421",
+            "address": "Jupiter, Tuolumne County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "richmond": {
+            "longitude": "-122.3477485",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9357576",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "san rafael": {
+            "longitude": "-122.5310873",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9735346",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city"
+        },
+        "frontierland": {
+            "longitude": "-117.921339068848",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.81314275",
+            "address": "Frontierland, Anaheim, Orange County, California, United States of America",
+            "locType": "locality"
+        },
+        "westchester": {
+            "longitude": "-118.4006321",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9597349",
+            "address": "Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "el cerrito": {
+            "longitude": "-117.52079768812",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.8410146",
+            "address": "El Cerrito, Quebec Avenue, El Cerrito, Pepper Corner, Riverside County, California, 92881, United States of America",
+            "locType": "administrative"
+        },
+        "rockridge": {
+            "longitude": "-122.251348",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8447104",
+            "address": "Rockridge, Grove Shafter Freeway, Rockridge, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "station"
+        },
+        "downtown": {
+            "longitude": "-122.2715243",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8036295",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood"
+        },
+        "gaviota beach": {
+            "longitude": "-120.227518455946",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4708959",
+            "address": "Gaviota Beach, Gaviota Beach Road, Port Orford, Santa Barbara County, California, United States of America",
+            "locType": "beach"
+        },
+        "madonna inn": {
+            "longitude": "-120.674725246222",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.2673282",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel"
+        },
+        "buellton": {
+            "longitude": "-120.1936691",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.6134727",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "san jose international airport": {
+            "longitude": "-121.928592538997",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.36312115",
+            "address": "Norman Y. Mineta San Jose International Airport, Terminal Drive, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "aerodrome"
+        },
+        "mediterranean": {
+            "longitude": "-116.3534838",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.7439509",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential"
+        },
+        "santa monica beach": {
+            "longitude": "-119.2203179",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.159111",
+            "address": "Santa Monica Drive, Channel Islands Beach, Ventura County, California, 93035, United States of America",
+            "locType": "residential"
+        },
+        "west": {
+            "longitude": "-118.4108078",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9492548",
+            "address": "W, Service road S, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "taxiway"
+        },
+        "highway 101": {
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.9967358",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary"
+        },
+        "chung king road": {
+            "longitude": "-118.2384445",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.066105",
+            "address": "Chung King Road, New Chinatown, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian"
+        },
+        "sonoma county": {
+            "longitude": "-122.8473387",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.5110803",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative"
+        },
+        "bay": {
+            "longitude": "-117.7729354",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.6899249",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "locType": "service"
+        },
+        "japantown": {
+            "longitude": "-122.4298088",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7855789",
+            "address": "Japantown, SF, California, 94115, United States of America",
+            "locType": "neighbourhood"
+        },
+        "hearst castle": {
+            "longitude": "-121.167587299509",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.6853689",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum"
+        },
+        "monterey county": {
+            "longitude": "-121.3877427",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2231079",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative"
+        },
+        "ventura": {
+            "longitude": "-119.0779358",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4458248",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative"
+        },
+        "caffe strada": {
+            "longitude": "-122.4073518",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7986305",
+            "address": "Caffe Trieste, 601, Vallejo Street, North Beach, SF, California, 94133, United States of America",
+            "locType": "cafe"
+        },
+        "san marino": {
+            "longitude": "-118.1057393",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1215947",
+            "address": "San Marino, Los Angeles County, California, United States of America",
+            "locType": "town"
+        },
+        "rancho la brea": {
+            "longitude": "-117.4851889",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.901833",
+            "address": "Rancho La Brea Drive, Riverside, Riverside County, California, 92505, United States of America",
+            "locType": "residential"
+        },
+        "regional park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "santa barbara": {
+            "longitude": "-119.7026672",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4221319",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city"
+        },
+        "washington blvd": {
+            "longitude": "-118.3475097",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0403773",
+            "address": "Washington Boulevard, The Village Green, LA, Los Angeles County, California, 90016-1417, United States of America",
+            "locType": "primary"
+        },
+        "la": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "venice beach": {
+            "longitude": "-118.4739815",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9862012",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police"
+        },
+        "rosemead": {
+            "longitude": "-118.0879762",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0676169",
+            "address": "Rosemead, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "main street usa": {
+            "longitude": "-118.3108771",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1619793",
+            "address": "Main Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "secondary"
+        },
+        "ashby bart station": {
+            "longitude": "-122.2705915",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8520696",
+            "address": "Ashby BART, Martin Luther King Jr Way, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "car_sharing"
+        },
+        "fourth street": {
+            "longitude": "-117.819163",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0456752",
+            "address": "Fourth Street, Walnut Hills Mobile Home Park, Pomona, Los Angeles County, California, 91765, United States of America",
+            "locType": "residential"
+        },
+        "allston way": {
+            "longitude": "-122.462831",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7417647",
+            "address": "Allston Way, West Portal, SF, California, 94127, United States of America",
+            "locType": "residential"
+        },
+        "san pablo ave": {
+            "longitude": "-118.9630679",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.401325",
+            "address": "San Pablo Avenue, Bakersfield, Kern County, California, 93306, United States of America",
+            "locType": "residential"
+        },
+        "china town": {
+            "longitude": "-122.407568",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7963119",
+            "address": "China Town, Duncombe Alley, Chinatown, SF, California, 94133, United States of America",
+            "locType": "marketplace"
+        },
+        "vermont": {
+            "longitude": "-117.7907651",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.712381",
+            "address": "Vermont, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "santa monica": {
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0195598",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "kettleman city": {
+            "longitude": "-119.962676860725",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.008937",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative"
+        },
+        "pismo beach": {
+            "longitude": "-120.6412826",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.1427533",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "piq berkeley": {
+            "longitude": "-122.2680966",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8713034",
+            "address": "PiQ, Addison Street, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "cafe"
+        },
+        "california science center": {
+            "longitude": "-118.286286870567",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0159757",
+            "address": "California Science Center, 700, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "museum"
+        },
+        "boyle heights": {
+            "longitude": "-118.2048647",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0331656",
+            "address": "Boyle Heights, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bestplaces.net/city/berkeley-california.aspx",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "redwood city": {
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.4852152",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "castaic": {
+            "longitude": "-118.6228655",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4888822",
+            "address": "Castaic, Los Angeles County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "harris ranch": {
+            "longitude": "-120.237368306069",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2535766",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "locType": "hotel"
+        },
+        "menlo park": {
+            "longitude": "-122.182187",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.4538274",
+            "address": "Menlo Park, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "tejon ranch": {
+            "longitude": "-118.9408535",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.9885197",
+            "address": "Bob Stine Road, Wheeler Ridge, Kern County, California, United States of America",
+            "locType": "tertiary"
+        },
+        "new orleans": {
+            "longitude": "-117.9206364",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.8116219",
+            "address": "New Orleans Square, Anaheim, Orange County, California, United States of America",
+            "locType": "locality"
+        },
+        "north beach": {
+            "longitude": "-122.409002",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8011749",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood"
+        },
+        "marin county": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "west coast": {
+            "longitude": "-118.4051087",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0222263",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber"
+        },
+        "sylmar": {
+            "longitude": "-118.4492147",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.3076252",
+            "address": "Sylmar, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "mir": {
+            "longitude": "-122.1700025",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.3823701",
+            "address": "Mir Mirou Drive, Los Altos Hills, Santa Clara County, California, 94022, United States of America",
+            "locType": "residential"
+        },
+        "santa monica mountains": {
+            "longitude": "-118.789983284662",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.11008435",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area"
+        },
+        "south berkeley": {
+            "longitude": "-122.2723751",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8551575",
+            "address": "South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "us": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "san luis obispo museum of art": {
+            "longitude": "-120.6649345",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.2795773",
+            "address": "San Luis Obispo Museum of Art, 1010, Broad Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "museum"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "santa barbara mission": {
+            "longitude": "-119.6779962",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4662154",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower"
+        },
+        "broadway": {
+            "longitude": "-122.4226908",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7958391",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary"
+        },
+        "walnut creek": {
+            "longitude": "-122.0649629",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.9063131",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "gioia pizzeria": {
+            "longitude": "-122.4219616",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.797552",
+            "address": "Gioia Pizzeria, 2238;2240, Polk Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "restaurant"
+        },
+        "california-nevada": {
+            "longitude": "-115.144667930325",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.17310935",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel"
+        },
+        "wilshire": {
+            "longitude": "-117.9034923",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.7805094",
+            "address": "Wilshire, Garden Grove, Orange County, California, 92868, United States of America",
+            "locType": "service"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "solano ave": {
+            "longitude": "-118.2345405",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0781793",
+            "address": "Solano Avenue, Dayton Avenue, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "tertiary"
+        },
+        "morro bay": {
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.3658075",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "monrovia": {
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1483499",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "himalayas": {
+            "longitude": "-119.1394549",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.399753",
+            "address": "Himalayas Drive, Bakersfield, Kern County, California, 93312, United States of America",
+            "locType": "residential"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://www.bestplaces.net/city/berkeley-california.aspx",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "shattuck square": {
+            "longitude": "-122.268062355617",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.87168125",
+            "address": "Shattuck Square, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "retail"
+        },
+        "solano avenue": {
+            "longitude": "-118.2345405",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0781793",
+            "address": "Solano Avenue, Dayton Avenue, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "tertiary"
+        },
+        "ripplewood": {
+            "longitude": "-121.2918389",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.702538",
+            "address": "Ripplewood Court, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "residential"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "humboldt county": {
+            "longitude": "-123.8997733",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "40.5997415",
+            "address": "Humboldt County, California, United States of America",
+            "locType": "administrative"
+        },
+        "city hall": {
+            "longitude": "-115.569543523702",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.84439345",
+            "address": "City Hall, Imperial, Imperial County, California, 92251, United States of America",
+            "locType": "commercial"
+        },
+        "golden gate park": {
+            "longitude": "-122.482183611177",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7693681",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park"
+        },
+        "indian rock park": {
+            "longitude": "-122.272988060644",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8921682",
+            "address": "Indian Rock Park, 950, Indian Rock Avenue, Northbrae, Berkeley, Alameda County, California, 94707, United States of America",
+            "locType": "park"
+        },
+        "tilden park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "metro": {
+            "longitude": "-118.4710141",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9880063",
+            "address": "Metro, Windward Circle, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "bus_station"
+        },
+        "california aqueduct": {
+            "longitude": "-120.1567036",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2979299",
+            "address": "California Aqueduct, Fresno County, California, United States of America",
+            "locType": "canal"
+        },
+        "hollywood hills": {
+            "longitude": "-118.3355473",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1311792",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "sacramento": {
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.5815719",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city"
+        },
+        "gilroy": {
+            "longitude": "-121.5631722",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.0065078",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "calico": {
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.6327332",
+            "address": "Calico, Kern County, California, United States of America",
+            "locType": "locality"
+        },
+        "yosemite national park": {
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.84054795",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park"
+        },
+        "san joaquin valley": {
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.9372901",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "hollywood bowl": {
+            "longitude": "-118.339277261641",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1121836",
+            "address": "Hollywood Bowl, Los Tilos Road, Whitley Heights, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "theatre"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        },
+        "hearst avenue": {
+            "longitude": "-122.4511591",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.7306855",
+            "address": "Hearst Avenue, Ingleside, SF, California, 94112, United States of America",
+            "locType": "residential"
+        },
+        "santa clarita": {
+            "longitude": "-118.5425859",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.3916641",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "highland park": {
+            "longitude": "-118.1969827",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1099469",
+            "address": "Highland Park, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "san jose": {
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.3361905",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "chinatown": {
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.7999301",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood"
+        },
+        "monterey": {
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.5844165",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "university avenue": {
+            "longitude": "-118.2810888",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0277235",
+            "address": "University Avenue, Saint James Park, LA, Los Angeles County, California, 90007, United States of America",
+            "locType": "residential"
+        },
+        "daly city": {
+            "longitude": "-122.4619204",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.7057671",
+            "address": "Daly City, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific grove": {
+            "longitude": "-121.9155905",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.6174432",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "king city": {
+            "longitude": "-121.1260286",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2127439",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "garrapata state park": {
+            "longitude": "-121.905849899399",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.4733677",
+            "address": "Garrapata State Park, Peak Trail (?), Carmel Highlands, Monterey County, California, United States of America",
+            "locType": "park"
+        },
+        "spring street": {
+            "longitude": "-117.0174587",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.7568512",
+            "address": "Spring Street, Date Avenue, La Mesa, San Diego County, California, 91941, United States of America",
+            "locType": "station"
+        },
+        "long beach": {
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.78538945",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "golden gate": {
+            "longitude": "-122.4793972",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8190177",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait"
+        },
+        "silver lake": {
+            "longitude": "-118.2693734",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0896518",
+            "address": "Silver Lake, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "neighbourhood"
+        },
+        "south san francisco": {
+            "longitude": "-122.408125",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.6549493",
+            "address": "South San Francisco, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "tejon": {
+            "longitude": "-117.597894",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.6483031",
+            "address": "Tejon, Robinson Ranch, Rancho Santa Margarita, Orange County, California, 92688, United States of America",
+            "locType": "residential"
+        },
+        "silicon valley": {
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.4105333",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school"
+        },
+        "los angeles aqueduct": {
+            "longitude": "-118.0956309",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.6516297",
+            "address": "Los Angeles Aqueduct, Inyo County, California, United States of America",
+            "locType": "canal"
+        },
+        "monterey bay aquarium": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "disneyland": {
+            "longitude": "-117.91971186569",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.8136367",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "locType": "theme_park"
+        },
+        "soledad": {
+            "longitude": "-121.3272146",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.4269452",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "oakland international airport": {
+            "longitude": "-122.2123029",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.713158",
+            "address": "Oakland International Airport, Airport Drive, Oakland, Alameda County, California, 94614, United States of America",
+            "locType": "tram_stop"
+        },
+        "culver city": {
+            "longitude": "-118.3964664",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0211224",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "ocean beach": {
+            "longitude": "-117.249321",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.7477784",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region"
+        },
+        "altadena": {
+            "longitude": "-118.1352328",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1863161",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town"
+        },
+        "tejon pass": {
+            "longitude": "-118.8767819",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.8027895",
+            "address": "Tejon Pass, Golden State Freeway, Gorman, Los Angeles County, California, 93243, United States of America",
+            "locType": "saddle"
+        },
+        "otium": {
+            "longitude": "-118.2512679",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0544145",
+            "address": "Otium, 222, South Hope Street, Bunker Hill, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "restaurant"
+        },
+        "eagle rock": {
+            "longitude": "-118.6053476",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.4723736",
+            "address": "Eagle Rock, Los Angeles County, California, United States of America",
+            "locType": "island"
+        },
+        "santa monica pier": {
+            "longitude": "-118.4960541",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0104809",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service"
+        },
+        "broad": {
+            "longitude": "-119.4020094",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.1980688",
+            "address": "Broad Creek, Kern County, California, United States of America",
+            "locType": "stream"
+        },
+        "mcway falls trail": {
+            "longitude": "-121.6723957",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.1578211",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall"
+        },
+        "san luis obispo county": {
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.3540209",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "south lake tahoe": {
+            "longitude": "-119.987846390157",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.929125",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city"
+        },
+        "virginia street": {
+            "longitude": "-122.3023816",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.871671",
+            "address": "Virginia Street, Ocean View, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "residential"
+        },
+        "east bay": {
+            "longitude": "-121.0270079",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "38.156964",
+            "address": "East Bay, San Joaquin County, California, United States of America",
+            "locType": "track"
+        },
+        "big sur bakery": {
+            "longitude": "-121.7693642",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2359105",
+            "address": "Big Sur Bakery, 47540, Cabrillo Highway, Posts, Monterey County, California, 93920, United States of America",
+            "locType": "bakery"
+        },
+        "west hollywood": {
+            "longitude": "-118.3617442",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0900091",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "berkeley rose garden": {
+            "longitude": "-122.263265284396",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88535145",
+            "address": "Berkeley Rose Garden, 1200, Euclid Avenue, Northside, Berkeley, Alameda County, California, 94708:94709, United States of America",
+            "locType": "park"
+        },
+        "berkeley bart": {
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8742984",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "car_sharing"
+        },
+        "emeryville": {
+            "longitude": "-122.2865265",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8314089",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "venice": {
+            "longitude": "-118.4668874",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.995044",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "marina blvd": {
+            "longitude": "-122.4475598",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.805133",
+            "address": "Marina Boulevard, Marina District, SF, California, 94123, United States of America",
+            "locType": "secondary"
+        },
+        "riverside": {
+            "longitude": "-117.3961622",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9533546",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "lake anza": {
+            "longitude": "-122.25039158978",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.89620465",
+            "address": "Lake Anza, Wildcat Gorge Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "water"
+        },
+        "monterey peninsula": {
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.5878734",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "lake tahoe": {
+            "longitude": "-120.050511752934",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "39.0888982",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water"
+        },
+        "santa fe springs": {
+            "longitude": "-118.0676102",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9482434",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "missouri lounge": {
+            "longitude": "-122.2891189",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8591303",
+            "address": "Missouri Lounge, San Pablo Avenue, Poets Corner, Berkeley, Alameda County, California, 94702, United States of America",
+            "locType": "pub"
+        },
+        "elmwood district": {
+            "longitude": "-122.2538686",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8577846",
+            "address": "Elmwood, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "neighbourhood"
+        },
+        "travel town": {
+            "longitude": "-118.307543192878",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1546815",
+            "address": "Travel Town Museum, 5200, Zoo Drive, West Glendale, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "museum"
+        },
+        "san gabriel valley": {
+            "longitude": "-118.108604",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0991325",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "downtown los angeles": {
+            "longitude": "-118.312628",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1789188",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station"
+        },
+        "atlanta": {
+            "longitude": "-121.1207728",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8129826",
+            "address": "Atlanta, San Joaquin County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "piedmont ave": {
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8276971",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san francisco bay ferry": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "san diego": {
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.7174209",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "los angeles county": {
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.3155072",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "brazil cafe": {
+            "longitude": "-122.2714969",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.871604",
+            "address": "Brazil Cafe, 1960, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "orange county": {
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.7500378",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative"
+        },
+        "owens river": {
+            "longitude": "-118.3819013",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.4100005",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "locType": "river"
+        },
+        "uc botanical garden": {
+            "longitude": "-122.239241226147",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8756677",
+            "address": "UC - Botanical Garden lot, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "parking"
+        },
+        "big sur": {
+            "longitude": "-121.8074544",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.270241",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village"
+        },
+        "oxnard": {
+            "longitude": "-119.1803817",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1976308",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific": {
+            "longitude": "-120.507146",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.7601815",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san pablo": {
+            "longitude": "-122.3455262",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9621457",
+            "address": "San Pablo, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "louisiana kitchen": {
+            "longitude": "-122.2675426",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8682414",
+            "address": "Angeline's Louisiana Kitchen, 2261, Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "space mountain": {
+            "longitude": "-117.9174943",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.810975",
+            "address": "Hyperspace Mountain, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "attraction"
+        },
+        "kettleman station": {
+            "longitude": "-119.9637441",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.9988421",
+            "address": "Kettleman Station, Kings County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "north berkeley": {
+            "longitude": "-122.2736818",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8779506",
+            "address": "North Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "united states": {
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.7014631",
+            "address": "California, United States of America",
+            "locType": "administrative"
+        },
+        "san luis obispo": {
+            "longitude": "-120.6596155",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.2827525",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city"
+        },
+        "big bear lake": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "transverse range": {
+            "longitude": "-122.4815799",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7716493",
+            "address": "Transverse Drive, Richmond District, SF, California, 94121, United States of America",
+            "locType": "unclassified"
+        },
+        "santa nella": {
+            "longitude": "-122.9666643",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.497135",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "griffith park": {
+            "longitude": "-121.3121659",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.68813",
+            "address": "Griffith Park, Citrus Heights, Sacramento County, California, 95621, United States of America",
+            "locType": "service"
+        },
+        "eureka": {
+            "longitude": "-124.1636728",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "40.8020712",
+            "address": "Eureka, Humboldt County, California, United States of America",
+            "locType": "city"
+        },
+        "north berkeley bart": {
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8742984",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "car_sharing"
+        },
+        "monterey bay": {
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.7999557",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay"
+        },
+        "shattuck avenue": {
+            "longitude": "-122.2684811",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8729527",
+            "address": "Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94609, United States of America",
+            "locType": "secondary"
+        },
+        "beverly hills": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "los angeles county museum of art": {
+            "longitude": "-118.357997654056",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0634357",
+            "address": "Los Angeles County Museum of Art, Wilshire Boulevard, Park La Brea, The Village Green, LA, Los Angeles County, California, 90036, United States of America",
+            "locType": "museum"
+        },
+        "central valley": {
+            "longitude": "-122.4530663",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "40.5626504",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "locType": "tower"
+        },
+        "union station": {
+            "longitude": "-118.235796451972",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0560576",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "yes"
+        },
+        "pacific coast highway": {
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.6595127",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary"
+        },
+        "berkeley marina": {
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8678664",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "neighbourhood"
+        },
+        "los alamos": {
+            "longitude": "-120.26591036241",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.7379311",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative"
+        },
+        "claremont": {
+            "longitude": "-117.7197784",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0966764",
+            "address": "Claremont, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "antelope valley": {
+            "longitude": "-118.1865629",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.67743",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "locType": "college"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la",
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free",
+                "http://www.bestplaces.net/city/berkeley-california.aspx",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "san mateo": {
+            "longitude": "-122.3330572",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.496904",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "fort tejon": {
+            "longitude": "-118.8918151",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.8736894",
+            "address": "Fort Tejon Road, Lebec, Kern County, California, 93243, United States of America",
+            "locType": "tertiary"
+        },
+        "newport beach": {
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.6170092",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "nepenthe": {
+            "longitude": "-121.7596564",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2218116",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant"
+        },
+        "los banos": {
+            "longitude": "-120.8505341",
+            "blogLinks": [
+                "http://redtri.com/san-francisco/road-trippin-sf-to-l-a-with-kids/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.0592253",
+            "address": "Los Banos, Merced County, California, United States of America",
+            "locType": "administrative"
+        },
+        "us hwy 101": {
+            "longitude": "-117.2731974",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.9967358",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary"
+        },
+        "downtown berkeley": {
+            "longitude": "-122.268136079248",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.87010225",
+            "address": "Downtown Berkeley, Constitution Plaza, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "station"
+        },
+        "moonstone beach": {
+            "longitude": "-121.1128747",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.573855",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path"
+        },
+        "cal": {
+            "longitude": "-115.484614171269",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.16643595",
+            "address": "CAL, 7018, Blair Road, Calipatria, Imperial County, California, 92233, United States of America",
+            "locType": "prison"
+        },
+        "telegraph avenue": {
+            "longitude": "-122.2694148",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8102741",
+            "address": "Telegraph Avenue, Uptown, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "secondary"
+        },
+        "california coast": {
+            "longitude": "-117.1464145",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "32.7586361",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank"
+        },
+        "uc berkeley": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "albany": {
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88687",
+            "address": "Albany, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "forest lawn": {
+            "longitude": "-118.169487718423",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.8431244",
+            "address": "Forest Lawn, Long Beach, Bixby Knolls, Long Beach, Los Angeles County, California, 90807, United States of America",
+            "locType": "cemetery"
+        },
+        "carlsbad": {
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.1580933",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city"
+        },
+        "burbank": {
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1816482",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "south hall": {
+            "longitude": "-122.2585072",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.8713408",
+            "address": "South Hall, South Hall Road, Northside, Berkeley, Alameda County, California, 94720, United States of America",
+            "locType": "yes"
+        },
+        "cambria": {
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.5641381",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "big sur campground": {
+            "longitude": "-121.8056861",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2674133",
+            "address": "Big Sur Campground, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "camp_site"
+        },
+        "rose garden": {
+            "longitude": "-121.9240707",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/free-attractions-in-la-best-places-to-visit-for-free"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.3339825",
+            "address": "Rose Garden, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb"
+        },
+        "south pasadena": {
+            "longitude": "-118.147829",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1133062",
+            "address": "South Pasadena, Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "el dorado county": {
+            "longitude": "-120.5276128",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.7574137",
+            "address": "El Dorado County, California, United States of America",
+            "locType": "administrative"
+        },
+        "bixby creek bridge": {
+            "longitude": "-121.9017572",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.3710197",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary"
+        },
+        "santa lucia mountain": {
+            "longitude": "-119.8003246",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.4379129",
+            "address": "Santa Lucia, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential"
+        },
+        "alameda": {
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.6090291",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "el segundo": {
+            "longitude": "-118.3829549",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9122175",
+            "address": "El Segundo, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "hollywood walk of fame": {
+            "longitude": "-118.3385158",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1018331",
+            "address": "Old Hollywood Bookshop, Walk of Fame, Whitley Heights, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "attraction"
+        },
+        "las angeles": {
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "33.9995929",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "locType": "abandoned"
+        },
+        "american riviera": {
+            "longitude": "-121.3602199",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.576666",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary"
+        },
+        "san francisco international airport": {
+            "longitude": "-122.384071507814",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "37.622452",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome"
+        },
+        "eastshore freeway": {
+            "longitude": "-122.3003833",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8551979",
+            "address": "Eastshore Freeway, West Berkeley, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "motorway"
+        },
+        "america": {
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.2573198",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential"
+        },
+        "big sur village": {
+            "longitude": "-121.8074544",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g240329-i513-k5318110-LA_to_Big_Sur-Big_Sur_California.html"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.270241",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village"
+        },
+        "carmel-by-the-sea": {
+            "longitude": "-121.9232878",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.5552387",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific palisades": {
+            "longitude": "-118.5264705",
+            "blogLinks": [
+                "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.0480643",
+            "address": "Pacific Palisades, LA, Los Angeles County, California, 90272, United States of America",
+            "locType": "neighbourhood"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                "https://www.berkeleyparentsnetwork.org/recommend/housing/la"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "barstow": {
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.8957684",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "buttonwillow": {
+            "longitude": "-119.474104",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.3997369",
+            "address": "Buttonwillow, Kern County, California, United States of America",
+            "locType": "village"
+        },
+        "taft highway": {
+            "longitude": "-119.3064987",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.2670566",
+            "address": "Taft Highway, Kern County, California, 93276, United States of America",
+            "locType": "primary"
+        },
+        "central coast": {
+            "longitude": "-119.1665989",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "35.3611193",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential"
+        },
+        "santa cruz beach boardwalk": {
+            "longitude": "-122.016027247326",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "36.96446855",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction"
+        },
+        "southern pacific": {
+            "longitude": "-118.9223619",
+            "blogLinks": [
+                "http://www.bestplaces.net/zip-code/california/berkeley/94720",
+                "http://www.bestplaces.net/city/berkeley-california.aspx"
+            ],
+            "closest_to": "los angeles",
+            "latitude": "34.391601",
+            "address": "Southern Pacific, Fillmore, Ventura County, California, 93015, United States of America",
+            "locType": "residential"
+        }
+    }
+}

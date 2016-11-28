@@ -1,0 +1,841 @@
+{
+    "big bear lake": {
+        "boundingbox": [
+            "34.2375569",
+            "34.2689983",
+            "-116.9775303",
+            "-116.8663043"
+        ],
+        "importance": 0.80624782713774,
+        "class": "natural",
+        "osm_id": "4045674",
+        "type": "water",
+        "lon": "-116.932209587315",
+        "osm_type": "relation",
+        "place_id": "159717820",
+        "lat": "34.253293",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
+    },
+    "pasadena": {
+        "boundingbox": [
+            "34.1172023",
+            "34.251905",
+            "-118.1981389",
+            "-118.0654789"
+        ],
+        "lon": "-118.1444778",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.7778961552687,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "34.1476452",
+        "osm_id": "3529725",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159486921",
+        "display_name": "Pasadena, Los Angeles County, California, United States of America"
+    },
+    "mentions": {
+        "idyllwild": {
+            "longitude": "-116.7189074",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "33.7400209",
+            "address": "Idyllwild, Riverside County, California, United States of America",
+            "locType": "village"
+        },
+        "mentone": {
+            "longitude": "-117.109606374724",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.05884",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative"
+        },
+        "beverly hills": {
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0736204",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "metcalf bay": {
+            "longitude": "-116.9386448",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2452851",
+            "address": "Metcalf Bay, Lake Drive, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "bay"
+        },
+        "los angeles": {
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "https://www.yelp.com/biz/destination-big-bear-big-bear-lake"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0543942",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "la pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "mountain station": {
+            "longitude": "-117.6417457",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6541559",
+            "address": "Mountain, Pinecrest, Mission Viejo, Orange County, California, 92679, United States of America",
+            "locType": "residential"
+        },
+        "alden rd": {
+            "longitude": "-117.1707431",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0432109",
+            "address": "Alden Road, Redlands, San Bernardino County, California, 92373, United States of America",
+            "locType": "residential"
+        },
+        "bear city": {
+            "longitude": "-116.848597753191",
+            "blogLinks": [
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.267886",
+            "address": "Big Bear City, Anita Avenue, Big Bear City, San Bernardino County, California, 92314, United States of America",
+            "locType": "administrative"
+        },
+        "holcomb valley campground": {
+            "longitude": "-116.895994630574",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.3025052",
+            "address": "Holcomb Valley Campground, 3N16E, Minnelusa, San Bernardino County, California, 92314, United States of America",
+            "locType": "camp_site"
+        },
+        "park ave.": {
+            "longitude": "-117.3248975",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.5120975",
+            "address": "Park Avenue, Victorville, San Bernardino County, California, 92392, United States of America",
+            "locType": "residential"
+        },
+        "moonridge": {
+            "longitude": "-116.8555852",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2352857",
+            "address": "Moonridge, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "malibu": {
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "33.7932142",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential"
+        },
+        "hilton garden inn san bernardino": {
+            "longitude": "-117.55450015",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0790286",
+            "address": "Hilton Garden Inn, 11481, Mission Vista Drive, Rancho Cucamonga, San Bernardino County, California, 91730, United States of America",
+            "locType": "hotel"
+        },
+        "lake arrowhead": {
+            "longitude": "-117.185753981831",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2592869",
+            "address": "Lake Arrowhead, Shelter Cove Lane, North Shore, San Bernardino County, California, 92407, United States of America",
+            "locType": "water"
+        },
+        "big bear mountain brewery": {
+            "longitude": "-116.9237496",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2390897",
+            "address": "Big Bear Mountain Brewery, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "pub"
+        },
+        "old pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "nottingham": {
+            "longitude": "-118.3355358",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9587429",
+            "address": "Nottingham, Inglewood, Los Angeles County, California, 90305, United States of America",
+            "locType": "service"
+        },
+        "southern california": {
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "https://www.yelp.com/biz/destination-big-bear-big-bear-lake",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0224149",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university"
+        },
+        "colorado boulevard": {
+            "longitude": "-118.2001327",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1394485",
+            "address": "Colorado Boulevard, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
+            "locType": "primary"
+        },
+        "barstow": {
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.8957684",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative"
+        },
+        "valley station": {
+            "longitude": "-117.6292572",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.5672695",
+            "address": "Station, Las Flores, Ladera Ranch, Orange County, California, 92694, United States of America",
+            "locType": "residential"
+        },
+        "grizzly manor cafe": {
+            "longitude": "-116.9017773",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2437384",
+            "address": "Grizzly Manor Cafe, Jeffries Road, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "cafe"
+        },
+        "silverwood lake": {
+            "longitude": "-117.324170272",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.29063485",
+            "address": "Silverwood Lake, PCT - Section C, Cedarpines Park, San Bernardino County, California, 92407, United States of America",
+            "locType": "water"
+        },
+        "wilshire blvd": {
+            "longitude": "-118.3036614",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0617231",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "locType": "primary"
+        },
+        "ventura county": {
+            "longitude": "-119.0779358",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4458248",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative"
+        },
+        "pine knot campground": {
+            "longitude": "-116.8859014",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2356976",
+            "address": "Pine Knot Campground, Pineknot Campground Road South, Moonridge, San Bernardino County, California, 92314, United States of America",
+            "locType": "camp_site"
+        },
+        "pittsford park": {
+            "longitude": "-117.671327857135",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6494795",
+            "address": "Pittsford Park, Ives Way, San Rita, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "locType": "park"
+        },
+        "arroyo seco": {
+            "longitude": "-118.176531",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1129526",
+            "address": "Arroyo Seco, LA, Los Angeles County, California, United States of America",
+            "locType": "drain"
+        },
+        "hanna flat": {
+            "longitude": "-116.9736454",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2788504",
+            "address": "Hanna Flat Trail, Fawnskin, San Bernardino County, California, 92333, United States of America",
+            "locType": "path"
+        },
+        "baldwin lake": {
+            "longitude": "-116.7982897",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2793278",
+            "address": "Baldwin Lake, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "hollywood": {
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1028268",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb"
+        },
+        "burbank": {
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1816482",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "pasadena city hall": {
+            "longitude": "-118.1438618",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476454",
+            "address": "Pasadena City Hall, North Garfield Avenue, Pasadena, Los Angeles County, California, 91101, United States of America",
+            "locType": "townhall"
+        },
+        "old town pasadena": {
+            "longitude": "-118.1352328",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1863161",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town"
+        },
+        "radford avenue studio city": {
+            "longitude": "-118.3925972",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1447608",
+            "address": "Radford Avenue, Studio City, Valley Village, LA, Los Angeles County, California, 91604, United States of America",
+            "locType": "residential"
+        },
+        "wrightwood": {
+            "longitude": "-117.627599739034",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.3583535",
+            "address": "Wrightwood, Ross Street, Wrightwood, San Bernardino County, California, 92397, United States of America",
+            "locType": "administrative"
+        },
+        "long beach": {
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.78538945",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "redlands": {
+            "longitude": "-117.248983896912",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.069909",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "pine knot ave.": {
+            "longitude": "-116.911481",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2417782",
+            "address": "Pine Knot Avenue, The Village, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "tertiary"
+        },
+        "fawnskin": {
+            "longitude": "-116.9425341",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2680621",
+            "address": "Fawnskin, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "crestline": {
+            "longitude": "-117.293895511888",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2495525",
+            "address": "Crestline, Old Mill Road, Crestline, San Bernardino County, California, 92407, United States of America",
+            "locType": "administrative"
+        },
+        "big bear lake route": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Big-Bear-Lake/DirectionHistory/20960865.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Big-Bear-Lake/TravelFromHistory/20960865.aspx"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "big bear": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "las angeles": {
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9995929",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "locType": "abandoned"
+        },
+        "inland center mall": {
+            "longitude": "-117.297473820788",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.08506055",
+            "address": "Inland Center, West Central Avenue, Inland Center, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "locType": "mall"
+        },
+        "arctic circle": {
+            "longitude": "-118.049644",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.8933924",
+            "address": "Arctic Circle, Santa Fe Springs, Los Angeles County, California, 909703, United States of America",
+            "locType": "residential"
+        },
+        "grout bay trail": {
+            "longitude": "-116.9425341",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2636178",
+            "address": "Grout Bay, North Shore Drive, Boulder Bay, San Bernardino County, California, 92314, United States of America",
+            "locType": "bay"
+        },
+        "north shore drive": {
+            "longitude": "-117.5868906",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0146349",
+            "address": "North Shore Drive, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "residential"
+        },
+        "magic mountain": {
+            "longitude": "-119.2563693",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4724515",
+            "address": "Magic Mountain, Ventura County, California, United States of America",
+            "locType": "peak"
+        },
+        "club bombay": {
+            "longitude": "-116.9117397",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2404169",
+            "address": "Club Bombay, 672, Pine Knot Avenue, The Village, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "nightclub"
+        },
+        "boulder bay park": {
+            "longitude": "-116.949195007263",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.23859285",
+            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "park"
+        },
+        "north shore": {
+            "longitude": "-117.1842077",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/big-bear-lake-guide",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2680613",
+            "address": "North Shore, San Bernardino County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san bernardino": {
+            "longitude": "-117.2897651",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://www.bigbearlake.net/about-big-bear/facts",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "http://www.bigbearlake.net/summer/photos-of-the-lake"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1083449",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "big bear city": {
+            "longitude": "-116.848597753191",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.267886",
+            "address": "Big Bear City, Anita Avenue, Big Bear City, San Bernardino County, California, 92314, United States of America",
+            "locType": "administrative"
+        },
+        "running springs": {
+            "longitude": "-117.124877511921",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.2124412",
+            "address": "Running Springs, Mountain Oak Drive, Fredalba, San Bernardino County, California, 92314, United States of America",
+            "locType": "administrative"
+        },
+        "hanna flat campground": {
+            "longitude": "-116.974572815296",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.28743915",
+            "address": "Hanna Flat Campground, Hanna Flat Trail, Fawnskin, San Bernardino County, California, 92333, United States of America",
+            "locType": "camp_site"
+        },
+        "bear mountain resort": {
+            "longitude": "-117.923182382511",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.8127021",
+            "address": "The Many Adventures of Winnie the Pooh, West Service Road, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "attraction"
+        },
+        "mall of victor valley": {
+            "longitude": "-117.347349",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4736697",
+            "address": "The Mall of Victor Valley, Amargosa Road, Victorville, San Bernardino County, California, 92392, United States of America",
+            "locType": "mall"
+        },
+        "glendale": {
+            "longitude": "-118.248367",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1423455",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "victorville": {
+            "longitude": "-117.2911564",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.5361067",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "los angeles county": {
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.3155072",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative"
+        },
+        "stanfield cutoff": {
+            "longitude": "-116.8845335",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.2601412",
+            "address": "Stanfield Cutoff, Minnelusa, San Bernardino County, California, 92314, United States of America",
+            "locType": "tertiary"
+        },
+        "pacific coast highway": {
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6595127",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary"
+        },
+        "orange county": {
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7500378",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative"
+        },
+        "hesperia": {
+            "longitude": "-117.3008783",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.4263886",
+            "address": "Hesperia, San Bernardino County, California, United States of America",
+            "locType": "city"
+        },
+        "pasadena": {
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Pasadena-to-Big-Bear-Lake/DirectionHistory/20960865.aspx",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://www.distancesfrom.com/us/travel-from-Pasadena-to-Big-Bear-Lake/TravelFromHistory/20960865.aspx",
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.1476452",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "wolf creek resort": {
+            "longitude": "-117.916002460128",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7789302",
+            "address": "Great Wolf Lodge, Harbor Boulevard, Garden Grove, Orange County, California, 92840, United States of America",
+            "locType": "hotel"
+        },
+        "beaumont": {
+            "longitude": "-116.9772479",
+            "blogLinks": [
+                "http://www.yellowpages.com/big-bear-lake-ca/la-pasadena"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.9294606",
+            "address": "Beaumont, Riverside County, California, United States of America",
+            "locType": "city"
+        },
+        "lake arrowhead village": {
+            "longitude": "-117.189172517683",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.25158015",
+            "address": "Lake Arrowhead Village, Lake Arrowhead, San Bernardino County, California, 92352, United States of America",
+            "locType": "retail"
+        },
+        "big bear snow play": {
+            "longitude": "-116.86709685",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "34.25837955",
+            "address": "Big Bear Snow Play, Big Bear Lake, San Bernardino County, California, 92314, United States of America",
+            "locType": "winter_sports"
+        },
+        "newport beach": {
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.6170092",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city"
+        },
+        "big bear lake": {
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.253293",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water"
+        },
+        "los angeles harbor": {
+            "longitude": "-118.2675706",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "33.7097418",
+            "address": "Los Angeles Harbor, Miner Street, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "locType": "bay"
+        },
+        "san bernardino national forest": {
+            "longitude": "-116.968502795539",
+            "blogLinks": [
+                "http://www.bigbearlake.net/about-big-bear/facts"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.18055525",
+            "address": "San Bernardino National Forest, Clark's Grade, Pinezanita, San Bernardino County, California, 92305, United States of America",
+            "locType": "national_park"
+        },
+        "san gabriel": {
+            "longitude": "-118.108604",
+            "blogLinks": [
+                "http://www.bigbear.us/tag/pasadena-california/"
+            ],
+            "closest_to": "pasadena",
+            "latitude": "34.0991325",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city"
+        },
+        "palm springs": {
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ],
+            "closest_to": "big bear lake",
+            "latitude": "33.8246269",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city"
+        }
+    }
+}

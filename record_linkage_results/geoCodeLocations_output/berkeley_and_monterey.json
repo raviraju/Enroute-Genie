@@ -1,0 +1,934 @@
+{
+    "monterey": {
+        "boundingbox": [
+            "36.583508",
+            "36.585509",
+            "-121.8673379",
+            "-121.8661949"
+        ],
+        "lon": "-121.866792846206",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.71088018078768,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "36.5844165",
+        "osm_id": "33117009",
+        "type": "city",
+        "osm_type": "way",
+        "place_id": "72265425",
+        "display_name": "Monterey, Monterey County, California, United States of America"
+    },
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "mentions": {
+        "del rey oaks": {
+            "longitude": "-121.8349514",
+            "blogLinks": [
+                "https://www.seemonterey.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5932934",
+            "address": "Del Rey Oaks, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "monterey bay": {
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.7999557",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay"
+        },
+        "larkin house": {
+            "longitude": "-121.896166042658",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.59810515",
+            "address": "Larkin House, Jefferson Street, Monterey, Monterey County, California, 93944, United States of America",
+            "locType": "yes"
+        },
+        "pebble beach golf course": {
+            "longitude": "-121.937790801787",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.56413635",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course"
+        },
+        "carmel valley village": {
+            "longitude": "-121.714600790494",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.4829185",
+            "address": "Carmel Valley Village, Holman Road, Carmel Valley Village, Monterey County, California, 93924, United States of America",
+            "locType": "administrative"
+        },
+        "pebble beach ca": {
+            "longitude": "-121.9466112",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5664874",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "san juan bautista historic district": {
+            "longitude": "-121.5366084",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.8460482",
+            "address": "San Juan Bautista Historic District, Polk Street, San Juan Bautista, San Benito County, California, 95045-0000, United States of America",
+            "locType": "park"
+        },
+        "tor house": {
+            "longitude": "-122.4793972",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8190177",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.bbonline.com/united-states/california/berkeley/northberkeley.html",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "sweeney ridge": {
+            "longitude": "-122.463853421956",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.60933145",
+            "address": "Sweeney Ridge (GGNRA), Sweeney Ridge Trail, Pacifica, San Mateo County, California, 94044, United States of America",
+            "locType": "park"
+        },
+        "scenic road": {
+            "longitude": "-121.9284886",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5492648",
+            "address": "Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "residential"
+        },
+        "soledad": {
+            "longitude": "-121.3272146",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.seemonterey.com/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.4269452",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "pacific ocean": {
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.16305775",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff"
+        },
+        "alta california": {
+            "longitude": "-120.8579018",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.3964868",
+            "address": "Alta California, 20421, Geer Avenue, Irwin, Merced County, California, 95324, United States of America",
+            "locType": "house"
+        },
+        "gilroy": {
+            "longitude": "-121.5631722",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.0065078",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "pt sur lighthouse": {
+            "longitude": "-121.901627042301",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.3063497",
+            "address": "Point Sur Lighthouse, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "lighthouse"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Cannery-Row-Monterey/TravelFromHistory/30144649.aspx",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.bbonline.com/united-states/california/berkeley/northberkeley.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "andrew molera state park": {
+            "longitude": "-121.83084118989",
+            "blogLinks": [
+                "https://cierralacasse.wordpress.com/tag/places-to-visit/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.27956995",
+            "address": "Andrew Molera State Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park"
+        },
+        "moss landing": {
+            "longitude": "-121.786581",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.7988827",
+            "address": "Moss Landing, Monterey County, California, United States of America",
+            "locType": "administrative"
+        },
+        "ca": {
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-berkeley-ca-to-Los-Angeles-CA-via-Monterey/TravelFromHistory/12167390.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Cannery-Row-Monterey/TravelFromHistory/30144649.aspx"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.8242285466918",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode"
+        },
+        "north lake ca": {
+            "longitude": "-122.501983281136",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.76958295",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water"
+        },
+        "carmel-by-the-sea": {
+            "longitude": "-121.9232878",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5552387",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "carmel river state beach": {
+            "longitude": "-121.918604967215",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5315721",
+            "address": "Carmel River State Beach, Cabrillo Highway, Carmel Highlands, Monterey County, California, 93923, United States of America",
+            "locType": "national_park"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "pearl harbor": {
+            "longitude": "-122.2948823",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.788139",
+            "address": "Pearl Harbor Road, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "monterey bay aquarium": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "arkansas": {
+            "longitude": "-122.2896721",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.7867077",
+            "address": "Arkansas, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "east bay": {
+            "longitude": "-121.0270079",
+            "blogLinks": [
+                "http://www.bbonline.com/united-states/california/berkeley/northberkeley.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.156964",
+            "address": "East Bay, San Joaquin County, California, United States of America",
+            "locType": "track"
+        },
+        "pacific grove": {
+            "longitude": "-121.9155905",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.6174432",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "cambria": {
+            "longitude": "-121.0807467",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "35.5641381",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "concord": {
+            "longitude": "-122.0335623",
+            "blogLinks": [
+                "http://www.bbonline.com/united-states/california/berkeley/northberkeley.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9768525",
+            "address": "Concord, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "angel island state park": {
+            "longitude": "-122.430363458873",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8629304",
+            "address": "Angel Island State Park, Perimeter Road, Tiburon, Marin County, California, 94920, United States of America",
+            "locType": "park"
+        },
+        "fort romie road": {
+            "longitude": "-121.3755519",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.408964",
+            "address": "Fort Romie Road, Monterey County, California, 93960, United States of America",
+            "locType": "secondary"
+        },
+        "petaluma adobe state historic park": {
+            "longitude": "-122.583415289597",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.2565081",
+            "address": "Petaluma Adobe State Historic Park, Old Adobe Road, Sonoma County, California, 94954, United States of America",
+            "locType": "park"
+        },
+        "moonstone beach": {
+            "longitude": "-121.1128747",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "35.573855",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path"
+        },
+        "pfeiffer beach": {
+            "longitude": "-121.81778571416",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.23934855",
+            "address": "Pfeiffer Beach, Sycamore Canyon Road, Big Sur, Monterey County, California, 93920, United States of America",
+            "locType": "beach"
+        },
+        "hearst castle": {
+            "longitude": "-121.167587299509",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "35.6853689",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum"
+        },
+        "monterey regional airport": {
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "https://www.seemonterey.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5878734",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome"
+        },
+        "monterey county": {
+            "longitude": "-121.3877427",
+            "blogLinks": [
+                "https://www.seemonterey.com/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.2231079",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco maritime national historical park": {
+            "longitude": "-122.4233938",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.8065013",
+            "address": "San Francisco Maritime National Historical Park, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "park"
+        },
+        "little sur river": {
+            "longitude": "-121.818577",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.339883",
+            "address": "Little Sur River, Monterey County, California, United States of America",
+            "locType": "river"
+        },
+        "monterey peninsula": {
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5878734",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome"
+        },
+        "san simeon": {
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/Travel-g28926-c136436/California:United-States:California.Coastal.Towns.Sf.To.La.html",
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "35.6438587",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "bixby bridge": {
+            "longitude": "-121.9017572",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.3710197",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary"
+        },
+        "bixby mountain": {
+            "longitude": "-121.8407869",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.354962",
+            "address": "Bixby Mountain, Monterey County, California, United States of America",
+            "locType": "peak"
+        },
+        "old sacramento state historic park": {
+            "longitude": "-121.505013401895",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.5891509",
+            "address": "Old Sacramento State Historic Park, Sacramento River Parkway, Sacramento, Sacramento County, California, 95814, United States of America",
+            "locType": "park"
+        },
+        "big sur river": {
+            "longitude": "-121.8527735",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.2847874",
+            "address": "Big Sur River, Monterey County, California, United States of America",
+            "locType": "river"
+        },
+        "pinnacles national park": {
+            "longitude": "-121.171140689253",
+            "blogLinks": [
+                "https://www.seemonterey.com/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.4862515",
+            "address": "Pinnacles National Park, Pinnacles Road, San Benito County, California, United States of America",
+            "locType": "national_park"
+        },
+        "berkeley hills": {
+            "longitude": "-122.2586308",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8896572",
+            "address": "Berkeley Hills, Berkeley, Alameda County, California, 94708, United States of America",
+            "locType": "neighbourhood"
+        },
+        "old coast road": {
+            "longitude": "-122.1922656",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.0114572",
+            "address": "Old Coast Road, Davenport, Santa Cruz County, California, 95017, United States of America",
+            "locType": "residential"
+        },
+        "almaden quicksilver county park": {
+            "longitude": "-121.846334668715",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.1850743",
+            "address": "Almaden Quicksilver County Park, Santa Isabel Trail, Almaden, New Almaden, Santa Clara County, California, 95120, United States of America",
+            "locType": "park"
+        },
+        "garland ranch regional park": {
+            "longitude": "-121.8224505",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5119059",
+            "address": "Garland Ranch Regional Park, River Meadow Road, Carmel Valley Manor, Monterey County, California, United States of America",
+            "locType": "park"
+        },
+        "pebble beach": {
+            "longitude": "-121.9466112",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5664874",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "sand city": {
+            "longitude": "-121.8482854",
+            "blogLinks": [
+                "https://www.seemonterey.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.6171819",
+            "address": "Sand City, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "american riviera": {
+            "longitude": "-121.3602199",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.576666",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary"
+        },
+        "point lobos state park": {
+            "longitude": "-121.371560849992",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.77817125",
+            "address": "Point Lobos State Park, Woodgate Way, Laureate, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "yes"
+        },
+        "monterey state historic park": {
+            "longitude": "-121.89495898106",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.6037129",
+            "address": "Monterey State Historic Park, Decatur Street, Monterey, Monterey County, California, 93944, United States of America",
+            "locType": "park"
+        },
+        "monterey presidio": {
+            "longitude": "-121.823572839106",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.63696865",
+            "address": "Presidio of Monterey, Seaside, Monterey County, California, 93955, United States of America",
+            "locType": "military"
+        },
+        "napa valley ca": {
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.2972603",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary"
+        },
+        "point lobos": {
+            "longitude": "-121.946368069847",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5157454",
+            "address": "Point Lobos, Carmel Highlands, Monterey County, California, 93921, United States of America",
+            "locType": "service"
+        },
+        "sacramento": {
+            "longitude": "-121.4943995",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.5815719",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city"
+        },
+        "indian island": {
+            "longitude": "-122.644707",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.940176",
+            "address": "Indian Island, Lake County, California, United States of America",
+            "locType": "island"
+        },
+        "salinas valley": {
+            "longitude": "-121.6550371",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.6744117",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "marina": {
+            "longitude": "-121.800639730262",
+            "blogLinks": [
+                "https://www.seemonterey.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.6900785",
+            "address": "Marina, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "hawk tower": {
+            "longitude": "-121.9310658",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5419056",
+            "address": "Hawk Tower, Stewart Way, Pebble Beach, Monterey County, California, 93923, United States of America",
+            "locType": "yes"
+        },
+        "californio": {
+            "longitude": "-122.0116874",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.5744603",
+            "address": "Californio, Centerville District, Fremont, Alameda County, California, 94587, United States of America",
+            "locType": "path"
+        },
+        "ocean avenue": {
+            "longitude": "-122.4736116",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.7320759",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "locType": "tram_stop"
+        },
+        "carmel beach": {
+            "longitude": "-121.929450352027",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5512525",
+            "address": "Carmel Beach, Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "beach"
+        },
+        "big sur village": {
+            "longitude": "-121.8074544",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.270241",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village"
+        },
+        "mission bay ca": {
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.7707742",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood"
+        },
+        "monterey peninsula ca": {
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5878734",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome"
+        },
+        "big sur": {
+            "longitude": "-121.8074544",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.270241",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.tripadvisor.com/Travel-g28926-c136436/California:United-States:California.Coastal.Towns.Sf.To.La.html",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "carmel highlands": {
+            "longitude": "-121.9316212",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5041286",
+            "address": "Carmel Highlands, Monterey County, California, United States of America",
+            "locType": "hamlet"
+        },
+        "bixby creek": {
+            "longitude": "-121.8642246",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.3691036",
+            "address": "Bixby Creek, Monterey County, California, United States of America",
+            "locType": "stream"
+        },
+        "alamo": {
+            "longitude": "-122.0321839",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.8502033",
+            "address": "Alamo, Contra Costa County, California, United States of America",
+            "locType": "town"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "monterey": {
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm",
+                "http://www.distancesfrom.com/us/travel-time-from-berkeley-ca-to-Los-Angeles-CA-via-Monterey/TravelTimeHistory/12167390.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Cannery-Row-Monterey/TravelFromHistory/30144649.aspx",
+                "https://www.seemonterey.com/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "http://www.distancesfrom.com/us/travel-from-berkeley-ca-to-Los-Angeles-CA-via-Monterey/TravelFromHistory/12167390.aspx",
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.flyertalk.com/forum/luxury-hotels/1439315-where-between-santa-barbara-monterey.html",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5844165",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "carmel mission": {
+            "longitude": "-121.9197418",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.5426927",
+            "address": "Mission San Carlos Borromeo de Carmelo, 3080, Rio Road, Carmel-by-the-Sea, Monterey County, California, 93923, United States of America",
+            "locType": "museum"
+        },
+        "klondike canyon": {
+            "longitude": "-121.0103391",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.6798822",
+            "address": "Klondike Way, Bridlewood Canyon, El Dorado County, California, 95762, United States of America",
+            "locType": "residential"
+        },
+        "monterey bay aquarium ca": {
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.61809095",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_National_Historic_Landmarks_in_California"
+            ],
+            "closest_to": "monterey",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "carmel valley": {
+            "longitude": "-121.7324475",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.4796839",
+            "address": "Carmel Valley, Monterey County, California, United States of America",
+            "locType": "village"
+        },
+        "king city": {
+            "longitude": "-121.1260286",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "monterey",
+            "latitude": "36.2127439",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city"
+        },
+        "carmel": {
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/camontereycarmel/tp/montereycarmel.htm",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/Travel-g28926-c136436/California:United-States:California.Coastal.Towns.Sf.To.La.html",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g32737-i159-k2890421-Monterey_to_Santa_Barbara-Monterey_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.75511285",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix dbr: <http://dbpedia.org/resource/>
+prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+select DISTINCT ?subject ?type ?label ?long ?lat ?comment ?abstract
+where {
+?subject ?predicate ?object;
+dbo:isPartOf dbr:California;
+dbo:type ?type;
+dbo:abstract ?abstract1;
+rdfs:label ?label1;
+geo:long ?long1;
+geo:lat ?lat1;
+rdfs:comment ?comment1
+FILTER(langmatches(lang(?comment1),"en") && langmatches(lang(?abstract1),"en") && langmatches(lang(?label1),"en"))
+BIND(str(?comment1) AS ?comment)
+BIND(str(?abstract1) AS ?abstract)
+BIND(str(?label1) AS ?label)
+BIND(str(?long1) AS ?long)
+BIND(str(?lat1) AS ?lat)
+}

@@ -1,0 +1,2588 @@
+{
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "santa clarita",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "santa clarita",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "stockton",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "east canyon trail": {
+            "latitude": "37.2916997",
+            "closest_to": "stockton",
+            "address": "Canyon Trail, Santa Clara County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-122.1307968"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "closest_to": "stockton",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-119.2920584"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "santa clarita",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "dublin": {
+            "latitude": "37.7021521",
+            "closest_to": "stockton",
+            "address": "Dublin, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9357917"
+        },
+        "crown valley road": {
+            "latitude": "34.4690009",
+            "closest_to": "santa clarita",
+            "address": "Crown Valley Road, Acton, Los Angeles County, California, 93510, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-118.1972206"
+        },
+        "towsley canyon park": {
+            "latitude": "34.3573878",
+            "closest_to": "santa clarita",
+            "address": "Towsley Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5605864"
+        },
+        "central park": {
+            "latitude": "37.391994",
+            "closest_to": "stockton",
+            "address": "Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-122.0638948"
+        },
+        "san pablo bay": {
+            "latitude": "38.0665874",
+            "closest_to": "stockton",
+            "address": "San Pablo Bay, Marin County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.3844177"
+        },
+        "placer": {
+            "latitude": "39.1012064",
+            "closest_to": "stockton",
+            "address": "Placer County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-120.7650605"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "mammoth lane": {
+            "latitude": "34.4411027",
+            "closest_to": "santa clarita",
+            "address": "Mammoth Lane, Sand Canyon, Santa Clarita, Los Angeles County, California, 91387, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3847024"
+        },
+        "valley street": {
+            "latitude": "34.0652666",
+            "closest_to": "santa clarita",
+            "address": "Valley Street, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90057, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2725091"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "santa clarita",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "copper hill drive": {
+            "latitude": "34.4631878",
+            "closest_to": "stockton",
+            "address": "Copper Hill Drive, Copper Hill, Saugus, Los Angeles County, California, 91354, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5577706"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "santa clarita",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "stockton",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "santa clarita",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://koa.com/states-provinces/california/",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa clarita",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "santa clarita",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html",
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "san clemente": {
+            "latitude": "33.4270275",
+            "closest_to": "santa clarita",
+            "address": "San Clemente, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.6124178"
+        },
+        "brookside": {
+            "latitude": "34.265108",
+            "closest_to": "santa clarita",
+            "address": "Brookside, Rosewood Lane, North Shore, San Bernardino County, California, 92352, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-117.187348978363"
+        },
+        "sand canyon": {
+            "latitude": "35.3074597",
+            "closest_to": "stockton",
+            "address": "Sand Canyon, Kern County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4286955"
+        },
+        "harris ranch": {
+            "latitude": "36.2535766",
+            "closest_to": "stockton",
+            "address": "Harris Ranch, West Dorris Avenue, Fresno County, California, 93210, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-120.237368306069"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.livability.com/ca",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "laguna niguel": {
+            "latitude": "33.5225261",
+            "closest_to": "santa clarita",
+            "address": "Laguna Niguel, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.7075525"
+        },
+        "saratoga": {
+            "latitude": "37.2638324",
+            "closest_to": "stockton",
+            "address": "Saratoga, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0230145"
+        },
+        "placerita canyon": {
+            "latitude": "34.3758312",
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4459162"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "stockton",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "vasquez canyon road": {
+            "latitude": "34.4729666",
+            "closest_to": "stockton",
+            "address": "Vasquez Canyon Road, Forest Park, Los Angeles County, California, 91351, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4403313"
+        },
+        "mcbean parkway": {
+            "latitude": "34.4425384",
+            "closest_to": "stockton",
+            "address": "McBean Parkway, Valencia, Santa Clarita, Los Angeles County, California, 91354, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5539864"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa clarita",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "san tomas aquino creek trail": {
+            "latitude": "37.4145764",
+            "closest_to": "stockton",
+            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9802759"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "los altos": {
+            "latitude": "37.3790629",
+            "closest_to": "stockton",
+            "address": "Los Altos, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.1165779"
+        },
+        "rancho santa margarita": {
+            "latitude": "33.6408845",
+            "closest_to": "santa clarita",
+            "address": "Rancho Santa Margarita, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.602934"
+        },
+        "alaska": {
+            "latitude": "33.7147833",
+            "closest_to": "santa clarita",
+            "address": "Alaska, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-117.7917164"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "closest_to": "stockton",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-121.312847098327"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "stockton",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "stockton",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "abalone cove shoreline park": {
+            "latitude": "33.7438366",
+            "closest_to": "santa clarita",
+            "address": "Abalone Cove Shoreline Park, Palos Verdes Drive South, Ranchos Palos Verdes, Los Angeles County, California, 90275, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.381346621066"
+        },
+        "ireland": {
+            "latitude": "37.7992191",
+            "closest_to": "stockton",
+            "address": "Ireland Creek, Tuolumne County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.2896473"
+        },
+        "creek": {
+            "latitude": "39.3751013",
+            "closest_to": "stockton",
+            "address": "Creek, Mendocino County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-123.0482197"
+        },
+        "escondido canyon road": {
+            "latitude": "34.4925162",
+            "closest_to": "santa clarita",
+            "address": "Escondido Canyon Road, White Heather, Los Angeles County, California, 93510, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2854846"
+        },
+        "placerita": {
+            "latitude": "34.3758312",
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.4459162"
+        },
+        "rancho camulos": {
+            "latitude": "34.40555875",
+            "closest_to": "stockton",
+            "address": "5164, Rancho Camulos, Camulos, Ventura County, California, 93040, United States of America",
+            "locType": "farm",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.755598153403"
+        },
+        "agua dulce canyon road": {
+            "latitude": "34.492444",
+            "closest_to": "santa clarita",
+            "address": "Agua Dulce Canyon Road, Agua Dulce, Los Angeles County, California, 91390, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3262663"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "santa clarita",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "newhall ave": {
+            "latitude": "34.3646153",
+            "closest_to": "santa clarita",
+            "address": "Newhall Avenue, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.501592"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "stockton",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://koa.com/states-provinces/california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "stockton",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "cupertino": {
+            "latitude": "37.3230107",
+            "closest_to": "stockton",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0322518"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "santa clarita",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.2725426"
+        },
+        "sand canyon road": {
+            "latitude": "34.0349536",
+            "closest_to": "santa clarita",
+            "address": "Sand Canyon Road, Yucaipa (City of), San Bernardino County, California, 92399, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.0955572"
+        },
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "stockton",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "old road": {
+            "latitude": "34.3328446",
+            "closest_to": "santa clarita",
+            "address": "The Old Road, LA, Los Angeles County, California, SCV, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.506284"
+        },
+        "lassen": {
+            "latitude": "40.7685579",
+            "closest_to": "stockton",
+            "address": "Lassen County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-120.7309979"
+        },
+        "william s. hart park": {
+            "latitude": "34.3755536",
+            "closest_to": "santa clarita",
+            "address": "William S Hart Park, La Loma Road, Newhall, Santa Clarita, Los Angeles County, California, SCV, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5273077"
+        },
+        "folsom": {
+            "latitude": "38.6779591",
+            "closest_to": "stockton",
+            "address": "Folsom, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-121.1760582"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "santa clarita",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "stockton",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "canada": {
+            "latitude": "33.7298842",
+            "closest_to": "santa clarita",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "stockton",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "newhall avenue": {
+            "latitude": "34.3646153",
+            "closest_to": "santa clarita",
+            "address": "Newhall Avenue, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.501592"
+        },
+        "waterfall trail": {
+            "latitude": "38.9079374",
+            "closest_to": "stockton",
+            "address": "Waterfall Trail, Greenwood, El Dorado County, California, 95635, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-120.8914841"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "closest_to": "stockton",
+            "address": "Lodi, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-121.387849546574"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "stockton",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "stockton",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "piru": {
+            "latitude": "34.4152743",
+            "closest_to": "stockton",
+            "address": "Piru, Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.7939823"
+        },
+        "south sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "st. francis dam": {
+            "latitude": "34.547019",
+            "closest_to": "stockton",
+            "address": "St. Francis Dam, Forest Route 5N27, Los Angeles County, California, United States of America",
+            "locType": "ruins",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5126489"
+        },
+        "santa monica mountains conservancy": {
+            "latitude": "34.15089545",
+            "closest_to": "santa clarita",
+            "address": "Santa Monica Mountains Conservancy, Reforma Road, Woodland Hills, LA, Los Angeles County, California, 91364, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.616054173671"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "stockton",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "san juaquin county": {
+            "latitude": "40.256158",
+            "closest_to": "stockton",
+            "address": "Juaquin Lane, Blunt, Tehama County, California, 96080, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-122.2773109"
+        },
+        "gianera street": {
+            "latitude": "37.3997317",
+            "closest_to": "stockton",
+            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9677788"
+        },
+        "north california": {
+            "latitude": "32.7976084",
+            "closest_to": "santa clarita",
+            "address": "Northwest, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-117.2194385"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "santa clarita",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-117.870493"
+        },
+        "castaic lake": {
+            "latitude": "34.5406179",
+            "closest_to": "stockton",
+            "address": "Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.587025025849"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "bird park": {
+            "latitude": "32.73914695",
+            "closest_to": "santa clarita",
+            "address": "Bird Park, 28th Street, North Park, San Diego, San Diego County, California, 92104, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.134159066525"
+        },
+        "golden valley road": {
+            "latitude": "34.3933054",
+            "closest_to": "santa clarita",
+            "address": "Golden Valley Road, Canyon Country, Santa Clarita, Los Angeles County, California, 91351, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.4740207"
+        },
+        "placerita canyon road": {
+            "latitude": "34.3769153",
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4926118"
+        },
+        "las vegas": {
+            "latitude": "36.17310935",
+            "closest_to": "santa clarita",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "corcoran": {
+            "latitude": "36.120084",
+            "closest_to": "stockton",
+            "address": "Corcoran, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.563801399957"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "stockton",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "tasman avenue": {
+            "latitude": "34.0820384",
+            "closest_to": "santa clarita",
+            "address": "Tasman Avenue, Pomona, Los Angeles County, California, 91767, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-117.7429842"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "stockton",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "foster city": {
+            "latitude": "37.5600336",
+            "closest_to": "stockton",
+            "address": "Foster City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2688521"
+        },
+        "sonora": {
+            "latitude": "37.9840911",
+            "closest_to": "stockton",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-120.382138"
+        },
+        "moorpark": {
+            "latitude": "34.285558",
+            "closest_to": "stockton",
+            "address": "Moorpark, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.8820413"
+        },
+        "agoura hills": {
+            "latitude": "34.1363945",
+            "closest_to": "santa clarita",
+            "address": "Agoura Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.7745347"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "stockton",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "carquinez strait": {
+            "latitude": "38.042402",
+            "closest_to": "stockton",
+            "address": "Carquinez Strait, Pacific Avenue, Rodeo, Contra Costa County, California, 94572, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.271246054921"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "santa clarita",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "chino hills": {
+            "latitude": "33.9926803",
+            "closest_to": "santa clarita",
+            "address": "Chino Hills, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.7600559"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "stockton",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "stockton",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-120.050511752934"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "stockton",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "towsley canyon": {
+            "latitude": "34.3573878",
+            "closest_to": "santa clarita",
+            "address": "Towsley Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5605864"
+        },
+        "calgrove blvd": {
+            "latitude": "34.3591518",
+            "closest_to": "santa clarita",
+            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5553757"
+        },
+        "sierra highway": {
+            "latitude": "34.5912297",
+            "closest_to": "santa clarita",
+            "address": "Sierra Highway, Palmdale, Los Angeles County, California, 93550, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.1182306"
+        },
+        "valencia town center": {
+            "latitude": "34.41642985",
+            "closest_to": "stockton",
+            "address": "Valencia Town Center, Valencia, Santa Clarita, Los Angeles County, California, 91355, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.557273163561"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "santa clarita",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "stockton",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "st. francis": {
+            "latitude": "37.4460359",
+            "closest_to": "stockton",
+            "address": "North California Avenue, Duveneck - St. Francis, Palo Alto, Santa Clara County, California, 94303, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-122.1281223"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "stockton",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.livability.com/ca",
+                "http://www.travelmath.com/flying-distance/from/Stockton,+CA/to/Santa+Clarita,+CA",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "calabasas": {
+            "latitude": "34.1446643",
+            "closest_to": "santa clarita",
+            "address": "Calabasas, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.6440972"
+        },
+        "lyons avenue": {
+            "latitude": "34.3786952",
+            "closest_to": "santa clarita",
+            "address": "Lyons Avenue, Valencia, Santa Clarita, Los Angeles County, California, 91327, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5649987"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "santa clarita",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "city hall": {
+            "latitude": "32.84439345",
+            "closest_to": "santa clarita",
+            "address": "City Hall, Imperial, Imperial County, California, 92251, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-115.569543523702"
+        },
+        "calgrove": {
+            "latitude": "34.3591518",
+            "closest_to": "santa clarita",
+            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5553757"
+        },
+        "thousand oaks": {
+            "latitude": "34.17142715",
+            "closest_to": "santa clarita",
+            "address": "Thousand Oaks, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.910587629744"
+        },
+        "newhall": {
+            "latitude": "34.3798765",
+            "closest_to": "santa clarita",
+            "address": "Newhall, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5291916"
+        },
+        "merced": {
+            "latitude": "37.3029568",
+            "closest_to": "stockton",
+            "address": "Merced, Merced County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-120.4843268"
+        },
+        "little tujunga canyon road": {
+            "latitude": "34.2879935",
+            "closest_to": "santa clarita",
+            "address": "Little Tujunga Canyon Road, Lake View Terrace, El Merrie Dell, Los Angeles County, California, 91040, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3678082"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "stockton",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "belmont": {
+            "latitude": "37.5202145",
+            "closest_to": "stockton",
+            "address": "Belmont, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2758007"
+        },
+        "eternal valley cemetery": {
+            "latitude": "34.3618974",
+            "closest_to": "santa clarita",
+            "address": "Eternal Valley, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.510342379681"
+        },
+        "la mirada": {
+            "latitude": "33.9060971",
+            "closest_to": "santa clarita",
+            "address": "La Mirada, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.0107091"
+        },
+        "aliso canyon": {
+            "latitude": "34.3150312",
+            "closest_to": "santa clarita",
+            "address": "Aliso Canyon gas leak, Los Angeles County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5641161"
+        },
+        "vancouver": {
+            "latitude": "34.824773",
+            "closest_to": "santa clarita",
+            "address": "Vancouver, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-117.4634669"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "stockton",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "disneyland": {
+            "latitude": "33.8136367",
+            "closest_to": "santa clarita",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-117.91971186569"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "hercules": {
+            "latitude": "38.0171441",
+            "closest_to": "stockton",
+            "address": "Hercules, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.2885807"
+        },
+        "elsmere canyon": {
+            "latitude": "34.3632486",
+            "closest_to": "santa clarita",
+            "address": "Elsmere Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5015127"
+        },
+        "los angeles airport": {
+            "latitude": "33.95203015",
+            "closest_to": "santa clarita",
+            "address": "Super 8 Motel, 9250, Airport Boulevard, Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.385011876892"
+        },
+        "john wayne airport": {
+            "latitude": "33.6742056",
+            "closest_to": "santa clarita",
+            "address": "John Wayne Airport, Airport Way, Paularino, Orange County, California, 92707, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.868014707705"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa clarita",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "murphy avenue": {
+            "latitude": "37.383672",
+            "closest_to": "stockton",
+            "address": "Murphy Avenue, Luna Park, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.8922413"
+        },
+        "angel stadium": {
+            "latitude": "33.8002599",
+            "closest_to": "santa clarita",
+            "address": "Angel Stadium of Anaheim, South Douglass Road, Anaheim Resort District, Anaheim, Orange County, California, 92806, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.881742527598"
+        },
+        "centennial boulevard": {
+            "latitude": "37.4047084",
+            "closest_to": "stockton",
+            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9694691"
+        },
+        "central valley": {
+            "latitude": "40.5626504",
+            "closest_to": "stockton",
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-122.4530663"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "stockton",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-120.507146"
+        },
+        "placerita motorway": {
+            "latitude": "34.3877976",
+            "closest_to": "santa clarita",
+            "address": "Placerita Motorway, Canyon Country, Los Angeles County, California, 91351, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.4632589"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "stockton",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "la puente": {
+            "latitude": "34.01979",
+            "closest_to": "santa clarita",
+            "address": "La Puente, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.9503676"
+        },
+        "u.s.s.": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "pico canyon": {
+            "latitude": "37.8179437",
+            "closest_to": "stockton",
+            "address": "Redwood Peak, Contra Costa County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-122.1765619"
+        },
+        "soledad canyon": {
+            "latitude": "34.4180678",
+            "closest_to": "santa clarita",
+            "address": "Soledad Canyon Road, Honby, Canyon Country, Santa Clarita, Los Angeles County, California, 93510, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.48154"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "closest_to": "stockton",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "saddleback valley": {
+            "latitude": "34.67534675",
+            "closest_to": "santa clarita",
+            "address": "Saddleback Butte State Park, 175th Street East, Wilsona Gardens, Los Angeles County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.805161708143"
+        },
+        "santa ana": {
+            "latitude": "33.7494951",
+            "closest_to": "santa clarita",
+            "address": "Santa Ana, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.8732212"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "stockton",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "stockton",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "earth": {
+            "latitude": "35.4780569",
+            "closest_to": "santa clarita",
+            "address": "Mountain Pass Rare Earth Mine, Mountain Pass, San Bernardino County, California, 92364, United States of America",
+            "locType": "quarry",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-115.541994345811"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "stockton",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "placerita trail": {
+            "latitude": "34.3758312",
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.4459162"
+        },
+        "camarillo": {
+            "latitude": "34.2163939",
+            "closest_to": "stockton",
+            "address": "Camarillo, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.0376023"
+        },
+        "tasman drive": {
+            "latitude": "33.7394596",
+            "closest_to": "santa clarita",
+            "address": "Tasman Drive, Huntington Beach, Orange County, California, 92649, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-118.0395605"
+        },
+        "calabasas lake": {
+            "latitude": "34.1446643",
+            "closest_to": "santa clarita",
+            "address": "Calabasas, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.6440972"
+        },
+        "shafter": {
+            "latitude": "35.4698255",
+            "closest_to": "stockton",
+            "address": "Shafter, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.285365133155"
+        },
+        "copper hill road": {
+            "latitude": "33.9885857",
+            "closest_to": "santa clarita",
+            "address": "Copper Hill Road, Hacienda Heights, Rowland, Los Angeles County, California, 90631, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.9410382"
+        },
+        "saugus": {
+            "latitude": "34.4493489",
+            "closest_to": "stockton",
+            "address": "Saugus, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5168256"
+        },
+        "cahuenga": {
+            "latitude": "34.1369912",
+            "closest_to": "santa clarita",
+            "address": "Cahuenga Peak, LA, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-118.3258335"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "stockton",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "lockeford": {
+            "latitude": "38.1475075",
+            "closest_to": "stockton",
+            "address": "Lockeford, Brandt Road, Lockeford, San Joaquin County, California, 95240, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-121.155733119792"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "stockton",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/",
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://www.travelmath.com/flying-distance/from/Stockton,+CA/to/Santa+Clarita,+CA",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "wasco": {
+            "latitude": "35.5941238",
+            "closest_to": "stockton",
+            "address": "Wasco, Kern County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.3409456"
+        },
+        "pinnacles national park": {
+            "latitude": "36.4862515",
+            "closest_to": "stockton",
+            "address": "Pinnacles National Park, Pinnacles Road, San Benito County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.171140689253"
+        },
+        "flintridge": {
+            "latitude": "33.6338013",
+            "closest_to": "santa clarita",
+            "address": "Flintridge, Turtle Rock, Irvine, Orange County, California, 92603, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.8111037"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "santa clarita",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "indian hills": {
+            "latitude": "38.1735305",
+            "closest_to": "stockton",
+            "address": "Indian Hills, Calaveras County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-120.377419"
+        },
+        "stonecrest park": {
+            "latitude": "33.7206811",
+            "closest_to": "santa clarita",
+            "address": "Stonecrest Park, Stonecress Avenue, Fountain Valley, Orange County, California, 92708, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.932636609614"
+        },
+        "santa clara convention center": {
+            "latitude": "37.4044039",
+            "closest_to": "stockton",
+            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "conference_centre",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.975031612487"
+        },
+        "poway": {
+            "latitude": "32.9628234",
+            "closest_to": "santa clarita",
+            "address": "Poway, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.0358645"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "stockton",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "stockton",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "wakefield": {
+            "latitude": "33.634624",
+            "closest_to": "santa clarita",
+            "address": "Wakefield, Canyon Crest, Mission Viejo, Orange County, California, 92692, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.6309917"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "santa clarita",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "agnew road": {
+            "latitude": "37.3943647",
+            "closest_to": "stockton",
+            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9488924"
+        },
+        "rialto": {
+            "latitude": "34.1064001",
+            "closest_to": "santa clarita",
+            "address": "Rialto, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-117.3703234"
+        },
+        "windsor": {
+            "latitude": "38.519758",
+            "closest_to": "stockton",
+            "address": "Windsor, Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.804427291464"
+        },
+        "whitney canyon": {
+            "latitude": "34.3658881",
+            "closest_to": "santa clarita",
+            "address": "Whitney Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4929088"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "santa nella": {
+            "latitude": "38.497135",
+            "closest_to": "stockton",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-122.9666643"
+        },
+        "community center": {
+            "latitude": "34.2691696",
+            "closest_to": "santa clarita",
+            "address": "Community Center, Ventura County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.7375915"
+        },
+        "danville": {
+            "latitude": "37.8215929",
+            "closest_to": "stockton",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9999605"
+        },
+        "death valley": {
+            "latitude": "36.42404725",
+            "closest_to": "stockton",
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-116.914043572057"
+        },
+        "calabasas tennis and swim center": {
+            "latitude": "34.15486425",
+            "closest_to": "santa clarita",
+            "address": "Calabasas Swim and Tennis Center, Park Mirasol, Calabasas, Los Angeles County, California, 91302, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.638888535598"
+        },
+        "acton": {
+            "latitude": "34.4807415",
+            "closest_to": "santa clarita",
+            "address": "Acton, Wisconsin Street, Paris, Los Angeles County, California, 93510, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-118.186837763866"
+        },
+        "san francisquito canyon road": {
+            "latitude": "34.6246846",
+            "closest_to": "stockton",
+            "address": "San Francisquito Canyon Road, Green Valley, Los Angeles County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4108236"
+        },
+        "lost hills": {
+            "latitude": "35.632387",
+            "closest_to": "stockton",
+            "address": "Lost Hills, West Side Freeway, Kern County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.677656844379"
+        },
+        "temple city": {
+            "latitude": "34.1082994",
+            "closest_to": "santa clarita",
+            "address": "Temple City, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.0577567"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "santa clarita",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "los rios historic district": {
+            "latitude": "33.5015539",
+            "closest_to": "santa clarita",
+            "address": "Los Rios Historic District, Ramos Street, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.6655412"
+        },
+        "dodger stadium": {
+            "latitude": "34.0736255",
+            "closest_to": "santa clarita",
+            "address": "Dodger Stadium, 1000, Vin Scully Avenue, New Chinatown, Angelino Heights, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "stadium",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.238969292435"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "stockton",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "closest_to": "stockton",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.8746788"
+        },
+        "' valley street": {
+            "latitude": "34.0652666",
+            "closest_to": "santa clarita",
+            "address": "Valley Street, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90057, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2725091"
+        },
+        "rice canyon": {
+            "latitude": "33.4050222",
+            "closest_to": "santa clarita",
+            "address": "Rice Canyon Road, Rainbow CDP, San Diego County, California, 92028, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-117.144195"
+        },
+        "antelope valley": {
+            "latitude": "34.67743",
+            "closest_to": "stockton",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "locType": "college",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-118.1865629"
+        },
+        "tahoe": {
+            "latitude": "33.659221",
+            "closest_to": "santa clarita",
+            "address": "Tahoe, Turtle Rock, Irvine, Orange County, California, 92612, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-117.8193574"
+        },
+        "canyon country": {
+            "latitude": "34.4233293",
+            "closest_to": "santa clarita",
+            "address": "Canyon Country, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.472028"
+        },
+        "valley springs": {
+            "latitude": "38.1847255",
+            "closest_to": "stockton",
+            "address": "Valley Springs, Bright Star Road, Valley Springs, Calaveras County, California, 95252, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-120.807103832756"
+        },
+        "bouquet canyon": {
+            "latitude": "34.5773083",
+            "closest_to": "stockton",
+            "address": "Bouquet Canyon 6-031 Dam, Los Angeles County, California, United States of America",
+            "locType": "dam",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3851588"
+        },
+        "magic mountain": {
+            "latitude": "34.4724515",
+            "closest_to": "stockton",
+            "address": "Magic Mountain, Ventura County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-119.2563693"
+        },
+        "granada hills": {
+            "latitude": "34.2647247",
+            "closest_to": "santa clarita",
+            "address": "Granada Hills, Northridge, LA, Los Angeles County, California, 91344, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-118.5231414"
+        },
+        "alamo creek park": {
+            "latitude": "37.7244438",
+            "closest_to": "stockton",
+            "address": "Alamo Creek Park, Willow Creek Drive, Dublin, Alameda County, California, 94568, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.910967662648"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "santa clarita",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "hart park": {
+            "latitude": "33.7774513",
+            "closest_to": "santa clarita",
+            "address": "Hart Park, South Grand Street, Orange, Orange County, California, 92866, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.850866971889"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "santa clarita",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "san ramon": {
+            "latitude": "37.7799273",
+            "closest_to": "stockton",
+            "address": "San Ramon, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-121.9780152"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "santa clarita",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "santa clarita valley": {
+            "latitude": "34.3916641",
+            "closest_to": "stockton",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "la mountains": {
+            "latitude": "37.7384411",
+            "closest_to": "stockton",
+            "address": "Mountains, 8001, Sierra Circle, Half Dome Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-119.577636961039"
+        },
+        "lake forest": {
+            "latitude": "33.6469261",
+            "closest_to": "santa clarita",
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.6859212"
+        },
+        "bouquet canyon road": {
+            "latitude": "34.4335899",
+            "closest_to": "stockton",
+            "address": "Bouquet Canyon Road, Saugus, Santa Clarita, Los Angeles County, California, 93551, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5295442"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "stockton",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "santa clarita",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "buttonwillow": {
+            "latitude": "35.3997369",
+            "closest_to": "stockton",
+            "address": "Buttonwillow, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.474104"
+        },
+        "lakeshore drive": {
+            "latitude": "33.6909623",
+            "closest_to": "santa clarita",
+            "address": "Lakeshore Drive, Terra Cotta, Lake Elsinore, Riverside County, California, 92530, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-117.3769389"
+        },
+        "goleta": {
+            "latitude": "34.4358295",
+            "closest_to": "stockton",
+            "address": "Goleta, Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-119.8276388"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "stockton",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://koa.com/states-provinces/california/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "chino hills state park": {
+            "latitude": "33.91604865",
+            "closest_to": "santa clarita",
+            "address": "Chino Hills State Park, South Ridge Trail, Orange County, California, 92886, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.760259865186"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "stockton",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/",
+                "http://archive.signalscv.com/archives/16774/",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.roadsideamerica.com/location/ca/all",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.livability.com/ca",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "parkway": {
+            "latitude": "38.6789915",
+            "closest_to": "stockton",
+            "address": "The Parkway, Sacramento County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "longitude": "-121.1226108"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "stockton",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "stockton",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "santa clarita",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3399462-Hotels_along_I_5_between_San_Fran_and_LA-California.html"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "24415 town center drive": {
+            "latitude": "34.2425118",
+            "closest_to": "stockton",
+            "address": "Town Center Drive, Oxnard, Ventura County, California, 93036, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.1826021"
+        },
+        "murrieta": {
+            "latitude": "33.560832",
+            "closest_to": "santa clarita",
+            "address": "Murrieta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.2106563"
+        },
+        "nadeau trail": {
+            "latitude": "36.3367173",
+            "closest_to": "stockton",
+            "address": "Nadeau Trail, Panamint Springs, Inyo County, California, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-117.4549599"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "stockton",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "stockton",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "stockton",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "santa clarita",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "santa clarita",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "petaluma": {
+            "latitude": "38.295411",
+            "closest_to": "stockton",
+            "address": "Petaluma, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-122.613693402033"
+        },
+        "maywood": {
+            "latitude": "33.9866807",
+            "closest_to": "santa clarita",
+            "address": "Maywood, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.1853489"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "stockton",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20100313162058AAQOdwu",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k5377639-I_5_or_Hwy_99-California.html"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "burbank airport": {
+            "latitude": "34.1944171",
+            "closest_to": "santa clarita",
+            "address": "Burbank Airport, Burbank, Los Angeles County, California, 91504, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.353019743886"
+        },
+        "remsen road": {
+            "latitude": "34.1293636",
+            "closest_to": "santa clarita",
+            "address": "Remsen Bird Hillside Theater, 1600, Campus Road, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.2085386"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.safewise.com/blog/50-safest-cities-california/",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "galt": {
+            "latitude": "38.2546373",
+            "closest_to": "stockton",
+            "address": "Galt, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-121.2999484"
+        },
+        "la mirada theatre": {
+            "latitude": "33.8966667",
+            "closest_to": "santa clarita",
+            "address": "La Mirada Theatre For The Performing Arts, La Mirada Boulevard, La Mirada, Los Angeles County, California, 90638, United States of America",
+            "locType": "arts_centre",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-118.0097221"
+        },
+        "farmington": {
+            "latitude": "37.926645",
+            "closest_to": "stockton",
+            "address": "Farmington, CA 4, Farmington, San Joaquin County, California, 95230, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-120.985359054624"
+        },
+        "newhall road": {
+            "latitude": "39.1122994",
+            "closest_to": "stockton",
+            "address": "Newhall Road, Joesphine, Sutter County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-121.8005683"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "stockton",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "aliso viejo": {
+            "latitude": "33.5761376",
+            "closest_to": "santa clarita",
+            "address": "Aliso Viejo, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.safewise.com/blog/50-safest-cities-california/"
+            ],
+            "longitude": "-117.7258121"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.reddit.com/r/Sonsofanarchy/comments/109ln4/so_i_found_the_real_charming_ca_the_other_day/"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "east canyon mtwy": {
+            "latitude": "34.3470216",
+            "closest_to": "santa clarita",
+            "address": "East Canyon Motorway, Newhall, Los Angeles County, California, SCV, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.5446174"
+        },
+        "golden valley ranch": {
+            "latitude": "34.378418",
+            "closest_to": "santa clarita",
+            "address": "Disney Golden Oak Ranch, Canyon Country, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "longitude": "-118.4795884"
+        }
+    }
+}

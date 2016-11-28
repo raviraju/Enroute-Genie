@@ -1,0 +1,1811 @@
+{
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "amtrak california": {
+            "latitude": "37.8404373",
+            "closest_to": "san jose",
+            "address": "Emeryville, Horton Street, Emeryville, Alameda County, California, 94608, United States of America",
+            "locType": "atm",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.291830493169"
+        },
+        "potrero hill": {
+            "latitude": "37.7565834",
+            "closest_to": "san jose",
+            "address": "Potrero Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.3991373"
+        },
+        "east bay": {
+            "latitude": "38.156964",
+            "closest_to": "stockton",
+            "address": "East Bay, San Joaquin County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.0270079"
+        },
+        "oakridge mall": {
+            "latitude": "37.2522964",
+            "closest_to": "san jose",
+            "address": "Oakridge Mall, 925, Blossom Hill Road, Almaden, San Jos\u00e9, Santa Clara County, California, 95032, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.862971693154"
+        },
+        "brentwood": {
+            "latitude": "37.9317766",
+            "closest_to": "stockton",
+            "address": "Brentwood, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-121.6960265"
+        },
+        "antioch": {
+            "latitude": "38.0049214",
+            "closest_to": "stockton",
+            "address": "Antioch, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-121.8057889"
+        },
+        "san mateo": {
+            "latitude": "37.496904",
+            "closest_to": "san jose",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.3330572"
+        },
+        "fairmont san jose": {
+            "latitude": "37.333028",
+            "closest_to": "san jose",
+            "address": "The Fairmont San Jose, 170, South 1st Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.888707174917"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "closest_to": "stockton",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "emeryville": {
+            "latitude": "37.8314089",
+            "closest_to": "san jose",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.2865265"
+        },
+        "courtyard san jose airport": {
+            "latitude": "37.3654207",
+            "closest_to": "stockton",
+            "address": "Courtyard San Jose Airport, Skyport Drive, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.918686741057"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "san jose",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san jose",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "mountain view caltrain": {
+            "latitude": "37.3933099",
+            "closest_to": "san jose",
+            "address": "Mountain View Caltrain, Mountain View, Santa Clara County, California, 94041, United States of America",
+            "locType": "industrial",
+            "blogLinks": [
+                "https://www.cagreatamerica.com/hours-directions/directions"
+            ],
+            "longitude": "-122.073860803658"
+        },
+        "escalon": {
+            "latitude": "37.7544565",
+            "closest_to": "stockton",
+            "address": "Escalon, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.006421984267"
+        },
+        "stevens creek": {
+            "latitude": "37.3228178",
+            "closest_to": "san jose",
+            "address": "Stevens Creek, Cupertino, Santa Clara County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.0614296"
+        },
+        "mission san jose": {
+            "latitude": "37.3495341",
+            "closest_to": "stockton",
+            "address": "West Mission Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9041561"
+        },
+        "king 's beach": {
+            "latitude": "37.7765456",
+            "closest_to": "san jose",
+            "address": "San Francisco 4th & King Street Station, 4th Street, Mission Creek, SF, California, 94107, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-122.394836402311"
+        },
+        "rincon park": {
+            "latitude": "37.79125225",
+            "closest_to": "san jose",
+            "address": "Rincon Park, Herb Caen Way..., Financial District, SF, California, 94105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.389642839324"
+        },
+        "san jose museum of quilts": {
+            "latitude": "37.32828045",
+            "closest_to": "san jose",
+            "address": "San Jose Museum of Quilts, South 1st Street, SoFA, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.884212185396"
+        },
+        "west san carlos st.": {
+            "latitude": "37.3245403",
+            "closest_to": "san jose",
+            "address": "West San Carlos Street, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95128, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9007442"
+        },
+        "centennial boulevard": {
+            "latitude": "37.4047084",
+            "closest_to": "stockton",
+            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9694691"
+        },
+        "south hall": {
+            "latitude": "37.8713408",
+            "closest_to": "stockton",
+            "address": "South Hall, South Hall Road, Northside, Berkeley, Alameda County, California, 94720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.sanjoseca.gov/Index.aspx?NID=129"
+            ],
+            "longitude": "-122.2585072"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san jose",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "http://www.bestplaces.net/city/california/discovery_bay",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.342234"
+        },
+        "lincoln avenue": {
+            "latitude": "37.3012257",
+            "closest_to": "san jose",
+            "address": "Lincoln Avenue, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95125, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8946934"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "stockton",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "milpitas": {
+            "latitude": "37.4282724",
+            "closest_to": "stockton",
+            "address": "Milpitas, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9066237"
+        },
+        "san ignacio avenue": {
+            "latitude": "37.2325809",
+            "closest_to": "san jose",
+            "address": "San Ignacio Avenue, San Jos\u00e9, Santa Clara County, California, 95119, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.7721521"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "stockton",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "closest_to": "san jose",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.5379893"
+        },
+        "san jose museum of art": {
+            "latitude": "37.3336686",
+            "closest_to": "san jose",
+            "address": "San Jose Museum of Art, 110, South Market Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.890012027867"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "closest_to": "san jose",
+            "address": "Yerba Buena Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3660816"
+        },
+        "santa teresa blvd": {
+            "latitude": "37.2369346",
+            "closest_to": "san jose",
+            "address": "Santa Teresa Boulevard, San Jos\u00e9, Santa Clara County, California, 95119, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8014868"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "san jose",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "https://www.cagreatamerica.com/hours-directions/directions",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "san jose",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "rock park": {
+            "latitude": "38.4248945",
+            "closest_to": "stockton",
+            "address": "Indian Grinding Rock State Historic Park, Pine Grove Volcano Road, Volcano, Amador County, California, 95665, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-120.643520347801"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "san jose",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "jackson st": {
+            "latitude": "37.3981802",
+            "closest_to": "san jose",
+            "address": "Jackson Street, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.0793716"
+        },
+        "hermosa": {
+            "latitude": "38.0172961",
+            "closest_to": "stockton",
+            "address": "Hermosa, Pittsburg, Contra Costa County, California, 94565, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-121.8724176"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "san jose",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "vermont street": {
+            "latitude": "37.7646654",
+            "closest_to": "san jose",
+            "address": "Vermont Street, Potrero Hill, SF, California, 94107, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.4045091"
+        },
+        "los angles": {
+            "latitude": "38.024517",
+            "closest_to": "stockton",
+            "address": "Angles Creek Access Road, Carson Hill, Calaveras County, California, 95221, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-120.5407859"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "san jose",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "capitola": {
+            "latitude": "36.9762927",
+            "closest_to": "san jose",
+            "address": "Capitola, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9540576"
+        },
+        "san francisco international airport": {
+            "latitude": "37.622452",
+            "closest_to": "san jose",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.384071507814"
+        },
+        "san quentin": {
+            "latitude": "37.9413133",
+            "closest_to": "san jose",
+            "address": "San Quentin, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4849738"
+        },
+        "san tomas aquino creek trail": {
+            "latitude": "37.4145764",
+            "closest_to": "stockton",
+            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9802759"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san jose",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.bestplaces.net/city/california/discovery_bay",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions",
+                "https://www.audleytravel.com/costa-rica/places-to-go/san-jose-and-central-valley",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://www.livability.com/ca",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "east coast": {
+            "latitude": "37.858337",
+            "closest_to": "stockton",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.2447393"
+        },
+        "w. san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "san jose",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "south sac": {
+            "latitude": "38.584111",
+            "closest_to": "stockton",
+            "address": "Sacramento Valley Station, 401, I Street, Sacramento, Sacramento County, California, 95814, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-121.500443747842"
+        },
+        "metro east": {
+            "latitude": "37.3697844",
+            "closest_to": "stockton",
+            "address": "Metro/Airport (NB), North 1st Street, Japantown, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9156121"
+        },
+        "brisbane": {
+            "latitude": "37.6807661",
+            "closest_to": "san jose",
+            "address": "Brisbane, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.3999714"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "san jose",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "san jos": {
+            "latitude": "37.5800244",
+            "closest_to": "san jose",
+            "address": "Joe's, North Delaware Street, San Mateo, San Mateo County, California, 94401, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.sanjoseca.gov/Index.aspx?NID=129",
+                "https://www.tripadvisor.com/Attractions-g33020-Activities-San_Jose_California.html"
+            ],
+            "longitude": "-122.3329393"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "closest_to": "stockton",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.312847098327"
+        },
+        "alviso": {
+            "latitude": "37.426051",
+            "closest_to": "stockton",
+            "address": "Alviso, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9752372"
+        },
+        "great mall": {
+            "latitude": "37.4157232",
+            "closest_to": "stockton",
+            "address": "Great Mall, 572, Great Mall Drive, Milpitas, Santa Clara County, California, 95035, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.897678338683"
+        },
+        "isleton": {
+            "latitude": "38.1618614",
+            "closest_to": "stockton",
+            "address": "Isleton, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-121.6116205"
+        },
+        "oakdale": {
+            "latitude": "37.7665947",
+            "closest_to": "stockton",
+            "address": "Oakdale, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-120.8471544"
+        },
+        "santa clara county": {
+            "latitude": "37.2333253",
+            "closest_to": "san jose",
+            "address": "Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.cagreatamerica.com/hours-directions/directions"
+            ],
+            "longitude": "-121.6846348"
+        },
+        "stanislaus county": {
+            "latitude": "37.5500871",
+            "closest_to": "stockton",
+            "address": "Stanislaus County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.0501424"
+        },
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "closest_to": "san jose",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.535021480702"
+        },
+        "west san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "closest_to": "san jose",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3890349"
+        },
+        "courtyard san jose airport hotel": {
+            "latitude": "37.3654207",
+            "closest_to": "stockton",
+            "address": "Courtyard San Jose Airport, Skyport Drive, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.918686741057"
+        },
+        "santa clara convention center": {
+            "latitude": "37.4044039",
+            "closest_to": "stockton",
+            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "conference_centre",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.975031612487"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.bestplaces.net/city/california/discovery_bay",
+                "http://costarica.com/attractions/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.10best.com/destinations/california/san-jose/",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "https://www.tripadvisor.com/Attractions-g33020-Activities-San_Jose_California.html",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://www.livability.com/ca",
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san jose",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "gianera street": {
+            "latitude": "37.3997317",
+            "closest_to": "stockton",
+            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9677788"
+        },
+        "sheraton san jose downtown": {
+            "latitude": "37.33212265",
+            "closest_to": "san jose",
+            "address": "Four Points by Sheraton San Jose Downtown, 211, South 1st Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.888098574431"
+        },
+        "agnew road": {
+            "latitude": "37.3943647",
+            "closest_to": "stockton",
+            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9488924"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "closest_to": "stockton",
+            "address": "Modesto, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-120.9968781"
+        },
+        "daly city": {
+            "latitude": "37.7057671",
+            "closest_to": "san jose",
+            "address": "Daly City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.4619204"
+        },
+        "trimble road": {
+            "latitude": "37.3749153",
+            "closest_to": "stockton",
+            "address": "Trimble Road, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95050:95050;95110, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9426527"
+        },
+        "rio vista": {
+            "latitude": "38.1557502",
+            "closest_to": "stockton",
+            "address": "Rio Vista, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-121.6913438"
+        },
+        "tower hall": {
+            "latitude": "37.3352406",
+            "closest_to": "stockton",
+            "address": "Tower Hall, El Paseo de Cesar E Chavez, SoFA, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.883373"
+        },
+        "diridon station": {
+            "latitude": "37.3293688",
+            "closest_to": "san jose",
+            "address": "San Jose Diridon Station, Cahill Street, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.902573703776"
+        },
+        "south africa": {
+            "latitude": "37.8749498",
+            "closest_to": "stockton",
+            "address": "South Africa, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-122.2378391"
+        },
+        "menlo park": {
+            "latitude": "37.4538274",
+            "closest_to": "san jose",
+            "address": "Menlo Park, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.182187"
+        },
+        "rose garden": {
+            "latitude": "37.3339825",
+            "closest_to": "san jose",
+            "address": "Rose Garden, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9240707"
+        },
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "san jose",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "stockton",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.846594"
+        },
+        "montague expressway": {
+            "latitude": "37.397984",
+            "closest_to": "stockton",
+            "address": "Montague Expressway, Alviso, San Jos\u00e9, Santa Clara County, California, 95134, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9342665"
+        },
+        "san pedro square": {
+            "latitude": "37.33583055",
+            "closest_to": "san jose",
+            "address": "San Pedro Square, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.10best.com/destinations/california/san-jose/"
+            ],
+            "longitude": "-121.893554381311"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "san jose",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "san jose marriott": {
+            "latitude": "37.33032895",
+            "closest_to": "san jose",
+            "address": "San Jose Marriott, South Market Street, SoFA, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.888362402087"
+        },
+        "bay point": {
+            "latitude": "38.0290872",
+            "closest_to": "stockton",
+            "address": "Bay Point, Contra Costa County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9616273"
+        },
+        "san carlos plaza": {
+            "latitude": "37.5536122",
+            "closest_to": "stockton",
+            "address": "San Carlos Place, Niles District, Fremont, Alameda County, California, 94539, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9530367"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "san jose",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "riverbank": {
+            "latitude": "37.7360396",
+            "closest_to": "stockton",
+            "address": "Riverbank, Stanislaus County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-120.9354894"
+        },
+        "power inn road": {
+            "latitude": "38.532343",
+            "closest_to": "stockton",
+            "address": "Power Inn Road, Depot Park, Sacramento, Sacramento County, California, 95624, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.4091679"
+        },
+        "heritage rose garden": {
+            "latitude": "37.3438851",
+            "closest_to": "san jose",
+            "address": "Heritage Rose Garden, West Taylor Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.907264959132"
+        },
+        "south winchester blvd": {
+            "latitude": "37.2988208",
+            "closest_to": "san jose",
+            "address": "South Winchester Boulevard, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95008, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.950028"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "closest_to": "stockton",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.cagreatamerica.com/hours-directions/directions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.8746788"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "closest_to": "stockton",
+            "address": "Lodi, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.387849546574"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "san jose",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.cagreatamerica.com/hours-directions/directions",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "w. san fernando st.": {
+            "latitude": "37.3307538",
+            "closest_to": "san jose",
+            "address": "West San Fernando Street, Little Italy, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8969453"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "stockton",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "https://www.cagreatamerica.com/hours-directions/directions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "diridon caltrain station": {
+            "latitude": "37.3297214",
+            "closest_to": "san jose",
+            "address": "San Jose Diridon Caltrain Station, Crandall Street, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "bicycle_rental",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9017328"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "san jose",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.418809"
+        },
+        "fairmont": {
+            "latitude": "37.7923686",
+            "closest_to": "san jose",
+            "address": "The Fairmont San Francisco Hotel, 950, Mason Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.410029997904"
+        },
+        "' ballet san jose": {
+            "latitude": "37.33987275",
+            "closest_to": "stockton",
+            "address": "Vertin San Jose Ballet School, North 4th Street, Saint James Square Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "dancing_school",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.889416554925"
+        },
+        "e. william st.": {
+            "latitude": "37.3393025",
+            "closest_to": "stockton",
+            "address": "East William Street, Naglee Park, Little Saigon, San Jos\u00e9, Santa Clara County, California, 95116, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8653487"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "closest_to": "stockton",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.675382525556"
+        },
+        "great america pkwy": {
+            "latitude": "37.4163194",
+            "closest_to": "stockton",
+            "address": "Great America Parkway, Alviso, San Jos\u00e9, Santa Clara County, California, 95002, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9773994"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "san jose",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "east san jose": {
+            "latitude": "37.3612444",
+            "closest_to": "stockton",
+            "address": "E, Airport Boulevard, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "taxiway",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9235193"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "san jose",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://www.bestplaces.net/city/california/discovery_bay",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "vagabond inn san jose": {
+            "latitude": "37.3630546",
+            "closest_to": "stockton",
+            "address": "Vagabond Inn San Jose, North 1st Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9102808"
+        },
+        "california state route 1": {
+            "latitude": "37.7931799",
+            "closest_to": "san jose",
+            "address": "One California Street Building, 1, California Street, Financial District, SF, California, 94121, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-122.397168822203"
+        },
+        "stevens creek blvd.": {
+            "latitude": "37.3232874",
+            "closest_to": "san jose",
+            "address": "Stevens Creek Boulevard, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95128, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9479203"
+        },
+        "caltrain diridon station": {
+            "latitude": "37.3297214",
+            "closest_to": "san jose",
+            "address": "San Jose Diridon Caltrain Station, Crandall Street, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "bicycle_rental",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9017328"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "san jose",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "san jose municipal rose garden": {
+            "latitude": "37.3317699",
+            "closest_to": "san jose",
+            "address": "San Jose Municipal Rose Garden, Emory Street, Newhall, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95128, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.928583469557"
+        },
+        "okayama": {
+            "latitude": "37.3485785",
+            "closest_to": "stockton",
+            "address": "Okayama, North 6th Street, Hensley Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8928543"
+        },
+        "french camp rd": {
+            "latitude": "37.897174",
+            "closest_to": "stockton",
+            "address": "French Camp Road, Stockton, San Joaquin County, California, 95231, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.3044682"
+        },
+        "san jose city hall": {
+            "latitude": "37.33721425",
+            "closest_to": "stockton",
+            "address": "San Jose City Hall, South 4th Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "townhall",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.88640397527"
+        },
+        "fairmont hotel": {
+            "latitude": "37.7923686",
+            "closest_to": "san jose",
+            "address": "The Fairmont San Francisco Hotel, 950, Mason Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.410029997904"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "san jose",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "pittsburg": {
+            "latitude": "38.0181745",
+            "closest_to": "stockton",
+            "address": "Pittsburg, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.8901231"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "stockton",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "pacheco pass": {
+            "latitude": "37.0659932",
+            "closest_to": "san jose",
+            "address": "Pacheco Pass, Pacheco Pass Highway, Santa Clara County, California, United States of America",
+            "locType": "ridge",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.2200431"
+        },
+        "paseo de san antonio": {
+            "latitude": "37.333798",
+            "closest_to": "san jose",
+            "address": "Paseo de San Antonio, Paseo de San Antonio Walk, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "bicycle_rental",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8869429"
+        },
+        "golfito": {
+            "latitude": "37.4480471",
+            "closest_to": "stockton",
+            "address": "Golfland, 1199, Jacklin Road, Milpitas, Santa Clara County, California, 95035, United States of America",
+            "locType": "miniature_golf",
+            "blogLinks": [
+                "http://costarica.com/attractions/"
+            ],
+            "longitude": "-121.890119828347"
+        },
+        "altamont": {
+            "latitude": "37.7438175",
+            "closest_to": "stockton",
+            "address": "Altamont, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.6627284"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "stockton",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "https://www.cagreatamerica.com/hours-directions/directions"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "frankfurt": {
+            "latitude": "37.3444358",
+            "closest_to": "san jose",
+            "address": "Frankfurt Avenue, Newhall, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.9282694"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san jose",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel",
+                "http://wikitravel.org/en/San_Jose_(California)",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "santa clara county fairgrounds": {
+            "latitude": "37.29994725",
+            "closest_to": "san jose",
+            "address": "Santa Clara County Fairgrounds, Little Saigon, San Jos\u00e9, Santa Clara County, California, 95125, United States of America",
+            "locType": "recreation_ground",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.851119089765"
+        },
+        "watsonville": {
+            "latitude": "36.9092773",
+            "closest_to": "san jose",
+            "address": "Watsonville, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.752907"
+        },
+        "downtown san jose": {
+            "latitude": "37.3362112",
+            "closest_to": "stockton",
+            "address": "Downtown San Jose, East Santa Clara Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95116, United States of America",
+            "locType": "proposed",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.890106"
+        },
+        "shoreline boulevard": {
+            "latitude": "37.4268136",
+            "closest_to": "san jose",
+            "address": "Shoreline Amphitheatre, North Shoreline Boulevard, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.theguardian.com/travel/2013/may/25/top-10-portland-san-francisco-roadside-attractions"
+            ],
+            "longitude": "-122.080632160581"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "san jose",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "japantown": {
+            "latitude": "37.7855789",
+            "closest_to": "san jose",
+            "address": "Japantown, SF, California, 94115, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.4298088"
+        },
+        "san salvador st": {
+            "latitude": "38.5370403",
+            "closest_to": "stockton",
+            "address": "San Salvador Street, West Sacramento, Yolo County, California, 95691, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.5785606"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "stockton",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "west trimble road": {
+            "latitude": "37.3840779",
+            "closest_to": "stockton",
+            "address": "West Trimble Road, San Jos\u00e9, Santa Clara County, California, 95050; 95110, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9315764"
+        },
+        "millbrae": {
+            "latitude": "37.5985468",
+            "closest_to": "san jose",
+            "address": "Millbrae, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3871941"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "san jose",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "guadalupe river trail": {
+            "latitude": "37.3253532",
+            "closest_to": "san jose",
+            "address": "Guadalupe River Trail, SoFA, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95050, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.890578"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "san jose",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "livermore": {
+            "latitude": "37.6820583",
+            "closest_to": "stockton",
+            "address": "Livermore, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.768053"
+        },
+        "san jose international airport": {
+            "latitude": "37.36312115",
+            "closest_to": "stockton",
+            "address": "Norman Y. Mineta San Jose International Airport, Terminal Drive, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.928592538997"
+        },
+        "lone cypress": {
+            "latitude": "36.5687376",
+            "closest_to": "san jose",
+            "address": "The Lone Cypress, 17 Mile Drive, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.9652341"
+        },
+        "laguna": {
+            "latitude": "38.4210209",
+            "closest_to": "stockton",
+            "address": "Laguna, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/biz/pacific-coast-highway-carmel"
+            ],
+            "longitude": "-121.4238413"
+        },
+        "polmont": {
+            "latitude": "38.470303",
+            "closest_to": "stockton",
+            "address": "Polmont Way, Coffing, Sacramento County, California, 95829, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.3545659"
+        },
+        "locke": {
+            "latitude": "38.2504703",
+            "closest_to": "stockton",
+            "address": "Locke, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "longitude": "-121.5093973"
+        },
+        "sjc airport": {
+            "latitude": "37.36312115",
+            "closest_to": "stockton",
+            "address": "Norman Y. Mineta San Jose International Airport, Terminal Drive, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.928592538997"
+        },
+        "almaden valley": {
+            "latitude": "37.1587635",
+            "closest_to": "san jose",
+            "address": "Almaden Air Force Station (closed), Mt. Umunhum Road, Peckham Ranch, Santa Clara County, California, United States of America",
+            "locType": "air_force_station",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.902194020393"
+        },
+        "south san francisco": {
+            "latitude": "37.6549493",
+            "closest_to": "san jose",
+            "address": "South San Francisco, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "longitude": "-122.408125"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "san jose",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "albany": {
+            "latitude": "37.88687",
+            "closest_to": "san jose",
+            "address": "Albany, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-122.2977474"
+        },
+        "san joaquin": {
+            "latitude": "37.9372901",
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.2773718"
+        },
+        "colma": {
+            "latitude": "37.6768779",
+            "closest_to": "san jose",
+            "address": "Colma, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4596949"
+        },
+        "los gatos": {
+            "latitude": "37.226611",
+            "closest_to": "san jose",
+            "address": "Los Gatos, Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9746796"
+        },
+        "west santa clara street": {
+            "latitude": "37.3320363",
+            "closest_to": "san jose",
+            "address": "West Santa Clara Street, Little Italy, Japantown, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9011446"
+        },
+        "hilton san jose": {
+            "latitude": "37.32922905",
+            "closest_to": "san jose",
+            "address": "Hilton San Jose, Almaden Boulevard, SoFA, Willow Glen, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.890504683932"
+        },
+        "guadalupe river": {
+            "latitude": "37.2454936",
+            "closest_to": "san jose",
+            "address": "Guadalupe River, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.871648"
+        },
+        "ryland park": {
+            "latitude": "37.3420657",
+            "closest_to": "stockton",
+            "address": "Ryland Park, Ryland Park Drive, Hensley Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.897385600612"
+        },
+        "san francisco oakland": {
+            "latitude": "37.8257655",
+            "closest_to": "san jose",
+            "address": "KIQI-AM (San Francisco), I 80, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html"
+            ],
+            "longitude": "-122.3121382"
+        },
+        "french camp": {
+            "latitude": "37.876291",
+            "closest_to": "stockton",
+            "address": "French Camp, South Mc Kinley Avenue, French Camp, San Joaquin County, California, 95231, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/"
+            ],
+            "longitude": "-121.271743829931"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4351504-Driving_from_San_Francisco_to_South_Lake_Tahoe-California.html",
+                "https://www.cagreatamerica.com/hours-directions/directions",
+                "http://www.cahsrblog.com/2010/05/fresno-sacramento-alternate-route/",
+                "http://www.visitstockton.org/things-to-do/"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "harris way": {
+            "latitude": "37.404074",
+            "closest_to": "stockton",
+            "address": "Harris Way, Berryessa, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9048599"
+        },
+        "east santa clara street": {
+            "latitude": "37.3382349",
+            "closest_to": "stockton",
+            "address": "East Santa Clara Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95116, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.8862084"
+        },
+        "south bascom ave": {
+            "latitude": "37.2990127",
+            "closest_to": "san jose",
+            "address": "South Bascom Avenue, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95124, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.931781"
+        },
+        "kearny street": {
+            "latitude": "37.7962192",
+            "closest_to": "san jose",
+            "address": "Kearny Street, Chinatown, SF, California, 94133, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-122.4051601"
+        },
+        "cahill street": {
+            "latitude": "37.3307437",
+            "closest_to": "san jose",
+            "address": "Cahill Street, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/San_Jose_(California)"
+            ],
+            "longitude": "-121.9020888"
+        }
+    },
+    "san jose": {
+        "type": "city",
+        "osm_id": "112143",
+        "class": "place",
+        "importance": 0.79127376502597,
+        "lat": "37.3361905",
+        "lon": "-121.8905832",
+        "boundingbox": [
+            "37.124503",
+            "37.4692175",
+            "-122.0456719",
+            "-121.5891529"
+        ],
+        "display_name": "San Jos\u00e9, Santa Clara County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159251412",
+        "osm_type": "relation"
+    }
+}

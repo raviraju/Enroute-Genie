@@ -1,0 +1,819 @@
+{
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "fremont": {
+        "type": "city",
+        "osm_id": "111943",
+        "class": "place",
+        "importance": 0.70373394703995,
+        "lat": "37.5482697",
+        "lon": "-121.9885718",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159050638",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "fremont",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "niles town plaza": {
+            "latitude": "37.57730765",
+            "closest_to": "san francisco",
+            "address": "Niles Town Plaza, Niles Boulevard, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-121.978525509935"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "closest_to": "san francisco",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "mill valley": {
+            "latitude": "37.9060368",
+            "closest_to": "san francisco",
+            "address": "Mill Valley, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.5449762"
+        },
+        "san francisco museum of modern art": {
+            "latitude": "37.78583605",
+            "closest_to": "san francisco",
+            "address": "SFMOMA, 151, 3rd Street, South of Market, SF, California, 94103, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.400921724922"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "san mateo": {
+            "latitude": "37.496904",
+            "closest_to": "san francisco",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.3330572"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "san francisco",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "san francisco",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "san francisco",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "san francisco",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "san francisco",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san francisco",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.396892"
+        },
+        "rock avenue": {
+            "latitude": "37.3926982",
+            "closest_to": "fremont",
+            "address": "Rock Avenue, Luna Park, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-121.9036956"
+        },
+        "maiden lane": {
+            "latitude": "37.7880412",
+            "closest_to": "san francisco",
+            "address": "Maiden Lane, Chinatown, SF, California, 94108, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4066888"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san francisco",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html"
+            ],
+            "longitude": "-122.342234"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "san francisco",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "vasona park": {
+            "latitude": "37.268274",
+            "closest_to": "fremont",
+            "address": "Vasona Canal, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9869804"
+        },
+        "yerba buena gardens": {
+            "latitude": "37.78463535",
+            "closest_to": "san francisco",
+            "address": "Yerba Buena Gardens, Howard Street, South of Market, SF, California, 94103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.402371810367"
+        },
+        "lawrence hall": {
+            "latitude": "37.877629",
+            "closest_to": "san francisco",
+            "address": "Lawrence Berkeley National Laboratory, Chu Road, Northside, Berkeley, Alameda County, California, 94708, United States of America",
+            "locType": "environmental_hazard",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.2520809"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "san francisco",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.418809"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "san francisco",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "tamalpais state park": {
+            "latitude": "37.8969524",
+            "closest_to": "san francisco",
+            "address": "Mount Tamalpais State Park, Panoramic Highway, Stinson Beach, Marin County, California, 94970, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.613750526021"
+        },
+        "centennial boulevard": {
+            "latitude": "37.4047084",
+            "closest_to": "fremont",
+            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9694691"
+        },
+        "walnut creek": {
+            "latitude": "37.9063131",
+            "closest_to": "san francisco",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0649629"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "fremont",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "san francisco harbor": {
+            "latitude": "37.8509548",
+            "closest_to": "san francisco",
+            "address": "KRQR-FM (San Francisco), Wolfback Ridge Road, Marin City, Marin County, California, 94965, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4984867"
+        },
+        "alvarado niles road": {
+            "latitude": "37.5970195",
+            "closest_to": "san francisco",
+            "address": "Alvarado-Niles Road, Union City, Alameda County, California, 94587, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-122.0711273"
+        },
+        "muir beach": {
+            "latitude": "37.8621493",
+            "closest_to": "san francisco",
+            "address": "Muir Beach, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.5813666"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "san francisco",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "san francisco",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "alameda county library": {
+            "latitude": "37.6929694",
+            "closest_to": "san francisco",
+            "address": "Castro Valley Library, 3600, Norbridge Avenue, Alameda County, California, 94546, United States of America",
+            "locType": "library",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-122.07103"
+        },
+        "angel island": {
+            "latitude": "37.862338",
+            "closest_to": "san francisco",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.travelblog.org/Topics/32739-1.html"
+            ],
+            "longitude": "-122.430885671184"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "fremont",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.travelblog.org/Topics/32739-1.html"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "lemur forest": {
+            "latitude": "37.7329811",
+            "closest_to": "san francisco",
+            "address": "Lemur Forest, Entry Village, SF, California, 94166, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-122.504164031494"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "fremont",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "saratoga": {
+            "latitude": "37.2638324",
+            "closest_to": "fremont",
+            "address": "Saratoga, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.travelblog.org/Topics/32739-1.html"
+            ],
+            "longitude": "-122.0230145"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/",
+                "https://www.tripadvisor.com/Attractions-g32411-Activities-Fremont_California.html",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182763/California:United-States:Driving.Between.La.And.Sf.html",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.sftravel.com/",
+                "http://www.goldengatetours.net/places",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.travelblog.org/Topics/32739-1.html"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san francisco zoo": {
+            "latitude": "37.73292535",
+            "closest_to": "san francisco",
+            "address": "San Francisco Zoo, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.502355346322"
+        },
+        "morrison planetarium": {
+            "latitude": "37.7699859",
+            "closest_to": "san francisco",
+            "address": "Morrison Planetarium, 55, Music Concourse Drive, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4656039"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "fremont",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "san tomas aquino creek trail": {
+            "latitude": "37.4145764",
+            "closest_to": "fremont",
+            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9802759"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "canada road": {
+            "latitude": "37.5572346",
+            "closest_to": "san francisco",
+            "address": "La Canada Road, Hillsborough, San Mateo County, California, 94010, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.3548905"
+        },
+        "marin headlands": {
+            "latitude": "37.856162",
+            "closest_to": "san francisco",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.534327312107"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "fremont",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "fujitsu planetarium": {
+            "latitude": "37.31892545",
+            "closest_to": "fremont",
+            "address": "Fujitsu Planetarium, Campus Drive, Cupertino, Santa Clara County, California, 95014-4221, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.046052500132"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "dewey monument": {
+            "latitude": "37.7879582",
+            "closest_to": "san francisco",
+            "address": "Dewey Monument, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "monument",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4074977"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "san francisco",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "san francisco",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "concord": {
+            "latitude": "37.9768525",
+            "closest_to": "san francisco",
+            "address": "Concord, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0335623"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "fremont",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "niles boulevard": {
+            "latitude": "37.581646",
+            "closest_to": "san francisco",
+            "address": "Niles Boulevard, Niles District, Fremont, Alameda County, California, 94536, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-122.0006704"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "san francisco",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "san francisco botanical garden": {
+            "latitude": "37.7673662",
+            "closest_to": "san francisco",
+            "address": "San Francisco Botanical Garden, Lincoln Way, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.469608375011"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "san francisco",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "penguin island": {
+            "latitude": "37.73246405",
+            "closest_to": "san francisco",
+            "address": "Penguin Island, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.50180545"
+        },
+        "crissy field": {
+            "latitude": "37.80459605",
+            "closest_to": "san francisco",
+            "address": "Crissy Field, Golden Gate Promenade, Presidio Terrace, SF, California, 94129, United States of America",
+            "locType": "common",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.466607142075"
+        },
+        "santa clara convention center": {
+            "latitude": "37.4044039",
+            "closest_to": "fremont",
+            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "conference_centre",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.975031612487"
+        },
+        "los gatos": {
+            "latitude": "37.226611",
+            "closest_to": "fremont",
+            "address": "Los Gatos, Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9746796"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "closest_to": "fremont",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9885718"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "gianera street": {
+            "latitude": "37.3997317",
+            "closest_to": "fremont",
+            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9677788"
+        },
+        "agnew road": {
+            "latitude": "37.3943647",
+            "closest_to": "fremont",
+            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "longitude": "-121.9488924"
+        },
+        "cupertino": {
+            "latitude": "37.3230107",
+            "closest_to": "fremont",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0322518"
+        },
+        "niles library": {
+            "latitude": "37.57605",
+            "closest_to": "san francisco",
+            "address": "Niles Branch Alameda County Library, Iron Horse Lane, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America",
+            "locType": "library",
+            "blogLinks": [
+                "http://www.sfgate.com/travel/streetdate/article/Niles-Boulevard-Niles-Fremont-4180678.php"
+            ],
+            "longitude": "-121.9781486"
+        },
+        "pixieland": {
+            "latitude": "37.9894542",
+            "closest_to": "san francisco",
+            "address": "Pixieland Amusement Park, Windy Grove Cars, Concord, Contra Costa County, California, 94519, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.021839297124"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "san francisco",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "fort point": {
+            "latitude": "37.8104864",
+            "closest_to": "san francisco",
+            "address": "Fort Point National Historic Site, Marine Drive, SF, California, 94129, United States of America",
+            "locType": "castle",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.476881918058"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.sftravel.com/"
+            ],
+            "longitude": "-122.407502671706"
+        }
+    }
+}

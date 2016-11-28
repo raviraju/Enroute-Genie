@@ -1,0 +1,890 @@
+{
+    "santa cruz": {
+        "type": "city",
+        "osm_id": "111737",
+        "class": "place",
+        "importance": 0.80562903030115,
+        "lat": "36.9735903",
+        "lon": "-122.0260569",
+        "boundingbox": [
+            "36.9479995",
+            "37.0251537",
+            "-122.1512979",
+            "-121.9867104"
+        ],
+        "display_name": "Santa Cruz, Santa Cruz County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157779626",
+        "osm_type": "relation"
+    },
+    "fremont": {
+        "type": "city",
+        "osm_id": "111943",
+        "class": "place",
+        "importance": 0.70373394703995,
+        "lat": "37.5482697",
+        "lon": "-121.9885718",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159050638",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "seabright beach": {
+            "latitude": "36.96289905",
+            "closest_to": "santa cruz",
+            "address": "Seabright Beach, East Cliff Drive, Lower Seabright, Seabright, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.005579996389"
+        },
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "closest_to": "fremont",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.535021480702"
+        },
+        "beach hill": {
+            "latitude": "36.96676875",
+            "closest_to": "santa cruz",
+            "address": "Beach Hill, Downtown, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.022031972397"
+        },
+        "el salchichero": {
+            "latitude": "36.958804",
+            "closest_to": "santa cruz",
+            "address": "El Salchichero, 402, Ingalls Street, Westside Industrial District, Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php"
+            ],
+            "longitude": "-122.0489131"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "fremont",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "santa cruz",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "cafe brasil": {
+            "latitude": "36.9674814",
+            "closest_to": "santa cruz",
+            "address": "Cafe Brasil, Mission Street, Mission Street Corridor (Commercial), Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.0393587"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "fremont",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "santa cruz surfing museum": {
+            "latitude": "36.9514908",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Surfing Museum, West Cliff Drive, Lighthouse/West Cliff, Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html"
+            ],
+            "longitude": "-122.0266902"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "santa cruz",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "mountain view": {
+            "latitude": "37.3855745",
+            "closest_to": "santa cruz",
+            "address": "Mountain View, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.yellowpages.com/fremont-ca/places-of-interest"
+            ],
+            "longitude": "-122.0820499"
+        },
+        "santa cruz small craft harbor": {
+            "latitude": "36.96824455",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Small Craft Harbor, Murray Street, East Morrissey, Seabright, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "marina",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.002887086085"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "fort point": {
+            "latitude": "37.8104864",
+            "closest_to": "fremont",
+            "address": "Fort Point National Historic Site, Marine Drive, SF, California, 94129, United States of America",
+            "locType": "castle",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.476881918058"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "closest_to": "fremont",
+            "address": "Yerba Buena Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3660816"
+        },
+        "mission san jose": {
+            "latitude": "37.3495341",
+            "closest_to": "santa cruz",
+            "address": "West Mission Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.yellowpages.com/fremont-ca/places-of-interest"
+            ],
+            "longitude": "-121.9041561"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "fremont",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "fremont",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "wilder ranch state park": {
+            "latitude": "36.96021805",
+            "closest_to": "santa cruz",
+            "address": "Wilder Ranch State Park, Coast Road, Westside, Santa Cruz County, California, 95060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.079566815934"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "santa cruz",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santacruz.org/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "fremont",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.418809"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "fremont",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "porter college": {
+            "latitude": "36.9943425",
+            "closest_to": "santa cruz",
+            "address": "Porter College, University of California Santa Cruz, Santa Cruz, Santa Cruz County, California, 95064, United States of America",
+            "locType": "college",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.0654806"
+        },
+        "seacliff state beach": {
+            "latitude": "36.9710973",
+            "closest_to": "santa cruz",
+            "address": "Seacliff State Beach, Las Olas Drive, Seacliff, Santa Cruz County, California, 95003, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-121.912285"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "fremont",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "san francisco harbor": {
+            "latitude": "37.8509548",
+            "closest_to": "fremont",
+            "address": "KRQR-FM (San Francisco), Wolfback Ridge Road, Marin City, Marin County, California, 94965, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4984867"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "milpitas": {
+            "latitude": "37.4282724",
+            "closest_to": "santa cruz",
+            "address": "Milpitas, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.yellowpages.com/fremont-ca/places-of-interest"
+            ],
+            "longitude": "-121.9066237"
+        },
+        "capitola beach": {
+            "latitude": "36.9715255",
+            "closest_to": "santa cruz",
+            "address": "Capitola Beach, Esplanade, Capitola, Santa Cruz County, California, 95010, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html"
+            ],
+            "longitude": "-121.9515645"
+        },
+        "shaffer road": {
+            "latitude": "36.9612912",
+            "closest_to": "santa cruz",
+            "address": "Shaffer Road, Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.0621835"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "closest_to": "santa cruz",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.5379893"
+        },
+        "santa cruz mission": {
+            "latitude": "36.977607",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Mission (site), School Street, Mission Hill, Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "ruins",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.0283159"
+        },
+        "sunset state beach": {
+            "latitude": "36.87333825",
+            "closest_to": "santa cruz",
+            "address": "Sunset State Beach, Sunset Beach Rd; Shell Road, Pajaro Dunes, Santa Cruz County, California, 95076, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-121.820845760952"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "santa cruz",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "santa cruz",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.yellowpages.com/fremont-ca/places-of-interest"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "santa cruz county": {
+            "latitude": "37.050096",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.santacruz.org/blog/p/3671",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont-CA/TravelFromHistory/1695367.aspx",
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "http://www.santacruz.org/",
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9905907"
+        },
+        "davenport jail museum": {
+            "latitude": "37.0119268",
+            "closest_to": "santa cruz",
+            "address": "Davenport Jail Museum, Center Street, Davenport, Santa Cruz County, California, 95017, United States of America",
+            "locType": "building",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.1952229"
+        },
+        "santa clara county": {
+            "latitude": "37.2333253",
+            "closest_to": "santa cruz",
+            "address": "Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-121.6846348"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "santa cruz",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "santa cruz",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.timeanddate.com/worldclock/distances.html?n=283",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/Attractions-g33048-Activities-Santa_Cruz_California.html",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "watsonville": {
+            "latitude": "36.9092773",
+            "closest_to": "santa cruz",
+            "address": "Watsonville, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-121.752907"
+        },
+        "capitola": {
+            "latitude": "36.9762927",
+            "closest_to": "santa cruz",
+            "address": "Capitola, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz",
+                "http://www.distancefromto.net/between/Santa+Cruz/Fremont",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-121.9540576"
+        },
+        "san francisco zoo": {
+            "latitude": "37.73292535",
+            "closest_to": "fremont",
+            "address": "San Francisco Zoo, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.502355346322"
+        },
+        "cherryland": {
+            "latitude": "37.6793756",
+            "closest_to": "fremont",
+            "address": "Cherryland, Alameda County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.distancefromto.net/between/Santa+Cruz/Fremont"
+            ],
+            "longitude": "-122.103297"
+        },
+        "san francisco international airport": {
+            "latitude": "37.622452",
+            "closest_to": "fremont",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.distancefromto.net/between/Santa+Cruz/Fremont"
+            ],
+            "longitude": "-122.384071507814"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "santa cruz",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.yellowpages.com/fremont-ca/places-of-interest"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "felton": {
+            "latitude": "37.0513364",
+            "closest_to": "santa cruz",
+            "address": "Felton, Santa Cruz County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.0732905"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "fremont",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.santacruz.org/blog/p/3671"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "ano nuevo state park": {
+            "latitude": "37.1642859",
+            "closest_to": "santa cruz",
+            "address": "A\u00f1o Nuevo State Park, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.328030779329"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "fremont",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.santacruz.org/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "uc santa cruz": {
+            "latitude": "36.9637594",
+            "closest_to": "santa cruz",
+            "address": "UC East, Bay Street, California Street, Westside, Santa Cruz, Santa Cruz County, California, 95061, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html"
+            ],
+            "longitude": "-122.0356254"
+        },
+        "brazil cafe": {
+            "latitude": "37.871604",
+            "closest_to": "fremont",
+            "address": "Brazil Cafe, 1960, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.2714969"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "fremont",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "mission street": {
+            "latitude": "37.7937635",
+            "closest_to": "fremont",
+            "address": "Mission Street, Financial District, SF, California, 94105, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.3925412"
+        },
+        "sunset state beach road": {
+            "latitude": "36.87333825",
+            "closest_to": "santa cruz",
+            "address": "Sunset State Beach, Sunset Beach Rd; Shell Road, Pajaro Dunes, Santa Cruz County, California, 95076, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-121.820845760952"
+        },
+        "swanton road": {
+            "latitude": "37.0798762",
+            "closest_to": "santa cruz",
+            "address": "Swanton Road, Swanton, Santa Cruz County, California, 95017, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.2471241"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "closest_to": "fremont",
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Cruz-to-Fremont/FlightHistory/21564884.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Santa-Cruz-to-Fremont/TravelTimeHistory/21564884.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Santa-Cruz-to-Fremont-CA/DirectionHistory/1695367.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont/TravelFromHistory/21564884.aspx"
+            ],
+            "longitude": "-122.232613735941"
+        },
+        "big basin": {
+            "latitude": "37.1665748",
+            "closest_to": "santa cruz",
+            "address": "Big Basin, Santa Cruz County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.1875564"
+        },
+        "seabright": {
+            "latitude": "36.9688186",
+            "closest_to": "santa cruz",
+            "address": "Seabright, Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.0078621"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "fremont",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "north big trees park road": {
+            "latitude": "37.0440167",
+            "closest_to": "santa cruz",
+            "address": "North Big Trees Park Road, Felton, Santa Cruz County, California, 95041, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.0722516"
+        },
+        "rio theatre": {
+            "latitude": "36.9801486",
+            "closest_to": "santa cruz",
+            "address": "Rio Theatre, Soquel Avenue, Soquel Avenue Commercial Corridor, Eastside, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0104295"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "fremont",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "santa cruz",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "fremont",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "closest_to": "fremont",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3890349"
+        },
+        "west cliff drive": {
+            "latitude": "36.9619839",
+            "closest_to": "santa cruz",
+            "address": "West Cliff Drive, Beach & Boardwalk District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-122.025308"
+        },
+        "la posta": {
+            "latitude": "36.9681662",
+            "closest_to": "santa cruz",
+            "address": "La Posta, Seabright Avenue, Upper Seabright, Seabright, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php"
+            ],
+            "longitude": "-122.0077602"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "closest_to": "fremont",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont-CA/TravelFromHistory/1695367.aspx",
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Cruz-to-Fremont/FlightHistory/21564884.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Santa-Cruz-to-Fremont/TravelTimeHistory/21564884.aspx",
+                "http://www.yellowpages.com/fremont-ca/places-of-interest",
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html",
+                "http://www.distancesfrom.com/us/directions-from-Santa-Cruz-to-Fremont-CA/DirectionHistory/1695367.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont/TravelFromHistory/21564884.aspx"
+            ],
+            "longitude": "-121.9885718"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "santa cruz",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "fremont",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "nuevo state park": {
+            "latitude": "37.1682019",
+            "closest_to": "santa cruz",
+            "address": "A\u00f1o Nuevo State Park Cascade Ranch Unit, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.3329541"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont-CA/TravelFromHistory/1695367.aspx",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz",
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Cruz-to-Fremont/FlightHistory/21564884.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Santa-Cruz-to-Fremont/TravelTimeHistory/21564884.aspx",
+                "http://www.distancefromto.net/between/Santa+Cruz/Fremont",
+                "https://www.tripadvisor.com/Tourism-g33048-Santa_Cruz_California-Vacations.html",
+                "http://www.goldengatetours.net/places",
+                "http://www.santacruz.org/blog/p/3671",
+                "http://www.mapsofworld.com/travel/blog/travel-tips/restaurants-in-santa-cruz",
+                "http://www.distancesfrom.com/us/directions-from-Santa-Cruz-to-Fremont-CA/DirectionHistory/1695367.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-Fremont/TravelFromHistory/21564884.aspx"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "aptos": {
+            "latitude": "36.9787725",
+            "closest_to": "santa cruz",
+            "address": "Aptos, Santa Cruz County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://www.yelp.com/topic/fremont-things-to-do-in-santa-cruz"
+            ],
+            "longitude": "-121.8976334"
+        },
+        "natural bridges state beach": {
+            "latitude": "36.9500966",
+            "closest_to": "santa cruz",
+            "address": "Natural Bridges State Beach, Crespi Court, Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.057541594071"
+        },
+        "santa cruz beach": {
+            "latitude": "36.9632617",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Beach, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.santacruz.org/blog/p/3671"
+            ],
+            "longitude": "-122.0189205"
+        },
+        "calif.": {
+            "latitude": "37.786376",
+            "closest_to": "fremont",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.mapsofworld.com/travel/blog/travel-tips/restaurants-in-santa-cruz"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "uc santa cruz center": {
+            "latitude": "36.9637594",
+            "closest_to": "santa cruz",
+            "address": "UC East, Bay Street, California Street, Westside, Santa Cruz, Santa Cruz County, California, 95061, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.0356254"
+        },
+        "redwood grove trail": {
+            "latitude": "37.037199",
+            "closest_to": "santa cruz",
+            "address": "Redwood Grove Trail, University of California Santa Cruz, Mount Hermon, Santa Cruz County, California, 95041, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "http://www.mercurynews.com/2013/06/27/top-10-things-to-do-with-kids-in-santa-cruz/"
+            ],
+            "longitude": "-122.0613645"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "fremont",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.407502671706"
+        }
+    }
+}

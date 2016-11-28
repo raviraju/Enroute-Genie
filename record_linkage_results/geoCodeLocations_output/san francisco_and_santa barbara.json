@@ -1,0 +1,3402 @@
+{
+    "santa barbara": {
+        "type": "city",
+        "osm_id": "33113642",
+        "class": "place",
+        "importance": 0.84553400574646,
+        "lat": "34.4221319",
+        "lon": "-119.7026672",
+        "boundingbox": [
+            "34.336029",
+            "34.463922",
+            "-119.8597817",
+            "-119.6399339"
+        ],
+        "display_name": "Santa Barbara, Santa Barbara County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "71537873",
+        "osm_type": "way"
+    },
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "santa barbara",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "santa barbara",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "morro bay estuary": {
+            "latitude": "35.34429655",
+            "closest_to": "santa barbara",
+            "address": "Morro Estuary Natural Preserve, Morro Bay State Park Road, Morro Bay, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.832195691858"
+        },
+        "downtown santa ana": {
+            "latitude": "33.7489063",
+            "closest_to": "santa barbara",
+            "address": "Downtown Santa Ana Historic District, North Sycamore Street, Santa Ana, Orange County, California, 92701, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.8686671"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "santa barbara",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "santa barbara",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "gilroy": {
+            "latitude": "37.0065078",
+            "closest_to": "santa barbara",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.5631722"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "santa barbara",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "culver city": {
+            "latitude": "34.0211224",
+            "closest_to": "santa barbara",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-118.3964664"
+        },
+        "northridge": {
+            "latitude": "34.2285918",
+            "closest_to": "santa barbara",
+            "address": "Northridge, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.5369315"
+        },
+        "moonstone drive": {
+            "latitude": "34.078796",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Drive, Rose Hill, Highland Park, LA, Los Angeles County, California, 90032, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-118.1949773"
+        },
+        "refugio": {
+            "latitude": "32.4605396",
+            "closest_to": "santa barbara",
+            "address": "El Refugi\u00f3, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-116.8326111"
+        },
+        "ojai valley museum": {
+            "latitude": "34.4478991",
+            "closest_to": "santa barbara",
+            "address": "Ojai Valley Historical Museum, 130, West Ojai Avenue, Ojai, Ventura County, California, 93023, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2477623"
+        },
+        "san luis obispo museum of art": {
+            "latitude": "35.2795773",
+            "closest_to": "santa barbara",
+            "address": "San Luis Obispo Museum of Art, 1010, Broad Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.6649345"
+        },
+        "gaviota": {
+            "latitude": "34.4716558",
+            "closest_to": "santa barbara",
+            "address": "Gaviota, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.2148715"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "santa barbara",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "spring street": {
+            "latitude": "32.7568512",
+            "closest_to": "santa barbara",
+            "address": "Spring Street, Date Avenue, La Mesa, San Diego County, California, 91941, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-117.0174587"
+        },
+        "bixby bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "santa barbara",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "inyo": {
+            "latitude": "36.5595325",
+            "closest_to": "santa barbara",
+            "address": "Inyo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.4074711"
+        },
+        "downtown long beach": {
+            "latitude": "33.7680387",
+            "closest_to": "santa barbara",
+            "address": "Downtown Long Beach, East 1st Street, Willowville, Long Beach, Los Angeles County, California, 90802, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.1929585"
+        },
+        "mcandrew rd.": {
+            "latitude": "34.455468",
+            "closest_to": "santa barbara",
+            "address": "McAndrew Road, Ventura County, California, 93023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.1841549"
+        },
+        "greater san diego": {
+            "latitude": "32.7078296",
+            "closest_to": "santa barbara",
+            "address": "New Greater Harvester Church, L Street, North Park, San Diego, San Diego County, California, 92102, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.1305872"
+        },
+        "d.c.": {
+            "latitude": "36.82841715",
+            "closest_to": "santa barbara",
+            "address": "CL, Clovis, Fresno County, California, 93612, United States of America",
+            "locType": "basin",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.728121480654"
+        },
+        "u.s. bank tower": {
+            "latitude": "34.0510825",
+            "closest_to": "santa barbara",
+            "address": "U.S. Bank Tower, 633, Bunker Hill Steps, Financial District, Bunker Hill, LA, Los Angeles County, California, 90071, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.254431560393"
+        },
+        "greater sacramento": {
+            "latitude": "38.5254624",
+            "closest_to": "san francisco",
+            "address": "Greater Faith Baptist Church, 63rd Street, Sacramento, Sacramento County, California, 95820, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-121.4307866"
+        },
+        "mission beach": {
+            "latitude": "32.7827144",
+            "closest_to": "santa barbara",
+            "address": "Mission Beach, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2525056"
+        },
+        "imperial valley": {
+            "latitude": "33.0305487",
+            "closest_to": "santa barbara",
+            "address": "Imperial County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-115.3595665"
+        },
+        "mcway falls trail": {
+            "latitude": "36.1578211",
+            "closest_to": "santa barbara",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "la quinta": {
+            "latitude": "33.677474",
+            "closest_to": "santa barbara",
+            "address": "La Quinta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-116.2958788"
+        },
+        "montecito": {
+            "latitude": "34.4364435",
+            "closest_to": "santa barbara",
+            "address": "Montecito, East Valley Lane, Montecito, Santa Barbara County, California, 93108, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.622205630583"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa barbara",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "moonstone beach dr.": {
+            "latitude": "35.581633",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Beach Drive, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.1189249"
+        },
+        "northern san diego": {
+            "latitude": "32.7349196",
+            "closest_to": "santa barbara",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "colorado": {
+            "latitude": "33.71351445",
+            "closest_to": "santa barbara",
+            "address": "Colorado, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.791165718199"
+        },
+        "downtown burbank": {
+            "latitude": "34.1789188",
+            "closest_to": "santa barbara",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.312628"
+        },
+        "' soda lake": {
+            "latitude": "35.23913735",
+            "closest_to": "santa barbara",
+            "address": "Soda Lake, Soda Lake Road, San Luis Obispo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.895515964214"
+        },
+        "bay area discovery museum": {
+            "latitude": "37.8357085",
+            "closest_to": "san francisco",
+            "address": "Bay Area Discovery Museum, East Road, Belvedere Island, Marin County, California, 94965, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.4770556"
+        },
+        "moonstone beach": {
+            "latitude": "35.573855",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.1128747"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "santa barbara",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "king city": {
+            "latitude": "36.2127439",
+            "closest_to": "santa barbara",
+            "address": "King City, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.1260286"
+        },
+        "arlington theatre": {
+            "latitude": "34.4242119",
+            "closest_to": "santa barbara",
+            "address": "Arlington Theatre, 1317, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.70696995537"
+        },
+        "ocean beach": {
+            "latitude": "32.7477784",
+            "closest_to": "santa barbara",
+            "address": "Ocean Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-117.249321"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "santa barbara",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "ty warner sea center": {
+            "latitude": "34.4104258",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Museum of Natural History Sea Center, 211, Stearns Wharf, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.685686"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa barbara",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "coachella valley": {
+            "latitude": "33.6795519",
+            "closest_to": "santa barbara",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-116.1763379"
+        },
+        "ano nuevo state park": {
+            "latitude": "37.1642859",
+            "closest_to": "santa barbara",
+            "address": "A\u00f1o Nuevo State Park, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.328030779329"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "santa barbara",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://centralcoast.com/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://www.chowhound.com/post/road-trip-san-francisco-santa-barbra-753517",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "gardens": {
+            "latitude": "33.6280068",
+            "closest_to": "santa barbara",
+            "address": "Garden, Menifee, Riverside County, California, 92530, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-117.293612"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "santa barbara",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "ojai ave.": {
+            "latitude": "33.303775",
+            "closest_to": "santa barbara",
+            "address": "Ojai Avenue, Salton City, Imperial County, California, 92275, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-115.9760889"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "santa barbara",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.312628"
+        },
+        "la/santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "greater los angeles": {
+            "latitude": "33.9864031",
+            "closest_to": "santa barbara",
+            "address": "Greater Cornerstone Baptist Church, Figueroa Street, Wildasin, Florence, LA, Los Angeles County, California, 90044, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.2822963"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "closest_to": "santa barbara",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.chowhound.com/post/road-trip-san-francisco-santa-barbra-753517"
+            ],
+            "longitude": "-121.9980641"
+        },
+        "santa barbara county courthouse": {
+            "latitude": "34.4243592",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara County Courthouse, Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "courthouse",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.702541023445"
+        },
+        "nine west": {
+            "latitude": "32.8710824",
+            "closest_to": "santa barbara",
+            "address": "Nine West, La Jolla Village Drive, La Jolla Colony, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "shoes",
+            "blogLinks": [
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-117.211101"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "san francisco",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "closest_to": "santa barbara",
+            "address": "Pacific Grove, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.9155905"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "santa barbara",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://centralcoast.com/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "santa barbara",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "alisal rd": {
+            "latitude": "34.436318",
+            "closest_to": "santa barbara",
+            "address": "Alisal Road, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.6796549"
+        },
+        "museum of monterey": {
+            "latitude": "36.60236325",
+            "closest_to": "santa barbara",
+            "address": "Museum of Monterey, 5, Custom House Plaza, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.893119912384"
+        },
+        "moonstone landing": {
+            "latitude": "35.57328515",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Landing, 6240, Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.112222323451"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "san francisco",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "bubblegum alley": {
+            "latitude": "35.2791663",
+            "closest_to": "santa barbara",
+            "address": "Bubblegum Alley, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6638629"
+        },
+        "state st.": {
+            "latitude": "34.1572853",
+            "closest_to": "santa barbara",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "santa barbara",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "rio theatre": {
+            "latitude": "36.9801486",
+            "closest_to": "santa barbara",
+            "address": "Rio Theatre, Soquel Avenue, Soquel Avenue Commercial Corridor, Eastside, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0104295"
+        },
+        "capitola": {
+            "latitude": "36.9762927",
+            "closest_to": "santa barbara",
+            "address": "Capitola, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.9540576"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "santa barbara",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "southwest": {
+            "latitude": "40.4370184",
+            "closest_to": "san francisco",
+            "address": "Southwest, Lassen Peak Highway, Tehama County, California, United States of America",
+            "locType": "camp_site",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-121.5324607"
+        },
+        "pebble beach golf course": {
+            "latitude": "36.56413635",
+            "closest_to": "santa barbara",
+            "address": "Pebble Beach Golf Course, Live Oak Meadow Road, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "golf_course",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-121.937790801787"
+        },
+        "pfeiffer big sur state park": {
+            "latitude": "36.25330545",
+            "closest_to": "santa barbara",
+            "address": "Pfeiffer Big Sur State Park, Valley View Trail, Big Sur, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.783295208903"
+        },
+        "santa ynez": {
+            "latitude": "34.608637",
+            "closest_to": "santa barbara",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "santa barbara",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-118.248367"
+        },
+        "montana de oro state park": {
+            "latitude": "35.2714109",
+            "closest_to": "santa barbara",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.8888312"
+        },
+        "del mar heights": {
+            "latitude": "32.9483783",
+            "closest_to": "santa barbara",
+            "address": "Del Mar Heights, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.26087"
+        },
+        "france": {
+            "latitude": "34.2013715",
+            "closest_to": "santa barbara",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-118.5935353"
+        },
+        "lobero theatre": {
+            "latitude": "34.4216681",
+            "closest_to": "santa barbara",
+            "address": "Lobero Theatre, Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.700020768116"
+        },
+        "pacific avenue": {
+            "latitude": "34.1571445",
+            "closest_to": "santa barbara",
+            "address": "Pacific Avenue, Glendale, Los Angeles County, California, 91203, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2641839"
+        },
+        "san miguel": {
+            "latitude": "35.7524679",
+            "closest_to": "santa barbara",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.6962825"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://centralcoast.com/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://www.chowhound.com/post/road-trip-san-francisco-santa-barbra-753517",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "asilomar beach": {
+            "latitude": "36.6241141",
+            "closest_to": "santa barbara",
+            "address": "Asilomar State Beach, Sunset Drive, Pacific Grove, Monterey County, California, 93950, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.940055839932"
+        },
+        "tijuana": {
+            "latitude": "32.5008626",
+            "closest_to": "santa barbara",
+            "address": "Tijuana, Baja California, M\u00e9xico",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-116.9641656"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "santa barbara",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "wayfarer": {
+            "latitude": "38.7794269",
+            "closest_to": "san francisco",
+            "address": "Wayfarer, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.378052951455"
+        },
+        "epernay": {
+            "latitude": "37.3763857",
+            "closest_to": "santa barbara",
+            "address": "Epernay Court, Alum Rock, San Jos\u00e9, Santa Clara County, California, 95127, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-121.8271349"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "big sur bakery": {
+            "latitude": "36.2359105",
+            "closest_to": "santa barbara",
+            "address": "Big Sur Bakery, 47540, Cabrillo Highway, Posts, Monterey County, California, 93920, United States of America",
+            "locType": "bakery",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.7693642"
+        },
+        "south coast": {
+            "latitude": "37.858337",
+            "closest_to": "santa barbara",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-122.2447393"
+        },
+        "covelo": {
+            "latitude": "39.8024155",
+            "closest_to": "san francisco",
+            "address": "Covelo, Covelo Road, Mendocino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-123.247792430104"
+        },
+        "w. matilija st.": {
+            "latitude": "34.448489",
+            "closest_to": "santa barbara",
+            "address": "West Matilija Street, Ojai, Ventura County, California, 93023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2494669"
+        },
+        "ojai": {
+            "latitude": "34.4480495",
+            "closest_to": "santa barbara",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "victor valley": {
+            "latitude": "40.937053",
+            "closest_to": "san francisco",
+            "address": "Victor Creek, Humboldt County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-123.6300007"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "santa barbara",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://centralcoast.com/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "university city": {
+            "latitude": "32.8547865",
+            "closest_to": "santa barbara",
+            "address": "University City, San Diego, San Diego County, California, 92122, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.2040304"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "santa barbara",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://centralcoast.com/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "pfeiffer beach": {
+            "latitude": "36.23934855",
+            "closest_to": "santa barbara",
+            "address": "Pfeiffer Beach, Sycamore Canyon Road, Big Sur, Monterey County, California, 93920, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.81778571416"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "santa barbara",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "cabrillo boulevard": {
+            "latitude": "34.0121457",
+            "closest_to": "santa barbara",
+            "address": "Cabrillo Boulevard, Mar Vista, LA, Los Angeles County, California, 90066, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.4470019"
+        },
+        "point sur state historic park": {
+            "latitude": "36.315378",
+            "closest_to": "santa barbara",
+            "address": "Point Sur State Historic Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.881955510784"
+        },
+        "marina del rey": {
+            "latitude": "33.9774017",
+            "closest_to": "santa barbara",
+            "address": "Marina del Rey, Ocean Park, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4508017"
+        },
+        "monterey st.": {
+            "latitude": "34.097787",
+            "closest_to": "santa barbara",
+            "address": "Monterey Street, Mount Washington, Highland Park, LA, Los Angeles County, California, 90065, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-118.2146689"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "san francisco",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "avila beach": {
+            "latitude": "35.1799752",
+            "closest_to": "santa barbara",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.7318417"
+        },
+        "griffith park observatory": {
+            "latitude": "34.1193312",
+            "closest_to": "santa barbara",
+            "address": "Griffith Park Observatory, West Observatory Road, Little Armenia, LA, Los Angeles County, California, 90027, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.300357"
+        },
+        "oxnard-thousand oaks-ventura": {
+            "latitude": "34.1630374",
+            "closest_to": "santa barbara",
+            "address": "California State University - Channel Islands, Camarillo Street, Ventura County, California, 93011, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.042645"
+        },
+        "madonna rd.": {
+            "latitude": "35.2681037",
+            "closest_to": "santa barbara",
+            "address": "Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-120.6707001"
+        },
+        "chorro": {
+            "latitude": "35.33378765",
+            "closest_to": "santa barbara",
+            "address": "Chorro Creek Ranch, Ticino Place, San Luis Obispo County, California, 93403, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.759882617704"
+        },
+        "california science center": {
+            "latitude": "34.0159757",
+            "closest_to": "santa barbara",
+            "address": "California Science Center, 700, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.286286870567"
+        },
+        "cowells beach": {
+            "latitude": "36.9605191",
+            "closest_to": "santa barbara",
+            "address": "Cowell's Beach Surfing, West Cliff Multipurpose Cycleway, Westside, Santa Cruz, Santa Cruz County, California, 95061, United States of America",
+            "locType": "playground",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-122.0240331"
+        },
+        "cypress point": {
+            "latitude": "33.5170137",
+            "closest_to": "santa barbara",
+            "address": "Cypress Point, Temecula, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.10695135087"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "santa barbara",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "andrew molera state park": {
+            "latitude": "36.27956995",
+            "closest_to": "santa barbara",
+            "address": "Andrew Molera State Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.83084118989"
+        },
+        "chumash painted cave state historic park": {
+            "latitude": "34.50362265",
+            "closest_to": "santa barbara",
+            "address": "Chumash Painted Cave State Historic Park, Painted Cave Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.787899178607"
+        },
+        "west irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "santa barbara",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://centralcoast.com/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "santa barbara",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "san luis creek lodge": {
+            "latitude": "35.2895023",
+            "closest_to": "santa barbara",
+            "address": "San Luis Creek Lodge, Monterey Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-120.6501671"
+        },
+        "san fran": {
+            "latitude": "35.142465",
+            "closest_to": "santa barbara",
+            "address": "Golden Hills, Kern County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-118.4903642"
+        },
+        "mission santa barbara": {
+            "latitude": "34.4383725",
+            "closest_to": "santa barbara",
+            "address": "Mission Santa Barbara, 2201, Laguna Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-119.713226705403"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "ynez valley drive": {
+            "latitude": "34.5947091",
+            "closest_to": "santa barbara",
+            "address": "Mission Santa Ynez, 1760, Mission Drive, Solvang, Santa Barbara County, California, 93464, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.1365368"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "santa barbara",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "painted cave rd": {
+            "latitude": "34.500963",
+            "closest_to": "santa barbara",
+            "address": "Painted Cave Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7902159"
+        },
+        "channel islands national park": {
+            "latitude": "34.248597",
+            "closest_to": "santa barbara",
+            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.266377755078"
+        },
+        "morro rock": {
+            "latitude": "35.369669",
+            "closest_to": "santa barbara",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "santa barbara",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "west beach": {
+            "latitude": "34.4114406",
+            "closest_to": "santa barbara",
+            "address": "West Beach, Stearns Wharf, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-119.688942969453"
+        },
+        "oxnard": {
+            "latitude": "34.1976308",
+            "closest_to": "santa barbara",
+            "address": "Oxnard, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-119.1803817"
+        },
+        "el presidio de santa barbara state historic park": {
+            "latitude": "34.42239985",
+            "closest_to": "santa barbara",
+            "address": "El Presidio de Santa Barbara State Historic Park, Santa Barbara Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.697414911438"
+        },
+        "big basin redwoods": {
+            "latitude": "37.1550317",
+            "closest_to": "santa barbara",
+            "address": "Big Basin Redwoods State Park, Last Chance Trail, Big Basin, Santa Cruz County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-122.239816619658"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "santa barbara",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "lombard": {
+            "latitude": "38.1907508",
+            "closest_to": "san francisco",
+            "address": "Lombard, Napa County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.2560822"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "santa barbara",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "santa barbara",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://centralcoast.com/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "exposition park": {
+            "latitude": "34.01496305",
+            "closest_to": "santa barbara",
+            "address": "Exposition Park, Exposition Park Drive, Jefferson, LA, Los Angeles County, California, 90037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.287178776841"
+        },
+        "chase palm park": {
+            "latitude": "34.41527625",
+            "closest_to": "santa barbara",
+            "address": "Chase Palm Park, East Cabrillo Boulevard, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-119.679267670006"
+        },
+        "marina": {
+            "latitude": "36.6900785",
+            "closest_to": "santa barbara",
+            "address": "Marina, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-121.800639730262"
+        },
+        "egypt": {
+            "latitude": "37.2547835",
+            "closest_to": "santa barbara",
+            "address": "Egypt Creek, Inyo County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.544859"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "santa barbara",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "santa barbara",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "sunset boulevard": {
+            "latitude": "34.0759222",
+            "closest_to": "santa barbara",
+            "address": "Sunset Boulevard, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90026, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.2554183"
+        },
+        "los osos": {
+            "latitude": "35.3107214",
+            "closest_to": "santa barbara",
+            "address": "Los Osos, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.8323486"
+        },
+        "big sur village": {
+            "latitude": "36.270241",
+            "closest_to": "santa barbara",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "santa barbara",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "pomona": {
+            "latitude": "34.0553813",
+            "closest_to": "santa barbara",
+            "address": "Pomona, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.7517495"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "santa barbara",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "santa barbara botanic garden": {
+            "latitude": "34.456953",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Botanic Gardens, Mission Canyon Road, Mission Canyon, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.709585108231"
+        },
+        "central coast of california": {
+            "latitude": "35.3611193",
+            "closest_to": "santa barbara",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "abbot kinney boulevard": {
+            "latitude": "33.9915304",
+            "closest_to": "santa barbara",
+            "address": "Abbot Kinney Boulevard, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4694806"
+        },
+        "carmel valley": {
+            "latitude": "36.4796839",
+            "closest_to": "santa barbara",
+            "address": "Carmel Valley, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.7324475"
+        },
+        "omni san diego hotel": {
+            "latitude": "32.70681915",
+            "closest_to": "santa barbara",
+            "address": "Omni San Diego Hotel, 675, L Street, Hillcrest, San Diego, San Diego County, California, 92101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-117.158593973277"
+        },
+        "shamel park": {
+            "latitude": "33.9455711",
+            "closest_to": "santa barbara",
+            "address": "Shamel Park, Arlington Avenue, Riverside, Riverside County, California, 92505:92506, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.3939339"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "golden state": {
+            "latitude": "39.6712719",
+            "closest_to": "san francisco",
+            "address": "Golden State Island, Butte County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-121.9619226"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "santa barbara",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "arizona": {
+            "latitude": "34.4631398",
+            "closest_to": "santa barbara",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.5060679"
+        },
+        "newport center": {
+            "latitude": "33.6161794",
+            "closest_to": "santa barbara",
+            "address": "Newport Center, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.8753277"
+        },
+        "downtown santa monica": {
+            "latitude": "34.014054",
+            "closest_to": "santa barbara",
+            "address": "Downtown Santa Monica, Colorado Avenue, Santa Monica, Los Angeles County, California, 90404, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.491349"
+        },
+        "lake casitas": {
+            "latitude": "34.39272655",
+            "closest_to": "santa barbara",
+            "address": "Lake Casitas, Haley Ranch Road, Live Oak Acres, Ventura County, California, 93022, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.333147221653"
+        },
+        "los alamos": {
+            "latitude": "34.7379311",
+            "closest_to": "santa barbara",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-120.26591036241"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "santa barbara",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "santa barbara",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "santa barbara",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "mission san luis obispo de tolosa": {
+            "latitude": "35.2807422",
+            "closest_to": "santa barbara",
+            "address": "Mission San Luis Obispo de Tolosa, 782, Chorro Street, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.664098712263"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "san francisco",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "disneyland": {
+            "latitude": "33.8136367",
+            "closest_to": "santa barbara",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://gocalifornia.about.com/",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-117.91971186569"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "santa barbara",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "wilder ranch state park": {
+            "latitude": "36.96021805",
+            "closest_to": "santa barbara",
+            "address": "Wilder Ranch State Park, Coast Road, Westside, Santa Cruz County, California, 95060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.079566815934"
+        },
+        "dominguez hills": {
+            "latitude": "33.86273425",
+            "closest_to": "santa barbara",
+            "address": "California State University - Dominguez Hills, Pacific View Drive, Keystone, Carson, Los Angeles County, California, 90746, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.254398016151"
+        },
+        "s. california st.": {
+            "latitude": "34.1522814",
+            "closest_to": "santa barbara",
+            "address": "South California Street, Burbank, Los Angeles County, California, 91505, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.335457"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "santa barbara",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "paso": {
+            "latitude": "36.8487922",
+            "closest_to": "santa barbara",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "nojoqui falls county park": {
+            "latitude": "34.531948",
+            "closest_to": "santa barbara",
+            "address": "Nojoqui Falls County Park, Alisal Road, Santa Barbara County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.17655934819"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "san francisco",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://www.chowhound.com/post/road-trip-san-francisco-santa-barbra-753517",
+                "http://gocalifornia.about.com/",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-120.507146"
+        },
+        "old mission santa": {
+            "latitude": "37.34922335",
+            "closest_to": "santa barbara",
+            "address": "Mission Santa Clara de Asis, Alviso Mall, Santa Clara, Santa Clara County, California, 95050, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-121.941601377452"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "santa barbara",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "san marcos": {
+            "latitude": "33.1433723",
+            "closest_to": "santa barbara",
+            "address": "San Marcos, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.1661448"
+        },
+        "pt sur lighthouse": {
+            "latitude": "36.3063497",
+            "closest_to": "santa barbara",
+            "address": "Point Sur Lighthouse, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "lighthouse",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.901627042301"
+        },
+        "mcway falls": {
+            "latitude": "36.1578211",
+            "closest_to": "santa barbara",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "colorado desert": {
+            "latitude": "33.7344259",
+            "closest_to": "santa barbara",
+            "address": "Colorado Street, Palm Desert, Riverside County, California, 92210, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-116.3211557"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "santa barbara",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.92944"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "santa barbara",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "islay hill": {
+            "latitude": "35.2455305",
+            "closest_to": "santa barbara",
+            "address": "Islay Hill, San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-120.622392"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "santa barbara",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "santa barbara",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "carpinteria": {
+            "latitude": "34.3988838",
+            "closest_to": "santa barbara",
+            "address": "Carpinteria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-119.5184563"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "santa barbara",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "santa barbara",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "hearst castle": {
+            "latitude": "35.6853689",
+            "closest_to": "santa barbara",
+            "address": "Hearst Castle, 750, Hearst Castle Road, San Simeon, San Luis Obispo County, California, 93452, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.167587299509"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "santa barbara",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "santa barbara",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "santa barbara",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "downtown san bernardino": {
+            "latitude": "34.110567",
+            "closest_to": "santa barbara",
+            "address": "Downtown Apostolic Church, North Crescent Avenue, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.3000433"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "santa barbara",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "bakersfield-kern county": {
+            "latitude": "35.3738712",
+            "closest_to": "santa barbara",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "closest_to": "santa barbara",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "black hill": {
+            "latitude": "34.1788953",
+            "closest_to": "santa barbara",
+            "address": "Black Hill, San Bernardino County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-116.49196"
+        },
+        "century city": {
+            "latitude": "34.0555654",
+            "closest_to": "santa barbara",
+            "address": "Century City, Westwood, LA, Los Angeles County, California, 90067, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.4178564"
+        },
+        "china town": {
+            "latitude": "37.7963119",
+            "closest_to": "san francisco",
+            "address": "China Town, Duncombe Alley, Chinatown, SF, California, 94133, United States of America",
+            "locType": "marketplace",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-122.407568"
+        },
+        "hawaii": {
+            "latitude": "36.8347819",
+            "closest_to": "santa barbara",
+            "address": "Hawaii, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.7966952"
+        },
+        "point lobos state park": {
+            "latitude": "38.77817125",
+            "closest_to": "san francisco",
+            "address": "Point Lobos State Park, Woodgate Way, Laureate, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.371560849992"
+        },
+        "mission valley": {
+            "latitude": "32.7768074",
+            "closest_to": "santa barbara",
+            "address": "Mission Valley, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.1520977"
+        },
+        "downtown glendale": {
+            "latitude": "34.1789188",
+            "closest_to": "santa barbara",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.312628"
+        },
+        "antelope valley": {
+            "latitude": "34.67743",
+            "closest_to": "santa barbara",
+            "address": "Antelope Valley College, West Avenue K, Lancaster, Los Angeles County, California, 93536, United States of America",
+            "locType": "college",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.1865629"
+        },
+        "sagunto st.": {
+            "latitude": "34.612873",
+            "closest_to": "santa barbara",
+            "address": "Sagunto Street, Santa Ynez, Santa Barbara County, California, 93460, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.0880269"
+        },
+        "coronado island": {
+            "latitude": "32.4172137",
+            "closest_to": "santa barbara",
+            "address": "Isla Coronado Centro, Tijuana, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-117.260743289496"
+        },
+        "volcom": {
+            "latitude": "37.6986371",
+            "closest_to": "santa barbara",
+            "address": "Volcom, Livermore Outlets Drive, Livermore, Alameda County, California, 94566, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-121.843922549725"
+        },
+        "santa barbara.road": {
+            "latitude": "37.8972977",
+            "closest_to": "san francisco",
+            "address": "Santa Barbara Road, Cragmont, Berkeley, Alameda County, California, 94707, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.2709114"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "santa barbara",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "mojave desert": {
+            "latitude": "35.1456319",
+            "closest_to": "santa barbara",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "lone cypress": {
+            "latitude": "36.5687376",
+            "closest_to": "santa barbara",
+            "address": "The Lone Cypress, 17 Mile Drive, Del Monte Forest, Monterey County, California, 93953, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.9652341"
+        },
+        "morro st.": {
+            "latitude": "35.277999",
+            "closest_to": "santa barbara",
+            "address": "Morro Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-120.6593818"
+        },
+        "oahu": {
+            "latitude": "35.406676",
+            "closest_to": "santa barbara",
+            "address": "Oahu Lane, Bakersfield, Kern County, California, 93312, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.1437149"
+        },
+        "santa barbara museum of art": {
+            "latitude": "34.4233305",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Museum of Art, 1130, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7040239"
+        },
+        "states": {
+            "latitude": "36.7014631",
+            "closest_to": "santa barbara",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "riverside-san bernardino": {
+            "latitude": "34.908786",
+            "closest_to": "santa barbara",
+            "address": "Riverside Road, Harvard, San Bernardino County, California, 92365, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-116.6537219"
+        },
+        "riverside-san bernardino-ontario": {
+            "latitude": "34.0189293",
+            "closest_to": "santa barbara",
+            "address": "East Riverside Drive, Ontario, San Bernardino County, California, 91761, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.562719"
+        },
+        "santa lucia mountain": {
+            "latitude": "34.4379129",
+            "closest_to": "santa barbara",
+            "address": "Santa Lucia, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-119.8003246"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "santa barbara",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "santa barbara",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "tulare county": {
+            "latitude": "36.2516475",
+            "closest_to": "santa barbara",
+            "address": "Tulare County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.8525829"
+        },
+        "downtown ventura": {
+            "latitude": "34.15184445",
+            "closest_to": "santa barbara",
+            "address": "Downtown Johnny's, 14649, Ventura Boulevard, Sherman Oaks, LA, Los Angeles County, California, 91403, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.452523182928"
+        },
+        "point sur lighthouse": {
+            "latitude": "36.3063497",
+            "closest_to": "santa barbara",
+            "address": "Point Sur Lighthouse, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "lighthouse",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.901627042301"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "nevada": {
+            "latitude": "39.3540335",
+            "closest_to": "san francisco",
+            "address": "Nevada County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-120.8089842"
+        },
+        "westwood": {
+            "latitude": "40.3024675",
+            "closest_to": "san francisco",
+            "address": "Westwood, 3rd Street, Westwood, Lassen County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-121.010399151458"
+        },
+        "pacific beach": {
+            "latitude": "32.7978268",
+            "closest_to": "santa barbara",
+            "address": "Pacific Beach, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2403182"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san francisco",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.396892"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "santa barbara",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "oregon": {
+            "latitude": "33.7123207",
+            "closest_to": "santa barbara",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.7911567"
+        },
+        "coronado bridge": {
+            "latitude": "32.6904606",
+            "closest_to": "santa barbara",
+            "address": "San Diego-Coronado Bridge, San Diego, San Diego County, California, 92118, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.1524863"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "santa barbara",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "northern california": {
+            "latitude": "32.7349196",
+            "closest_to": "santa barbara",
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-117.1545973"
+        },
+        "mission canyon": {
+            "latitude": "34.452343",
+            "closest_to": "santa barbara",
+            "address": "Mission Canyon, Tunnel Road, Mission Canyon, Santa Barbara County, California, 93105, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.709998836048"
+        },
+        "getty center": {
+            "latitude": "34.07757975",
+            "closest_to": "santa barbara",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "santa barbara",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "downtown san diego": {
+            "latitude": "33.1253528",
+            "closest_to": "santa barbara",
+            "address": "Palomar Health Downtown Campus, East Grand Avenue, Escondido, San Diego County, California, 92027, United States of America",
+            "locType": "hospital",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.075213351358"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "santa barbara",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "big sur river": {
+            "latitude": "36.2847874",
+            "closest_to": "santa barbara",
+            "address": "Big Sur River, Monterey County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.8527735"
+        },
+        "pismo beach beach": {
+            "latitude": "35.11755065",
+            "closest_to": "santa barbara",
+            "address": "Pismo Beach, West Grand Avenue, Grover Beach, San Luis Obispo County, California, 93433, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-120.63389169711"
+        },
+        "monterey county": {
+            "latitude": "36.2231079",
+            "closest_to": "santa barbara",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.3877427"
+        },
+        "japan": {
+            "latitude": "34.0833889",
+            "closest_to": "santa barbara",
+            "address": "Japan LA, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-118.3494693"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "santa barbara",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "long beach museum of art": {
+            "latitude": "33.76347985",
+            "closest_to": "santa barbara",
+            "address": "Long Beach Museum of Art, East Ocean Boulevard, Belmont Shore, Long Beach, Los Angeles County, California, 90814, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-118.164781543159"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "santa barbara",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "santa ynez valley": {
+            "latitude": "34.608637",
+            "closest_to": "santa barbara",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "channel islands": {
+            "latitude": "34.1848815",
+            "closest_to": "santa barbara",
+            "address": "Channel Islands, Evolution Walk, Warner Center, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-118.5759409"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "san francisco",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.418809"
+        },
+        "rodeo drive": {
+            "latitude": "32.824444",
+            "closest_to": "santa barbara",
+            "address": "Rodeo Drive, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2609329"
+        },
+        "big sur valley": {
+            "latitude": "36.270241",
+            "closest_to": "santa barbara",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "julia pfeiffer burns state park": {
+            "latitude": "36.16998345",
+            "closest_to": "santa barbara",
+            "address": "Julia Pfeiffer Burns State Park, Ewoldsen trail, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.665388254615"
+        },
+        "orange": {
+            "latitude": "33.7500378",
+            "closest_to": "santa barbara",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.870493"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "santa barbara",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "madonna inn": {
+            "latitude": "35.2673282",
+            "closest_to": "santa barbara",
+            "address": "Madonna Inn, 100, Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-120.674725246222"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "santa barbara",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "anacapa st.": {
+            "latitude": "34.4234906",
+            "closest_to": "santa barbara",
+            "address": "Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7020361"
+        },
+        "bixby creek bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "santa barbara",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "italian riviera": {
+            "latitude": "34.0179803",
+            "closest_to": "santa barbara",
+            "address": "Bay Cities Italian Deli, 1517, Lincoln Boulevard, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "locType": "deli",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.4891865"
+        },
+        "el centro": {
+            "latitude": "32.792",
+            "closest_to": "santa barbara",
+            "address": "El Centro, Imperial County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-115.5630513"
+        },
+        "sorrento mesa": {
+            "latitude": "32.90633595",
+            "closest_to": "santa barbara",
+            "address": "Plaza Sorrento Shopping Center, Mira Mesa, San Diego, San Diego County, California, 92121, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.172617827108"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "santa barbara",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "santa barbara",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "kansas city": {
+            "latitude": "37.7854258",
+            "closest_to": "santa barbara",
+            "address": "Kansas City, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-122.2891519"
+        },
+        "mecca": {
+            "latitude": "33.5701568",
+            "closest_to": "santa barbara",
+            "address": "Mecca, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-116.0745416"
+        },
+        "hwy 101": {
+            "latitude": "32.9967358",
+            "closest_to": "santa barbara",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "los angeles international airport": {
+            "latitude": "33.94211345",
+            "closest_to": "santa barbara",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.407057290249"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "santa barbara",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "surf city": {
+            "latitude": "37.8588436",
+            "closest_to": "santa barbara",
+            "address": "Surf City, Tuolumne County, California, United States of America",
+            "locType": "rapids",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-120.6349548"
+        },
+        "arroyo grande valley": {
+            "latitude": "35.1185869",
+            "closest_to": "santa barbara",
+            "address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-120.5907251"
+        },
+        "san andreas fault": {
+            "latitude": "37.3266078",
+            "closest_to": "santa barbara",
+            "address": "San Andreas Fault, Franciscan Loop Trail, Los Trancos Woods, San Mateo County, California, United States of America",
+            "locType": "fault",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-122.1794844"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "santa barbara",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "san-francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "santa barbara",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "watsonville": {
+            "latitude": "36.9092773",
+            "closest_to": "santa barbara",
+            "address": "Watsonville, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.752907"
+        },
+        "kern": {
+            "latitude": "35.3145701",
+            "closest_to": "santa barbara",
+            "address": "Kern County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-118.7538221"
+        },
+        "cape horn": {
+            "latitude": "39.1354565",
+            "closest_to": "san francisco",
+            "address": "Cape Horn, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-123.6352912"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "santa barbara",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "ventura beach": {
+            "latitude": "32.772073",
+            "closest_to": "santa barbara",
+            "address": "Ventura Place, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.2514716"
+        },
+        "murrieta": {
+            "latitude": "33.560832",
+            "closest_to": "santa barbara",
+            "address": "Murrieta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.2106563"
+        },
+        "hawthorne st.": {
+            "latitude": "38.607856",
+            "closest_to": "san francisco",
+            "address": "Hawthorne Street, Sacramento, Sacramento County, California, 95815, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.4581839"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "santa barbara",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "http://www.minitime.com/trip-tips/Iconic-California-Coastal-Road-Trip-from-LA-to-San-Francisco-article"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "101": {
+            "latitude": "37.772385",
+            "closest_to": "santa barbara",
+            "address": "Gough & Market (City College), Gough Street, Western Addition, SF, California, 94114, United States of America",
+            "locType": "car_sharing",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-122.4213849"
+        },
+        "nepenthe": {
+            "latitude": "36.2218116",
+            "closest_to": "santa barbara",
+            "address": "Nepenthe, 48510, Cabrillo Highway, Posts, Monterey County, California, 93920-9549, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-121.7596564"
+        },
+        "omni san francisco": {
+            "latitude": "37.7930209",
+            "closest_to": "san francisco",
+            "address": "Omni San Francisco Hotel, 500, California Street, Chinatown, SF, California, 94104, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-122.403039"
+        },
+        "riverside county": {
+            "latitude": "33.7219991",
+            "closest_to": "santa barbara",
+            "address": "Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-116.0372471"
+        },
+        "riviera": {
+            "latitude": "38.568972",
+            "closest_to": "san francisco",
+            "address": "La Riviera, Sparks Way, Mayhew, Sacramento County, California, 95827, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/"
+            ],
+            "longitude": "-121.351801220501"
+        },
+        "alta california": {
+            "latitude": "37.3964868",
+            "closest_to": "santa barbara",
+            "address": "Alta California, 20421, Geer Avenue, Irwin, Merced County, California, 95324, United States of America",
+            "locType": "house",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-120.8579018"
+        },
+        "pebble beach": {
+            "latitude": "36.5664874",
+            "closest_to": "santa barbara",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "ocean avenue": {
+            "latitude": "37.7320759",
+            "closest_to": "santa barbara",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/"
+            ],
+            "longitude": "-122.4736116"
+        },
+        "state beach": {
+            "latitude": "34.03385755",
+            "closest_to": "santa barbara",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "santa barbara",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-117.147366"
+        },
+        "morro bay state park": {
+            "latitude": "35.34276815",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay State Park, South Bay Boulevard, Baywood Park, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.826622345451"
+        },
+        "bay": {
+            "latitude": "33.6899249",
+            "closest_to": "santa barbara",
+            "address": "Bay, Meadows Mobile Home Park, El Camino Real, Irvine, Orange County, California, 92406, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/"
+            ],
+            "longitude": "-117.7729354"
+        },
+        "cambria pines lodge": {
+            "latitude": "35.5584997",
+            "closest_to": "santa barbara",
+            "address": "Cambria Pines Lodge, 2905, Patterson Place, Fiscalini Ranch Preserve, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://centralcoast.com/"
+            ],
+            "longitude": "-121.0804434"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "santa barbara",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "carmel beach": {
+            "latitude": "36.5512525",
+            "closest_to": "santa barbara",
+            "address": "Carmel Beach, Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html"
+            ],
+            "longitude": "-121.929450352027"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "santa barbara",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "morro bay aquarium": {
+            "latitude": "35.36380865",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay Aquarium, 595, Embarcadero, Morro Bay, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.852783986138"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "san francisco",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/grand-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k2032092-San_Francisco_to_Santa_Barbara-San_Francisco_California.html",
+                "http://www.trippy.com/question/California-Where-to-stay-half-way-between-S-F--and-L-A",
+                "https://www.tripadvisor.ca/ShowTopic-g28926-i29-k5984144-Best_place_to_overnight_between_San_Francisco_and_Los_Angele-California.html",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travelswithtwo.com/2013/10/31/paso-robles-california-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4630542-Road_Trip_from_Santa_Barbara_to_San_Francisco-California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "santa barbara",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "chorro street": {
+            "latitude": "35.2781651",
+            "closest_to": "santa barbara",
+            "address": "Chorro Street, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.bloggeratlarge.com/bucket-list-ideas/drive-the-pacific-coast-hwy-from-la-to-san-francisco-2/"
+            ],
+            "longitude": "-120.6613321"
+        },
+        "calif.": {
+            "latitude": "37.786376",
+            "closest_to": "santa barbara",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "downtown bakersfield": {
+            "latitude": "35.38175325",
+            "closest_to": "santa barbara",
+            "address": "KSFCU: Downtown Branch, 2424, Chester Avenue, Bakersfield, Kern County, California, 93301, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Southern_California"
+            ],
+            "longitude": "-119.018392892525"
+        },
+        "pillar point harbor": {
+            "latitude": "37.5006707",
+            "closest_to": "santa barbara",
+            "address": "Pillar Point Harbor, San Mateo County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-122.4823342"
+        },
+        "alamo pintado rd.": {
+            "latitude": "34.62316",
+            "closest_to": "santa barbara",
+            "address": "Alamo Pintado Road, Ballard, Santa Barbara County, California, 93463, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.1181989"
+        }
+    }
+}

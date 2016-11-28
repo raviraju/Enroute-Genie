@@ -1,0 +1,930 @@
+{
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "napa": {
+        "type": "city",
+        "osm_id": "111735",
+        "class": "place",
+        "importance": 0.68412686507501,
+        "lat": "38.2971367",
+        "lon": "-122.2855292",
+        "boundingbox": [
+            "38.221091",
+            "38.350834",
+            "-122.3577209",
+            "-122.2221959"
+        ],
+        "display_name": "Napa, Napa County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158644281",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "san francisco",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archives.sfweekly.com/blogs/foodie/",
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "closest_to": "san francisco",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "https://www.tripadvisor.com/ShowTopic-g580460-i10025-k3830959-Hotel_needed_between_San_Francisco_Napa-Napa_Valley_California.html",
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "http://www.rewards-insiders.marriott.com/thread/14517",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/",
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "napa valley vine trail": {
+            "latitude": "38.4022123",
+            "closest_to": "napa",
+            "address": "Napa Valley Vine Trail, Yountville, Napa County, California, 94599, United States of America",
+            "locType": "cycleway",
+            "blogLinks": [
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.3640246"
+        },
+        "santa rosa": {
+            "latitude": "38.4404675",
+            "closest_to": "napa",
+            "address": "Santa Rosa, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080107112950AAZwtYh"
+            ],
+            "longitude": "-122.7144313"
+        },
+        "st. helena": {
+            "latitude": "38.5052288",
+            "closest_to": "napa",
+            "address": "St. Helena, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.4700423"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "san francisco",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "alcatraz islands": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "san francisco.the": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.mygola.com/things-to-see-in-lake-tahoe-napa-mendocino-and-sonoma/q21336"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "nob hill": {
+            "latitude": "37.7932622",
+            "closest_to": "san francisco",
+            "address": "Nob Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.4152489"
+        },
+        "spofford alley": {
+            "latitude": "37.794549",
+            "closest_to": "san francisco",
+            "address": "Spofford Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.4074007"
+        },
+        "tomales bay": {
+            "latitude": "38.0812158",
+            "closest_to": "san francisco",
+            "address": "Tomales Bay, Bivalve, Marin County, California, 94948, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php"
+            ],
+            "longitude": "-122.8225806"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "san francisco",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "carneros highway": {
+            "latitude": "38.2575826",
+            "closest_to": "san francisco",
+            "address": "Carneros Highway, Napa, Napa County, California, 94559, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "longitude": "-122.3027296"
+        },
+        "fort miley": {
+            "latitude": "37.7819757",
+            "closest_to": "san francisco",
+            "address": "Fort Miley 3, Seacliff, SF, California, 94121-1545, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.5015418"
+        },
+        "meadowood": {
+            "latitude": "37.4081117",
+            "closest_to": "san francisco",
+            "address": "1555, Meadowood, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.rewards-insiders.marriott.com/thread/14517",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.083170197233"
+        },
+        "st. helena highway": {
+            "latitude": "38.3441575",
+            "closest_to": "napa",
+            "address": "Saint Helena Highway, Napa, Napa County, California, 94558, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "longitude": "-122.3268832"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san francisco",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html"
+            ],
+            "longitude": "-122.342234"
+        },
+        "mount st. helena": {
+            "latitude": "38.6691683",
+            "closest_to": "napa",
+            "address": "Mount Saint Helena, Sonoma County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.6333987"
+        },
+        "lake hennessey": {
+            "latitude": "38.49185755",
+            "closest_to": "napa",
+            "address": "Lake Hennessey, Shoreline Trail, Napa County, California, 94573, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.376986862262"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "napa",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "http://www.mygola.com/things-to-see-in-lake-tahoe-napa-mendocino-and-sonoma/q21336"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "napa wine country": {
+            "latitude": "38.3354299",
+            "closest_to": "napa",
+            "address": "BEST WESTERN PREMIER Ivy Hotel Napa, Wine Country Avenue, Napa, Napa County, California, 94558, United States of America",
+            "locType": "motel",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.3232132"
+        },
+        "napa river": {
+            "latitude": "38.5753593",
+            "closest_to": "napa",
+            "address": "Napa River, Calistoga, Napa County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.5730327"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "napa",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "san francisco",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.418809"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "san francisco",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "marriott union square": {
+            "latitude": "37.7894587",
+            "closest_to": "san francisco",
+            "address": "San Francisco Marriott Union Square, 480, Sutter Street, Chinatown, SF, California, 94108, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.408315453558"
+        },
+        "sears point": {
+            "latitude": "38.1510295",
+            "closest_to": "san francisco",
+            "address": "Sears Point, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "longitude": "-122.447755"
+        },
+        "oakville": {
+            "latitude": "38.4368549",
+            "closest_to": "napa",
+            "address": "Oakville, Napa County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "longitude": "-122.4022006"
+        },
+        "redwood road": {
+            "latitude": "37.798958",
+            "closest_to": "san francisco",
+            "address": "Redwood Road, Laurel, Oakland, Alameda County, California, 94613, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "longitude": "-122.1918158"
+        },
+        "yountville": {
+            "latitude": "38.4015781",
+            "closest_to": "napa",
+            "address": "Yountville, Napa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.rewards-insiders.marriott.com/thread/14517",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.3608104"
+        },
+        "marin county": {
+            "latitude": "38.0409144",
+            "closest_to": "san francisco",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.6199637"
+        },
+        "mill valley": {
+            "latitude": "37.9060368",
+            "closest_to": "san francisco",
+            "address": "Mill Valley, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.5449762"
+        },
+        "novato": {
+            "latitude": "38.1061979",
+            "closest_to": "san francisco",
+            "address": "Novato, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g580460-i10025-k3830959-Hotel_needed_between_San_Francisco_Napa-Napa_Valley_California.html"
+            ],
+            "longitude": "-122.568119"
+        },
+        "mission san francisco solano": {
+            "latitude": "38.2938923",
+            "closest_to": "san francisco",
+            "address": "Mission San Francisco Solano, 1st Street East, Sonoma, Sonoma County, California, 95476, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.mygola.com/things-to-see-in-lake-tahoe-napa-mendocino-and-sonoma/q21336"
+            ],
+            "longitude": "-122.456101988867"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "napa",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517",
+                "http://www.mygola.com/things-to-see-in-lake-tahoe-napa-mendocino-and-sonoma/q21336",
+                "https://answers.yahoo.com/question/index?qid=20080107112950AAZwtYh"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "lake merced": {
+            "latitude": "37.71934845",
+            "closest_to": "san francisco",
+            "address": "Lake Merced, Lake Merced Bike Path, SF, California, 94132, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.494659699192"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "san francisco",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g580460-i10025-k3830959-Hotel_needed_between_San_Francisco_Napa-Napa_Valley_California.html",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "st. helena hwy": {
+            "latitude": "38.3441575",
+            "closest_to": "napa",
+            "address": "Saint Helena Highway, Napa, Napa County, California, 94558, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.3268832"
+        },
+        "great highway": {
+            "latitude": "37.7353903",
+            "closest_to": "san francisco",
+            "address": "Great Highway, SF, California, 94132, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.5066727"
+        },
+        "west of napa": {
+            "latitude": "38.2971367",
+            "closest_to": "san francisco",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://answers.yahoo.com/question/index?qid=20080107112950AAZwtYh"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "zazu kitchen": {
+            "latitude": "38.4039657",
+            "closest_to": "napa",
+            "address": "Zazu Kitchen and Farm, 6770, McKinley Avenue, The Barlow, Sebastopol, Sonoma County, California, 95472, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.820914"
+        },
+        "st. helena valley": {
+            "latitude": "38.5052288",
+            "closest_to": "napa",
+            "address": "St. Helena, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.4700423"
+        },
+        "oakland international airport": {
+            "latitude": "37.713158",
+            "closest_to": "san francisco",
+            "address": "Oakland International Airport, Airport Drive, Oakland, Alameda County, California, 94614, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/"
+            ],
+            "longitude": "-122.2123029"
+        },
+        "powell st.": {
+            "latitude": "37.784931",
+            "closest_to": "san francisco",
+            "address": "Powell Street, Market Street, South of Market, SF, California, 94104, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.40691"
+        },
+        "mumm napa valley": {
+            "latitude": "38.4788493",
+            "closest_to": "napa",
+            "address": "Mumm, 8445, Silverado Trail South, Rutherford, Napa County, California, 94573, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "longitude": "-122.3942598"
+        },
+        "civic center": {
+            "latitude": "37.7793921",
+            "closest_to": "san francisco",
+            "address": "Civic Center, United Nations Plaza, West SoMa, SF, California, CA:94103, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.4139976"
+        },
+        "vallejo valley": {
+            "latitude": "38.1040864",
+            "closest_to": "san francisco",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "beach chalet": {
+            "latitude": "37.7694735",
+            "closest_to": "san francisco",
+            "address": "Beach Chalet, Great Highway, SF, California, 94132, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.5102177"
+        },
+        "san francisco zoo": {
+            "latitude": "37.73292535",
+            "closest_to": "san francisco",
+            "address": "San Francisco Zoo, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.502355346322"
+        },
+        "portsmouth square": {
+            "latitude": "37.79483365",
+            "closest_to": "san francisco",
+            "address": "Portsmouth Square, Kearny Street, Chinatown, SF, California, 94133, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.40532985"
+        },
+        "san francisco international airport": {
+            "latitude": "37.622452",
+            "closest_to": "san francisco",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.384071507814"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "silverado trail": {
+            "latitude": "38.3077505",
+            "closest_to": "napa",
+            "address": "Silverado Trail, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.2775328"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "meadowood lane": {
+            "latitude": "38.30496",
+            "closest_to": "san francisco",
+            "address": "Meadowood Lane, El Verano, Sonoma County, California, 95476, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.4855739"
+        },
+        "marin headlands": {
+            "latitude": "37.856162",
+            "closest_to": "san francisco",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.534327312107"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "north beach": {
+            "latitude": "37.8011749",
+            "closest_to": "san francisco",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.409002"
+        },
+        "trancas street": {
+            "latitude": "38.3251961",
+            "closest_to": "napa",
+            "address": "Trancas Street, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php"
+            ],
+            "longitude": "-122.2759686"
+        },
+        "lombard": {
+            "latitude": "38.1907508",
+            "closest_to": "san francisco",
+            "address": "Lombard, Napa County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.2560822"
+        },
+        "napa": {
+            "latitude": "38.2971367",
+            "closest_to": "san francisco",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "california st.": {
+            "latitude": "37.7936491",
+            "closest_to": "san francisco",
+            "address": "California Street, Financial District, SF, California, 94121, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.3965522"
+        },
+        "tamalpais state park": {
+            "latitude": "37.8969524",
+            "closest_to": "san francisco",
+            "address": "Mount Tamalpais State Park, Panoramic Highway, Stinson Beach, Marin County, California, 94970, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/"
+            ],
+            "longitude": "-122.613750526021"
+        },
+        "american canyon rd": {
+            "latitude": "38.1689843",
+            "closest_to": "san francisco",
+            "address": "American Canyon Road, Vallejo, Solano County, California, 94591, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "longitude": "-122.1994723"
+        },
+        "calistoga ranch": {
+            "latitude": "38.58016795",
+            "closest_to": "napa",
+            "address": "Calistoga Ranch, 580, Lommel Road, Larkmead, Napa County, California, 94515, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.51196302191"
+        },
+        "swanson vineyards": {
+            "latitude": "38.44456285",
+            "closest_to": "napa",
+            "address": "Swanson, Oakville, Napa County, California, 94562, United States of America",
+            "locType": "vineyard",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.38904552113"
+        },
+        "rutherford": {
+            "latitude": "38.458521",
+            "closest_to": "napa",
+            "address": "Rutherford, Napa County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.4224789"
+        },
+        "calistoga": {
+            "latitude": "38.582615",
+            "closest_to": "napa",
+            "address": "Calistoga, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.583325948608"
+        },
+        "coit tower": {
+            "latitude": "37.80237905",
+            "closest_to": "san francisco",
+            "address": "Coit Tower, Telegraph Hill Boulevard, Telegraph Hill, SF, California, 94133, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.405834254613"
+        },
+        "napa county": {
+            "latitude": "38.4898675",
+            "closest_to": "napa",
+            "address": "Napa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html"
+            ],
+            "longitude": "-122.3218413"
+        },
+        "waverly place": {
+            "latitude": "37.7942006",
+            "closest_to": "san francisco",
+            "address": "Waverly Place, Chinatown, SF, California, 94108, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.4068409"
+        },
+        "calistoga ranch calistoga": {
+            "latitude": "38.58016795",
+            "closest_to": "napa",
+            "address": "Calistoga Ranch, 580, Lommel Road, Larkmead, Napa County, California, 94515, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.51196302191"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "https://www.tripadvisor.com/ShowTopic-g580460-i10025-k3830959-Hotel_needed_between_San_Francisco_Napa-Napa_Valley_California.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "walnut creek": {
+            "latitude": "37.9063131",
+            "closest_to": "san francisco",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-122.0649629"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelandleisure.com/travel-guide/napa-and-sonoma",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php",
+                "http://fathomaway.com/guides/usa/california/napa-and-sonoma/itineraries/what-to-do-in-napa-valley-california/",
+                "https://www.tripadvisor.com/ShowTopic-g580460-i10025-k3830959-Hotel_needed_between_San_Francisco_Napa-Napa_Valley_California.html",
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                "http://travelblog.viator.com/road-trip-san-francisco-los-angeles/",
+                "https://answers.yahoo.com/question/index?qid=20080107112950AAZwtYh",
+                "http://archives.sfweekly.com/blogs/foodie/",
+                "http://www.rewards-insiders.marriott.com/thread/14517",
+                "http://www.10best.com/interests/tours-itineraries/10best-day-trip-scenic-route-from-san-francisco-to-napa/",
+                "https://churchillmanor.com/blog/2016/02/getaways-san-francisco-napa-valley/",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k7765404-Best_places_to_visit_between_San_Francisco_and_Napa_Valley-San_Francisco_California.html",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "stow lake": {
+            "latitude": "37.7689867",
+            "closest_to": "san francisco",
+            "address": "Stow Lake, Stow Lake Drive East, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.473116745565"
+        },
+        "sacramento river.san francisco": {
+            "latitude": "37.7917547",
+            "closest_to": "san francisco",
+            "address": "1 California OB (Sacramento/Larkin), Sacramento Street, Nob Hill, SF, California, 94118, United States of America",
+            "locType": "bus_stop",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/qt/San-Francisco-to-Napa-Valley.htm"
+            ],
+            "longitude": "-122.4194373"
+        },
+        "forestville": {
+            "latitude": "38.4833405",
+            "closest_to": "napa",
+            "address": "Forestville, Trenton Road, Trenton, Sonoma County, California, 95436, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travelandleisure.com/articles/insiders-guide-to-napa-valley"
+            ],
+            "longitude": "-122.861584174866"
+        },
+        "santa clara marriott": {
+            "latitude": "37.3906874",
+            "closest_to": "san francisco",
+            "address": "Santa Clara Marriott, Great America Parkway, Santa Clara, Santa Clara County, California, 95054; 95051, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.rewards-insiders.marriott.com/thread/14517"
+            ],
+            "longitude": "-121.973771523253"
+        },
+        "calif.": {
+            "latitude": "37.786376",
+            "closest_to": "san francisco",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.foxnews.com/travel/2013/04/25/whole-lot-more-than-wine-country-5-free-things-to-do-in-california-napa-valley.html",
+                "http://www.sfgate.com/restaurants/article/Top-places-for-dining-in-Napa-3255023.php"
+            ],
+            "longitude": "-122.2902806"
+        },
+        "china town": {
+            "latitude": "37.7963119",
+            "closest_to": "san francisco",
+            "address": "China Town, Duncombe Alley, Chinatown, SF, California, 94133, United States of America",
+            "locType": "marketplace",
+            "blogLinks": [
+                "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191"
+            ],
+            "longitude": "-122.407568"
+        }
+    }
+}

@@ -1,0 +1,1530 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "cannon road": {
+            "latitude": "33.9225345",
+            "closest_to": "stockton",
+            "address": "Cannon Road, Riverside, Riverside County, California, 92506, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3369461"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "stockton",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "alamo": {
+            "latitude": "37.8502033",
+            "closest_to": "stockton",
+            "address": "Alamo, Contra Costa County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-122.0321839"
+        },
+        "fort irwin": {
+            "latitude": "35.2627527",
+            "closest_to": "stockton",
+            "address": "Fort Irwin, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.6847523"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.nps.gov/cave/index.htm",
+                "http://www.distancesfrom.com/us/distance-from-Albuquerque-to-San-Antonio-via-Carlsbad-Fort-Stockton/DistanceHistory/24568714.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "stockton",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "norco": {
+            "latitude": "33.9323307",
+            "closest_to": "stockton",
+            "address": "Norco, Riverside County, California, 92860, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.55089"
+        },
+        "guerneville": {
+            "latitude": "38.5116609",
+            "closest_to": "stockton",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.987128549631"
+        },
+        "emeryville": {
+            "latitude": "37.8314089",
+            "closest_to": "stockton",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2865265"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "stockton",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "stockton",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "kettleman city": {
+            "latitude": "36.008937",
+            "closest_to": "stockton",
+            "address": "Kettleman City, 7th Street, Kettleman City, Kings County, California, 93239, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.962676860725"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "stockton",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "cotati": {
+            "latitude": "38.3266798",
+            "closest_to": "stockton",
+            "address": "Cotati, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.706844"
+        },
+        "montenegro": {
+            "latitude": "34.179739",
+            "closest_to": "stockton",
+            "address": "Montenegro Circle, Thousand Oaks, Ventura County, California, 91320, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-118.9543239"
+        },
+        "prague": {
+            "latitude": "37.722053",
+            "closest_to": "stockton",
+            "address": "Prague Street, Crocker-Amazon, SF, California, 94112, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-122.4248479"
+        },
+        "boonville": {
+            "latitude": "39.0091667",
+            "closest_to": "stockton",
+            "address": "Boonville, Mendocino County, California, 95415, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.366111"
+        },
+        "santa fe springs": {
+            "latitude": "33.9482434",
+            "closest_to": "stockton",
+            "address": "Santa Fe Springs, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0676102"
+        },
+        "south carlsbad state beach": {
+            "latitude": "33.08375185",
+            "closest_to": "carlsbad",
+            "address": "South Carlsbad State Beach, Carlsbad Boulevard, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.311268255243"
+        },
+        "pecos": {
+            "latitude": "38.9884918",
+            "closest_to": "stockton",
+            "address": "Pecos, Plumas Lake, Yuba County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Fort_Stockton-877608/Things_To_Do-Fort_Stockton-TG-C-1.html"
+            ],
+            "longitude": "-121.5507804"
+        },
+        "mesa verde": {
+            "latitude": "33.6058577",
+            "closest_to": "carlsbad",
+            "address": "Mesa Verde, Riverside County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/",
+                "http://www.visitstockton.org/things-to-do/"
+            ],
+            "longitude": "-114.7310716"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "stockton",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "sunol": {
+            "latitude": "37.5943781",
+            "closest_to": "stockton",
+            "address": "Sunol, Alameda County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8885682"
+        },
+        "tonga": {
+            "latitude": "32.579494",
+            "closest_to": "carlsbad",
+            "address": "Via Tonga, Otay Mesa West, San Ysidro, San Diego, San Diego County, California, 92154, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.0612559"
+        },
+        "coast highway 101": {
+            "latitude": "33.6810673",
+            "closest_to": "stockton",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-118.0333633"
+        },
+        "fredericksburg": {
+            "latitude": "38.8287947",
+            "closest_to": "stockton",
+            "address": "Fredericksburg, Alpine County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-119.7868437"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "stockton",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "london": {
+            "latitude": "36.4760619",
+            "closest_to": "stockton",
+            "address": "London, Tulare County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.4431784"
+        },
+        "guadalupe": {
+            "latitude": "29.0350656",
+            "closest_to": "carlsbad",
+            "address": "Isla Guadalupe, Ensenada, Baja California, M\u00e9xico",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.269896818344"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "stockton",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.92944"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "stockton",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "stockton",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "sylmar": {
+            "latitude": "34.3076252",
+            "closest_to": "stockton",
+            "address": "Sylmar, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.4492147"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "stockton",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "tulelake": {
+            "latitude": "41.9559885",
+            "closest_to": "stockton",
+            "address": "Tulelake, Siskiyou County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.4774915"
+        },
+        "hopland": {
+            "latitude": "38.9729542",
+            "closest_to": "stockton",
+            "address": "Hopland, Mendocino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.1163917"
+        },
+        "bodie state historic park": {
+            "latitude": "38.2154734",
+            "closest_to": "stockton",
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0109761"
+        },
+        "mentone": {
+            "latitude": "34.05884",
+            "closest_to": "stockton",
+            "address": "Mentone, Reservoir Canal Road, Crafton, San Bernardino County, California, 92374, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.109606374724"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "stockton",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "apple valley": {
+            "latitude": "34.5008311",
+            "closest_to": "stockton",
+            "address": "Apple Valley, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.1858758"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "stockton",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "baldwin park": {
+            "latitude": "34.0854739",
+            "closest_to": "stockton",
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.961176"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "stockton",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "rio grande": {
+            "latitude": "32.72995",
+            "closest_to": "carlsbad",
+            "address": "Rio Grande, North Jamul, San Diego County, California, 91935, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-116.8639529"
+        },
+        "san antonio": {
+            "latitude": "38.1838069",
+            "closest_to": "stockton",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Albuquerque-to-San-Antonio-via-Carlsbad-Fort-Stockton/DistanceHistory/24568714.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "buena park": {
+            "latitude": "33.870413",
+            "closest_to": "stockton",
+            "address": "Buena Park, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.9962164"
+        },
+        "camp stockton": {
+            "latitude": "37.9192881",
+            "closest_to": "stockton",
+            "address": "French Camp Slough, Stockton, San Joaquin County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Fort_Stockton-877608/Things_To_Do-Fort_Stockton-TG-C-1.html"
+            ],
+            "longitude": "-121.3114396"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "stockton",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.266149723864"
+        },
+        "palmdale": {
+            "latitude": "34.5793131",
+            "closest_to": "stockton",
+            "address": "Palmdale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1171107"
+        },
+        "rock spring": {
+            "latitude": "33.6940465",
+            "closest_to": "stockton",
+            "address": "Rock Spring, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-117.7884599"
+        },
+        "fort stockton": {
+            "latitude": "38.007404",
+            "closest_to": "stockton",
+            "address": "Fort Donaldson Place, Stockton, San Joaquin County, California, 95219, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html",
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Fort_Stockton-877608/Things_To_Do-Fort_Stockton-TG-C-1.html"
+            ],
+            "longitude": "-121.3683089"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "stockton",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "stockton",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "stockton",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "stockton",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "stockton",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "carlsbad",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "califia": {
+            "latitude": "34.4290422",
+            "closest_to": "stockton",
+            "address": "Califia Court, Santa Barbara County, California, 93111, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.8065791"
+        },
+        "willow creek": {
+            "latitude": "40.9395774",
+            "closest_to": "stockton",
+            "address": "Willow Creek, Humboldt County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.6314411"
+        },
+        "houston": {
+            "latitude": "34.4422871",
+            "closest_to": "stockton",
+            "address": "Houston, Plum Canyon, Canyon Country, Los Angeles County, California, 91351, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/"
+            ],
+            "longitude": "-118.4777157"
+        },
+        "san diego botanic garden": {
+            "latitude": "33.053482",
+            "closest_to": "carlsbad",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "e. holland ave.": {
+            "latitude": "36.7975804",
+            "closest_to": "stockton",
+            "address": "East Holland Avenue, Fresno, Fresno County, California, 93704, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-119.8023665"
+        },
+        "glendora": {
+            "latitude": "34.1361187",
+            "closest_to": "stockton",
+            "address": "Glendora, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.8653389"
+        },
+        "simi valley": {
+            "latitude": "34.2694474",
+            "closest_to": "stockton",
+            "address": "Simi Valley, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.7814819"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "stockton",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.147366"
+        },
+        "jerusalem": {
+            "latitude": "40.5175442",
+            "closest_to": "stockton",
+            "address": "Jerusalem Creek, Shasta County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.7581059"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "stockton",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "shafter": {
+            "latitude": "35.4698255",
+            "closest_to": "stockton",
+            "address": "Shafter, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-119.285365133155"
+        },
+        "tamarack": {
+            "latitude": "38.4388012",
+            "closest_to": "stockton",
+            "address": "Tamarack, Calaveras County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-120.076021"
+        },
+        "malaga": {
+            "latitude": "36.6818315",
+            "closest_to": "stockton",
+            "address": "Malaga, South Winery Avenue, Malaga, Fresno County, California, 93725, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/"
+            ],
+            "longitude": "-119.731788652724"
+        },
+        "national park": {
+            "latitude": "37.7488554",
+            "closest_to": "stockton",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/"
+            ],
+            "longitude": "-119.5893389"
+        },
+        "bandera": {
+            "latitude": "33.5965388",
+            "closest_to": "stockton",
+            "address": "Bandera, 3201, East Coast Highway, Corona del Mar, Newport Beach, Orange County, California, 92625, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-117.8714254"
+        },
+        "colma": {
+            "latitude": "37.6768779",
+            "closest_to": "stockton",
+            "address": "Colma, San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4596949"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "stockton",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.248367"
+        },
+        "yermo": {
+            "latitude": "34.9049849",
+            "closest_to": "stockton",
+            "address": "Yermo, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8203126"
+        },
+        "turlock": {
+            "latitude": "37.4946568",
+            "closest_to": "stockton",
+            "address": "Turlock, Stanislaus County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.846594"
+        },
+        "wisconsin": {
+            "latitude": "36.8358605",
+            "closest_to": "stockton",
+            "address": "Wisconsin, Fresno County, California, 93650, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/"
+            ],
+            "longitude": "-119.7945237"
+        },
+        "el paso": {
+            "latitude": "36.8487922",
+            "closest_to": "stockton",
+            "address": "El Paso, Clovis, Fresno County, California, 93611, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-119.6823199"
+        },
+        "tamarack state beach": {
+            "latitude": "33.1486215",
+            "closest_to": "carlsbad",
+            "address": "Tamarack State Beach - Hemlock Av. Staircase, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "steps",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=770"
+            ],
+            "longitude": "-117.3466606"
+        },
+        "ft. stockton": {
+            "latitude": "38.007404",
+            "closest_to": "stockton",
+            "address": "Fort Donaldson Place, Stockton, San Joaquin County, California, 95219, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/"
+            ],
+            "longitude": "-121.3683089"
+        },
+        "marfa": {
+            "latitude": "34.01659745",
+            "closest_to": "stockton",
+            "address": "Santa Monica Municipal Airport, Donald Douglas Loop North, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-118.450603511706"
+        },
+        "buellton": {
+            "latitude": "34.6134727",
+            "closest_to": "stockton",
+            "address": "Buellton, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.1936691"
+        },
+        "s. highland ave.": {
+            "latitude": "34.0646346",
+            "closest_to": "stockton",
+            "address": "South Highland Avenue, Hancock Park, Hollywood, LA, Los Angeles County, California, 90036, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-118.3386296"
+        },
+        "trona": {
+            "latitude": "35.7627322",
+            "closest_to": "stockton",
+            "address": "Trona, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-117.3728345"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.homesnap.com/CA/Carlsbad/3514-Stockton-Place",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html",
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
+            "closest_to": "stockton",
+            "address": "Placerville, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.7985459"
+        },
+        "east los angeles": {
+            "latitude": "34.0239015",
+            "closest_to": "stockton",
+            "address": "East Los Angeles, Belvedere Gardens, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1720156"
+        },
+        "sheffield": {
+            "latitude": "38.0149845",
+            "closest_to": "stockton",
+            "address": "Sheffield, Hercules, Contra Costa County, California, 94547, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-122.2578307"
+        },
+        "atascadero": {
+            "latitude": "35.4894169",
+            "closest_to": "stockton",
+            "address": "Atascadero, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.6707254"
+        },
+        "tamarack avenue": {
+            "latitude": "33.148373",
+            "closest_to": "carlsbad",
+            "address": "Tamarack Avenue, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3439479"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "stockton",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "moscow": {
+            "latitude": "37.7131859",
+            "closest_to": "stockton",
+            "address": "Moscow Street, Crocker-Amazon, SF, California, 94112, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-122.4337084"
+        },
+        "geyserville": {
+            "latitude": "38.707687",
+            "closest_to": "stockton",
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.9024963"
+        },
+        "carlsbad caverns": {
+            "latitude": "37.3072109",
+            "closest_to": "stockton",
+            "address": "Carlsbad Caverns Court, Newman, Stanislaus County, California, 95360, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/"
+            ],
+            "longitude": "-121.033348"
+        },
+        "midland": {
+            "latitude": "33.8611293",
+            "closest_to": "carlsbad",
+            "address": "Midland, Riverside County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-114.802188"
+        },
+        "big bend": {
+            "latitude": "39.6982182",
+            "closest_to": "stockton",
+            "address": "Big Bend, Butte County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Fort_Stockton-877608/Things_To_Do-Fort_Stockton-TG-C-1.html"
+            ],
+            "longitude": "-121.4608014"
+        },
+        "carlsbad village drive": {
+            "latitude": "33.167503",
+            "closest_to": "stockton",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "aguanga": {
+            "latitude": "33.4428094",
+            "closest_to": "carlsbad",
+            "address": "Aguanga, Riverside County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-116.8650234"
+        },
+        "river road": {
+            "latitude": "34.871679",
+            "closest_to": "carlsbad",
+            "address": "River Road, Needles, San Bernardino County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-114.6384652"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "stockton",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "closest_to": "stockton",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-117.8984509"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "carlsbad",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "woodland hills": {
+            "latitude": "34.1683386",
+            "closest_to": "stockton",
+            "address": "Woodland Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.6059196"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "stockton",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "commanche springs": {
+            "latitude": "33.9751682",
+            "closest_to": "stockton",
+            "address": "Commanche Circle, Highland Springs, Riverside County, California, 92223, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Fort_Stockton-877608/Things_To_Do-Fort_Stockton-TG-C-1.html"
+            ],
+            "longitude": "-116.9488004"
+        },
+        "inglewood": {
+            "latitude": "33.9616801",
+            "closest_to": "stockton",
+            "address": "Inglewood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.353131"
+        },
+        "san quentin": {
+            "latitude": "37.9413133",
+            "closest_to": "stockton",
+            "address": "San Quentin, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4849738"
+        },
+        "n. highland ave.": {
+            "latitude": "34.088909",
+            "closest_to": "stockton",
+            "address": "North Highland Avenue, Hollywood, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-118.3386099"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "stockton",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "big hill": {
+            "latitude": "39.8323957",
+            "closest_to": "stockton",
+            "address": "Big Hill, Plumas County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-120.7213342"
+        },
+        "coalinga": {
+            "latitude": "36.1298952",
+            "closest_to": "stockton",
+            "address": "Coalinga, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-120.245046293019"
+        },
+        "sonora": {
+            "latitude": "37.9840911",
+            "closest_to": "stockton",
+            "address": "Sonora, Tuolumne County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html",
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/"
+            ],
+            "longitude": "-120.382138"
+        },
+        "maverick road": {
+            "latitude": "33.430371",
+            "closest_to": "carlsbad",
+            "address": "Maverick Road, Aguanga, Riverside County, California, 92536, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-116.8480229"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "stockton",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.distancecalculator.net/from-stockton-to-carlsbad"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "stockton",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "stockton",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "stockton",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/",
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/",
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/",
+                "http://www.homesnap.com/CA/Carlsbad/3514-Stockton-Place",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Albuquerque-to-San-Antonio-via-Carlsbad-Fort-Stockton/DistanceHistory/24568714.aspx",
+                "https://www.distancecalculator.net/from-stockton-to-carlsbad",
+                "http://www.roadsideamerica.com/location/ca",
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/",
+                "http://visitcarlsbad.com/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "presidio": {
+            "latitude": "34.299701",
+            "closest_to": "stockton",
+            "address": "Presidio, Simi Valley, Ventura County, California, 93063, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-118.7127949"
+        },
+        "roswell": {
+            "latitude": "33.760936",
+            "closest_to": "stockton",
+            "address": "Roswell Avenue, Belmont Shore, Long Beach, Los Angeles County, California, 90814, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28964-i75-k4977581-Overnight_stopover_between_Fort_Stockton_and_San_Antonio-Texas.html",
+                "http://authormichaelhicks.com/2013/06/exploring-the-carlsbad-caverns-in-new-mexico/"
+            ],
+            "longitude": "-118.1435969"
+        },
+        "albuquerque": {
+            "latitude": "32.8074701",
+            "closest_to": "carlsbad",
+            "address": "Albuquerque Street, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Albuquerque-to-San-Antonio-via-Carlsbad-Fort-Stockton/DistanceHistory/24568714.aspx"
+            ],
+            "longitude": "-117.2184314"
+        },
+        "pacifica": {
+            "latitude": "37.6138253",
+            "closest_to": "stockton",
+            "address": "Pacifica, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.4869193"
+        },
+        "castroville": {
+            "latitude": "36.7657904",
+            "closest_to": "stockton",
+            "address": "Castroville, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.7580049"
+        },
+        "oroville": {
+            "latitude": "39.5137752",
+            "closest_to": "stockton",
+            "address": "Oroville, Butte County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-121.5563589"
+        },
+        "dallas": {
+            "latitude": "37.3099472",
+            "closest_to": "stockton",
+            "address": "Upper Dallas Lateral, Merced County, California, United States of America",
+            "locType": "ditch",
+            "blogLinks": [
+                "http://visitcarlsbad.com/",
+                "http://rvthereyetchronicles.com/2016/10/23/moving-day-carlsbad-nm-to-ft-stockton-tx/"
+            ],
+            "longitude": "-120.6404967"
+        },
+        "garberville": {
+            "latitude": "40.1005685",
+            "closest_to": "stockton",
+            "address": "Garberville, Humboldt County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.7961393"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "stockton",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "las cruces": {
+            "latitude": "34.5080438",
+            "closest_to": "stockton",
+            "address": "Las Cruces, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-120.2290396"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "stockton",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "stockton",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "stockton",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "basin road": {
+            "latitude": "33.1609023",
+            "closest_to": "carlsbad",
+            "address": "Basin Road, Carlsbad, San Diego County, California, 92010, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/borderlands-texas-road-trip/"
+            ],
+            "longitude": "-117.2943808"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "stockton",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "whittier": {
+            "latitude": "33.9748932",
+            "closest_to": "stockton",
+            "address": "Whittier, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.0336974"
+        },
+        "power plant": {
+            "latitude": "37.31525805",
+            "closest_to": "stockton",
+            "address": "Power Plant, Leigh Avenue, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-121.923997033574"
+        },
+        "lemoore": {
+            "latitude": "36.3007835",
+            "closest_to": "stockton",
+            "address": "Lemoore, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.7829106"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "stockton",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "arcata": {
+            "latitude": "40.8665166",
+            "closest_to": "stockton",
+            "address": "Arcata, Humboldt County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-124.0828395"
+        },
+        "austin": {
+            "latitude": "37.242444",
+            "closest_to": "stockton",
+            "address": "Austin, Santa Clara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-121.9982913"
+        },
+        "forestville": {
+            "latitude": "38.4833405",
+            "closest_to": "stockton",
+            "address": "Forestville, Trenton Road, Trenton, Sonoma County, California, 95436, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-122.861584174866"
+        },
+        "north hollywood": {
+            "latitude": "34.1729044",
+            "closest_to": "stockton",
+            "address": "North Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-118.374037"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.visitstockton.org/things-to-do/"
+            ],
+            "longitude": "-121.2907795"
+        },
+        "white sands": {
+            "latitude": "33.5918732",
+            "closest_to": "stockton",
+            "address": "White Sands, Coto de Caza, Orange County, California, 92679, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g1-i12567-k4958430-Where_should_we_stop_between_Las_Cruces_NM_and_Austin_TX-Road_Trips.html"
+            ],
+            "longitude": "-117.5979003"
+        },
+        "hotel derby": {
+            "latitude": "37.3343828",
+            "closest_to": "stockton",
+            "address": "Hotel De Anza, 233, West Santa Clara Street, Little Italy, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://karolinapatryk.com/karlovy-vary-travel-guide/"
+            ],
+            "longitude": "-121.895065751971"
+        },
+        "ukiah": {
+            "latitude": "39.1501662",
+            "closest_to": "stockton",
+            "address": "Ukiah, Mendocino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca"
+            ],
+            "longitude": "-123.207786"
+        }
+    }
+}

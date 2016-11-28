@@ -1,0 +1,2693 @@
+{
+    "san bernardino": {
+        "type": "city",
+        "osm_id": "253639",
+        "class": "place",
+        "importance": 0.81183700771795,
+        "lat": "34.1083449",
+        "lon": "-117.2897651",
+        "boundingbox": [
+            "34.050346",
+            "34.230706",
+            "-117.4024519",
+            "-117.1649719"
+        ],
+        "display_name": "San Bernardino, San Bernardino County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159293643",
+        "osm_type": "relation"
+    },
+    "santa barbara": {
+        "type": "city",
+        "osm_id": "33113642",
+        "class": "place",
+        "importance": 0.84553400574646,
+        "lat": "34.4221319",
+        "lon": "-119.7026672",
+        "boundingbox": [
+            "34.336029",
+            "34.463922",
+            "-119.8597817",
+            "-119.6399339"
+        ],
+        "display_name": "Santa Barbara, Santa Barbara County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "71537873",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "hollywood boulevard": {
+            "latitude": "34.1016312",
+            "closest_to": "santa barbara",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.32684"
+        },
+        "hollywood sign": {
+            "latitude": "34.1340991",
+            "closest_to": "santa barbara",
+            "address": "Hollywood Sign, Mount Lee Drive, Hollywood Hills, LA, Los Angeles County, California, 90068, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.3216522"
+        },
+        "lake dolores": {
+            "latitude": "33.8330727",
+            "closest_to": "santa barbara",
+            "address": "Dolores, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2264594"
+        },
+        "morro bay estuary": {
+            "latitude": "35.34429655",
+            "closest_to": "santa barbara",
+            "address": "Morro Estuary Natural Preserve, Morro Bay State Park Road, Morro Bay, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.832195691858"
+        },
+        "camino capistrano": {
+            "latitude": "33.5045525",
+            "closest_to": "santa barbara",
+            "address": "Camino Capistrano, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.6641659"
+        },
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "san bernardino",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "old town pasadena": {
+            "latitude": "34.1863161",
+            "closest_to": "santa barbara",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.1352328"
+        },
+        "culver city": {
+            "latitude": "34.0211224",
+            "closest_to": "santa barbara",
+            "address": "Culver City, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-118.3964664"
+        },
+        "malibu beach": {
+            "latitude": "34.0327862",
+            "closest_to": "santa barbara",
+            "address": "Malibu Beach, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.6884214"
+        },
+        "malaysia": {
+            "latitude": "34.07669",
+            "closest_to": "santa barbara",
+            "address": "Little Malaysia, 3944, Peck Road, El Monte, Los Angeles County, California, 91732, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-118.0203359"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "santa barbara",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "prospect park - redlands": {
+            "latitude": "34.040292",
+            "closest_to": "san bernardino",
+            "address": "Prospect Park, Cajon Street, Redlands, San Bernardino County, California, 92373, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-117.1717039"
+        },
+        "ojai valley museum": {
+            "latitude": "34.4478991",
+            "closest_to": "santa barbara",
+            "address": "Ojai Valley Historical Museum, 130, West Ojai Avenue, Ojai, Ventura County, California, 93023, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2477623"
+        },
+        "shamel park": {
+            "latitude": "33.9455711",
+            "closest_to": "santa barbara",
+            "address": "Shamel Park, Arlington Avenue, Riverside, Riverside County, California, 92505:92506, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.3939339"
+        },
+        "gaviota": {
+            "latitude": "34.4716558",
+            "closest_to": "santa barbara",
+            "address": "Gaviota, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.2148715"
+        },
+        "catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "santa barbara",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "san bernardino",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "las angeles": {
+            "latitude": "33.9995929",
+            "closest_to": "santa barbara",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.0668337"
+        },
+        "national parks": {
+            "latitude": "35.0310157",
+            "closest_to": "san bernardino",
+            "address": "National Parks Service Road, San Bernardino County, California, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-115.383967"
+        },
+        "valentino": {
+            "latitude": "34.0262418",
+            "closest_to": "santa barbara",
+            "address": "Valentino, 3115, Pico Boulevard, Santa Monica, Los Angeles County, California, 90405, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.457098"
+        },
+        "salinas river": {
+            "latitude": "35.2891002",
+            "closest_to": "santa barbara",
+            "address": "Salinas River, San Luis Obispo County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.3596546"
+        },
+        "mcandrew rd.": {
+            "latitude": "34.455468",
+            "closest_to": "santa barbara",
+            "address": "McAndrew Road, Ventura County, California, 93023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.1841549"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "santa barbara",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "heritage hill": {
+            "latitude": "33.5171757",
+            "closest_to": "san bernardino",
+            "address": "Heritage, Temeku Hills, Temecula, Riverside County, California, 92591, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.118322"
+        },
+        "palm canyon drive": {
+            "latitude": "33.8521633",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5515317"
+        },
+        "la jolla": {
+            "latitude": "32.8472711",
+            "closest_to": "san bernardino",
+            "address": "La Jolla, San Diego, San Diego County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2742085"
+        },
+        "san gabriel valley": {
+            "latitude": "34.0991325",
+            "closest_to": "santa barbara",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.108604"
+        },
+        "lake cachuma": {
+            "latitude": "34.576971",
+            "closest_to": "santa barbara",
+            "address": "Lake Cachuma, San Marcos Pass Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.945991073866"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "santa barbara",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville",
+                "https://www.pinterest.com/pin/492510909221178685/",
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "santa barbara",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "moonstone beach dr.": {
+            "latitude": "35.581633",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Beach Drive, Cambria, San Luis Obispo County, California, 93428, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.1189249"
+        },
+        "victoria gardens": {
+            "latitude": "34.1109434",
+            "closest_to": "santa barbara",
+            "address": "Victoria Gardens, South Mainstreet, Rancho Cucamonga, San Bernardino County, California, 91739, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-117.532065718501"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "san bernardino",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "mission san diego": {
+            "latitude": "32.7808782",
+            "closest_to": "san bernardino",
+            "address": "Mission San Diego, Ward Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1109827"
+        },
+        "alisal rd": {
+            "latitude": "34.436318",
+            "closest_to": "santa barbara",
+            "address": "Alisal Road, Santa Barbara, Santa Barbara County, California, 93103, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.6796549"
+        },
+        "moonstone beach": {
+            "latitude": "35.573855",
+            "closest_to": "santa barbara",
+            "address": "Moonstone Beach, Cambria, San Luis Obispo County, California, CA 93428, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-121.1128747"
+        },
+        "laguna niguel": {
+            "latitude": "33.5225261",
+            "closest_to": "santa barbara",
+            "address": "Laguna Niguel, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.7075525"
+        },
+        "arlington theatre": {
+            "latitude": "34.4242119",
+            "closest_to": "santa barbara",
+            "address": "Arlington Theatre, 1317, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.70696995537"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "santa barbara",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "nordhoff cemetery": {
+            "latitude": "34.445491",
+            "closest_to": "santa barbara",
+            "address": "Nordhoff Cemetery, Del Norte Road, Arbolada, Ventura County, California, 93023, United States of America",
+            "locType": "grave_yard",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.26059588403"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "san bernardino",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "hanford": {
+            "latitude": "36.3274502",
+            "closest_to": "santa barbara",
+            "address": "Hanford, Kings County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.6456843"
+        },
+        "costa mesa": {
+            "latitude": "33.6633386",
+            "closest_to": "santa barbara",
+            "address": "Costa Mesa, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.9033169"
+        },
+        "nazareth": {
+            "latitude": "32.784617",
+            "closest_to": "san bernardino",
+            "address": "Nazareth Drive, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.1079923"
+        },
+        "gardens": {
+            "latitude": "33.6280068",
+            "closest_to": "san bernardino",
+            "address": "Garden, Menifee, Riverside County, California, 92530, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-117.293612"
+        },
+        "old town district": {
+            "latitude": "32.745575",
+            "closest_to": "san bernardino",
+            "address": "California Street, Old Town, San Diego, San Diego County, California, 92110, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1854629"
+        },
+        "ojai ave.": {
+            "latitude": "33.303775",
+            "closest_to": "san bernardino",
+            "address": "Ojai Avenue, Salton City, Imperial County, California, 92275, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-115.9760889"
+        },
+        "la canada": {
+            "latitude": "33.7298842",
+            "closest_to": "santa barbara",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7641381"
+        },
+        "laguna canyon": {
+            "latitude": "33.5613752",
+            "closest_to": "santa barbara",
+            "address": "Laguna College of Art and Design, Laguna Canyon Road, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.7724545"
+        },
+        "redlands": {
+            "latitude": "34.069909",
+            "closest_to": "san bernardino",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "https://www.pinterest.com/pin/492510909221178685/"
+            ],
+            "longitude": "-117.248983896912"
+        },
+        "santa barbara county courthouse": {
+            "latitude": "34.4243592",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara County Courthouse, Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "courthouse",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.702541023445"
+        },
+        "montecito": {
+            "latitude": "34.4364435",
+            "closest_to": "santa barbara",
+            "address": "Montecito, East Valley Lane, Montecito, Santa Barbara County, California, 93108, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.622205630583"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "santa barbara",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "closest_to": "santa barbara",
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.6596155"
+        },
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "closest_to": "san bernardino",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville"
+            ],
+            "longitude": "-117.2897651"
+        },
+        "victorville": {
+            "latitude": "34.5361067",
+            "closest_to": "santa barbara",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2911564"
+        },
+        "joshua tree national park": {
+            "latitude": "33.89706715",
+            "closest_to": "san bernardino",
+            "address": "Joshua Tree National Park, Pinto Basin Road, Riverside County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-115.951115484517"
+        },
+        "malibu coast": {
+            "latitude": "34.03385755",
+            "closest_to": "santa barbara",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "shell beach": {
+            "latitude": "35.1552532",
+            "closest_to": "santa barbara",
+            "address": "Shell Beach, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.6723948"
+        },
+        "san diego mission rd.": {
+            "latitude": "32.784578",
+            "closest_to": "san bernardino",
+            "address": "San Diego Mission Road, City Heights, San Diego, San Diego County, California, 92108, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1091279"
+        },
+        "old town": {
+            "latitude": "35.142943",
+            "closest_to": "santa barbara",
+            "address": "Old Town, Golden Hills, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville"
+            ],
+            "longitude": "-118.4954422"
+        },
+        "san diego botanic gardens": {
+            "latitude": "33.053482",
+            "closest_to": "san bernardino",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "closest_to": "santa barbara",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.2920584"
+        },
+        "morro bay aquarium": {
+            "latitude": "35.36380865",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay Aquarium, 595, Embarcadero, Morro Bay, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.852783986138"
+        },
+        "riverside mission inn": {
+            "latitude": "33.9819467",
+            "closest_to": "santa barbara",
+            "address": "Riverside Metropolitan Museum, Mission Inn Avenue, Riverside, Riverside County, California, 92501, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.372475849413"
+        },
+        "santa ynez": {
+            "latitude": "34.608637",
+            "closest_to": "santa barbara",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "glendale": {
+            "latitude": "34.1423455",
+            "closest_to": "santa barbara",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.248367"
+        },
+        "montana de oro state park": {
+            "latitude": "35.2714109",
+            "closest_to": "santa barbara",
+            "address": "Montana de Oro State Park, San Luis Obispo County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.8888312"
+        },
+        "morro st.": {
+            "latitude": "35.277999",
+            "closest_to": "santa barbara",
+            "address": "Morro Street, San Luis Obispo, San Luis Obispo County, California, 93401, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-120.6593818"
+        },
+        "france": {
+            "latitude": "34.2013715",
+            "closest_to": "santa barbara",
+            "address": "France, Sherman Way, Canoga Park, LA, Los Angeles County, California, 91307, United States of America",
+            "locType": "cafe",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.5935353"
+        },
+        "nojoqui falls county park": {
+            "latitude": "34.531948",
+            "closest_to": "santa barbara",
+            "address": "Nojoqui Falls County Park, Alisal Road, Santa Barbara County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.17655934819"
+        },
+        "san miguel": {
+            "latitude": "35.7524679",
+            "closest_to": "santa barbara",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.6962825"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "santa rosa mountains": {
+            "latitude": "33.412282",
+            "closest_to": "san bernardino",
+            "address": "Santa Rosa Mountains State Wilderness, San Diego County, California, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.231717855027"
+        },
+        "san juan capistrano": {
+            "latitude": "33.5016932",
+            "closest_to": "santa barbara",
+            "address": "San Juan Capistrano, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.6625508"
+        },
+        "mother road": {
+            "latitude": "33.8058766",
+            "closest_to": "santa barbara",
+            "address": "Route 66, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-117.9189801"
+        },
+        "balboa": {
+            "latitude": "33.5869669",
+            "closest_to": "santa barbara",
+            "address": "Balboa, Orange County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.9008906"
+        },
+        "mission gorge": {
+            "latitude": "32.83415815",
+            "closest_to": "san bernardino",
+            "address": "Mission Gorge Villa Mobile Home Park, Santee, San Diego County, California, 92071, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.011419893954"
+        },
+        "la jolla underwater park": {
+            "latitude": "32.874769",
+            "closest_to": "san bernardino",
+            "address": "San Diego-La Jolla Underwater Park, La Jolla Shores Lane, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.2528144"
+        },
+        "pioneertown": {
+            "latitude": "34.1566737",
+            "closest_to": "san bernardino",
+            "address": "Pioneertown, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.4961262"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "san bernardino",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "wrightwood": {
+            "latitude": "34.3583535",
+            "closest_to": "santa barbara",
+            "address": "Wrightwood, Ross Street, Wrightwood, San Bernardino County, California, 92397, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.627599739034"
+        },
+        "w. matilija st.": {
+            "latitude": "34.448489",
+            "closest_to": "santa barbara",
+            "address": "West Matilija Street, Ojai, Ventura County, California, 93023, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2494669"
+        },
+        "ojai": {
+            "latitude": "34.4480495",
+            "closest_to": "santa barbara",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "ventura county": {
+            "latitude": "34.4458248",
+            "closest_to": "santa barbara",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "santa barbara",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "lincoln heights": {
+            "latitude": "34.0705664",
+            "closest_to": "santa barbara",
+            "address": "Lincoln Heights, Boyle Heights, LA, Los Angeles County, California, 90031, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.2050726"
+        },
+        "anaheim": {
+            "latitude": "33.8347516",
+            "closest_to": "santa barbara",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.9117319"
+        },
+        "riverside": {
+            "latitude": "33.9533546",
+            "closest_to": "santa barbara",
+            "address": "Riverside, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.3961622"
+        },
+        "mission san juan capistrano": {
+            "latitude": "33.50381465",
+            "closest_to": "santa barbara",
+            "address": "Mission San Juan Capistrano, El Camino Real, San Juan Capistrano, Orange County, California, 92675, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.663061669391"
+        },
+        "marina del rey": {
+            "latitude": "33.9774017",
+            "closest_to": "santa barbara",
+            "address": "Marina del Rey, Ocean Park, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4508017"
+        },
+        "monterey st.": {
+            "latitude": "34.097787",
+            "closest_to": "santa barbara",
+            "address": "Monterey Street, Mount Washington, Highland Park, LA, Los Angeles County, California, 90065, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2146689"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "san bernardino",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "refugio": {
+            "latitude": "32.4605396",
+            "closest_to": "san bernardino",
+            "address": "El Refugi\u00f3, Tijuana, Baja California, M\u00e9xico",
+            "locType": "village",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-116.8326111"
+        },
+        "chorro": {
+            "latitude": "35.33378765",
+            "closest_to": "santa barbara",
+            "address": "Chorro Creek Ranch, Ticino Place, San Luis Obispo County, California, 93403, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.759882617704"
+        },
+        "san fernando mission blvd.": {
+            "latitude": "34.2721749",
+            "closest_to": "santa barbara",
+            "address": "San Fernando Mission Boulevard, Mission Hills, Sylmar, LA, Los Angeles County, California, 91326, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.4668798"
+        },
+        "cypress point": {
+            "latitude": "33.5170137",
+            "closest_to": "san bernardino",
+            "address": "Cypress Point, Temecula, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-117.10695135087"
+        },
+        "chumash painted cave state historic park": {
+            "latitude": "34.50362265",
+            "closest_to": "santa barbara",
+            "address": "Chumash Painted Cave State Historic Park, Painted Cave Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.787899178607"
+        },
+        "painted cave rd": {
+            "latitude": "34.500963",
+            "closest_to": "santa barbara",
+            "address": "Painted Cave Road, Santa Barbara County, California, 93105, United States of America",
+            "locType": "unclassified",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7902159"
+        },
+        "paso robles": {
+            "latitude": "35.6267654",
+            "closest_to": "santa barbara",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.6912455"
+        },
+        "state street": {
+            "latitude": "34.1572853",
+            "closest_to": "santa barbara",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "mission santa barbara": {
+            "latitude": "34.4383725",
+            "closest_to": "santa barbara",
+            "address": "Mission Santa Barbara, 2201, Laguna Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-119.713226705403"
+        },
+        "point dume": {
+            "latitude": "34.001631",
+            "closest_to": "santa barbara",
+            "address": "Point Dume, Malibu, Los Angeles County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.8066755"
+        },
+        "rio rd.": {
+            "latitude": "34.4960263",
+            "closest_to": "santa barbara",
+            "address": "El Rio Road, Victorville, San Bernardino County, California, 92392, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3317399"
+        },
+        "channel islands national park": {
+            "latitude": "34.248597",
+            "closest_to": "santa barbara",
+            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.266377755078"
+        },
+        "disneyland resort": {
+            "latitude": "33.81193845",
+            "closest_to": "santa barbara",
+            "address": "DLR, Mill View Lane, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.921900616601"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "closest_to": "santa barbara",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.1444778"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "santa barbara",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "calico": {
+            "latitude": "35.6327332",
+            "closest_to": "santa barbara",
+            "address": "Calico, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.206496"
+        },
+        "mission hills": {
+            "latitude": "32.7528279",
+            "closest_to": "san bernardino",
+            "address": "Mission Hills, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1869788"
+        },
+        "agua mansa pioneer cemetery": {
+            "latitude": "34.0415618",
+            "closest_to": "santa barbara",
+            "address": "Agua Mansa Pioneer Cemetery, 2001, Agua Mansa Road, Colton, San Bernardino County, California, 92324, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.364453265289"
+        },
+        "el presidio de santa barbara state historic park": {
+            "latitude": "34.42239985",
+            "closest_to": "santa barbara",
+            "address": "El Presidio de Santa Barbara State Historic Park, Santa Barbara Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.697414911438"
+        },
+        "palm canyon": {
+            "latitude": "33.7359824",
+            "closest_to": "san bernardino",
+            "address": "Palm Canyon, Palm Canyon Trail, Palm Springs, Riverside County, California, 92263, United States of America",
+            "locType": "wood",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.537629346211"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "san bernardino",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "wilshire blvd": {
+            "latitude": "34.0617231",
+            "closest_to": "santa barbara",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-118.3036614"
+        },
+        "pismo beach": {
+            "latitude": "35.1427533",
+            "closest_to": "santa barbara",
+            "address": "Pismo Beach, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.6412826"
+        },
+        "irvine spectrum center": {
+            "latitude": "33.65023015",
+            "closest_to": "santa barbara",
+            "address": "The Irvine Spectrum Center, Irvine, Orange County, California, 92618, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.743290013547"
+        },
+        "jalama beach": {
+            "latitude": "34.505937",
+            "closest_to": "santa barbara",
+            "address": "Jalama Beach Road, Jalama, Santa Barbara County, California, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.4992759"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "santa barbara",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "oak glen": {
+            "latitude": "34.0494574",
+            "closest_to": "san bernardino",
+            "address": "Oak Glen, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.9478044"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "santa barbara",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "los osos": {
+            "latitude": "35.3107214",
+            "closest_to": "santa barbara",
+            "address": "Los Osos, San Luis Obispo County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.8323486"
+        },
+        "catalina": {
+            "latitude": "33.810513",
+            "closest_to": "santa barbara",
+            "address": "Catalina, Anaheim Resort District, Anaheim, Orange County, California, 217, United States of America",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.920102663284"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "santa barbara",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "valley": {
+            "latitude": "34.0148403",
+            "closest_to": "santa barbara",
+            "address": "Valley, South Stimson Avenue, Industry, Los Angeles County, California, 91745, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.955234675878"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "santa barbara",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "santa barbara botanic garden": {
+            "latitude": "34.456953",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Botanic Gardens, Mission Canyon Road, Mission Canyon, Santa Barbara County, California, 93105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.709585108231"
+        },
+        "desert hot springs": {
+            "latitude": "33.961124",
+            "closest_to": "san bernardino",
+            "address": "Desert Hot Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.5016783"
+        },
+        "santa barbara county park": {
+            "latitude": "34.7136533",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.9858231"
+        },
+        "muscle beach": {
+            "latitude": "33.985446",
+            "closest_to": "santa barbara",
+            "address": "Muscle Beach, Ocean Front Walk, Venice, LA, Los Angeles County, California, 90292, United States of America",
+            "locType": "sports_centre",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4725820875"
+        },
+        "montana de oro": {
+            "latitude": "35.310291",
+            "closest_to": "santa barbara",
+            "address": "Montana Way, Vista De Oro Estates, Baywood-Los Osos, San Luis Obispo County, California, 93402, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.8532319"
+        },
+        "xa0hollywood boulevard": {
+            "latitude": "32.6636712",
+            "closest_to": "san bernardino",
+            "address": "Boulevard, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.2736289"
+        },
+        "pomona": {
+            "latitude": "34.0553813",
+            "closest_to": "santa barbara",
+            "address": "Pomona, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.sbsun.com/search?text=melissa&sort=modifiedtime+desc"
+            ],
+            "longitude": "-117.7517495"
+        },
+        "olvera street": {
+            "latitude": "34.0581578",
+            "closest_to": "santa barbara",
+            "address": "Olvera Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "pedestrian",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.2373201"
+        },
+        "prospect avenue": {
+            "latitude": "33.9681166",
+            "closest_to": "santa barbara",
+            "address": "Prospect Avenue, Riverside, Riverside County, California, 92507, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.369273"
+        },
+        "mojave river": {
+            "latitude": "34.810823",
+            "closest_to": "san bernardino",
+            "address": "Mojave River, San Bernardino County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville"
+            ],
+            "longitude": "-117.2140293"
+        },
+        "lake casitas": {
+            "latitude": "34.39272655",
+            "closest_to": "santa barbara",
+            "address": "Lake Casitas, Haley Ranch Road, Live Oak Acres, Ventura County, California, 93022, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.333147221653"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "san bernardino",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "mission creek rd.": {
+            "latitude": "33.329445",
+            "closest_to": "san bernardino",
+            "address": "Mission Creek Road, Winterwarm, San Diego County, California, 92028, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2382279"
+        },
+        "old town temecula": {
+            "latitude": "33.49487155",
+            "closest_to": "san bernardino",
+            "address": "Old Town Temecula, 5th Street, Villa Del Sol, Old Town, Temecula, Riverside County, California, 92590, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-117.149796716459"
+        },
+        "mission san luis obispo de tolosa": {
+            "latitude": "35.2807422",
+            "closest_to": "santa barbara",
+            "address": "Mission San Luis Obispo de Tolosa, 782, Chorro Street, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.664098712263"
+        },
+        "venice": {
+            "latitude": "33.995044",
+            "closest_to": "santa barbara",
+            "address": "Venice, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4668874"
+        },
+        "disneyland": {
+            "latitude": "33.8136367",
+            "closest_to": "santa barbara",
+            "address": "DL, 1313, South Harbor Boulevard, Anaheim Resort District, Anaheim, Orange County, California, 92805, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.91971186569"
+        },
+        "moorten botanical garden": {
+            "latitude": "33.8005571",
+            "closest_to": "san bernardino",
+            "address": "Moorten Botanical garden, El Camino Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.545921911214"
+        },
+        "abbot kinney boulevard": {
+            "latitude": "33.9915304",
+            "closest_to": "santa barbara",
+            "address": "Abbot Kinney Boulevard, Venice, LA, Los Angeles County, California, 90291, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4694806"
+        },
+        "madonna rd.": {
+            "latitude": "35.2681037",
+            "closest_to": "santa barbara",
+            "address": "Madonna Road, San Luis Obispo, San Luis Obispo County, California, 93405, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-120.6707001"
+        },
+        "s. california st.": {
+            "latitude": "34.1522814",
+            "closest_to": "santa barbara",
+            "address": "South California Street, Burbank, Los Angeles County, California, 91505, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.335457"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "santa monica mountains": {
+            "latitude": "34.11008435",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica Mountains National Recreation Area, Simes Lane, Seminole Hot Springs, Los Angeles County, California, 91301, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.789983284662"
+        },
+        "ynez valley drive": {
+            "latitude": "34.5947091",
+            "closest_to": "santa barbara",
+            "address": "Mission Santa Ynez, 1760, Mission Drive, Solvang, Santa Barbara County, California, 93464, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.1365368"
+        },
+        "san luis rey": {
+            "latitude": "33.2319797",
+            "closest_to": "san bernardino",
+            "address": "San Luis Rey, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3236484"
+        },
+        "california eureka": {
+            "latitude": "33.8070091",
+            "closest_to": "santa barbara",
+            "address": "Pixar Play Parade, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.9194387"
+        },
+        "oceano": {
+            "latitude": "35.0988648",
+            "closest_to": "santa barbara",
+            "address": "Oceano, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.612393"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "santa barbara",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "san bernardino",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "' angeles crest highway": {
+            "latitude": "34.2122297",
+            "closest_to": "santa barbara",
+            "address": "Angeles Crest Highway, La Ca\u00f1ada Flintridge, Los Angeles County, California, 91011, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2000652"
+        },
+        "newport bay": {
+            "latitude": "33.608355",
+            "closest_to": "santa barbara",
+            "address": "Newport Bay, Via Lido Soud, Balboa Island, Newport Beach, Orange County, California, 92663, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.9092241"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "santa barbara",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "central coast": {
+            "latitude": "35.3611193",
+            "closest_to": "santa barbara",
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-119.1665989"
+        },
+        "south coast plaza": {
+            "latitude": "33.6907283",
+            "closest_to": "santa barbara",
+            "address": "South Coast Plaza, Bear Street, Costa Mesa, Orange County, California, 92704, United States of America",
+            "locType": "mall",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.889168433903"
+        },
+        "san diego zoo safari park": {
+            "latitude": "33.096694",
+            "closest_to": "san bernardino",
+            "address": "San Diego Zoo Safari Park, 15500, San Pasqual Valley Road, San Diego, San Diego County, California, 92025, United States of America",
+            "locType": "zoo",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.995039439834"
+        },
+        "tokyo": {
+            "latitude": "34.0431787",
+            "closest_to": "santa barbara",
+            "address": "Southern California Institute of Architecture, 960, East 3rd Street, Arts District, Little Tokyo Historic District, LA, Los Angeles County, California, 90013, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.2328066"
+        },
+        "coronado": {
+            "latitude": "32.6858854",
+            "closest_to": "san bernardino",
+            "address": "Coronado, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.183089"
+        },
+        "lompoc": {
+            "latitude": "34.6391501",
+            "closest_to": "santa barbara",
+            "address": "Lompoc, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.4579408"
+        },
+        "venice beach": {
+            "latitude": "33.9862012",
+            "closest_to": "santa barbara",
+            "address": "Venice Beach, Venice Beach Bike Path, Venice, LA, Los Angeles County, California, 90405, United States of America",
+            "locType": "police",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4739815"
+        },
+        "metro red": {
+            "latitude": "34.0861975",
+            "closest_to": "santa barbara",
+            "address": "RED Studios Hollywood, Hollywood, LA, Los Angeles County, California, 90038, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.328252510245"
+        },
+        "camp pendleton california": {
+            "latitude": "33.2167022",
+            "closest_to": "san bernardino",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "hollywood hills": {
+            "latitude": "34.1311792",
+            "closest_to": "santa barbara",
+            "address": "Hollywood Hills, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.3355473"
+        },
+        "playa": {
+            "latitude": "32.712273",
+            "closest_to": "san bernardino",
+            "address": "La Playa, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.245314"
+        },
+        "state beach": {
+            "latitude": "34.03385755",
+            "closest_to": "santa barbara",
+            "address": "Malibu Lagoon State Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.679064060789"
+        },
+        "sunset strip": {
+            "latitude": "33.7224763",
+            "closest_to": "san bernardino",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-116.1940439"
+        },
+        "vogue": {
+            "latitude": "34.0909877",
+            "closest_to": "santa barbara",
+            "address": "North Vogue Avenue, Covina, Los Angeles County, California, 91722, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.9152754"
+        },
+        "los alamos": {
+            "latitude": "34.7379311",
+            "closest_to": "santa barbara",
+            "address": "Los Alamos, Bell Street, Los Alamos, Santa Barbara County, California, 93455, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.26591036241"
+        },
+        "rancho": {
+            "latitude": "33.77933665",
+            "closest_to": "san bernardino",
+            "address": "El Rancho, San Jacinto, Riverside County, California, 92583, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville"
+            ],
+            "longitude": "-116.961064091183"
+        },
+        "sagunto st.": {
+            "latitude": "34.612873",
+            "closest_to": "santa barbara",
+            "address": "Sagunto Street, Santa Ynez, Santa Barbara County, California, 93460, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.0880269"
+        },
+        "santa monica pier": {
+            "latitude": "34.0104809",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica Pier, Santa Monica, Los Angeles County, California, CA 90401, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.4960541"
+        },
+        "republic of california": {
+            "latitude": "34.0562192",
+            "closest_to": "santa barbara",
+            "address": "Republic Street, El Pueblo, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.2397302"
+        },
+        "san diego river": {
+            "latitude": "32.7686163",
+            "closest_to": "san bernardino",
+            "address": "San Diego River, San Diego, San Diego County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.1585474"
+        },
+        "tahquitz canyon": {
+            "latitude": "33.8231764",
+            "closest_to": "san bernardino",
+            "address": "East Tahquitz Canyon Way, Palm Springs, Riverside County, California, 99262, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.528254"
+        },
+        "san diego botanic garden": {
+            "latitude": "33.053482",
+            "closest_to": "san bernardino",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "santa barbara museum of art": {
+            "latitude": "34.4233305",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Museum of Art, 1130, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7040239"
+        },
+        "lake elsinore": {
+            "latitude": "33.6680772",
+            "closest_to": "san bernardino",
+            "address": "Lake Elsinore, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3272614"
+        },
+        "inland empire": {
+            "latitude": "33.73849885",
+            "closest_to": "san bernardino",
+            "address": "Inland Empire Energy Center, Romoland, Riverside County, California, 92585, United States of America",
+            "locType": "industrial",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-117.16947092864"
+        },
+        "peninsula": {
+            "latitude": "33.5987849",
+            "closest_to": "santa barbara",
+            "address": "Peninsula, Corona del Mar, Newport Beach, Orange County, California, 92657, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.830566223937"
+        },
+        "west hollywood": {
+            "latitude": "34.0900091",
+            "closest_to": "santa barbara",
+            "address": "West Hollywood, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.3617442"
+        },
+        "altadena": {
+            "latitude": "34.1863161",
+            "closest_to": "santa barbara",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.1352328"
+        },
+        "camp pendleton": {
+            "latitude": "33.2167022",
+            "closest_to": "san bernardino",
+            "address": "Camp Pendleton Boat Basin, San Diego County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.4000394"
+        },
+        "jalama": {
+            "latitude": "34.4980409",
+            "closest_to": "santa barbara",
+            "address": "Jalama, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.4946086"
+        },
+        "san diego bay": {
+            "latitude": "32.6500534",
+            "closest_to": "san bernardino",
+            "address": "San Diego Bay, Leyte Road, Crown Island, Coronado, San Diego County, California, 92118, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.1341977"
+        },
+        "st. anthony": {
+            "latitude": "33.8449442",
+            "closest_to": "santa barbara",
+            "address": "Saints (St Anthony) Stadium, Clark Avenue, Bixby Knolls, Long Beach, Los Angeles County, California, 90712, United States of America",
+            "locType": "pitch",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.132889673818"
+        },
+        "hermosa beach": {
+            "latitude": "33.86428",
+            "closest_to": "santa barbara",
+            "address": "Hermosa Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.3959099"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "santa barbara",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "valley center": {
+            "latitude": "33.2183701",
+            "closest_to": "san bernardino",
+            "address": "Valley Center, San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.0341966"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "santa barbara",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "pismo beach pier": {
+            "latitude": "35.1388074",
+            "closest_to": "santa barbara",
+            "address": "Pismo Beach Pier, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+            "locType": "footway",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.6430002"
+        },
+        "santa barbara mission": {
+            "latitude": "34.4662154",
+            "closest_to": "santa barbara",
+            "address": "KDB-FM (Santa Barbara), Gibraltar Road, Santa Barbara County, California, 93103, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-119.6779962"
+        },
+        "mission canyon": {
+            "latitude": "34.452343",
+            "closest_to": "santa barbara",
+            "address": "Mission Canyon, Tunnel Road, Mission Canyon, Santa Barbara County, California, 93105, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.709998836048"
+        },
+        "balboa peninsula": {
+            "latitude": "33.5975",
+            "closest_to": "santa barbara",
+            "address": "Balboa Peninsula, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.8860521"
+        },
+        "fairview park": {
+            "latitude": "33.74579525",
+            "closest_to": "san bernardino",
+            "address": "Fairview Park, Valle Vista, Riverside County, California, 92554, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-116.880757406863"
+        },
+        "santa maria": {
+            "latitude": "34.9531295",
+            "closest_to": "santa barbara",
+            "address": "Santa Maria, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.4358576"
+        },
+        "salvation mountain": {
+            "latitude": "33.25393385",
+            "closest_to": "san bernardino",
+            "address": "Salvation Mountain, Beal Road, Niland, Imperial County, California, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-115.472593717969"
+        },
+        "japan": {
+            "latitude": "34.0833889",
+            "closest_to": "santa barbara",
+            "address": "Japan LA, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-118.3494693"
+        },
+        "ty warner sea center": {
+            "latitude": "34.4104258",
+            "closest_to": "santa barbara",
+            "address": "Santa Barbara Museum of Natural History Sea Center, 211, Stearns Wharf, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.685686"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "santa barbara",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.870493"
+        },
+        "santa ynez valley": {
+            "latitude": "34.608637",
+            "closest_to": "santa barbara",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "santa barbara",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "closest_to": "santa barbara",
+            "address": "Paris, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.1809078"
+        },
+        "catalina island california": {
+            "latitude": "33.3890232",
+            "closest_to": "santa barbara",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "laguna beach": {
+            "latitude": "33.5420888",
+            "closest_to": "santa barbara",
+            "address": "Laguna Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.7834146"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "santa barbara",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/",
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "san bernardino",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "cambria": {
+            "latitude": "35.5641381",
+            "closest_to": "santa barbara",
+            "address": "Cambria, San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-121.0807467"
+        },
+        "santa clara de asis": {
+            "latitude": "33.8802979",
+            "closest_to": "santa barbara",
+            "address": "Santa Clara de Asis, 22005, Avenida de la Paz, Yorba Linda, Orange County, California, 92887, United States of America",
+            "locType": "place_of_worship",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.746951586583"
+        },
+        "california coast": {
+            "latitude": "32.7586361",
+            "closest_to": "san bernardino",
+            "address": "California Coast Credit Union, Park Boulevard, Hillcrest, San Diego, San Diego County, California, 92116, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/"
+            ],
+            "longitude": "-117.1464145"
+        },
+        "anacapa st.": {
+            "latitude": "34.4234906",
+            "closest_to": "santa barbara",
+            "address": "Anacapa Street, Santa Barbara, Santa Barbara County, California, 93105, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-119.7020361"
+        },
+        "italian riviera": {
+            "latitude": "34.0179803",
+            "closest_to": "santa barbara",
+            "address": "Bay Cities Italian Deli, 1517, Lincoln Boulevard, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "locType": "deli",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-118.4891865"
+        },
+        "avila beach": {
+            "latitude": "35.1799752",
+            "closest_to": "santa barbara",
+            "address": "Avila Beach, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.7318417"
+        },
+        "lake forest": {
+            "latitude": "33.6469261",
+            "closest_to": "santa barbara",
+            "address": "Lake Forest, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.6859212"
+        },
+        "big bear lake": {
+            "latitude": "34.253293",
+            "closest_to": "san bernardino",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-116.932209587315"
+        },
+        "getty museum": {
+            "latitude": "34.07757975",
+            "closest_to": "santa barbara",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "state st.": {
+            "latitude": "34.1572853",
+            "closest_to": "santa barbara",
+            "address": "State Street, San Bernardino, San Bernardino County, California, 92407, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-117.3347322"
+        },
+        "mecca": {
+            "latitude": "33.5701568",
+            "closest_to": "san bernardino",
+            "address": "Mecca, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-116.0745416"
+        },
+        "goleta": {
+            "latitude": "34.4358295",
+            "closest_to": "santa barbara",
+            "address": "Goleta, Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-119.8276388"
+        },
+        "union station los angeles": {
+            "latitude": "34.0560576",
+            "closest_to": "santa barbara",
+            "address": "Union Station, 800, Alameda Street, Naud Junction, Little Tokyo Historic District, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.235796451972"
+        },
+        "piru": {
+            "latitude": "34.4152743",
+            "closest_to": "santa barbara",
+            "address": "Piru, Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.7939823"
+        },
+        "irvine park": {
+            "latitude": "33.9082151",
+            "closest_to": "san bernardino",
+            "address": "Irvine Park, Beaumont, Riverside County, California, 92223, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-116.9604311"
+        },
+        "langham huntington": {
+            "latitude": "34.1202821",
+            "closest_to": "santa barbara",
+            "address": "The Langham Huntington, 1401, Huntington Circle, Pasadena, Los Angeles County, California, 91106, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-118.1333115"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "san bernardino",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "santa claus": {
+            "latitude": "34.407504",
+            "closest_to": "santa barbara",
+            "address": "Santa Claus Lane, Sandyland, Santa Barbara County, California, 93013, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-119.5493439"
+        },
+        "morro bay": {
+            "latitude": "35.3658075",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "la quinta": {
+            "latitude": "33.677474",
+            "closest_to": "san bernardino",
+            "address": "La Quinta, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.viator.com/tours/Los-Angeles/3-Day-California-Coast-Tour-Santa-Barbara-San-Francisco-and-Carmel/d645-3857SFOYOS"
+            ],
+            "longitude": "-116.2958788"
+        },
+        "santa monica mountain": {
+            "latitude": "34.0195598",
+            "closest_to": "santa barbara",
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.4869738"
+        },
+        "mission blvd.": {
+            "latitude": "32.799358",
+            "closest_to": "san bernardino",
+            "address": "Mission Boulevard, Pacific Beach, San Diego, San Diego County, California, 92109, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.2563629"
+        },
+        "manhattan beach": {
+            "latitude": "33.8950839",
+            "closest_to": "santa barbara",
+            "address": "Manhattan Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.4000146"
+        },
+        "radford avenue studio city": {
+            "latitude": "34.1447608",
+            "closest_to": "santa barbara",
+            "address": "Radford Avenue, Studio City, Valley Village, LA, Los Angeles County, California, 91604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-118.3925972"
+        },
+        "morey mansion": {
+            "latitude": "34.0388145",
+            "closest_to": "san bernardino",
+            "address": "Morey Mansion, 190, Terracina Boulevard, Redlands, San Bernardino County, California, 92373, United States of America",
+            "locType": "manor",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.2079729"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "san bernardino",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://californiathroughmylens.com/route-66-attractions-barstow-victorville",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-117.0172076"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "santa barbara",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "san gabriel": {
+            "latitude": "34.0991325",
+            "closest_to": "santa barbara",
+            "address": "San Gabriel, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-118.108604"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "santa barbara",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "santa catalina island": {
+            "latitude": "33.3890232",
+            "closest_to": "santa barbara",
+            "address": "Santa Catalina Island, Los Angeles County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-118.424154004558"
+        },
+        "los olivos": {
+            "latitude": "34.6677646",
+            "closest_to": "santa barbara",
+            "address": "Los Olivos, Santa Barbara County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-120.1148469"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "santa barbara",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://moon.com/2015/04/best-places-to-stay-on-a-california-coast-road-trip/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "san buenaventura": {
+            "latitude": "34.2783355",
+            "closest_to": "santa barbara",
+            "address": "Ventura, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-119.2931742"
+        },
+        "terracina blvd redlands": {
+            "latitude": "34.040267",
+            "closest_to": "san bernardino",
+            "address": "Terracina Boulevard, Redlands, San Bernardino County, California, 92373, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-117.2089428"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "santa barbara",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "morro bay state park": {
+            "latitude": "35.34276815",
+            "closest_to": "santa barbara",
+            "address": "Morro Bay State Park, South Bay Boulevard, Baywood Park, San Luis Obispo County, California, 93442, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://myfamilytravels.com/content/10507-road-trip-usa-pacific-coast-highway-san-francisco-los-angeles"
+            ],
+            "longitude": "-120.826622345451"
+        },
+        "balboa island": {
+            "latitude": "33.6064778",
+            "closest_to": "santa barbara",
+            "address": "Balboa Island, Newport Beach, Orange County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/"
+            ],
+            "longitude": "-117.8920818"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "san bernardino",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/best-christmas-events-in-the-inland-empire/"
+            ],
+            "longitude": "-117.147366"
+        },
+        "irvine park railroad": {
+            "latitude": "33.7962496",
+            "closest_to": "santa barbara",
+            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
+            ],
+            "longitude": "-117.754123588843"
+        },
+        "south mission drive": {
+            "latitude": "34.0857762",
+            "closest_to": "santa barbara",
+            "address": "South Mission Drive, San Bernardino, San Bernardino County, California, 92410, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-117.3098581"
+        },
+        "arroyo grande": {
+            "latitude": "35.1185869",
+            "closest_to": "santa barbara",
+            "address": "Arroyo Grande, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6275007-Between_Morro_Bay_and_Solvang_things_to_do-California.html"
+            ],
+            "longitude": "-120.5907251"
+        },
+        "la purisima mission": {
+            "latitude": "34.6703633",
+            "closest_to": "santa barbara",
+            "address": "La Purisima Mission Parking Place, Purisima Road, Santa Barbara County, California, 93436, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-120.4211694"
+        },
+        "santa paula": {
+            "latitude": "34.3541659",
+            "closest_to": "santa barbara",
+            "address": "Santa Paula, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.daytrippen.com/southern-california-bucket-list/",
+                "https://en.wikipedia.org/wiki/Reportedly_haunted_locations_in_California"
+            ],
+            "longitude": "-119.0592704"
+        },
+        "alamo pintado rd.": {
+            "latitude": "34.62316",
+            "closest_to": "santa barbara",
+            "address": "Alamo Pintado Road, Ballard, Santa Barbara County, California, 93463, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/"
+            ],
+            "longitude": "-120.1181989"
+        }
+    }
+}

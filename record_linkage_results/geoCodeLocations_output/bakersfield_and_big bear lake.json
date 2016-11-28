@@ -1,0 +1,844 @@
+{
+    "bakersfield": {
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lon": "-119.0194638",
+        "lat": "35.3738712",
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "importance": 0.74358237824296,
+        "osm_type": "relation",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "osm_id": "113006",
+        "display_name": "Bakersfield, Kern County, California, United States of America",
+        "type": "city",
+        "place_id": "158454478"
+    },
+    "big bear lake": {
+        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+        "type": "water",
+        "boundingbox": [
+            "34.2375569",
+            "34.2689983",
+            "-116.9775303",
+            "-116.8663043"
+        ],
+        "class": "natural",
+        "importance": 0.80624782713774,
+        "osm_id": "4045674",
+        "lat": "34.253293",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "place_id": "159717820",
+        "osm_type": "relation",
+        "lon": "-116.932209587315"
+    },
+    "mentions": {
+        "san diego": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7174209",
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/",
+                "http://bestwesterncalifornia.com/"
+            ]
+        },
+        "granada hills": {
+            "closest_to": "big bear lake",
+            "locType": "neighbourhood",
+            "address": "Granada Hills, Northridge, LA, Los Angeles County, California, 91344, United States of America",
+            "latitude": "34.2647247",
+            "longitude": "-118.5231414",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ]
+        },
+        "calico": {
+            "closest_to": "bakersfield",
+            "locType": "locality",
+            "address": "Calico, Kern County, California, United States of America",
+            "latitude": "35.6327332",
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "bear lake": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Bear Lake, Riverview, Johnstown, San Diego County, California, 92021, United States of America",
+            "latitude": "32.852283",
+            "longitude": "-116.8849329",
+            "blogLinks": [
+                "http://www.bearlake.org/"
+            ]
+        },
+        "beverly hills": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "latitude": "34.0736204",
+            "longitude": "-118.4003562",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mojave desert": {
+            "closest_to": "big bear lake",
+            "locType": "desert",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "latitude": "35.1456319",
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "moonridge": {
+            "closest_to": "big bear lake",
+            "locType": "hamlet",
+            "address": "Moonridge, San Bernardino County, California, United States of America",
+            "latitude": "34.2352857",
+            "longitude": "-116.8555852",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ]
+        },
+        "san luis obispo county": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "San Luis Obispo County, California, United States of America",
+            "latitude": "35.3540209",
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "usa": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Bakersfield-to-Big-Bear/TripCostHistory/32798802.aspx"
+            ]
+        },
+        "victorville": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Victorville, San Bernardino County, California, United States of America",
+            "latitude": "34.5361067",
+            "longitude": "-117.2911564",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "silver dry lake": {
+            "closest_to": "big bear lake",
+            "locType": "mud",
+            "address": "Silver Lake (Dry), Death Valley Road, San Bernardino County, California, 92309, United States of America",
+            "latitude": "35.33791495",
+            "longitude": "-116.110943804023",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "san pedro": {
+            "closest_to": "big bear lake",
+            "locType": "suburb",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "latitude": "33.7358518",
+            "longitude": "-118.2922933",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Bakersfield-to-Big-Bear/TripCostHistory/32798802.aspx"
+            ]
+        },
+        "idyllwild": {
+            "closest_to": "big bear lake",
+            "locType": "village",
+            "address": "Idyllwild, Riverside County, California, United States of America",
+            "latitude": "33.7400209",
+            "longitude": "-116.7189074",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "bakersfield": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712",
+            "longitude": "-119.0194638",
+            "blogLinks": [
+                "http://www.bearlake.org/",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Bakersfield-to-Big-Bear/TripCostHistory/32798802.aspx",
+                "http://www.homesnap.com/CA/Bakersfield/9615-Big-Bear-Lake-Court"
+            ]
+        },
+        "lake arrowhead": {
+            "closest_to": "big bear lake",
+            "locType": "water",
+            "address": "Lake Arrowhead, Shelter Cove Lane, North Shore, San Bernardino County, California, 92407, United States of America",
+            "latitude": "34.2592869",
+            "longitude": "-117.185753981831",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "san bernardino county": {
+            "closest_to": "big bear lake",
+            "locType": "administrative",
+            "address": "San Bernardino County, California, United States of America",
+            "latitude": "34.8253019",
+            "longitude": "-116.0833143",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "san bernardino": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "San Bernardino, San Bernardino County, California, United States of America",
+            "latitude": "34.1083449",
+            "longitude": "-117.2897651",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/",
+                "http://www.bigbearlake.net/summer/photos-of-the-lake"
+            ]
+        },
+        "arrowhead lake": {
+            "closest_to": "bakersfield",
+            "locType": "water",
+            "address": "Arrowhead Lake, John Muir Trail, Fresno County, California, United States of America",
+            "latitude": "36.8273793",
+            "longitude": "-118.41172724833",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html"
+            ]
+        },
+        "magic mountain": {
+            "closest_to": "big bear lake",
+            "locType": "peak",
+            "address": "Magic Mountain, Ventura County, California, United States of America",
+            "latitude": "34.4724515",
+            "longitude": "-119.2563693",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "mallard bay": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Mallard Street, Encanto, San Diego, San Diego County, California, 92114, United States of America",
+            "latitude": "32.729572",
+            "longitude": "-117.0563279",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "inland center mall": {
+            "closest_to": "big bear lake",
+            "locType": "mall",
+            "address": "Inland Center, West Central Avenue, Inland Center, San Bernardino, San Bernardino County, California, 92408, United States of America",
+            "latitude": "34.08506055",
+            "longitude": "-117.297473820788",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "halloran springs": {
+            "closest_to": "big bear lake",
+            "locType": "hamlet",
+            "address": "Halloran Springs, San Bernardino County, California, United States of America",
+            "latitude": "35.372481",
+            "longitude": "-115.890563",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "redlands": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Redlands, San Bernardino County, California, United States of America",
+            "latitude": "34.069909",
+            "longitude": "-117.248983896912",
+            "blogLinks": [
+                "http://www.homesnap.com/CA/Bakersfield/9615-Big-Bear-Lake-Court"
+            ]
+        },
+        "wolf creek resort": {
+            "closest_to": "big bear lake",
+            "locType": "hotel",
+            "address": "Great Wolf Lodge, Harbor Boulevard, Garden Grove, Orange County, California, 92840, United States of America",
+            "latitude": "33.7789302",
+            "longitude": "-117.916002460128",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "canada": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
+            "latitude": "33.7298842",
+            "longitude": "-117.7641381",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/",
+                "http://bestwesterncalifornia.com/"
+            ]
+        },
+        "palm springs": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "latitude": "33.8246269",
+            "longitude": "-116.5403029",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ]
+        },
+        "eagle ranch": {
+            "closest_to": "big bear lake",
+            "locType": "hamlet",
+            "address": "Eagle Ranch, San Bernardino County, California, United States of America",
+            "latitude": "34.4777741",
+            "longitude": "-117.4078251",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.homesnap.com/CA/Bakersfield/9615-Big-Bear-Lake-Court"
+            ]
+        },
+        "us": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "las angeles": {
+            "closest_to": "big bear lake",
+            "locType": "abandoned",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "latitude": "33.9995929",
+            "longitude": "-118.0668337",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "big bear marina": {
+            "closest_to": "big bear lake",
+            "locType": "construction",
+            "address": "Marina Point on Big Bear Lake, Fawnskin, San Bernardino County, California, 92333, United States of America",
+            "latitude": "34.26394485",
+            "longitude": "-116.938578221043",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "malibu": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7932142",
+            "longitude": "-116.5023561",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "san simeon": {
+            "closest_to": "bakersfield",
+            "locType": "hamlet",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6438587",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "rialto": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Rialto, San Bernardino County, California, United States of America",
+            "latitude": "34.1064001",
+            "longitude": "-117.3703234",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ]
+        },
+        "pasadena": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Pasadena, Los Angeles County, California, United States of America",
+            "latitude": "34.1476452",
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "big bear snow play": {
+            "closest_to": "big bear lake",
+            "locType": "winter_sports",
+            "address": "Big Bear Snow Play, Big Bear Lake, San Bernardino County, California, 92314, United States of America",
+            "latitude": "34.25837955",
+            "longitude": "-116.86709685",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm"
+            ]
+        },
+        "america": {
+            "closest_to": "bakersfield",
+            "locType": "residential",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "latitude": "36.2573198",
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles harbor": {
+            "closest_to": "big bear lake",
+            "locType": "bay",
+            "address": "Los Angeles Harbor, Miner Street, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
+            "latitude": "33.7097418",
+            "longitude": "-118.2675706",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "long beach": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "latitude": "33.78538945",
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "lake arrowhead village": {
+            "closest_to": "big bear lake",
+            "locType": "retail",
+            "address": "Lake Arrowhead Village, Lake Arrowhead, San Bernardino County, California, 92352, United States of America",
+            "latitude": "34.25158015",
+            "longitude": "-117.189172517683",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "big bear": {
+            "closest_to": "big bear lake",
+            "locType": "water",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.253293",
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.bigbear.com/things-to-do/",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "glendale": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Glendale, Los Angeles County, California, United States of America",
+            "latitude": "34.1423455",
+            "longitude": "-118.248367",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "hilton garden inn san bernardino": {
+            "closest_to": "big bear lake",
+            "locType": "hotel",
+            "address": "Hilton Garden Inn, 11481, Mission Vista Drive, Rancho Cucamonga, San Bernardino County, California, 91730, United States of America",
+            "latitude": "34.0790286",
+            "longitude": "-117.55450015",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "north shore drive": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "North Shore Drive, Ontario, San Bernardino County, California, 91761, United States of America",
+            "latitude": "34.0146349",
+            "longitude": "-117.5868906",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "big bear lake": {
+            "closest_to": "big bear lake",
+            "locType": "water",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.253293",
+            "longitude": "-116.932209587315",
+            "blogLinks": [
+                "http://www.bigbear.com/things-to-do/",
+                "http://www.bigbearlake.net/summer/photos-of-the-lake",
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "http://www.roadsideamerica.com/location/ca/all",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "united states": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                "http://bestwesterncalifornia.com/"
+            ]
+        },
+        "stanfield cutoff": {
+            "closest_to": "big bear lake",
+            "locType": "tertiary",
+            "address": "Stanfield Cutoff, Minnelusa, San Bernardino County, California, 92314, United States of America",
+            "latitude": "34.2601412",
+            "longitude": "-116.8845335",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "barstow": {
+            "closest_to": "big bear lake",
+            "locType": "administrative",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "latitude": "34.8957684",
+            "longitude": "-117.0172076",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mall of victor valley": {
+            "closest_to": "big bear lake",
+            "locType": "mall",
+            "address": "The Mall of Victor Valley, Amargosa Road, Victorville, San Bernardino County, California, 92392, United States of America",
+            "latitude": "34.4736697",
+            "longitude": "-117.347349",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "pacific coast highway": {
+            "closest_to": "big bear lake",
+            "locType": "primary",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "latitude": "33.6595127",
+            "longitude": "-118.0051687",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "los angeles": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "latitude": "34.0543942",
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "http://gocalifornia.about.com/od/cabigbear/a/big-bear.htm",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "anaheim": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Anaheim, Orange County, California, United States of America",
+            "latitude": "33.8347516",
+            "longitude": "-117.9117319",
+            "blogLinks": [
+                "http://bestwesterncalifornia.com/"
+            ]
+        },
+        "burbank": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "latitude": "34.1816482",
+            "longitude": "-118.3258553",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "north shore": {
+            "closest_to": "big bear lake",
+            "locType": "hamlet",
+            "address": "North Shore, San Bernardino County, California, United States of America",
+            "latitude": "34.2680613",
+            "longitude": "-117.1842077",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "bellagio": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Bellagio, Laguna Niguel, Orange County, California, 92677, United States of America",
+            "latitude": "33.5203333",
+            "longitude": "-117.7012358",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "wilshire blvd": {
+            "closest_to": "big bear lake",
+            "locType": "primary",
+            "address": "Wilshire Boulevard, Koreatown, Saint James Park, LA, Los Angeles County, California, 90005, United States of America",
+            "latitude": "34.0617231",
+            "longitude": "-118.3036614",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "radford avenue studio city": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Radford Avenue, Studio City, Valley Village, LA, Los Angeles County, California, 91604, United States of America",
+            "latitude": "34.1447608",
+            "longitude": "-118.3925972",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "ventura county": {
+            "closest_to": "big bear lake",
+            "locType": "administrative",
+            "address": "Ventura County, California, United States of America",
+            "latitude": "34.4458248",
+            "longitude": "-119.0779358",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "southern california": {
+            "closest_to": "big bear lake",
+            "locType": "university",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "latitude": "34.0224149",
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://bestwesterncalifornia.com/",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels",
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "fawnskin": {
+            "closest_to": "big bear lake",
+            "locType": "hamlet",
+            "address": "Fawnskin, San Bernardino County, California, United States of America",
+            "latitude": "34.2680621",
+            "longitude": "-116.9425341",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "arizona": {
+            "closest_to": "big bear lake",
+            "locType": "track",
+            "address": "Arizona, San Bernardino County, California, 92371, United States of America",
+            "latitude": "34.4631398",
+            "longitude": "-117.5060679",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "pittsford park": {
+            "closest_to": "big bear lake",
+            "locType": "park",
+            "address": "Pittsford Park, Ives Way, San Rita, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
+            "latitude": "33.6494795",
+            "longitude": "-117.671327857135",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "desert view trail": {
+            "closest_to": "big bear lake",
+            "locType": "footway",
+            "address": "Desert View Trail, Mount Laguna, San Diego County, California, 91948, United States of America",
+            "latitude": "32.8658996",
+            "longitude": "-116.4139785",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "u.s.s.": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ]
+        },
+        "boulder bay park": {
+            "closest_to": "big bear lake",
+            "locType": "park",
+            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "latitude": "34.23859285",
+            "longitude": "-116.949195007263",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "la": {
+            "closest_to": "bakersfield",
+            "locType": "administrative",
+            "address": "California, United States of America",
+            "latitude": "36.7014631",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/",
+                "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html"
+            ]
+        },
+        "valley station": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Station, Las Flores, Ladera Ranch, Orange County, California, 92694, United States of America",
+            "latitude": "33.5672695",
+            "longitude": "-117.6292572",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "hollywood": {
+            "closest_to": "big bear lake",
+            "locType": "suburb",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "latitude": "34.1028268",
+            "longitude": "-118.3299898",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "pahvant valley": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Pahvant Street, Oceanside, San Diego County, California, 92054, United States of America",
+            "latitude": "33.207317",
+            "longitude": "-117.3546299",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "newport beach": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "latitude": "33.6170092",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ]
+        },
+        "los angeles county": {
+            "closest_to": "big bear lake",
+            "locType": "administrative",
+            "address": "Los Angeles County, California, United States of America",
+            "latitude": "34.3155072",
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "mountain station": {
+            "closest_to": "big bear lake",
+            "locType": "residential",
+            "address": "Mountain, Pinecrest, Mission Viejo, Orange County, California, 92679, United States of America",
+            "latitude": "33.6541559",
+            "longitude": "-117.6417457",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        },
+        "veterans memorial highway": {
+            "closest_to": "big bear lake",
+            "locType": "trunk",
+            "address": "Veterans Memorial Highway, San Bernardino County, California, United States of America",
+            "latitude": "35.1758907",
+            "longitude": "-114.8493202",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "orange county": {
+            "closest_to": "big bear lake",
+            "locType": "administrative",
+            "address": "Orange County, California, United States of America",
+            "latitude": "33.7500378",
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "muddy river": {
+            "closest_to": "bakersfield",
+            "locType": "stream",
+            "address": "Muddy Creek, Kern County, California, United States of America",
+            "latitude": "35.016524",
+            "longitude": "-119.2417891",
+            "blogLinks": [
+                "http://www.10best.com/interests/travel-features/road-trip-10-must-see-spots-from-salt-lake-city-to-san-diego/"
+            ]
+        },
+        "carlsbad": {
+            "closest_to": "big bear lake",
+            "locType": "city",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "latitude": "33.1580933",
+            "longitude": "-117.3505938",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ]
+        },
+        "luckie park": {
+            "closest_to": "big bear lake",
+            "locType": "park",
+            "address": "Luckie Park, Mojave Road, San Bernardino County, California, United States of America",
+            "latitude": "35.1485944",
+            "longitude": "-116.0380661",
+            "blogLinks": [
+                "https://www.expedia.com/Big-Bear-Lake-Hotels.d6919.Travel-Guide-Hotels"
+            ]
+        },
+        "old town pasadena": {
+            "closest_to": "big bear lake",
+            "locType": "town",
+            "address": "Altadena, Los Angeles County, California, United States of America",
+            "latitude": "34.1863161",
+            "longitude": "-118.1352328",
+            "blogLinks": [
+                "http://losangeles.cbslocal.com/top-lists/where-to-play-in-the-snow/"
+            ]
+        }
+    }
+}

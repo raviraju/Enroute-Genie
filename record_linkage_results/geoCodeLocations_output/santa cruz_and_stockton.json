@@ -1,0 +1,795 @@
+{
+    "stockton": {
+        "type": "city",
+        "osm_id": "112382",
+        "class": "place",
+        "importance": 0.7132631887217,
+        "lat": "37.9577016",
+        "lon": "-121.2907795",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157785814",
+        "osm_type": "relation"
+    },
+    "santa cruz": {
+        "type": "city",
+        "osm_id": "111737",
+        "class": "place",
+        "importance": 0.80562903030115,
+        "lat": "36.9735903",
+        "lon": "-122.0260569",
+        "boundingbox": [
+            "36.9479995",
+            "37.0251537",
+            "-122.1512979",
+            "-121.9867104"
+        ],
+        "display_name": "Santa Cruz, Santa Cruz County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "157779626",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "closest_to": "stockton",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
+            "locType": "census",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.535021480702"
+        },
+        "little sur river": {
+            "latitude": "36.339883",
+            "closest_to": "santa cruz",
+            "address": "Little Sur River, Monterey County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.818577"
+        },
+        "el salchichero": {
+            "latitude": "36.958804",
+            "closest_to": "santa cruz",
+            "address": "El Salchichero, 402, Ingalls Street, Westside Industrial District, Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "supermarket",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php"
+            ],
+            "longitude": "-122.0489131"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "stockton",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "closest_to": "santa cruz",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9232878"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "closest_to": "santa cruz",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "half moon bay": {
+            "latitude": "37.4635519",
+            "closest_to": "stockton",
+            "address": "Half Moon Bay, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.4285861"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "santa cruz",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://koa.com/states-provinces/california/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "california delta": {
+            "latitude": "38.2014877",
+            "closest_to": "stockton",
+            "address": "Snug Harbor, Solano County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.visitstockton.org/"
+            ],
+            "longitude": "-121.6126406"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "stockton",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Santa-Cruz-to-stockton--CA/FlightHistory/1715011.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6499905-Santa_Cruz_to_Santa_Barbara_Big_Sur-California.html",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://www.santacruz.org/blog/p/3671",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Cruz-to-stockton--CA/TravelFromHistory/1715011.aspx",
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "santa cruz beach": {
+            "latitude": "36.9632617",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Beach, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.santacruz.org/blog/p/3671"
+            ],
+            "longitude": "-122.0189205"
+        },
+        "garland ranch regional park": {
+            "latitude": "36.5119059",
+            "closest_to": "santa cruz",
+            "address": "Garland Ranch Regional Park, River Meadow Road, Carmel Valley Manor, Monterey County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.8224505"
+        },
+        "monterey county": {
+            "latitude": "36.2231079",
+            "closest_to": "santa cruz",
+            "address": "Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.3877427"
+        },
+        "bixby creek": {
+            "latitude": "36.3691036",
+            "closest_to": "santa cruz",
+            "address": "Bixby Creek, Monterey County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.8642246"
+        },
+        "bixby bridge": {
+            "latitude": "36.3710197",
+            "closest_to": "santa cruz",
+            "address": "Bixby Creek Bridge, Notleys Landing, Monterey County, California, 93923, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9017572"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "stockton",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "wilder ranch state park": {
+            "latitude": "36.96021805",
+            "closest_to": "santa cruz",
+            "address": "Wilder Ranch State Park, Coast Road, Westside, Santa Cruz County, California, 95060, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.079566815934"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "santa cruz",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.santacruz.org/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "pfeiffer beach": {
+            "latitude": "36.23934855",
+            "closest_to": "santa cruz",
+            "address": "Pfeiffer Beach, Sycamore Canyon Road, Big Sur, Monterey County, California, 93920, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.81778571416"
+        },
+        "lombard street": {
+            "latitude": "37.802076",
+            "closest_to": "stockton",
+            "address": "1079, Lombard Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.418809"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "stockton",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "tor house": {
+            "latitude": "37.8190177",
+            "closest_to": "stockton",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "closest_to": "stockton",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-120.675382525556"
+        },
+        "san francisco solano": {
+            "latitude": "38.21389995",
+            "closest_to": "stockton",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.458560315194"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "closest_to": "stockton",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.4320022"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "closest_to": "stockton",
+            "address": "San Juan Bautista, San Benito County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.5379893"
+        },
+        "bixby mountain": {
+            "latitude": "36.354962",
+            "closest_to": "santa cruz",
+            "address": "Bixby Mountain, Monterey County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.8407869"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "closest_to": "stockton",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5310873"
+        },
+        "carmel river state beach": {
+            "latitude": "36.5315721",
+            "closest_to": "santa cruz",
+            "address": "Carmel River State Beach, Cabrillo Highway, Carmel Highlands, Monterey County, California, 93923, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.918604967215"
+        },
+        "mcway falls": {
+            "latitude": "36.1578211",
+            "closest_to": "santa cruz",
+            "address": "McWay Falls, Monterey County, California, United States of America",
+            "locType": "waterfall",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.6723957"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "closest_to": "stockton",
+            "address": "Yerba Buena Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3660816"
+        },
+        "hawk tower": {
+            "latitude": "36.5419056",
+            "closest_to": "santa cruz",
+            "address": "Hawk Tower, Stewart Way, Pebble Beach, Monterey County, California, 93923, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.9310658"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "stockton",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "closest_to": "santa cruz",
+            "address": "Soledad, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.3272146"
+        },
+        "santa cruz county": {
+            "latitude": "37.050096",
+            "closest_to": "stockton",
+            "address": "Santa Cruz County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.santacruz.org/blog/p/3671",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6499905-Santa_Cruz_to_Santa_Barbara_Big_Sur-California.html",
+                "http://www.santacruz.org/",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.9905907"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "closest_to": "stockton",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.3890349"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "closest_to": "santa cruz",
+            "address": "Salinas, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.6550371"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "santa cruz",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "https://www.santacruzgalapagoscruise.com/blog/",
+                "http://koa.com/states-provinces/california/",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "santa cruz beach boardwalk": {
+            "latitude": "36.96446855",
+            "closest_to": "santa cruz",
+            "address": "Santa Cruz Beach Boardwalk, Boardwalk, Beach & Boardwalk District (Commercial), Seabright, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.016027247326"
+        },
+        "big sur": {
+            "latitude": "36.270241",
+            "closest_to": "santa cruz",
+            "address": "Big Sur, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6499905-Santa_Cruz_to_Santa_Barbara_Big_Sur-California.html",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.8074544"
+        },
+        "carmel highlands": {
+            "latitude": "36.5041286",
+            "closest_to": "santa cruz",
+            "address": "Carmel Highlands, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.9316212"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "stockton",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g33048-Activities-Santa_Cruz_California.html"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "ano nuevo state park": {
+            "latitude": "37.1642859",
+            "closest_to": "stockton",
+            "address": "A\u00f1o Nuevo State Park, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.328030779329"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "stockton",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "http://www.santacruz.org/",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/",
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html",
+                "http://koa.com/states-provinces/california/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "carmel mission": {
+            "latitude": "36.5426927",
+            "closest_to": "santa cruz",
+            "address": "Mission San Carlos Borromeo de Carmelo, 3080, Rio Road, Carmel-by-the-Sea, Monterey County, California, 93923, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.9197418"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "stockton",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "stockton",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "klondike canyon": {
+            "latitude": "38.6798822",
+            "closest_to": "stockton",
+            "address": "Klondike Way, Bridlewood Canyon, El Dorado County, California, 95762, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.0103391"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "closest_to": "stockton",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "https://www.tripit.com/blog/2016/01/california-driving-distances-and-times.html"
+            ],
+            "longitude": "-121.312847098327"
+        },
+        "watson street": {
+            "latitude": "38.611491",
+            "closest_to": "stockton",
+            "address": "Watson Street, Sacramento County, California, 95864, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php"
+            ],
+            "longitude": "-121.3657959"
+        },
+        "pinnacles national park": {
+            "latitude": "36.4862515",
+            "closest_to": "santa cruz",
+            "address": "Pinnacles National Park, Pinnacles Road, San Benito County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.171140689253"
+        },
+        "balboa park": {
+            "latitude": "37.72494875",
+            "closest_to": "stockton",
+            "address": "Balboa Park, Sergeant John V Young Lane, Ingleside, SF, California, 94112, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.444804424152"
+        },
+        "old coast road": {
+            "latitude": "37.0114572",
+            "closest_to": "santa cruz",
+            "address": "Old Coast Road, Davenport, Santa Cruz County, California, 95017, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-122.1922656"
+        },
+        "pebble beach": {
+            "latitude": "36.5664874",
+            "closest_to": "santa cruz",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "ocean avenue": {
+            "latitude": "37.7320759",
+            "closest_to": "stockton",
+            "address": "Ocean Ave, Ocean Avenue, Saint Francis Wood, SF, California, 94132, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-122.4736116"
+        },
+        "point sur state historic park": {
+            "latitude": "36.315378",
+            "closest_to": "santa cruz",
+            "address": "Point Sur State Historic Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.881955510784"
+        },
+        "carmel valley village": {
+            "latitude": "36.4829185",
+            "closest_to": "santa cruz",
+            "address": "Carmel Valley Village, Holman Road, Carmel Valley Village, Monterey County, California, 93924, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.714600790494"
+        },
+        "east beach": {
+            "latitude": "37.8061771",
+            "closest_to": "stockton",
+            "address": "East Beach, Mason Street, Presidio Heights, SF, California, 94129, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.452368017781"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "closest_to": "santa cruz",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "andrew molera state park": {
+            "latitude": "36.27956995",
+            "closest_to": "santa cruz",
+            "address": "Andrew Molera State Park, Cabrillo Highway, Big Sur, Monterey County, California, 93923, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.visitstockton.org/"
+            ],
+            "longitude": "-121.83084118989"
+        },
+        "la posta": {
+            "latitude": "36.9681662",
+            "closest_to": "stockton",
+            "address": "La Posta, Seabright Avenue, Upper Seabright, Seabright, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://www.sfgate.com/restaurants/diningout/article/Superb-restaurants-for-visitors-to-Santa-Cruz-4986382.php"
+            ],
+            "longitude": "-122.0077602"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "closest_to": "stockton",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-121.9885718"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "stockton",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "san antonio valley": {
+            "latitude": "38.1838069",
+            "closest_to": "stockton",
+            "address": "San Antonio, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "longitude": "-122.5913722"
+        },
+        "rio theatre": {
+            "latitude": "36.9801486",
+            "closest_to": "stockton",
+            "address": "Rio Theatre, Soquel Avenue, Soquel Avenue Commercial Corridor, Eastside, Santa Cruz, Santa Cruz County, California, 95062, United States of America",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.0104295"
+        },
+        "carmel beach": {
+            "latitude": "36.5512525",
+            "closest_to": "santa cruz",
+            "address": "Carmel Beach, Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.929450352027"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "stockton",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6499905-Santa_Cruz_to_Santa_Barbara_Big_Sur-California.html",
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "carmel valley": {
+            "latitude": "36.4796839",
+            "closest_to": "santa cruz",
+            "address": "Carmel Valley, Monterey County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.7324475"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "stockton",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://www.gapyear.com/articles/216212/13-incredible-stops-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "fort romie road": {
+            "latitude": "36.408964",
+            "closest_to": "santa cruz",
+            "address": "Fort Romie Road, Monterey County, California, 93960, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.3755519"
+        },
+        "scenic road": {
+            "latitude": "36.5492648",
+            "closest_to": "santa cruz",
+            "address": "Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.9284886"
+        },
+        "moss landing": {
+            "latitude": "36.7988827",
+            "closest_to": "santa cruz",
+            "address": "Moss Landing, Monterey County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.seemonterey.com/things-to-do/attractions/scenic-drives/"
+            ],
+            "longitude": "-121.786581"
+        }
+    }
+}

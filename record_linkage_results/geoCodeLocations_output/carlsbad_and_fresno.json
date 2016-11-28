@@ -1,0 +1,1352 @@
+{
+    "carlsbad": {
+        "type": "city",
+        "osm_id": "2305279",
+        "class": "place",
+        "importance": 0.66828891079931,
+        "lat": "33.1580933",
+        "lon": "-117.3505938",
+        "boundingbox": [
+            "33.0601812",
+            "33.1824213",
+            "-117.3588312",
+            "-117.2162645"
+        ],
+        "display_name": "Carlsbad, San Diego County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159570669",
+        "osm_type": "relation"
+    },
+    "fresno": {
+        "type": "city",
+        "osm_id": "33120274",
+        "class": "place",
+        "importance": 0.79213103374115,
+        "lat": "36.748793",
+        "lon": "-119.714839601149",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "72530219",
+        "osm_type": "way"
+    },
+    "mentions": {
+        "cannon road": {
+            "latitude": "33.9225345",
+            "closest_to": "fresno",
+            "address": "Cannon Road, Riverside, Riverside County, California, 92506, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3369461"
+        },
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "fresno",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "sunset strip": {
+            "latitude": "33.7224763",
+            "closest_to": "carlsbad",
+            "address": "Sunset Strip, Happy Wanderer, Indio, Riverside County, California, 92201, United States of America",
+            "locType": "living_street",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1940439"
+        },
+        "san jacinto": {
+            "latitude": "33.7839084",
+            "closest_to": "fresno",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "surfrider beach": {
+            "latitude": "34.0329862",
+            "closest_to": "fresno",
+            "address": "Surfrider Beach, Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.6798114"
+        },
+        "palos verdes peninsula ca": {
+            "latitude": "33.77984925",
+            "closest_to": "fresno",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.372196730215"
+        },
+        "tioga pass": {
+            "latitude": "37.9109049",
+            "closest_to": "fresno",
+            "address": "Tioga Pass, Tuolumne County, California, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.2578542"
+        },
+        "usa": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_beaches_in_California"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "lake tahoe": {
+            "latitude": "39.0888982",
+            "closest_to": "fresno",
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-120.050511752934"
+        },
+        "el captain": {
+            "latitude": "39.9234913",
+            "closest_to": "fresno",
+            "address": "Captain Jones Rapids, Tehama County, California, United States of America",
+            "locType": "rapids",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.0827639"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "fresno",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "mammoth lakes": {
+            "latitude": "37.6432525",
+            "closest_to": "fresno",
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.9668508"
+        },
+        "huntington beach": {
+            "latitude": "33.6783336",
+            "closest_to": "fresno",
+            "address": "Huntington Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.0000165"
+        },
+        "el dorado county": {
+            "latitude": "38.7574137",
+            "closest_to": "fresno",
+            "address": "El Dorado County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-120.5276128"
+        },
+        "coast highway 101": {
+            "latitude": "33.6810673",
+            "closest_to": "fresno",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-118.0333633"
+        },
+        "san diego county": {
+            "latitude": "32.9637838",
+            "closest_to": "carlsbad",
+            "address": "San Diego County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=770"
+            ],
+            "longitude": "-116.7706276"
+        },
+        "tamarack avenue": {
+            "latitude": "33.148373",
+            "closest_to": "carlsbad",
+            "address": "Tamarack Avenue, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3439479"
+        },
+        "lake isabella": {
+            "latitude": "35.637646",
+            "closest_to": "fresno",
+            "address": "Lake Isabella, Keyesville Road, Kern County, California, 93240, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.484657714814"
+        },
+        "moreno valley ca": {
+            "latitude": "33.937517",
+            "closest_to": "fresno",
+            "address": "Moreno Valley, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.2305943"
+        },
+        "south carlsbad state beach": {
+            "latitude": "33.08375185",
+            "closest_to": "carlsbad",
+            "address": "South Carlsbad State Beach, Carlsbad Boulevard, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.311268255243"
+        },
+        "lone pine": {
+            "latitude": "36.583176",
+            "closest_to": "fresno",
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.078359194897"
+        },
+        "coarsegold": {
+            "latitude": "37.2621687",
+            "closest_to": "fresno",
+            "address": "Coarsegold, Madera County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.7009833"
+        },
+        "kings canyon national park": {
+            "latitude": "36.91527845",
+            "closest_to": "fresno",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.607655759626"
+        },
+        "ridgecrest": {
+            "latitude": "35.6225064",
+            "closest_to": "fresno",
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.6699413"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "fresno",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-120.507146"
+        },
+        "death valley national park": {
+            "latitude": "36.4914385",
+            "closest_to": "fresno",
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.102293507719"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "closest_to": "fresno",
+            "address": "San Luis Obispo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-120.3757162"
+        },
+        "emerald bay": {
+            "latitude": "38.9599078",
+            "closest_to": "fresno",
+            "address": "Emerald Bay, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-120.0979629"
+        },
+        "mission san luis rey": {
+            "latitude": "33.22648",
+            "closest_to": "fresno",
+            "address": "San Luis Rey Mission Expressway, Oceanside, San Diego County, California, 92057, United States of America",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3235506"
+        },
+        "coachella": {
+            "latitude": "33.6795519",
+            "closest_to": "carlsbad",
+            "address": "Coachella, Riverside County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.1763379"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "fresno",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "carlsbad ave": {
+            "latitude": "34.1621918",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad Avenue, Big River, San Bernardino County, California, 92242, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.movoto.com/fresno-ca/5461-n-carlsbad-ave-fresno-ca-93722-104_438241/"
+            ],
+            "longitude": "-114.3683961"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "closest_to": "fresno",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8676993"
+        },
+        "old town san diego": {
+            "latitude": "32.7542167",
+            "closest_to": "carlsbad",
+            "address": "Old Town San Diego, San Diego County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.1969792"
+        },
+        "california-nevada": {
+            "latitude": "36.17310935",
+            "closest_to": "fresno",
+            "address": "California Hotel, Sky Walk(Connection from Main Street to California, Cultural Corridor, Vegas Heights, Las Vegas, Clark County, Nevada, 89101, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-115.144667930325"
+        },
+        "south lake tahoe": {
+            "latitude": "38.929125",
+            "closest_to": "fresno",
+            "address": "South Lake Tahoe, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.987846390157"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "closest_to": "fresno",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-117.92944"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "fresno",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "santa monica state beach": {
+            "latitude": "34.0101407",
+            "closest_to": "fresno",
+            "address": "Santa Monica State Beach, Santa Monica Beach Path, Santa Monica, Los Angeles County, California, 90401, United States of America",
+            "locType": "nature_reserve",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.498714745971"
+        },
+        "hollywood": {
+            "latitude": "34.1028268",
+            "closest_to": "fresno",
+            "address": "Hollywood, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.3299898"
+        },
+        "kern river valley": {
+            "latitude": "36.6816956",
+            "closest_to": "fresno",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "closest_to": "fresno",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6600552"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "fresno",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "closest_to": "carlsbad",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
+            "locType": "bank",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270809764613"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "fresno",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "badwater basin": {
+            "latitude": "36.2302592",
+            "closest_to": "fresno",
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.767444033304"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "closest_to": "fresno",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.596723958419"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "fresno",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "west coast": {
+            "latitude": "34.0222263",
+            "closest_to": "fresno",
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.4051087"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "closest_to": "fresno",
+            "address": "Fresno, Fresno County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.movoto.com/fresno-ca/5461-n-carlsbad-ave-fresno-ca-93722-104_438241/",
+                "http://www.distancesfrom.com/us/distance-from-Carlsbad-to-fresno-CA/DistanceHistory/6731062.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.714839601149"
+        },
+        "sierra nevada": {
+            "latitude": "39.097593",
+            "closest_to": "fresno",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.1396689"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "closest_to": "fresno",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-120.8499012"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "closest_to": "fresno",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.843618374407"
+        },
+        "oakhurst": {
+            "latitude": "37.333178",
+            "closest_to": "fresno",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.657244022836"
+        },
+        "state of california": {
+            "latitude": "36.1299191",
+            "closest_to": "fresno",
+            "address": "Pleasant Valley State Prison, West Firestone Avenue, Fresno County, California, United States of America",
+            "locType": "prison",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_beaches_in_California"
+            ],
+            "longitude": "-120.245081041269"
+        },
+        "san diego botanic garden": {
+            "latitude": "33.053482",
+            "closest_to": "carlsbad",
+            "address": "San Diego Botanic Garden, Pacific View Lane, Encinitas, San Diego County, California, 92024, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.281085005264"
+        },
+        "santa cruz wharf": {
+            "latitude": "36.9604473",
+            "closest_to": "fresno",
+            "address": "Santa Cruz Bay Company, Municipal Wharf, Beach & Boardwalk District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+            "locType": "gift",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.0205393"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "closest_to": "fresno",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.8766731"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "closest_to": "fresno",
+            "address": "Monrovia, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.0014516"
+        },
+        "tamarack": {
+            "latitude": "38.4388012",
+            "closest_to": "fresno",
+            "address": "Tamarack, Calaveras County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-120.076021"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "closest_to": "fresno",
+            "address": "Visalia, Tulare County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.2920584"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "closest_to": "fresno",
+            "address": "Newport Beach, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.92944"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.california-blog.com/",
+                "https://www.tripadvisor.com/Attractions-g32171-Activities-Carlsbad_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "closest_to": "fresno",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.504677958796"
+        },
+        "glacier point": {
+            "latitude": "37.499192",
+            "closest_to": "fresno",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.8282379"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "closest_to": "fresno",
+            "address": "San Jacinto, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-116.9586349"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "closest_to": "fresno",
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.9466112"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "closest_to": "fresno",
+            "address": "Ojai, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-119.2428889"
+        },
+        "oceanside": {
+            "latitude": "33.1958696",
+            "closest_to": "fresno",
+            "address": "Oceanside, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.3794833"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "fresno",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "panamint valley road": {
+            "latitude": "36.257055",
+            "closest_to": "fresno",
+            "address": "Panamint Valley Road, Inyo County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.3555359"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.distancesfrom.com/us/how-far-is-fresno-CA-from-Carlsbad/HowFarHistory/6731062.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "fulton mall": {
+            "latitude": "36.73552975",
+            "closest_to": "fresno",
+            "address": "Fulton Mall, Fresno County, California, 93701, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.791520463653"
+        },
+        "las angeles": {
+            "latitude": "33.9995929",
+            "closest_to": "fresno",
+            "address": "California, Obregon Street, West Whittier, Rosemead, Los Angeles County, California, 90606, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.0668337"
+        },
+        "owens river": {
+            "latitude": "37.4100005",
+            "closest_to": "fresno",
+            "address": "Owens River, Inyo County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.3819013"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "closest_to": "fresno",
+            "address": "Orange County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-117.870493"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "fresno",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "fresno",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/List_of_beaches_in_California"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "closest_to": "fresno",
+            "address": "Monterey, Monterey County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.866792846206"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "fresno",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "carlsbad village drive": {
+            "latitude": "33.167503",
+            "closest_to": "fresno",
+            "address": "Carlsbad Village Drive, Carlsbad, San Diego County, California, 92008, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-117.3353809"
+        },
+        "tioga road": {
+            "latitude": "37.6577485",
+            "closest_to": "fresno",
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-122.0821668"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "fresno",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "carlsbad",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.timeanddate.com/worldclock/distances.html?n=770",
+                "http://www.movoto.com/fresno-ca/5461-n-carlsbad-ave-fresno-ca-93722-104_438241/",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "closest_to": "fresno",
+            "address": "America, Kings County, California, 93246, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.8948706"
+        },
+        "badwater road": {
+            "latitude": "36.06739",
+            "closest_to": "fresno",
+            "address": "Badwater Road, Inyo County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.7481439"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "closest_to": "fresno",
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.967033937845"
+        },
+        "pebble": {
+            "latitude": "33.6678374",
+            "closest_to": "fresno",
+            "address": "Pebble, Woodbridge, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.7975199"
+        },
+        "big bear lake": {
+            "latitude": "34.253293",
+            "closest_to": "fresno",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-116.932209587315"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "fresno",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "fresno",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "closest_to": "fresno",
+            "address": "Ontario, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.6484303"
+        },
+        "mammoth creek": {
+            "latitude": "37.6055761",
+            "closest_to": "fresno",
+            "address": "Mammoth Creek, Mammoth Lakes, Mono County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-119.0090048"
+        },
+        "benicia": {
+            "latitude": "38.049365",
+            "closest_to": "fresno",
+            "address": "Benicia, Solano County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.1585776"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "closest_to": "fresno",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.678715787326"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "fresno",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "closest_to": "fresno",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.1907532"
+        },
+        "grant grove": {
+            "latitude": "36.2554945",
+            "closest_to": "fresno",
+            "address": "Grant, Inyo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.9939711"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "fresno",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "san francisco de solano": {
+            "latitude": "38.21389995",
+            "closest_to": "fresno",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-122.458560315194"
+        },
+        "carlsbad": {
+            "latitude": "33.1580933",
+            "closest_to": "carlsbad",
+            "address": "Carlsbad, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.distancesfrom.com/us/how-far-is-fresno-CA-from-Carlsbad/HowFarHistory/6731062.aspx",
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                "http://visitcarlsbad.com/",
+                "http://www.distancesfrom.com/us/distance-from-Carlsbad-to-fresno-CA/DistanceHistory/6731062.aspx"
+            ],
+            "longitude": "-117.3505938"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "closest_to": "fresno",
+            "address": "California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Attractions-g32414-Activities-Fresno_California.html",
+                "https://www.tripadvisor.com/Attractions-g32171-Activities-Carlsbad_California.html"
+            ],
+            "longitude": "-118.7559973"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "closest_to": "fresno",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.559919284386"
+        },
+        "kings river": {
+            "latitude": "36.7556141",
+            "closest_to": "fresno",
+            "address": "Kings River, Fresno County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.4451345"
+        },
+        "maturango museum": {
+            "latitude": "35.629956",
+            "closest_to": "fresno",
+            "address": "Maturango Museum, East Las Flores Avenue, Ridgecrest, Kern County, California, 93555, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-117.6695076"
+        },
+        "la jolla cove": {
+            "latitude": "32.85051835",
+            "closest_to": "carlsbad",
+            "address": "La Jolla Cove, Coast Boulevard, La Jolla, San Diego, San Diego County, California, 92037, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-117.273024234204"
+        },
+        "hollywood blvd": {
+            "latitude": "34.1016312",
+            "closest_to": "fresno",
+            "address": "Hollywood Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.32684"
+        },
+        "getty center": {
+            "latitude": "34.07757975",
+            "closest_to": "fresno",
+            "address": "J. Paul Getty Museum, 1200, Getty Center Drive, Westgate Heights, Brentwood, LA, Los Angeles County, California, 90049, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-118.474695033531"
+        },
+        "riverside national cemetery": {
+            "latitude": "33.87692125",
+            "closest_to": "fresno",
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
+            "locType": "cemetery",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-117.270726607134"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "closest_to": "fresno",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.516587698025"
+        },
+        "beverly hills": {
+            "latitude": "34.0736204",
+            "closest_to": "fresno",
+            "address": "Beverly Hills, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.4003562"
+        },
+        "malibu": {
+            "latitude": "33.7932142",
+            "closest_to": "fresno",
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-116.5023561"
+        },
+        "palm springs tramway": {
+            "latitude": "33.85839515",
+            "closest_to": "fresno",
+            "address": "Palm Springs Visitors Center, 2901, Tramway Road, Palm Springs, Riverside County, California, 92262, United States of America",
+            "locType": "information",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.558183152534"
+        },
+        "yosemite valley": {
+            "latitude": "37.734435",
+            "closest_to": "fresno",
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.6064673"
+        },
+        "winchester blvd": {
+            "latitude": "37.2573553",
+            "closest_to": "fresno",
+            "address": "Winchester Boulevard, Los Gatos, Santa Clara County, California, 95030, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-121.965075"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
+            "closest_to": "fresno",
+            "address": "Burbank, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.3258553"
+        },
+        "bakersfield": {
+            "latitude": "35.3738712",
+            "closest_to": "fresno",
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "longitude": "-119.0194638"
+        },
+        "mojave desert ca": {
+            "latitude": "35.1456319",
+            "closest_to": "fresno",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-115.548963686646"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "closest_to": "fresno",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-121.901680002002"
+        },
+        "power plant": {
+            "latitude": "37.31525805",
+            "closest_to": "fresno",
+            "address": "Power Plant, Leigh Avenue, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.sandiego.org/what-to-do/beaches/carlsbad.aspx"
+            ],
+            "longitude": "-121.923997033574"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "closest_to": "fresno",
+            "address": "Long Beach, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-118.158049215311"
+        },
+        "calico": {
+            "latitude": "35.6327332",
+            "closest_to": "fresno",
+            "address": "Calico, Kern County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-119.206496"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "fresno",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "closest_to": "fresno",
+            "address": "Kern River, Tulare County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-118.4124188"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "fresno",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "lake crowley": {
+            "latitude": "37.61903895",
+            "closest_to": "fresno",
+            "address": "Lake Crowley, Layton Springs Road, North Landing, Mono County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-118.731056945814"
+        },
+        "sierra": {
+            "latitude": "39.5849065",
+            "closest_to": "fresno",
+            "address": "Sierra County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html"
+            ],
+            "longitude": "-120.530573"
+        },
+        "barstow": {
+            "latitude": "34.8957684",
+            "closest_to": "fresno",
+            "address": "Barstow, San Bernardino County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-travel-guide-p85"
+            ],
+            "longitude": "-117.0172076"
+        }
+    }
+}

@@ -1,0 +1,929 @@
+{
+    "temecula": {
+        "type": "city",
+        "osm_id": "3866463",
+        "class": "place",
+        "importance": 0.66507963701587,
+        "lat": "33.4946353",
+        "lon": "-117.147366",
+        "boundingbox": [
+            "33.4321253",
+            "33.554625",
+            "-117.2066944",
+            "-117.0548702"
+        ],
+        "display_name": "Temecula, Riverside County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159718106",
+        "osm_type": "relation"
+    },
+    "santa clarita": {
+        "type": "city",
+        "osm_id": "2313083",
+        "class": "place",
+        "importance": 0.75253815368059,
+        "lat": "34.3916641",
+        "lon": "-118.5425859",
+        "boundingbox": [
+            "34.340498",
+            "34.477213",
+            "-118.6131919",
+            "-118.3760709"
+        ],
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159444356",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "pacific coast highway": {
+            "latitude": "33.6595127",
+            "closest_to": "temecula",
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-118.0051687"
+        },
+        "little tujunga canyon road": {
+            "latitude": "34.2879935",
+            "closest_to": "temecula",
+            "address": "Little Tujunga Canyon Road, Lake View Terrace, El Merrie Dell, Los Angeles County, California, 91040, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3678082"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "closest_to": "temecula",
+            "address": "Irvine, Orange County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-117.8259818"
+        },
+        "highway 101": {
+            "latitude": "32.9967358",
+            "closest_to": "temecula",
+            "address": "Highway 101, Solana Beach, San Diego County, California, 92075, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-117.2731974"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
+            "closest_to": "temecula",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Clarita-to-Temecula/TravelFromHistory/19914215.aspx"
+            ],
+            "longitude": "-117.7764481"
+        },
+        "temecula valley": {
+            "latitude": "33.4481335",
+            "closest_to": "temecula",
+            "address": "U.S. Mormon Battalion Trail, Temecula Valley, CA 79, Aguanga, Riverside County, California, United States of America",
+            "locType": "memorial",
+            "blogLinks": [
+                "http://www.temeculawines.org/plan-your-trip/"
+            ],
+            "longitude": "-116.8917787"
+        },
+        "grand park": {
+            "latitude": "34.05545105",
+            "closest_to": "temecula",
+            "address": "Grand Park, North Hill Street, Civic Center, Bunker Hill, LA, Los Angeles County, California, 90012, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.245571530652"
+        },
+        "gaviota": {
+            "latitude": "34.4716558",
+            "closest_to": "santa clarita",
+            "address": "Gaviota, Santa Barbara County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.2148715"
+        },
+        "main beach": {
+            "latitude": "33.541692",
+            "closest_to": "temecula",
+            "address": "Main Beach, South Coast Highway, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "beach",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-117.7847769"
+        },
+        "valley street": {
+            "latitude": "34.0652666",
+            "closest_to": "temecula",
+            "address": "Valley Street, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90057, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2725091"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "closest_to": "temecula",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-118.063517668143"
+        },
+        "sierra highway": {
+            "latitude": "34.5912297",
+            "closest_to": "temecula",
+            "address": "Sierra Highway, Palmdale, Los Angeles County, California, 93550, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.1182306"
+        },
+        "copper hill drive": {
+            "latitude": "34.4631878",
+            "closest_to": "santa clarita",
+            "address": "Copper Hill Drive, Copper Hill, Saugus, Los Angeles County, California, 91354, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5577706"
+        },
+        "old road": {
+            "latitude": "34.3328446",
+            "closest_to": "temecula",
+            "address": "The Old Road, LA, Los Angeles County, California, SCV, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.506284"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "closest_to": "temecula",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "locType": "university",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.286343973446"
+        },
+        "baja": {
+            "latitude": "33.632613",
+            "closest_to": "temecula",
+            "address": "Baja, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://m.yelp.com/www_redirect?path=%2Fsearch%3Ffind_desc%3DBest%2BPlaces%2BTo%2BEat%26find_loc%3DSan%2BFernando%2BValley%252C%2BCA"
+            ],
+            "longitude": "-117.8813349"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "closest_to": "temecula",
+            "address": "Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://visitsantaclarita.com/"
+            ],
+            "longitude": "-118.2096813"
+        },
+        "palm desert": {
+            "latitude": "33.7288179",
+            "closest_to": "temecula",
+            "address": "Palm Desert, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.382571"
+        },
+        "newhall avenue": {
+            "latitude": "34.3646153",
+            "closest_to": "temecula",
+            "address": "Newhall Avenue, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.501592"
+        },
+        "sand canyon": {
+            "latitude": "35.3074597",
+            "closest_to": "santa clarita",
+            "address": "Sand Canyon, Kern County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4286955"
+        },
+        "rialto": {
+            "latitude": "34.1064001",
+            "closest_to": "temecula",
+            "address": "Rialto, San Bernardino County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-117.3703234"
+        },
+        "whitney canyon": {
+            "latitude": "34.3658881",
+            "closest_to": "temecula",
+            "address": "Whitney Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4929088"
+        },
+        "placerita canyon": {
+            "latitude": "34.3758312",
+            "closest_to": "temecula",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4459162"
+        },
+        "vasquez canyon road": {
+            "latitude": "34.4729666",
+            "closest_to": "temecula",
+            "address": "Vasquez Canyon Road, Forest Park, Los Angeles County, California, 91351, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4403313"
+        },
+        "rubidoux": {
+            "latitude": "33.994015",
+            "closest_to": "temecula",
+            "address": "Rubidoux, Pacific Avenue, Rubidoux, Jurupa Valley, Riverside County, California, 92509, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-117.423740584529"
+        },
+        "mcbean parkway": {
+            "latitude": "34.4425384",
+            "closest_to": "santa clarita",
+            "address": "McBean Parkway, Valencia, Santa Clarita, Los Angeles County, California, 91354, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5539864"
+        },
+        "bouquet canyon road": {
+            "latitude": "34.4335899",
+            "closest_to": "santa clarita",
+            "address": "Bouquet Canyon Road, Saugus, Santa Clarita, Los Angeles County, California, 93551, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5295442"
+        },
+        "shafter": {
+            "latitude": "35.4698255",
+            "closest_to": "santa clarita",
+            "address": "Shafter, Kern County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.285365133155"
+        },
+        "copper hill road": {
+            "latitude": "33.9885857",
+            "closest_to": "temecula",
+            "address": "Copper Hill Road, Hacienda Heights, Rowland, Los Angeles County, California, 90631, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.9410382"
+        },
+        "diamond valley lake": {
+            "latitude": "33.679902",
+            "closest_to": "temecula",
+            "address": "Diamond Valley Lake, Old Mine Road, Egan, Riverside County, California, 92543, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-117.027609780569"
+        },
+        "mammoth lane": {
+            "latitude": "34.4411027",
+            "closest_to": "temecula",
+            "address": "Mammoth Lane, Sand Canyon, Santa Clarita, Los Angeles County, California, 91387, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3847024"
+        },
+        "santa clarita": {
+            "latitude": "34.3916641",
+            "closest_to": "santa clarita",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Hotels-g33047-Santa_Clarita_California-Hotels.html",
+                "http://www.distancesfrom.com/us/distance-from-Santa-Clarita-to-Temecula/DistanceHistory/19914215.aspx",
+                "http://visitsantaclarita.com/",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Temecula-to-Santa-Clarita/TripCostHistory/24724702.aspx",
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation",
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://www.roadsideamerica.com/location/ca/all",
+                "http://www.distancesfrom.com/us/how-far-is-Santa-Clarita-from-Temecula/HowFarHistory/24724702.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Temecula-to-Santa-Clarita/DistanceHistory/32108546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Clarita-to-Temecula/TravelFromHistory/19914215.aspx"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "temecula route": {
+            "latitude": "33.4946353",
+            "closest_to": "temecula",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Santa-Clarita-to-Temecula/TravelFromHistory/19914215.aspx"
+            ],
+            "longitude": "-117.147366"
+        },
+        "washington street": {
+            "latitude": "32.7415883",
+            "closest_to": "temecula",
+            "address": "Washington Street, Kurtz Street, Hillcrest, San Diego, San Diego County, California, 92103, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.1842757"
+        },
+        "indio": {
+            "latitude": "33.7192808",
+            "closest_to": "temecula",
+            "address": "Indio, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.2188053"
+        },
+        "escondido canyon road": {
+            "latitude": "34.4925162",
+            "closest_to": "temecula",
+            "address": "Escondido Canyon Road, White Heather, Los Angeles County, California, 93510, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2854846"
+        },
+        "rancho camulos": {
+            "latitude": "34.40555875",
+            "closest_to": "santa clarita",
+            "address": "5164, Rancho Camulos, Camulos, Ventura County, California, 93040, United States of America",
+            "locType": "farm",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.755598153403"
+        },
+        "katella": {
+            "latitude": "33.8056914",
+            "closest_to": "temecula",
+            "address": "Katella Mobile Home Estates, Stanton, Orange County, California, 92804, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-117.982252942194"
+        },
+        "stonecrest park": {
+            "latitude": "33.7206811",
+            "closest_to": "temecula",
+            "address": "Stonecrest Park, Stonecress Avenue, Fountain Valley, Orange County, California, 92708, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.932636609614"
+        },
+        "sand canyon road": {
+            "latitude": "34.0349536",
+            "closest_to": "temecula",
+            "address": "Sand Canyon Road, Yucaipa (City of), San Bernardino County, California, 92399, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.0955572"
+        },
+        "agua dulce canyon road": {
+            "latitude": "34.492444",
+            "closest_to": "temecula",
+            "address": "Agua Dulce Canyon Road, Agua Dulce, Los Angeles County, California, 91390, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3262663"
+        },
+        "hartford": {
+            "latitude": "33.6964011",
+            "closest_to": "temecula",
+            "address": "Hartford, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-117.7755123"
+        },
+        "wakefield": {
+            "latitude": "33.634624",
+            "closest_to": "temecula",
+            "address": "Wakefield, Canyon Crest, Mission Viejo, Orange County, California, 92692, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.6309917"
+        },
+        "valencia": {
+            "latitude": "34.1466768",
+            "closest_to": "temecula",
+            "address": "Valencia, San Bernardino County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.2725426"
+        },
+        "el pollo loco": {
+            "latitude": "33.8887586",
+            "closest_to": "temecula",
+            "address": "El Pollo Loco, 610, North Main Street, Las Palmas, Corona, Riverside County, California, 92880, United States of America",
+            "locType": "fast_food",
+            "blogLinks": [
+                "https://m.yelp.com/www_redirect?path=%2Fsearch%3Ffind_desc%3DBest%2BPlaces%2BTo%2BEat%26find_loc%3DSan%2BFernando%2BValley%252C%2BCA"
+            ],
+            "longitude": "-117.56470565"
+        },
+        "santa ynez": {
+            "latitude": "34.608637",
+            "closest_to": "santa clarita",
+            "address": "Santa Ynez, Stadium Place, Santa Ynez, Santa Barbara County, California, 93463, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.104677321497"
+        },
+        "sedona": {
+            "latitude": "33.6916439",
+            "closest_to": "temecula",
+            "address": "Sedona, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-117.6689202"
+        },
+        "old town temecula": {
+            "latitude": "33.49487155",
+            "closest_to": "temecula",
+            "address": "Old Town Temecula, 5th Street, Villa Del Sol, Old Town, Temecula, Riverside County, California, 92590, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.149796716459"
+        },
+        "solvang": {
+            "latitude": "34.5958572",
+            "closest_to": "santa clarita",
+            "address": "Solvang, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-120.1390893"
+        },
+        "san francisquito canyon road": {
+            "latitude": "34.6246846",
+            "closest_to": "santa clarita",
+            "address": "San Francisquito Canyon Road, Green Valley, Los Angeles County, California, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4108236"
+        },
+        "santa barbara": {
+            "latitude": "34.4221319",
+            "closest_to": "santa clarita",
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.7026672"
+        },
+        "saugus": {
+            "latitude": "34.4493489",
+            "closest_to": "santa clarita",
+            "address": "Saugus, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5168256"
+        },
+        "cliff drive": {
+            "latitude": "34.0994131",
+            "closest_to": "temecula",
+            "address": "Cliff Drive, Mount Washington, Highland Park, LA, Los Angeles County, California, 90065-1256, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.2273464"
+        },
+        "downtown los angeles": {
+            "latitude": "34.1789188",
+            "closest_to": "temecula",
+            "address": "Downtown Burbank, Front Street, Burbank, Los Angeles County, California, 91502, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.312628"
+        },
+        "' valley street": {
+            "latitude": "34.0652666",
+            "closest_to": "temecula",
+            "address": "Valley Street, Echo Park, Angelino Heights, LA, Los Angeles County, California, 90057, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.2725091"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "closest_to": "temecula",
+            "address": "LA, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://visitsantaclarita.com/",
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.2439408"
+        },
+        "canyon country": {
+            "latitude": "34.4233293",
+            "closest_to": "temecula",
+            "address": "Canyon Country, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.472028"
+        },
+        "bouquet canyon": {
+            "latitude": "34.5773083",
+            "closest_to": "santa clarita",
+            "address": "Bouquet Canyon 6-031 Dam, Los Angeles County, California, United States of America",
+            "locType": "dam",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.3851588"
+        },
+        "towsley canyon park": {
+            "latitude": "34.3573878",
+            "closest_to": "temecula",
+            "address": "Towsley Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5605864"
+        },
+        "granada hills": {
+            "latitude": "34.2647247",
+            "closest_to": "temecula",
+            "address": "Granada Hills, Northridge, LA, Los Angeles County, California, 91344, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.roadsideamerica.com/location/ca/all"
+            ],
+            "longitude": "-118.5231414"
+        },
+        "boston": {
+            "latitude": "33.696779",
+            "closest_to": "temecula",
+            "address": "Boston, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "longitude": "-117.7757132"
+        },
+        "san pedro": {
+            "latitude": "33.7358518",
+            "closest_to": "temecula",
+            "address": "San Pedro, LA, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/how-far-is-Santa-Clarita-from-Temecula/HowFarHistory/24724702.aspx"
+            ],
+            "longitude": "-118.2922933"
+        },
+        "hart park": {
+            "latitude": "33.7774513",
+            "closest_to": "temecula",
+            "address": "Hart Park, South Grand Street, Orange, Orange County, California, 92866, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-117.850866971889"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "closest_to": "temecula",
+            "address": "San Diego, San Diego County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.temeculawines.org/plan-your-trip/"
+            ],
+            "longitude": "-117.1627713"
+        },
+        "new england": {
+            "latitude": "33.8793794",
+            "closest_to": "temecula",
+            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-118.0890007"
+        },
+        "castaic lake": {
+            "latitude": "34.5406179",
+            "closest_to": "santa clarita",
+            "address": "Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://visitsantaclarita.com/things-to-do/",
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.587025025849"
+        },
+        "santa clarita valley": {
+            "latitude": "34.3916641",
+            "closest_to": "santa clarita",
+            "address": "Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5425859"
+        },
+        "los alamitos": {
+            "latitude": "33.8038865",
+            "closest_to": "temecula",
+            "address": "Los Alamitos, Orange County, California, United States of America",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-118.0772432"
+        },
+        "santa barbara county": {
+            "latitude": "34.7136533",
+            "closest_to": "santa clarita",
+            "address": "Santa Barbara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.9858231"
+        },
+        "piru": {
+            "latitude": "34.4152743",
+            "closest_to": "santa clarita",
+            "address": "Piru, Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.7939823"
+        },
+        "channel islands national park": {
+            "latitude": "34.248597",
+            "closest_to": "santa clarita",
+            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "longitude": "-119.266377755078"
+        },
+        "lake skinner": {
+            "latitude": "33.5892362",
+            "closest_to": "temecula",
+            "address": "Lake Skinner, Benton Road, Robert A. Skinner Treatment Plant, French Valley, Country Road Estates, Riverside County, California, 92596, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation"
+            ],
+            "longitude": "-117.059680888587"
+        },
+        "24415 town center drive": {
+            "latitude": "34.2425118",
+            "closest_to": "santa clarita",
+            "address": "Town Center Drive, Oxnard, Ventura County, California, 93036, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.1826021"
+        },
+        "placerita canyon road": {
+            "latitude": "34.3769153",
+            "closest_to": "temecula",
+            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4926118"
+        },
+        "valencia town center": {
+            "latitude": "34.41642985",
+            "closest_to": "santa clarita",
+            "address": "Valencia Town Center, Valencia, Santa Clarita, Los Angeles County, California, 91355, United States of America",
+            "locType": "retail",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.557273163561"
+        },
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "closest_to": "temecula",
+            "address": "San Fernando, Los Angeles County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.4389718"
+        },
+        "st. francis dam": {
+            "latitude": "34.547019",
+            "closest_to": "santa clarita",
+            "address": "St. Francis Dam, Forest Route 5N27, Los Angeles County, California, United States of America",
+            "locType": "ruins",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5126489"
+        },
+        "ventura": {
+            "latitude": "34.4458248",
+            "closest_to": "santa clarita",
+            "address": "Ventura County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-119.0779358"
+        },
+        "temecula": {
+            "latitude": "33.4946353",
+            "closest_to": "temecula",
+            "address": "Temecula, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Santa-Clarita-to-Temecula/DistanceHistory/19914215.aspx",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html",
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Temecula-to-Santa-Clarita/TripCostHistory/24724702.aspx",
+                "http://temeculaca.gov/207/Things-To-Do-Lodging-Transportation",
+                "https://m.yelp.com/www_redirect?path=%2Fsearch%3Ffind_desc%3DBest%2BPlaces%2BTo%2BEat%26find_loc%3DSan%2BFernando%2BValley%252C%2BCA",
+                "http://www.distancesfrom.com/us/how-far-is-Santa-Clarita-from-Temecula/HowFarHistory/24724702.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Temecula-to-Santa-Clarita/DistanceHistory/32108546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Santa-Clarita-to-Temecula/TravelFromHistory/19914215.aspx"
+            ],
+            "longitude": "-117.147366"
+        },
+        "heisler park": {
+            "latitude": "33.54377575",
+            "closest_to": "temecula",
+            "address": "Heisler Park, Cliff Drive, Laguna Beach, Orange County, California, 92651, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.nbclosangeles.com/entertainment/the-scene/Southern-California-Fireworks-Shows-Los-Angeles-Orange-Riverside-San-Bernardino-July-4th-Fourth-Celebrations-264916921.html"
+            ],
+            "longitude": "-117.791768369303"
+        },
+        "palm springs": {
+            "latitude": "33.8246269",
+            "closest_to": "temecula",
+            "address": "Palm Springs, Riverside County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-116.5403029"
+        },
+        "mediterranean": {
+            "latitude": "33.7439509",
+            "closest_to": "temecula",
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "longitude": "-116.3534838"
+        },
+        "lyons avenue": {
+            "latitude": "34.3786952",
+            "closest_to": "santa clarita",
+            "address": "Lyons Avenue, Valencia, Santa Clarita, Los Angeles County, California, 91327, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5649987"
+        },
+        "william s. hart park": {
+            "latitude": "34.3755536",
+            "closest_to": "temecula",
+            "address": "William S Hart Park, La Loma Road, Newhall, Santa Clarita, Los Angeles County, California, SCV, United States of America",
+            "locType": "tree",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5273077"
+        },
+        "santa paula": {
+            "latitude": "34.3541659",
+            "closest_to": "santa clarita",
+            "address": "Santa Paula, Ventura County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g31310-i140-k1814980-Need_advice_on_stops_between_Los_Angeles_to_Phoenix-Phoenix_Arizona.html"
+            ],
+            "longitude": "-119.0592704"
+        },
+        "newhall": {
+            "latitude": "34.3798765",
+            "closest_to": "temecula",
+            "address": "Newhall, Santa Clarita, Los Angeles County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "http://archive.signalscv.com/archives/16774/"
+            ],
+            "longitude": "-118.5291916"
+        }
+    }
+}

@@ -1,0 +1,1927 @@
+{
+    "san francisco": {
+        "type": "city",
+        "osm_id": "111968",
+        "class": "place",
+        "importance": 0.78836369596997,
+        "lat": "37.7792808",
+        "lon": "-122.4192362",
+        "boundingbox": [
+            "37.6403143",
+            "37.9298443",
+            "-123.1738249",
+            "-122.2817799"
+        ],
+        "display_name": "SF, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "158675742",
+        "osm_type": "relation"
+    },
+    "sacramento": {
+        "type": "city",
+        "osm_id": "6232940",
+        "class": "place",
+        "importance": 0.80674211027009,
+        "lat": "38.5815719",
+        "lon": "-121.4943995",
+        "boundingbox": [
+            "38.437574",
+            "38.685507",
+            "-121.5601199",
+            "-121.3627399"
+        ],
+        "display_name": "Sacramento, Sacramento County, California, United States of America",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "place_id": "159758891",
+        "osm_type": "relation"
+    },
+    "mentions": {
+        "sunnydale": {
+            "latitude": "37.7182547",
+            "closest_to": "san francisco",
+            "address": "Sunnydale Avenue, Crocker-Amazon, SF, California, 94134, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.425989"
+        },
+        "mill valley": {
+            "latitude": "37.9060368",
+            "closest_to": "san francisco",
+            "address": "Mill Valley, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.5449762"
+        },
+        "santa rosa": {
+            "latitude": "38.4404675",
+            "closest_to": "san francisco",
+            "address": "Santa Rosa, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.7144313"
+        },
+        "auburn": {
+            "latitude": "38.8945939",
+            "closest_to": "sacramento",
+            "address": "Auburn, Placer County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.0739896"
+        },
+        "hacker dojo": {
+            "latitude": "37.40298475",
+            "closest_to": "san francisco",
+            "address": "Hacker Dojo, 199, Fairchild Drive, Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America",
+            "locType": "community_centre",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.049929623438"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places",
+                "https://answers.yahoo.com/question/index?qid=20080630092722AAoWNmf"
+            ],
+            "longitude": "-122.0260569"
+        },
+        "rose garden": {
+            "latitude": "37.3339825",
+            "closest_to": "san francisco",
+            "address": "Rose Garden, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-121.9240707"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "closest_to": "san francisco",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3911711"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "vasona park": {
+            "latitude": "37.268274",
+            "closest_to": "san francisco",
+            "address": "Vasona Canal, San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "drain",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9869804"
+        },
+        "yerba buena gardens": {
+            "latitude": "37.78463535",
+            "closest_to": "san francisco",
+            "address": "Yerba Buena Gardens, Howard Street, South of Market, SF, California, 94103, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.402371810367"
+        },
+        "lawrence hall": {
+            "latitude": "37.877629",
+            "closest_to": "san francisco",
+            "address": "Lawrence Berkeley National Laboratory, Chu Road, Northside, Berkeley, Alameda County, California, 94708, United States of America",
+            "locType": "environmental_hazard",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.2520809"
+        },
+        "west portal": {
+            "latitude": "37.7403434",
+            "closest_to": "san francisco",
+            "address": "West Portal, SF, California, 94127, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4663664"
+        },
+        "pacific heights": {
+            "latitude": "37.7965805",
+            "closest_to": "san francisco",
+            "address": "Pacific Heights, SF, California, 94123, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4320311"
+        },
+        "east bay": {
+            "latitude": "38.156964",
+            "closest_to": "sacramento",
+            "address": "East Bay, San Joaquin County, California, United States of America",
+            "locType": "track",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.0270079"
+        },
+        "cole valley": {
+            "latitude": "37.7658133",
+            "closest_to": "san francisco",
+            "address": "Cole Valley, SF, California, 94117, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4499623"
+        },
+        "american riviera": {
+            "latitude": "38.576666",
+            "closest_to": "sacramento",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "longitude": "-121.3602199"
+        },
+        "south beach": {
+            "latitude": "37.7798139",
+            "closest_to": "san francisco",
+            "address": "South Beach, SF, California, 94017, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.3911498"
+        },
+        "sharon meadow": {
+            "latitude": "37.7693726",
+            "closest_to": "san francisco",
+            "address": "Sharon Meadow, Bowling Green Drive, Cole Valley, SF, California, 94118-4504, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.45796685151"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "closest_to": "san francisco",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9551743"
+        },
+        "jenner": {
+            "latitude": "38.4496365",
+            "closest_to": "san francisco",
+            "address": "Jenner, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-123.1155587"
+        },
+        "calaveras big trees state park": {
+            "latitude": "38.2638071",
+            "closest_to": "sacramento",
+            "address": "Calaveras Big Trees State Park, Big Trees Parkway, Snowshoe Springs, Calaveras County, California, 95223, United States of America",
+            "locType": "protected_area",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.278540141632"
+        },
+        "sacramento river": {
+            "latitude": "39.5840295",
+            "closest_to": "sacramento",
+            "address": "Sacramento River, Glenn County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://blog.sfgate.com/sfmoms/2010/06/07/i-5-sacramento-to-redding/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.9960598"
+        },
+        "belmont": {
+            "latitude": "37.5202145",
+            "closest_to": "san francisco",
+            "address": "Belmont, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2758007"
+        },
+        "old town sacramento": {
+            "latitude": "38.5740724",
+            "closest_to": "sacramento",
+            "address": "Arden Town, Sacramento County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.3830077"
+        },
+        "red woods": {
+            "latitude": "37.135082",
+            "closest_to": "san francisco",
+            "address": "Red Hawk Canyon Road, Huckleberry Woods, Santa Cruz County, California, 95006, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.1135969"
+        },
+        "san francisco": {
+            "latitude": "37.7792808",
+            "closest_to": "san francisco",
+            "address": "SF, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k6063670-Best_places_to_stop_between_San_Fran_and_San_Diego_Thanks-San_Francisco_California.html",
+                "https://answers.yahoo.com/question/index?qid=20080630092722AAoWNmf",
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf",
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco",
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://blog.sfgate.com/sfmoms/2010/06/07/i-5-sacramento-to-redding/"
+            ],
+            "longitude": "-122.4192362"
+        },
+        "silverado trail": {
+            "latitude": "38.3077505",
+            "closest_to": "san francisco",
+            "address": "Silverado Trail, Napa, Napa County, California, 94558, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2775328"
+        },
+        "kettleman": {
+            "latitude": "38.1163906",
+            "closest_to": "san francisco",
+            "address": "Kettleman, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf"
+            ],
+            "longitude": "-121.2436738"
+        },
+        "dewey monument": {
+            "latitude": "37.7879582",
+            "closest_to": "san francisco",
+            "address": "Dewey Monument, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "monument",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4074977"
+        },
+        "forest park": {
+            "latitude": "37.1338355",
+            "closest_to": "san francisco",
+            "address": "Forest Park, Santa Cruz County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-122.1385762"
+        },
+        "alcatraz island": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "excelsior": {
+            "latitude": "39.2826769",
+            "closest_to": "sacramento",
+            "address": "Excelsior, Excelsior Point Road, Omega, Nevada County, California, United States of America",
+            "locType": "cliff",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-120.7707711"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "closest_to": "san francisco",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.9980641"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "closest_to": "san francisco",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2728638"
+        },
+        "concord": {
+            "latitude": "37.9768525",
+            "closest_to": "san francisco",
+            "address": "Concord, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0335623"
+        },
+        "healdsburg": {
+            "latitude": "38.6106812",
+            "closest_to": "san francisco",
+            "address": "Healdsburg, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.8701379"
+        },
+        "candlestick": {
+            "latitude": "37.712063",
+            "closest_to": "san francisco",
+            "address": "Candlestick Cove, SF, California, 94124, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.393525911468"
+        },
+        "nuevo state park": {
+            "latitude": "37.1682019",
+            "closest_to": "san francisco",
+            "address": "A\u00f1o Nuevo State Park Cascade Ranch Unit, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.3329541"
+        },
+        "inner richmond": {
+            "latitude": "37.9018697",
+            "closest_to": "san francisco",
+            "address": "Richmond Inner Harbor, Bay Trail, Marina Bay, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.3410815"
+        },
+        "ghirardelli square": {
+            "latitude": "37.80588115",
+            "closest_to": "san francisco",
+            "address": "Ghirardelli Square, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.42294555"
+        },
+        "el dorado county": {
+            "latitude": "38.7574137",
+            "closest_to": "sacramento",
+            "address": "El Dorado County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.5276128"
+        },
+        "clarksburg": {
+            "latitude": "38.4204651",
+            "closest_to": "san francisco",
+            "address": "Clarksburg, Yolo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.5271771"
+        },
+        "washington/california": {
+            "latitude": "39.3593424",
+            "closest_to": "sacramento",
+            "address": "Washington, Nevada County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-120.7991076"
+        },
+        "oaktown": {
+            "latitude": "37.808981",
+            "closest_to": "san francisco",
+            "address": "Oaktown Spice Shop, 546, Grand Avenue, Grand Lake, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "spices",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2505715"
+        },
+        "guangdong": {
+            "latitude": "37.763245",
+            "closest_to": "san francisco",
+            "address": "Guangdong Barbecue Restaurant, 2191, Irving Street, Sunset District, SF, California, 94122, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4812585"
+        },
+        "meritage resort": {
+            "latitude": "38.2460173",
+            "closest_to": "san francisco",
+            "address": "The Meritage Resort and Spa, Trefethen Way, Napa, Napa County, California, 94558, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2740595"
+        },
+        "sunnyvale": {
+            "latitude": "37.3688301",
+            "closest_to": "san francisco",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0363495"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "closest_to": "san francisco",
+            "address": "Vallejo, Solano County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.2566366"
+        },
+        "perth": {
+            "latitude": "37.8594025",
+            "closest_to": "san francisco",
+            "address": "Perth Place, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.232499"
+        },
+        "alameda": {
+            "latitude": "37.6090291",
+            "closest_to": "san francisco",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.8991419"
+        },
+        "atlanta": {
+            "latitude": "37.8129826",
+            "closest_to": "san francisco",
+            "address": "Atlanta, San Joaquin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.1207728"
+        },
+        "chicago": {
+            "latitude": "37.7850531",
+            "closest_to": "san francisco",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k6063670-Best_places_to_stop_between_San_Fran_and_San_Diego_Thanks-San_Francisco_California.html"
+            ],
+            "longitude": "-122.2872948"
+        },
+        "tomales bay": {
+            "latitude": "38.0812158",
+            "closest_to": "san francisco",
+            "address": "Tomales Bay, Bivalve, Marin County, California, 94948, United States of America",
+            "locType": "path",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.8225806"
+        },
+        "mountain view": {
+            "latitude": "37.3855745",
+            "closest_to": "san francisco",
+            "address": "Mountain View, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.0820499"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
+            "closest_to": "sacramento",
+            "address": "Placerville, El Dorado County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.7985459"
+        },
+        "inner sunset": {
+            "latitude": "37.76145",
+            "closest_to": "san francisco",
+            "address": "Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4676431"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "closest_to": "san francisco",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.342234"
+        },
+        "noe valley": {
+            "latitude": "37.7515906",
+            "closest_to": "san francisco",
+            "address": "Noe Valley, SF, California, 94114, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4320813"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "san francisco",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "closest_to": "san francisco",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-121.8905832"
+        },
+        "geyserville": {
+            "latitude": "38.707687",
+            "closest_to": "san francisco",
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.9024963"
+        },
+        "davis": {
+            "latitude": "38.545379",
+            "closest_to": "san francisco",
+            "address": "Davis, Yolo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.7445834"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "closest_to": "san francisco",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "closest_to": "san francisco",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
+            "locType": "tram_stop",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9743159"
+        },
+        "crissy field": {
+            "latitude": "37.80459605",
+            "closest_to": "san francisco",
+            "address": "Crissy Field, Golden Gate Promenade, Presidio Terrace, SF, California, 94129, United States of America",
+            "locType": "common",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.466607142075"
+        },
+        "san francisco harbor": {
+            "latitude": "37.8509548",
+            "closest_to": "san francisco",
+            "address": "KRQR-FM (San Francisco), Wolfback Ridge Road, Marin City, Marin County, California, 94965, United States of America",
+            "locType": "tower",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.4984867"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "closest_to": "san francisco",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2363547"
+        },
+        "midtown sacramento": {
+            "latitude": "38.704982",
+            "closest_to": "sacramento",
+            "address": "Midtown Drive, North Highlands, Sacramento County, California, 95843, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.3855549"
+        },
+        "marin": {
+            "latitude": "38.0409144",
+            "closest_to": "san francisco",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.6199637"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "closest_to": "san francisco",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.3002947"
+        },
+        "lemur forest": {
+            "latitude": "37.7329811",
+            "closest_to": "san francisco",
+            "address": "Lemur Forest, Entry Village, SF, California, 94166, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.504164031494"
+        },
+        "georgetown": {
+            "latitude": "38.9072855",
+            "closest_to": "sacramento",
+            "address": "Georgetown, Harkness Street, Georgetown, El Dorado County, California, 95634, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.830230470459"
+        },
+        "saigon": {
+            "latitude": "37.8060694",
+            "closest_to": "san francisco",
+            "address": "Saigon, San Pablo Avenue, Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2716622"
+        },
+        "cupertino": {
+            "latitude": "37.3230107",
+            "closest_to": "san francisco",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0322518"
+        },
+        "columbia": {
+            "latitude": "38.03227005",
+            "closest_to": "sacramento",
+            "address": "Columbia, Maiden Lane, Columbia, Tuolumne County, California, 95310, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.402418618899"
+        },
+        "marin headlands": {
+            "latitude": "37.856162",
+            "closest_to": "san francisco",
+            "address": "Marin Headlands (GGNRA), Old Springs Trail, Marin City, Marin County, California, 94941, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.534327312107"
+        },
+        "apple hill": {
+            "latitude": "37.3326452",
+            "closest_to": "san francisco",
+            "address": "Apple, Inc., Cupertino, Santa Clara County, California, 95014, United States of America",
+            "locType": "commercial",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.029912865894"
+        },
+        "duboce park": {
+            "latitude": "37.76990735",
+            "closest_to": "san francisco",
+            "address": "Duboce Park, Potomac Street, Western Addition, SF, California, 94117, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.432217269527"
+        },
+        "nisqually": {
+            "latitude": "37.3410017",
+            "closest_to": "san francisco",
+            "address": "Nisqually Drive, Sunnyvale, Santa Clara County, California, 94087, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-122.0447197"
+        },
+        "redwood shores": {
+            "latitude": "37.5318804",
+            "closest_to": "san francisco",
+            "address": "Redwood Shores, San Mateo County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2480218"
+        },
+        "sebastopol": {
+            "latitude": "38.4021359",
+            "closest_to": "san francisco",
+            "address": "Sebastopol, Sonoma County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.8238805"
+        },
+        "lagunitas": {
+            "latitude": "38.011312",
+            "closest_to": "san francisco",
+            "address": "Lagunitas, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.7022084"
+        },
+        "north bay": {
+            "latitude": "36.9740634",
+            "closest_to": "san francisco",
+            "address": "North Bay, East Morrissey, Seabright, Yacht Harbor Manor, Santa Cruz County, California, 95062, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9943726"
+        },
+        "burney falls": {
+            "latitude": "37.92915",
+            "closest_to": "san francisco",
+            "address": "Burney Falls, Stockton, San Joaquin County, California, 95206, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.3140939"
+        },
+        "rincon park": {
+            "latitude": "37.79125225",
+            "closest_to": "san francisco",
+            "address": "Rincon Park, Herb Caen Way..., Financial District, SF, California, 94105, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.389642839324"
+        },
+        "north oakland": {
+            "latitude": "37.8044557",
+            "closest_to": "san francisco",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2713562"
+        },
+        "olympia": {
+            "latitude": "37.0696702",
+            "closest_to": "san francisco",
+            "address": "Olympia, Santa Cruz County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-122.0585742"
+        },
+        "tilden park": {
+            "latitude": "37.8946474",
+            "closest_to": "san francisco",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2416351"
+        },
+        "yuba": {
+            "latitude": "39.2839755",
+            "closest_to": "sacramento",
+            "address": "Yuba County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.3556817"
+        },
+        "pixieland": {
+            "latitude": "37.9894542",
+            "closest_to": "san francisco",
+            "address": "Pixieland Amusement Park, Windy Grove Cars, Concord, Contra Costa County, California, 94519, United States of America",
+            "locType": "theme_park",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.021839297124"
+        },
+        "livermore valley": {
+            "latitude": "37.687781",
+            "closest_to": "san francisco",
+            "address": "LLNL, Mesquite Way, Livermore, Alameda County, California, 94550, United States of America",
+            "locType": "science_park",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.708309238646"
+        },
+        "fort point": {
+            "latitude": "37.8104864",
+            "closest_to": "san francisco",
+            "address": "Fort Point National Historic Site, Marine Drive, SF, California, 94129, United States of America",
+            "locType": "castle",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.476881918058"
+        },
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "closest_to": "san francisco",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.0712855"
+        },
+        "antioch": {
+            "latitude": "38.0049214",
+            "closest_to": "san francisco",
+            "address": "Antioch, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html"
+            ],
+            "longitude": "-121.8057889"
+        },
+        "golden gate bridge": {
+            "latitude": "37.8302809",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4798473"
+        },
+        "alcatraz": {
+            "latitude": "37.8267283",
+            "closest_to": "san francisco",
+            "address": "Alcatraz Island, SF, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.422746492409"
+        },
+        "san mateo": {
+            "latitude": "37.496904",
+            "closest_to": "san francisco",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.3330572"
+        },
+        "guerneville": {
+            "latitude": "38.5116609",
+            "closest_to": "san francisco",
+            "address": "Guerneville, Orchard Road, El Bonita, Sonoma County, California, 95446, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.987128549631"
+        },
+        "pittsburgh": {
+            "latitude": "39.5151683",
+            "closest_to": "sacramento",
+            "address": "Pittsburgh Hill, Yuba County, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.1002348"
+        },
+        "nob hill": {
+            "latitude": "37.7932622",
+            "closest_to": "san francisco",
+            "address": "Nob Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4152489"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "closest_to": "san francisco",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.9010667"
+        },
+        "forest hill": {
+            "latitude": "37.7474307",
+            "closest_to": "san francisco",
+            "address": "Forest Hill, SF, California, 9412, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4635824"
+        },
+        "shanghai": {
+            "latitude": "37.34935045",
+            "closest_to": "san francisco",
+            "address": "Shanghai, Jackson Street, Hensley Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.894015266141"
+        },
+        "maiden lane": {
+            "latitude": "37.7880412",
+            "closest_to": "san francisco",
+            "address": "Maiden Lane, Chinatown, SF, California, 94108, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4066888"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "closest_to": "san francisco",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4854693"
+        },
+        "clos pegase": {
+            "latitude": "38.57234125",
+            "closest_to": "san francisco",
+            "address": "Clos Pegase, Dunaweal Lane, Calistoga, Napa County, California, 94515, United States of America",
+            "locType": "winery",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.555120555435"
+        },
+        "corvallis": {
+            "latitude": "37.2130429",
+            "closest_to": "san francisco",
+            "address": "Corvallis Drive, Almaden, San Jos\u00e9, Santa Clara County, California, 95120, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-121.8539991"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "closest_to": "sacramento",
+            "address": "Pacific, El Dorado County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-120.507146"
+        },
+        "brooklyn": {
+            "latitude": "37.7857615",
+            "closest_to": "san francisco",
+            "address": "Brooklyn Basin, Oakland, Alameda County, California, United States of America",
+            "locType": "dock",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.24858"
+        },
+        "sonoma": {
+            "latitude": "38.5110803",
+            "closest_to": "san francisco",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "feather river": {
+            "latitude": "39.2133502",
+            "closest_to": "sacramento",
+            "address": "Feather River, Yuba County, California, United States of America",
+            "locType": "river",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.6138135"
+        },
+        "south entrance": {
+            "latitude": "38.6466133",
+            "closest_to": "sacramento",
+            "address": "South Entrance, Sacramento, Sacramento County, California, CA 95834, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-121.5138273"
+        },
+        "logan": {
+            "latitude": "36.9068972",
+            "closest_to": "san francisco",
+            "address": "Logan, San Benito County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://blog.sfgate.com/sfmoms/2010/06/07/i-5-sacramento-to-redding/"
+            ],
+            "longitude": "-121.6316117"
+        },
+        "alamo square": {
+            "latitude": "37.7763563",
+            "closest_to": "san francisco",
+            "address": "Alamo Square, Hayes Street, Western Addition, SF, California, 94117, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.434695067171"
+        },
+        "chinatown": {
+            "latitude": "37.7999301",
+            "closest_to": "san francisco",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2702385"
+        },
+        "glen park": {
+            "latitude": "37.73310335",
+            "closest_to": "san francisco",
+            "address": "Glen Park, Bosworth Street, Noe Valley, SF, California, 94127, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.43375495"
+        },
+        "berlin": {
+            "latitude": "37.7914627",
+            "closest_to": "san francisco",
+            "address": "Berlin Way, Dimond District, Oakland, Alameda County, California, 94602, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2096608"
+        },
+        "capitol park": {
+            "latitude": "38.5760675",
+            "closest_to": "san francisco",
+            "address": "Capitol Park, L Street, Sacramento, Sacramento County, California, 95816, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.491446943016"
+        },
+        "california state railroad museum": {
+            "latitude": "38.5846424",
+            "closest_to": "san francisco",
+            "address": "California State Railroad Museum, 125, I Street, Sacramento, Sacramento County, California, 95814, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-121.5038909"
+        },
+        "canada road": {
+            "latitude": "37.5572346",
+            "closest_to": "san francisco",
+            "address": "La Canada Road, Hillsborough, San Mateo County, California, 94010, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.3548905"
+        },
+        "east coast": {
+            "latitude": "37.858337",
+            "closest_to": "san francisco",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2447393"
+        },
+        "upper playground": {
+            "latitude": "37.7715785",
+            "closest_to": "san francisco",
+            "address": "Upper Playground, 220, Haight Street, Western Addition, SF, California, 94117, United States of America",
+            "locType": "clothes",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4302424"
+        },
+        "amador cty": {
+            "latitude": "38.4193553",
+            "closest_to": "sacramento",
+            "address": "Amador City, Amador County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-120.8241029"
+        },
+        "napa": {
+            "latitude": "38.2971367",
+            "closest_to": "san francisco",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2855292"
+        },
+        "point lobos state park": {
+            "latitude": "38.77817125",
+            "closest_to": "sacramento",
+            "address": "Point Lobos State Park, Woodgate Way, Laureate, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "yes",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-121.371560849992"
+        },
+        "broadway": {
+            "latitude": "37.7958391",
+            "closest_to": "san francisco",
+            "address": "Broadway, Russian Hill, SF, California, 94109;94115, United States of America",
+            "locType": "primary",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.4226908"
+        },
+        "bodega bay": {
+            "latitude": "38.273529",
+            "closest_to": "san francisco",
+            "address": "Bodega Bay, Estero Lane, Bodega Bay, Sonoma County, California, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-123.0061117"
+        },
+        "san francisco botanical garden": {
+            "latitude": "37.7673662",
+            "closest_to": "san francisco",
+            "address": "San Francisco Botanical Garden, Lincoln Way, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.469608375011"
+        },
+        "fujitsu planetarium": {
+            "latitude": "37.31892545",
+            "closest_to": "san francisco",
+            "address": "Fujitsu Planetarium, Campus Drive, Cupertino, Santa Clara County, California, 95014-4221, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.046052500132"
+        },
+        "lafayette": {
+            "latitude": "37.8857582",
+            "closest_to": "san francisco",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.11802"
+        },
+        "oak meadow park": {
+            "latitude": "38.5671281",
+            "closest_to": "sacramento",
+            "address": "Oak Meadow Park, American River Drive, Arden Town, Sacramento County, California, 95608, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.3957858"
+        },
+        "golden gate park": {
+            "latitude": "37.7693681",
+            "closest_to": "san francisco",
+            "address": "Golden Gate Park, Overlook Drive, Richmond District, SF, California, 94122, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.482183611177"
+        },
+        "walnut creek": {
+            "latitude": "37.9063131",
+            "closest_to": "san francisco",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.0649629"
+        },
+        "west san francisco": {
+            "latitude": "37.7852231",
+            "closest_to": "san francisco",
+            "address": "W San Francisco, 181, 3rd Street, South of Market, SF, California, 94124, United States of America",
+            "locType": "hotel",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4004933"
+        },
+        "santa nella": {
+            "latitude": "38.497135",
+            "closest_to": "san francisco",
+            "address": "Santa Nella, Sonoma County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-place-to-eat-off-i-5-between-la-and-sf"
+            ],
+            "longitude": "-122.9666643"
+        },
+        "felton": {
+            "latitude": "37.0513364",
+            "closest_to": "san francisco",
+            "address": "Felton, Santa Cruz County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "longitude": "-122.0732905"
+        },
+        "union square": {
+            "latitude": "37.78794125",
+            "closest_to": "san francisco",
+            "address": "Union Square, Post Street, Chinatown, SF, California, 94115, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.407502671706"
+        },
+        "midtown": {
+            "latitude": "36.9748714",
+            "closest_to": "san francisco",
+            "address": "Midtown, Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "locality",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.0146413"
+        },
+        "soma": {
+            "latitude": "37.7808925",
+            "closest_to": "san francisco",
+            "address": "South of Market, SF, California, 94107, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4009517"
+        },
+        "harbin": {
+            "latitude": "38.779391",
+            "closest_to": "san francisco",
+            "address": "Harbin Creek, Lake County, California, United States of America",
+            "locType": "stream",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.6114132"
+        },
+        "bandon": {
+            "latitude": "38.626128",
+            "closest_to": "sacramento",
+            "address": "Bandon Way, Sacramento, Sacramento County, California, 95833, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-sf-to-portland-seattle-vancouver-road-trip-advice"
+            ],
+            "longitude": "-121.5042779"
+        },
+        "sacramento": {
+            "latitude": "38.5815719",
+            "closest_to": "san francisco",
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html",
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://blog.sfgate.com/sfmoms/2010/06/07/i-5-sacramento-to-redding/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.4943995"
+        },
+        "cornerstone gardens": {
+            "latitude": "37.3572362",
+            "closest_to": "san francisco",
+            "address": "Cornerstone at Japantown, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.893825219461"
+        },
+        "embarcadero": {
+            "latitude": "37.7928455",
+            "closest_to": "san francisco",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.396892"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "closest_to": "san francisco",
+            "address": "Lodi, San Joaquin County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.387849546574"
+        },
+        "downtown sacramento": {
+            "latitude": "38.57433815",
+            "closest_to": "san francisco",
+            "address": "downtown, Quill Alley, Sacramento, Sacramento County, California, 95814, United States of America",
+            "locType": "public_building",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.506844644067"
+        },
+        "san francisco international airport": {
+            "latitude": "37.622452",
+            "closest_to": "san francisco",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.384071507814"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "closest_to": "san francisco",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "longitude": "-122.501983281136"
+        },
+        "tioga road": {
+            "latitude": "37.6577485",
+            "closest_to": "san francisco",
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/Travel-g28926-c200326/California:United-States:Road.Trip.San.Francisco.To.Las.Vegas.html"
+            ],
+            "longitude": "-122.0821668"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "closest_to": "san francisco",
+            "address": "Sonoma County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.8473387"
+        },
+        "muir beach": {
+            "latitude": "37.8621493",
+            "closest_to": "san francisco",
+            "address": "Muir Beach, Marin County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.5813666"
+        },
+        "china": {
+            "latitude": "37.9989198",
+            "closest_to": "san francisco",
+            "address": "China Camp State Park, Bay View Trail, Santa Venetia, Marin County, California, 94901, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.49033307856"
+        },
+        "angel island": {
+            "latitude": "37.862338",
+            "closest_to": "san francisco",
+            "address": "Angel Island, Tiburon, Marin County, California, United States of America",
+            "locType": "island",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.430885671184"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "closest_to": "san francisco",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.0597491"
+        },
+        "palestine": {
+            "latitude": "38.627311",
+            "closest_to": "sacramento",
+            "address": "Palestine Lane, Carmichael, Sacramento County, California, 95608, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.3436879"
+        },
+        "farm-to-fork": {
+            "latitude": "37.7960688",
+            "closest_to": "san francisco",
+            "address": "Farm Fresh to You, Gate B, Financial District, SF, California, 94111, United States of America",
+            "locType": "organic",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.3938816"
+        },
+        "sierra nevada": {
+            "latitude": "39.097593",
+            "closest_to": "sacramento",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.1396689"
+        },
+        "potrero hill": {
+            "latitude": "37.7565834",
+            "closest_to": "san francisco",
+            "address": "Potrero Hill, SF, California, United States of America",
+            "locType": "peak",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.3991373"
+        },
+        "east asia": {
+            "latitude": "37.7949149",
+            "closest_to": "san francisco",
+            "address": "Asia, 6th Avenue, San Antonio, Oakland, Alameda County, California, 94606, United States of America",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.2533348"
+        },
+        "san francisco bay": {
+            "latitude": "37.708264",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.2802469"
+        },
+        "morrison planetarium": {
+            "latitude": "37.7699859",
+            "closest_to": "san francisco",
+            "address": "Morrison Planetarium, 55, Music Concourse Drive, Inner Sunset, SF, California, 94122, United States of America",
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.4656039"
+        },
+        "stern grove": {
+            "latitude": "37.7360855",
+            "closest_to": "san francisco",
+            "address": "Sigmund Stern Recreation Grove, Wawona Street, Saint Francis Wood, SF, California, 94116, United States of America",
+            "locType": "park",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.478619131244"
+        },
+        "bay area": {
+            "latitude": "37.7884969",
+            "closest_to": "san francisco",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.3558472"
+        },
+        "redwood grove": {
+            "latitude": "37.157446",
+            "closest_to": "san francisco",
+            "address": "Redwood Grove, Santa Cruz County, California, United States of America",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.1341313"
+        },
+        "penguin island": {
+            "latitude": "37.73246405",
+            "closest_to": "san francisco",
+            "address": "Penguin Island, To Little Puffer Steam Train, SF, California, 94166, United States of America",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.50180545"
+        },
+        "detroit": {
+            "latitude": "37.8190177",
+            "closest_to": "san francisco",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.4793972"
+        },
+        "tenderloin": {
+            "latitude": "37.78178795",
+            "closest_to": "san francisco",
+            "address": "Tenderloin Community School, 627, Turk Street, Western Addition, SF, California, 94102, United States of America",
+            "locType": "school",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.419936056553"
+        },
+        "chateau montelana": {
+            "latitude": "38.7664261",
+            "closest_to": "sacramento",
+            "address": "Chateau Montelana Drive, Zee Estates, El Dorado County, California, 95762, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.0455243"
+        },
+        "north beach": {
+            "latitude": "37.8011749",
+            "closest_to": "san francisco",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.409002"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "closest_to": "sacramento",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.353308848273"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "closest_to": "san francisco",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.4927499"
+        },
+        "richmond": {
+            "latitude": "37.9357576",
+            "closest_to": "san francisco",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.3477485"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "closest_to": "san francisco",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.1634471"
+        },
+        "africa": {
+            "latitude": "37.8212626",
+            "closest_to": "san francisco",
+            "address": "Africa Street, Lower Bottoms, Oakland, Alameda County, California, 94626, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.citypass.com/san-francisco/things-to-do-san-francisco"
+            ],
+            "longitude": "-122.3064005"
+        },
+        "south africa": {
+            "latitude": "37.8749498",
+            "closest_to": "san francisco",
+            "address": "South Africa, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "garden",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-122.2378391"
+        },
+        "los gatos": {
+            "latitude": "37.226611",
+            "closest_to": "san francisco",
+            "address": "Los Gatos, Santa Clara County, California, United States of America",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-121.9746796"
+        },
+        "taipei": {
+            "latitude": "37.3833914",
+            "closest_to": "san francisco",
+            "address": "Taipei Drive, Luna Park, San Jos\u00e9, Santa Clara County, California, 95131, United States of America",
+            "locType": "service",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.8899338"
+        },
+        "seacliff": {
+            "latitude": "36.9744406",
+            "closest_to": "san francisco",
+            "address": "Seacliff, Santa Cruz County, California, United States of America",
+            "locType": "village",
+            "blogLinks": [
+                "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/"
+            ],
+            "longitude": "-121.9121641"
+        },
+        "downtown lodi": {
+            "latitude": "38.1347341",
+            "closest_to": "san francisco",
+            "address": "Downtown Parking Garage, North Sacramento Street, Lodi, San Joaquin County, California, 95240, United States of America",
+            "locType": "parking",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.2718025"
+        },
+        "calistoga": {
+            "latitude": "38.582615",
+            "closest_to": "san francisco",
+            "address": "Calistoga, Napa County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-122.583325948608"
+        },
+        "muir woods": {
+            "latitude": "38.049581",
+            "closest_to": "san francisco",
+            "address": "Muir Woods Avenue, Stockton, San Joaquin County, California, 95209, United States of America",
+            "locType": "residential",
+            "blogLinks": [
+                "http://thisismyhappiness.com/2013/06/02/30-things-to-do-in-northern-california/"
+            ],
+            "longitude": "-121.3457819"
+        },
+        "san carlos": {
+            "latitude": "37.4982065",
+            "closest_to": "san francisco",
+            "address": "San Carlos, San Mateo County, California, United States of America",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "longitude": "-122.266149723864"
+        }
+    }
+}

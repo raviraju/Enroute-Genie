@@ -1,0 +1,1249 @@
+{
+    "san jose": {
+        "boundingbox": [
+            "37.124503",
+            "37.4692175",
+            "-122.0456719",
+            "-121.5891529"
+        ],
+        "lon": "-121.8905832",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.79127376502597,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.3361905",
+        "osm_id": "112143",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159251412",
+        "display_name": "San Jos\u00e9, Santa Clara County, California, United States of America"
+    },
+    "berkeley": {
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "lon": "-122.2728638",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "importance": 0.78550511760774,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "lat": "37.8708393",
+        "osm_id": "2833528",
+        "type": "city",
+        "osm_type": "relation",
+        "place_id": "159273659",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "mentions": {
+        "embarcadero": {
+            "longitude": "-122.396892",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7928455",
+            "address": "Embarcadero, Market Street, Financial District, SF, California, 94111, United States of America",
+            "locType": "station"
+        },
+        "downtown san jose": {
+            "longitude": "-121.890106",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3362112",
+            "address": "Downtown San Jose, East Santa Clara Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95116, United States of America",
+            "locType": "proposed"
+        },
+        "golden gate": {
+            "longitude": "-122.4793972",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8190177",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "strait"
+        },
+        "bancroft way": {
+            "longitude": "-122.2636507",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8681473",
+            "address": "Bancroft Way, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "secondary"
+        },
+        "richmond": {
+            "longitude": "-122.3477485",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9357576",
+            "address": "Richmond, Contra Costa County, California, United States of America",
+            "locType": "city"
+        },
+        "piedmont": {
+            "longitude": "-122.2316349",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8243715",
+            "address": "Piedmont, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "inner richmond": {
+            "longitude": "-122.3410815",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9018697",
+            "address": "Richmond Inner Harbor, Bay Trail, Marina Bay, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "bay"
+        },
+        "napa": {
+            "longitude": "-122.2855292",
+            "blogLinks": [
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.2971367",
+            "address": "Napa, Napa County, California, United States of America",
+            "locType": "city"
+        },
+        "gioia pizzeria": {
+            "longitude": "-122.4219616",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.797552",
+            "address": "Gioia Pizzeria, 2238;2240, Polk Street, Russian Hill, SF, California, 94109, United States of America",
+            "locType": "restaurant"
+        },
+        "san rafael": {
+            "longitude": "-122.5310873",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9735346",
+            "address": "San Rafael, Marin County, California, United States of America",
+            "locType": "city"
+        },
+        "oakland bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "bay bridge": {
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8193514",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
+            "locType": "abandoned"
+        },
+        "rockridge": {
+            "longitude": "-122.251348",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8447104",
+            "address": "Rockridge, Grove Shafter Freeway, Rockridge, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "station"
+        },
+        "gilroy": {
+            "longitude": "-121.5631722",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.0065078",
+            "address": "Gilroy, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "tilden park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "san jose international airport": {
+            "longitude": "-121.928592538997",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.36312115",
+            "address": "Norman Y. Mineta San Jose International Airport, Terminal Drive, Rose Garden, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+            "locType": "aerodrome"
+        },
+        "cupertino": {
+            "longitude": "-122.0322518",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3230107",
+            "address": "Cupertino, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "durant square": {
+            "longitude": "-122.257962530456",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.86818265",
+            "address": "Durant Square, Durant Avenue, Southside, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "food_court"
+        },
+        "uc botanical garden": {
+            "longitude": "-122.239241226147",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8756677",
+            "address": "UC - Botanical Garden lot, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "parking"
+        },
+        "millbrae": {
+            "longitude": "-122.3871941",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.5985468",
+            "address": "Millbrae, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "berkeley rose garden": {
+            "longitude": "-122.263265284396",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88535145",
+            "address": "Berkeley Rose Garden, 1200, Euclid Avenue, Northside, Berkeley, Alameda County, California, 94708:94709, United States of America",
+            "locType": "park"
+        },
+        "berkeley bart": {
+            "longitude": "-122.2833359",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8742984",
+            "address": "North Berkeley BART, Virginia Street, Central Berkeley, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "car_sharing"
+        },
+        "emeryville": {
+            "longitude": "-122.2865265",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8314089",
+            "address": "Emeryville, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san bruno": {
+            "longitude": "-122.4110834",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.6304904",
+            "address": "San Bruno, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "orinda": {
+            "longitude": "-122.1796887",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8771476",
+            "address": "Orinda, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "marin county": {
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0409144",
+            "address": "Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "downtown san francisco": {
+            "longitude": "-122.4047093646",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7845444",
+            "address": "City College of San Francisco Downtown Campus, 88, 4th Street, South of Market, SF, California, 94107, United States of America",
+            "locType": "school"
+        },
+        "golden gate bridge": {
+            "longitude": "-122.4798473",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8302809",
+            "address": "Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
+            "locType": "motorway"
+        },
+        "missouri lounge": {
+            "longitude": "-122.2891189",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8591303",
+            "address": "Missouri Lounge, San Pablo Avenue, Poets Corner, Berkeley, Alameda County, California, 94702, United States of America",
+            "locType": "pub"
+        },
+        "south hall": {
+            "longitude": "-122.2585072",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8713408",
+            "address": "South Hall, South Hall Road, Northside, Berkeley, Alameda County, California, 94720, United States of America",
+            "locType": "yes"
+        },
+        "regional park": {
+            "longitude": "-122.2416351",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8946474",
+            "address": "Charles Lee Tilden Regional Park, Quarry Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "park"
+        },
+        "pleasanton": {
+            "longitude": "-121.8746788",
+            "blogLinks": [
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.6624312",
+            "address": "Pleasanton, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "fort point": {
+            "longitude": "-122.476881918058",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8104864",
+            "address": "Fort Point National Historic Site, Marine Drive, SF, California, 94129, United States of America",
+            "locType": "castle"
+        },
+        "nob hill": {
+            "longitude": "-122.4152489",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7932622",
+            "address": "Nob Hill, SF, California, United States of America",
+            "locType": "peak"
+        },
+        "piedmont ave": {
+            "longitude": "-122.2510042",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8276971",
+            "address": "Piedmont Avenue, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san francisco bay ferry": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "brazil cafe": {
+            "longitude": "-122.2714969",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.871604",
+            "address": "Brazil Cafe, 1960, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "ashby bart station": {
+            "longitude": "-122.2705915",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8520696",
+            "address": "Ashby BART, Martin Luther King Jr Way, South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "car_sharing"
+        },
+        "calif": {
+            "longitude": "-122.2902806",
+            "blogLinks": [
+                "https://www.yelp.com/topic/seattle-driving-from-san-francisco-to-seattle-next-weekend-any-advice"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.786376",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "allston way": {
+            "longitude": "-122.462831",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7417647",
+            "address": "Allston Way, West Portal, SF, California, 94127, United States of America",
+            "locType": "residential"
+        },
+        "mission bay ca": {
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7707742",
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "locType": "neighbourhood"
+        },
+        "craneway pavilion": {
+            "longitude": "-122.358401005531",
+            "blogLinks": [
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.91056235",
+            "address": "The Craneway Pavilion, South Harbor Way, Marina Bay, Richmond, Contra Costa County, California, 94804, United States of America",
+            "locType": "yes"
+        },
+        "santa cruz": {
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "36.9735903",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
+            "locType": "city"
+        },
+        "lake merritt": {
+            "longitude": "-122.2656718",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7974554",
+            "address": "Lake Merritt, 9th Street, Chinatown, Oakland, Alameda County, California, 94607, United States of America",
+            "locType": "station"
+        },
+        "louisiana kitchen": {
+            "longitude": "-122.2675426",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8682414",
+            "address": "Angeline's Louisiana Kitchen, 2261, Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "restaurant"
+        },
+        "north beach": {
+            "longitude": "-122.409002",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8011749",
+            "address": "North Beach, SF, California, 94133, United States of America",
+            "locType": "neighbourhood"
+        },
+        "calif.": {
+            "longitude": "-122.2902806",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g61000-i315-k3722049-Where_to_stop_between_Yosemite_and_San_Francisco-Yosemite_National_Park_California.html"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.786376",
+            "address": "California, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "ardenwood park": {
+            "longitude": "-122.04658567295",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.55967095",
+            "address": "Ardenwood Historic Farm, Centerville District, Fremont, Alameda County, California, 94555, United States of America",
+            "locType": "farm"
+        },
+        "north berkeley": {
+            "longitude": "-122.2736818",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8779506",
+            "address": "North Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "virginia street": {
+            "longitude": "-122.3023816",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.871671",
+            "address": "Virginia Street, Ocean View, Berkeley, Alameda County, California, 94709, United States of America",
+            "locType": "residential"
+        },
+        "sunnyvale": {
+            "longitude": "-122.0363495",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3688301",
+            "address": "Sunnyvale, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "east coast": {
+            "longitude": "-122.2447393",
+            "blogLinks": [
+                "http://www.mygola.com/road-trip-vancouver-to-san-francisco/q4996"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.858337",
+            "address": "Coast, Ashby Avenue, Claremont, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "fuel"
+        },
+        "bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "transverse range": {
+            "longitude": "-122.4815799",
+            "blogLinks": [
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7716493",
+            "address": "Transverse Drive, Richmond District, SF, California, 94121, United States of America",
+            "locType": "unclassified"
+        },
+        "san pablo": {
+            "longitude": "-122.3455262",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9621457",
+            "address": "San Pablo, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "sausalito": {
+            "longitude": "-122.4854693",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/san-francisco/itineraries/where-to-go-from-san-francisco/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8590272",
+            "address": "Sausalito, Marin County, California, United States of America",
+            "locType": "administrative"
+        },
+        "menlo park": {
+            "longitude": "-122.182187",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.4538274",
+            "address": "Menlo Park, San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "fremont bart": {
+            "longitude": "-121.977277",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.5575875",
+            "address": "Fremont BART, BART Way, Centerville District, Fremont, Alameda County, California, 94538, United States of America",
+            "locType": "car_sharing"
+        },
+        "san leandro": {
+            "longitude": "-122.1560767",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7249296",
+            "address": "San Leandro, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "south bay": {
+            "longitude": "-122.4927499",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.794096",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
+            "locType": "bay"
+        },
+        "monterey bay": {
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "san jose",
+            "latitude": "36.7999557",
+            "address": "Monterey Bay, Monterey County, California, United States of America",
+            "locType": "bay"
+        },
+        "shattuck avenue": {
+            "longitude": "-122.2684811",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8729527",
+            "address": "Shattuck Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94609, United States of America",
+            "locType": "secondary"
+        },
+        "milpitas": {
+            "longitude": "-121.9066237",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.4282724",
+            "address": "Milpitas, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "burlingame": {
+            "longitude": "-122.3660824",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.5841026",
+            "address": "Burlingame, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "downtown oakland": {
+            "longitude": "-122.2715243",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8036295",
+            "address": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+            "locType": "neighbourhood"
+        },
+        "marina blvd": {
+            "longitude": "-122.4475598",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.805133",
+            "address": "Marina Boulevard, Marina District, SF, California, 94123, United States of America",
+            "locType": "secondary"
+        },
+        "berkeley marina": {
+            "longitude": "-122.3130527",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8678664",
+            "address": "Berkeley Marina, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "neighbourhood"
+        },
+        "lafayette": {
+            "longitude": "-122.11802",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8857582",
+            "address": "Lafayette, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "oakland coliseum": {
+            "longitude": "-122.200474777544",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7516333",
+            "address": "O.co Coliseum, 7000, Coliseum Way, Melrose, Oakland, Alameda County, California, 94621, United States of America",
+            "locType": "stadium"
+        },
+        "berkeley": {
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "http://www.livability.com/ca",
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.pinterest.com/lydialoving/places-to-visit-bay-area-ca/",
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8708393",
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "fremont": {
+            "longitude": "-121.9885718",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.5482697",
+            "address": "Fremont, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "berkeley inn": {
+            "longitude": "-122.293653351863",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.87265015",
+            "address": "Berkeley Inn, 1720, San Pablo Avenue, West Berkeley, Berkeley, Alameda County, California, 94702, United States of America",
+            "locType": "motel"
+        },
+        "south berkeley": {
+            "longitude": "-122.2723751",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8551575",
+            "address": "South Berkeley, Berkeley, Alameda County, California, 94703, United States of America",
+            "locType": "neighbourhood"
+        },
+        "downtown berkeley": {
+            "longitude": "-122.268136079248",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.87010225",
+            "address": "Downtown Berkeley, Constitution Plaza, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "station"
+        },
+        "telegraph avenue": {
+            "longitude": "-122.2694148",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8102741",
+            "address": "Telegraph Avenue, Uptown, Oakland, Alameda County, California, 94705, United States of America",
+            "locType": "secondary"
+        },
+        "danville": {
+            "longitude": "-121.9999605",
+            "blogLinks": [
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8215929",
+            "address": "Danville, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "north lake ca": {
+            "longitude": "-122.501983281136",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.76958295",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "locType": "water"
+        },
+        "walnut creek": {
+            "longitude": "-122.0649629",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.9063131",
+            "address": "Walnut Creek, Contra Costa County, California, United States of America",
+            "locType": "administrative"
+        },
+        "caffe strada": {
+            "longitude": "-122.4073518",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7986305",
+            "address": "Caffe Trieste, 601, Vallejo Street, North Beach, SF, California, 94133, United States of America",
+            "locType": "cafe"
+        },
+        "potrero hill": {
+            "longitude": "-122.3991373",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7565834",
+            "address": "Potrero Hill, SF, California, United States of America",
+            "locType": "peak"
+        },
+        "elmwood district": {
+            "longitude": "-122.2538686",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8577846",
+            "address": "Elmwood, Berkeley, Alameda County, California, 94705, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san jose state": {
+            "longitude": "-121.88130228815",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3352583",
+            "address": "SJSU, El Paseo de Cesar E Chavez, SoFA, Japantown, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+            "locType": "university"
+        },
+        "tomales bay": {
+            "longitude": "-122.8225806",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/san-francisco/itineraries/where-to-go-from-san-francisco/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.0812158",
+            "address": "Tomales Bay, Bivalve, Marin County, California, 94948, United States of America",
+            "locType": "path"
+        },
+        "chicago": {
+            "longitude": "-122.2872948",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7850531",
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "locType": "residential"
+        },
+        "palo alto": {
+            "longitude": "-122.1634471",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.442156",
+            "address": "Palo Alto, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "alameda": {
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.6090291",
+            "address": "Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco": {
+            "longitude": "-122.4192362",
+            "blogLinks": [
+                "http://www.tvfoodmaps.com/s1/CA",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.tripadvisor.com/ShowTopic-g61000-i315-k3722049-Where_to_stop_between_Yosemite_and_San_Francisco-Yosemite_National_Park_California.html",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://fathomaway.com/guides/usa/san-francisco/itineraries/where-to-go-from-san-francisco/",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/",
+                "https://www.yelp.com/topic/seattle-driving-from-san-francisco-to-seattle-next-weekend-any-advice",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "https://answers.yahoo.com/question/index?qid=20100720110201AARismL",
+                "http://www.livability.com/ca",
+                "http://www.goldengatetours.net/places",
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html",
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php",
+                "http://www.mygola.com/road-trip-vancouver-to-san-francisco/q4996"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7792808",
+            "address": "SF, California, United States of America",
+            "locType": "city"
+        },
+        "shattuck square": {
+            "longitude": "-122.268062355617",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.87168125",
+            "address": "Shattuck Square, Berkeley, Alameda County, California, 94704, United States of America",
+            "locType": "retail"
+        },
+        "nuevo state park": {
+            "longitude": "-122.3329541",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.1682019",
+            "address": "A\u00f1o Nuevo State Park Cascade Ranch Unit, White House Canyon Road, San Mateo County, California, United States of America",
+            "locType": "park"
+        },
+        "san francisco bay": {
+            "longitude": "-122.2802469",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.708264",
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
+            "locType": "bay"
+        },
+        "santa clara": {
+            "longitude": "-121.9551743",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3541132",
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "redwood city": {
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.4852152",
+            "address": "Redwood City, San Mateo County, California, United States of America",
+            "locType": "city"
+        },
+        "felton": {
+            "longitude": "-122.0732905",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.0513364",
+            "address": "Felton, Santa Cruz County, California, United States of America",
+            "locType": "village"
+        },
+        "indian rock park": {
+            "longitude": "-122.272988060644",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8921682",
+            "address": "Indian Rock Park, 950, Indian Rock Avenue, Northbrae, Berkeley, Alameda County, California, 94707, United States of America",
+            "locType": "park"
+        },
+        "san francisco international airport": {
+            "longitude": "-122.384071507814",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.622452",
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "locType": "aerodrome"
+        },
+        "sierra foothills": {
+            "longitude": "-121.8609818",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g61000-i315-k3722049-Where_to_stop_between_Yosemite_and_San_Francisco-Yosemite_National_Park_California.html"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3933656",
+            "address": "Sierra Road, Berryessa, San Jos\u00e9, Santa Clara County, California, 95132, United States of America",
+            "locType": "secondary"
+        },
+        "eastshore freeway": {
+            "longitude": "-122.3003833",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8551979",
+            "address": "Eastshore Freeway, West Berkeley, Berkeley, Alameda County, California, 94710, United States of America",
+            "locType": "motorway"
+        },
+        "oakland": {
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "http://www.livability.com/ca",
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8044557",
+            "address": "Oakland, Alameda County, California, United States of America",
+            "locType": "city"
+        },
+        "purisma creek redwoods": {
+            "longitude": "-122.337283342048",
+            "blogLinks": [
+                "http://fathomaway.com/guides/usa/san-francisco/itineraries/where-to-go-from-san-francisco/"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.4298459",
+            "address": "Purisma Creek Redwoods Open Space Preserve, Purisima Creek Trail, Grabtown, San Mateo County, California, United States of America",
+            "locType": "protected_area"
+        },
+        "caltrain": {
+            "longitude": "-122.399714754263",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.77264255",
+            "address": "Caltrain, SF, California, 94158, United States of America",
+            "locType": "railway"
+        },
+        "grand lake": {
+            "longitude": "-122.2463534",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.8116147",
+            "address": "Grand Lake, Oakland, Alameda County, California, 94610, United States of America",
+            "locType": "neighbourhood"
+        },
+        "san francisco harbor": {
+            "longitude": "-122.4984867",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.8509548",
+            "address": "KRQR-FM (San Francisco), Wolfback Ridge Road, Marin City, Marin County, California, 94965, United States of America",
+            "locType": "tower"
+        },
+        "lake anza": {
+            "longitude": "-122.25039158978",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.89620465",
+            "address": "Lake Anza, Wildcat Gorge Trail, Contra Costa County, California, 94708, United States of America",
+            "locType": "water"
+        },
+        "uc berkeley": {
+            "longitude": "-122.238859169444",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.87631055",
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "locType": "university"
+        },
+        "hearst avenue": {
+            "longitude": "-122.4511591",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7306855",
+            "address": "Hearst Avenue, Ingleside, SF, California, 94112, United States of America",
+            "locType": "residential"
+        },
+        "jack london square": {
+            "longitude": "-122.274685",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7957886",
+            "address": "Jack London Square, Oakland, Alameda County, California, 94607, United States of America",
+            "locType": "neighbourhood"
+        },
+        "santa cruz mountains": {
+            "longitude": "-122.0712855",
+            "blogLinks": [
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.2188403",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
+            "locType": "mountain_range"
+        },
+        "san jose": {
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay",
+                "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                "http://blog.sfgate.com/stew/2014/07/01/4th-of-july-where-to-celebrate-see-fireworks/",
+                "http://www.livability.com/ca",
+                "http://www.goldengatetours.net/places",
+                "http://traveltips.usatoday.com/fun-things-los-angeles-san-francisco-14664.html"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3361905",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "napa valley ca": {
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "38.2972603",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "locType": "secondary"
+        },
+        "albany": {
+            "longitude": "-122.2977474",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.88687",
+            "address": "Albany, Alameda County, California, United States of America",
+            "locType": "administrative"
+        },
+        "san francisco bay area": {
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://wikitravel.org/en/Berkeley_(California)",
+                "http://www.goldengatetours.net/places"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.7884969",
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "locType": "region"
+        },
+        "san mateo": {
+            "longitude": "-122.3330572",
+            "blogLinks": [
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.496904",
+            "address": "San Mateo County, California, United States of America",
+            "locType": "administrative"
+        },
+        "mountain view": {
+            "longitude": "-122.0820499",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland",
+                "https://www.berkeleyparentsnetwork.org/advice/working/commute_southbay"
+            ],
+            "closest_to": "san jose",
+            "latitude": "37.3855745",
+            "address": "Mountain View, Santa Clara County, California, United States of America",
+            "locType": "city"
+        },
+        "bart": {
+            "longitude": "-122.02784936474",
+            "blogLinks": [
+                "https://www.yelp.com/topic/san-francisco-commuting-from-san-francisco-oakland"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.9577752",
+            "address": "BART, Concord, Contra Costa County, California, 94518, United States of America",
+            "locType": "railway"
+        },
+        "richmond district": {
+            "longitude": "-122.4725963",
+            "blogLinks": [
+                "http://www.sfgate.com/living/article/Yelp-top-100-places-eat-Cheeseboard-Gary-Danko-6823746.php"
+            ],
+            "closest_to": "berkeley",
+            "latitude": "37.7806432",
+            "address": "Richmond District, SF, California, 94118, United States of America",
+            "locType": "neighbourhood"
+        }
+    }
+}
