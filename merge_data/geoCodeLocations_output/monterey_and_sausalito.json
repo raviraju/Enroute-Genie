@@ -1,213 +1,370 @@
 {
+    "sausalito": {
+        "lon": "-122.4854693",
+        "display_name": "Sausalito, Marin County, California, United States of America",
+        "importance": 0.64561533453658,
+        "osm_id": "2829689",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "class": "boundary",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.8590272",
+        "place_id": "159575624",
+        "osm_type": "relation",
+        "boundingbox": [
+            "37.8436795",
+            "37.8731429",
+            "-122.5102612",
+            "-122.4753744"
+        ],
+        "type": "administrative"
+    },
     "monterey": {
-        "place_id": "72265425",
+        "lon": "-121.866792846206",
+        "display_name": "Monterey, Monterey County, California, United States of America",
         "importance": 0.71088018078768,
-        "type": "city",
-        "osm_type": "way",
+        "osm_id": "33117009",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "36.5844165",
+        "place_id": "72265425",
+        "osm_type": "way",
         "boundingbox": [
             "36.583508",
             "36.585509",
             "-121.8673379",
             "-121.8661949"
         ],
-        "osm_id": "33117009",
-        "lon": "-121.866792846206",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "36.5844165",
-        "display_name": "Monterey, Monterey County, California, United States of America"
+        "type": "city"
     },
     "mentions": {
-        "ca": {
-            "closest_to": "sausalito",
-            "longitude": "-122.232613735941",
-            "locType": "postcode",
+        "river street": {
+            "latitude": "36.988615",
+            "locType": "primary",
+            "longitude": "-122.0306102",
             "blogLinks": [
-                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
-                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "River Street, Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "locType": "aerodrome",
+            "longitude": "-121.843618374407",
+            "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Piedmont, Alameda County, California, ca, United States of America",
-            "latitude": "37.8242285466918"
+            "closest_to": "monterey",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America"
         },
-        "mission bay ca": {
-            "closest_to": "sausalito",
-            "longitude": "-122.3911711",
-            "locType": "neighbourhood",
+        "carmel beach": {
+            "latitude": "36.5512525",
+            "locType": "beach",
+            "longitude": "-121.929450352027",
             "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Mission Bay, SF, California, 94158, United States of America",
-            "latitude": "37.7707742"
-        },
-        "sausalito": {
-            "closest_to": "sausalito",
-            "longitude": "-122.4854693",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
-                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html",
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Sausalito, Marin County, California, United States of America",
-            "latitude": "37.8590272"
+            "closest_to": "monterey",
+            "address": "Carmel Beach, Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America"
         },
-        "bridgeway": {
-            "closest_to": "sausalito",
-            "longitude": "-122.495547",
-            "locType": "secondary",
+        "american riviera": {
+            "latitude": "38.576666",
+            "locType": "tertiary",
+            "longitude": "-121.3602199",
             "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
             ],
-            "address": "Bridgeway, Sausalito, Marin County, California, 94965, United States of America",
-            "latitude": "37.8626189"
-        },
-        "santa cruz": {
             "closest_to": "sausalito",
-            "longitude": "-122.0260569",
-            "locType": "city",
+            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America"
+        },
+        "carmel valley": {
+            "latitude": "36.4796839",
+            "locType": "village",
+            "longitude": "-121.7324475",
             "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
-            "latitude": "36.9735903"
+            "closest_to": "monterey",
+            "address": "Carmel Valley, Monterey County, California, United States of America"
         },
-        "river street": {
-            "closest_to": "sausalito",
-            "longitude": "-122.0306102",
-            "locType": "primary",
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "locType": "hamlet",
+            "longitude": "-121.9466112",
             "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+                "http://www.california-blog.com/"
             ],
-            "address": "River Street, Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
-            "latitude": "36.988615"
-        },
-        "carmel": {
             "closest_to": "sausalito",
-            "longitude": "-121.353308848273",
-            "locType": "residential",
+            "address": "Pebble Beach, Monterey County, California, United States of America"
+        },
+        "monterey bay aquarium": {
+            "latitude": "36.61809095",
+            "locType": "aquarium",
+            "longitude": "-121.901680002002",
             "blogLinks": [
                 "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
-            "latitude": "38.75511285"
-        },
-        "monterey bay aquarium ca": {
             "closest_to": "sausalito",
-            "longitude": "-121.901680002002",
-            "locType": "aquarium",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
-            "latitude": "36.61809095"
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America"
         },
-        "monterey bay": {
+        "red house cafe": {
+            "latitude": "36.6222535",
+            "locType": "cafe",
+            "longitude": "-121.919799117575",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
             "closest_to": "sausalito",
-            "longitude": "-121.9010667",
-            "locType": "bay",
-            "blogLinks": [
-                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
-            ],
-            "address": "Monterey Bay, Monterey County, California, United States of America",
-            "latitude": "36.7999557"
+            "address": "Red House Cafe, 662, Lighthouse Avenue, Pacific Grove, Monterey County, California, 93950, United States of America"
         },
-        "monterey route": {
-            "closest_to": "monterey",
-            "longitude": "-121.866792846206",
-            "locType": "city",
+        "bookshop santa cruz": {
+            "latitude": "36.9754743",
+            "locType": "books",
+            "longitude": "-122.0262346",
             "blogLinks": [
-                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx"
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
             ],
-            "address": "Monterey, Monterey County, California, United States of America",
-            "latitude": "36.5844165"
+            "closest_to": "sausalito",
+            "address": "Bookshop Santa Cruz, 1520, Pacific Avenue, Downtown District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America"
         },
-        "carmel-by-the-sea": {
-            "closest_to": "monterey",
-            "longitude": "-121.9232878",
-            "locType": "city",
+        "carmel valley village": {
+            "latitude": "36.4829185",
+            "locType": "administrative",
+            "longitude": "-121.714600790494",
             "blogLinks": [
-                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America",
-            "latitude": "36.5552387"
-        },
-        "san simeon": {
             "closest_to": "monterey",
-            "longitude": "-121.1907532",
+            "address": "Carmel Valley Village, Holman Road, Carmel Valley Village, Monterey County, California, 93924, United States of America"
+        },
+        "pebble beach": {
+            "latitude": "36.5664874",
             "locType": "hamlet",
+            "longitude": "-121.9466112",
             "blogLinks": [
-                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "San Simeon, San Luis Obispo County, California, United States of America",
-            "latitude": "35.6438587"
+            "closest_to": "sausalito",
+            "address": "Pebble Beach, Monterey County, California, United States of America"
         },
         "san francisco": {
-            "closest_to": "sausalito",
-            "longitude": "-122.4192362",
+            "latitude": "37.7792808",
+            "locType": "city",
             "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
                 "mention_popularity": "601",
-                "label": "San Francisco",
-                "Confidence": "100",
-                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
-                "type": "http://dbpedia.org/resource/Consolidated_city-county",
-                "attraction_in_file": "san_francisco.json",
-                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
-                "attraction_latitude": "37.7792808",
                 "no_of_blogFiles": "361",
-                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "attraction_longitude": "-122.4192362",
                 "mention_address": "SF, California, United States of America",
                 "imageUrls": [
                     "https://d2w04addmnh2aq.cloudfront.net/api/file/94zcYc44Q3abA6TWvh0u",
                     "https://www.kingofmaids.com/wp-content/uploads/2015/11/houes-cleaning-san-francisco.jpg",
                     "http://img.mota.ru/upload/wallpapers/2013/05/12/13/04/35889/RATvxR7GYk-2560x1600.jpg"
                 ],
-                "mention_name": "san francisco",
-                "attraction_longitude": "-122.4192362",
-                "attraction_in": "San Francisco",
-                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
-                "mention_longitude": "-122.4192362",
+                "label": "San Francisco",
                 "mention_latitude": "37.7792808",
                 "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
+                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
+                "Confidence": "100",
+                "attraction_in": "San Francisco",
+                "attraction_in_file": "san_francisco.json",
+                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
+                "mention_name": "san francisco",
+                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
+                "attraction_latitude": "37.7792808",
+                "mention_longitude": "-122.4192362",
+                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "type": "http://dbpedia.org/resource/Consolidated_city-county"
             },
-            "locType": "city",
+            "longitude": "-122.4192362",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html",
                 "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "SF, California, United States of America",
-            "latitude": "37.7792808"
+            "closest_to": "sausalito",
+            "address": "SF, California, United States of America"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "locType": "secondary",
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "locType": "city",
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "monterey",
+            "address": "Monterey, Monterey County, California, United States of America"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "locType": "hamlet",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "monterey",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America"
+        },
+        "bridgeway": {
+            "latitude": "37.8626189",
+            "locType": "secondary",
+            "longitude": "-122.495547",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "Bridgeway, Sausalito, Marin County, California, 94965, United States of America"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "locType": "aquarium",
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "locType": "neighbourhood",
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "address": "Mission Bay, SF, California, 94158, United States of America"
+        },
+        "sonoma county": {
+            "latitude": "38.5110803",
+            "locType": "administrative",
+            "longitude": "-122.8473387",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "Sonoma County, California, United States of America"
+        },
+        "pebble beach lodge": {
+            "latitude": "36.5685718",
+            "locType": "hotel",
+            "longitude": "-121.9499556",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "The Lodge at Pebble Beach, Cypress Drive, Del Monte Forest, Monterey County, California, 93953, United States of America"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "locType": "postcode",
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "sausalito",
+            "address": "Piedmont, Alameda County, California, ca, United States of America"
+        },
+        "monterey peninsula": {
+            "latitude": "36.5878734",
+            "locType": "aerodrome",
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "monterey",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "locType": "city",
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America"
+        },
+        "sausalito": {
+            "latitude": "37.8590272",
+            "locType": "administrative",
+            "longitude": "-122.4854693",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "Sausalito, Marin County, California, United States of America"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "locType": "residential",
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
+                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
+            ],
+            "closest_to": "sausalito",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America"
         },
         "stinson beach": {
-            "closest_to": "sausalito",
-            "longitude": "-122.64508",
+            "latitude": "37.9008084",
+            "locType": "hamlet",
             "enrich_metadata": {
-                "attraction_name": "Stinson Beach",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"yLgshS4eYco,J-6NOnoB5Cc,lt_2rxZMLCc\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_santa cruz.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,berkeley_and_stockton.json,carlsbad_and_santa cruz.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_san francisco.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,irvine_and_monterey.json,irvine_and_san jose.json,irvine_and_santa cruz.json,huntington beach_and_san jose.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,los angeles_and_sausalito.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_santa cruz.json,monterey_and_sausalito.json,napa_and_pismo beach.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,monterey_and_santa monica.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,sacramento_and_san luis obispo.json,sacramento_and_santa barbara.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,san diego_and_santa cruz.json,san francisco_and_santa monica.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,san jose_and_santa monica.json,napa_and_sausalito.json,san jose_and_sausalito.json,santa barbara_and_santa cruz.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,sausalito_and_stockton.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "54",
-                "mention_popularity": "11",
-                "attraction_reviewComments": [
-                    "This beach is crowdy, especially on week-ends. But the drive to the beach is amazing. The upkeep is not okay. Still spending sometime here can be rejuvenating.",
-                    "I grew up in San Francisco, and though it was more convenient to go to Ocean Beach, whenever I wanted to spend a day at the beach, I went north across the Golden Gate Bridge to... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Stinson Beach",
-                "attraction_address": "\"1 Calle Del Resaca , Stinson Beach , CA 94970-9706\"",
-                "mention_type": "hamlet",
-                "mention_found_in_blogFiles": "\"anaheim_and_santa cruz.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,berkeley_and_stockton.json,carlsbad_and_santa cruz.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_san francisco.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,irvine_and_monterey.json,irvine_and_san jose.json,irvine_and_santa cruz.json,huntington beach_and_san jose.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,los angeles_and_sausalito.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_santa cruz.json,monterey_and_sausalito.json,napa_and_pismo beach.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,monterey_and_santa monica.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,sacramento_and_san luis obispo.json,sacramento_and_santa barbara.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,san diego_and_santa cruz.json,san francisco_and_santa monica.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,san jose_and_santa monica.json,napa_and_sausalito.json,san jose_and_sausalito.json,santa barbara_and_santa cruz.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,sausalito_and_stockton.json\"",
-                "mention_address": "\"Stinson Beach, Marin County, California, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g33128-d7919980-Reviews-Stinson_Beach-Stinson_Beach_Marin_County_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g33128-d7919980-Reviews-or20-Stinson_Beach-Stinson_Beach_Marin_County_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "This beach is crowdy, especially on week-ends. But the drive to the beach is amazing. The upkeep is not okay. Still spending sometime here can be rejuvenating.",
+                            0.1166666666666667,
+                            0.7999999999999999,
+                            "https://www.tripadvisor.com/Attraction_Review-g33128-d7919980-Reviews-Stinson_Beach-Stinson_Beach_Marin_County_California.html"
+                        ],
+                        [
+                            "I grew up in San Francisco, and though it was more convenient to go to Ocean Beach, whenever I wanted to spend a day at the beach, I went north across the Golden Gate Bridge to... read more",
+                            0.43333333333333335,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g33128-d7919980-Reviews-or20-Stinson_Beach-Stinson_Beach_Marin_County_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"1 Calle Del Resaca , Stinson Beach , CA 94970-9706\"",
+                "attraction_longitude": "",
+                "mention_type": "hamlet",
                 "attraction_in_file": "stinson_beach.json",
+                "mention_name": "stinson beach",
+                "youTubeLinkIds": "\"yLgshS4eYco,J-6NOnoB5Cc,lt_2rxZMLCc\"",
+                "attraction_name": "Stinson Beach",
+                "mention_longitude": "-122.64508",
+                "attraction_no_of_reviews": "102",
+                "mention_address": "\"Stinson Beach, Marin County, California, United States of America\"",
                 "blogLinks": [
                     "http://www.sfgate.com/outdoors/urbanoutings/article/Mill-Valley-Sausalito-Path-Follow-the-train-line-2926181.php",
                     "http://www.fluxiontour.com/2014/02/road-trip-san-francisco-bodega-bay.html",
@@ -221,249 +378,110 @@
                     "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html",
                     "http://moon.com/2011/02/fun-road-trip-ideas-road-trip-the-california-coast/"
                 ],
+                "mention_latitude": "37.9008084",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "",
+                "zip_code": "94970",
+                "Confidence": "100",
+                "attraction_in": "Stinson Beach",
+                "mention_popularity": "11",
                 "imageUrls": [
                     "https://c2.staticflickr.com/6/5148/5599550577_56f96e6047_b.jpg",
                     "http://www.redwoodhikes.com/Muir/Muir3.jpg",
                     "http://www.travelwkly.com/wp-content/uploads/2013/05/Lifeguard-Beach-Ocracoke-Island-North-Carolina.jpg"
                 ],
-                "zip_code": "94970",
-                "attraction_ranking": "1",
-                "attraction_knownFor": "",
-                "mention_name": "stinson beach",
-                "attraction_no_of_reviews": "102",
-                "mention_latitude": "37.9008084",
                 "attraction_contact": "(415) 868-1922",
-                "mention_longitude": "-122.64508"
+                "attraction_reviewComments": [
+                    "This beach is crowdy, especially on week-ends. But the drive to the beach is amazing. The upkeep is not okay. Still spending sometime here can be rejuvenating.",
+                    "I grew up in San Francisco, and though it was more convenient to go to Ocean Beach, whenever I wanted to spend a day at the beach, I went north across the Golden Gate Bridge to... read more"
+                ]
             },
-            "locType": "hamlet",
+            "longitude": "-122.64508",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Stinson Beach, Marin County, California, United States of America",
-            "latitude": "37.9008084"
-        },
-        "sonoma county": {
             "closest_to": "sausalito",
-            "longitude": "-122.8473387",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Sonoma County, California, United States of America",
-            "latitude": "38.5110803"
+            "address": "Stinson Beach, Marin County, California, United States of America"
         },
-        "pacific grove": {
-            "closest_to": "sausalito",
-            "longitude": "-121.9155905",
-            "locType": "city",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Pacific Grove, Monterey County, California, United States of America",
-            "latitude": "36.6174432"
-        },
-        "pebble beach": {
-            "closest_to": "sausalito",
-            "longitude": "-121.9466112",
-            "locType": "hamlet",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Pebble Beach, Monterey County, California, United States of America",
-            "latitude": "36.5664874"
-        },
-        "pacific ocean": {
-            "closest_to": "monterey",
-            "longitude": "-121.678715787326",
-            "locType": "cliff",
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "locType": "bay",
+            "longitude": "-121.9010667",
             "blogLinks": [
                 "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
             ],
-            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
-            "latitude": "36.16305775"
-        },
-        "red house cafe": {
             "closest_to": "sausalito",
-            "longitude": "-121.919799117575",
-            "locType": "cafe",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Red House Cafe, 662, Lighthouse Avenue, Pacific Grove, Monterey County, California, 93950, United States of America",
-            "latitude": "36.6222535"
-        },
-        "carmel valley village": {
-            "closest_to": "monterey",
-            "longitude": "-121.714600790494",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Carmel Valley Village, Holman Road, Carmel Valley Village, Monterey County, California, 93924, United States of America",
-            "latitude": "36.4829185"
-        },
-        "monterey": {
-            "closest_to": "monterey",
-            "longitude": "-121.866792846206",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx",
-                "http://www.distancesfrom.com/us/flight-distance-from-Sausalito-to-Monterey-CA/FlightHistory/7004077.aspx",
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html",
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Monterey, Monterey County, California, United States of America",
-            "latitude": "36.5844165"
-        },
-        "north lake ca": {
-            "closest_to": "sausalito",
-            "longitude": "-122.501983281136",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
-            "latitude": "37.76958295"
-        },
-        "carmel valley": {
-            "closest_to": "monterey",
-            "longitude": "-121.7324475",
-            "locType": "village",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Carmel Valley, Monterey County, California, United States of America",
-            "latitude": "36.4796839"
+            "address": "Monterey Bay, Monterey County, California, United States of America"
         },
         "carmel highlands": {
-            "closest_to": "monterey",
+            "latitude": "36.5041286",
+            "locType": "hamlet",
             "longitude": "-121.9316212",
-            "locType": "hamlet",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "Carmel Highlands, Monterey County, California, United States of America",
-            "latitude": "36.5041286"
-        },
-        "monterey peninsula": {
             "closest_to": "monterey",
-            "longitude": "-121.843618374407",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
-            "latitude": "36.5878734"
+            "address": "Carmel Highlands, Monterey County, California, United States of America"
         },
-        "bookshop santa cruz": {
-            "closest_to": "sausalito",
-            "longitude": "-122.0262346",
-            "locType": "books",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
-            ],
-            "address": "Bookshop Santa Cruz, 1520, Pacific Avenue, Downtown District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
-            "latitude": "36.9754743"
-        },
-        "pebble beach ca": {
-            "closest_to": "sausalito",
-            "longitude": "-121.9466112",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Pebble Beach, Monterey County, California, United States of America",
-            "latitude": "36.5664874"
-        },
-        "american riviera": {
-            "closest_to": "sausalito",
-            "longitude": "-121.3602199",
-            "locType": "tertiary",
+        "carmel-by-the-sea": {
+            "latitude": "36.5552387",
+            "locType": "city",
+            "longitude": "-121.9232878",
             "blogLinks": [
                 "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
             ],
-            "address": "American River Drive, La Riviera, Sacramento County, California, 95608, United States of America",
-            "latitude": "38.576666"
+            "closest_to": "monterey",
+            "address": "Carmel-by-the-Sea, Monterey County, California, United States of America"
         },
-        "napa valley ca": {
-            "closest_to": "sausalito",
-            "longitude": "-122.3002947",
-            "locType": "secondary",
+        "monterey route": {
+            "latitude": "36.5844165",
+            "locType": "city",
+            "longitude": "-121.866792846206",
             "blogLinks": [
-                "http://www.california-blog.com/"
+                "http://www.distancesfrom.com/us/travel-from-Sausalito-to-Monterey/TravelFromHistory/31360939.aspx"
             ],
-            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
-            "latitude": "38.2972603"
+            "closest_to": "monterey",
+            "address": "Monterey, Monterey County, California, United States of America"
         },
         "cambria": {
-            "closest_to": "monterey",
-            "longitude": "-121.0807467",
+            "latitude": "35.5641381",
             "locType": "administrative",
+            "longitude": "-121.0807467",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6471461-Sausalito_Monterey_via_Henry_Cowell_Redwoods_SP-California.html"
             ],
-            "address": "Cambria, San Luis Obispo County, California, United States of America",
-            "latitude": "35.5641381"
-        },
-        "monterey bay aquarium": {
-            "closest_to": "sausalito",
-            "longitude": "-121.901680002002",
-            "locType": "aquarium",
-            "blogLinks": [
-                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway",
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
-            "latitude": "36.61809095"
-        },
-        "monterey peninsula ca": {
             "closest_to": "monterey",
-            "longitude": "-121.843618374407",
-            "locType": "aerodrome",
+            "address": "Cambria, San Luis Obispo County, California, United States of America"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "locType": "water",
+            "longitude": "-122.501983281136",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
-            "latitude": "36.5878734"
-        },
-        "carmel beach": {
-            "closest_to": "monterey",
-            "longitude": "-121.929450352027",
-            "locType": "beach",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
-            ],
-            "address": "Carmel Beach, Scenic Road, Carmel-by-the-Sea, Monterey County, California, 93921, United States of America",
-            "latitude": "36.5512525"
-        },
-        "pebble beach lodge": {
             "closest_to": "sausalito",
-            "longitude": "-121.9499556",
-            "locType": "hotel",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "locType": "cliff",
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.hopper.com/articles/291/five-great-stops-between-los-angeles-and-san-francisco-on-the-pacific-coast-highway"
+            ],
+            "closest_to": "monterey",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America"
+        },
+        "pacific grove": {
+            "latitude": "36.6174432",
+            "locType": "city",
+            "longitude": "-121.9155905",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g32172-i187-k1985505-Carmel_vs_Sausalito-Carmel_Monterey_Peninsula_California.html"
             ],
-            "address": "The Lodge at Pebble Beach, Cypress Drive, Del Monte Forest, Monterey County, California, 93953, United States of America",
-            "latitude": "36.5685718"
+            "closest_to": "sausalito",
+            "address": "Pacific Grove, Monterey County, California, United States of America"
         }
-    },
-    "sausalito": {
-        "place_id": "159575624",
-        "importance": 0.64561533453658,
-        "type": "administrative",
-        "osm_type": "relation",
-        "class": "boundary",
-        "boundingbox": [
-            "37.8436795",
-            "37.8731429",
-            "-122.5102612",
-            "-122.4753744"
-        ],
-        "osm_id": "2829689",
-        "lon": "-122.4854693",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.8590272",
-        "display_name": "Sausalito, Marin County, California, United States of America"
     }
 }

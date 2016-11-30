@@ -1,406 +1,183 @@
 {
     "santa ana": {
-        "place_id": "159122957",
+        "lon": "-117.8732212",
+        "display_name": "Santa Ana, Orange County, California, United States of America",
         "importance": 0.80067109924196,
-        "type": "city",
-        "osm_type": "relation",
+        "osm_id": "2311446",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "33.7494951",
+        "place_id": "159122957",
+        "osm_type": "relation",
         "boundingbox": [
             "33.6916541",
             "33.7840133",
             "-117.9439458",
             "-117.8303494"
         ],
-        "osm_id": "2311446",
-        "lon": "-117.8732212",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "33.7494951",
-        "display_name": "Santa Ana, Orange County, California, United States of America"
+        "type": "city"
     },
     "santa clarita": {
-        "place_id": "159444356",
+        "lon": "-118.5425859",
+        "display_name": "Santa Clarita, Los Angeles County, California, United States of America",
         "importance": 0.75253815368059,
-        "type": "city",
-        "osm_type": "relation",
+        "osm_id": "2313083",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "34.3916641",
+        "place_id": "159444356",
+        "osm_type": "relation",
         "boundingbox": [
             "34.340498",
             "34.477213",
             "-118.6131919",
             "-118.3760709"
         ],
-        "osm_id": "2313083",
-        "lon": "-118.5425859",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "34.3916641",
-        "display_name": "Santa Clarita, Los Angeles County, California, United States of America"
+        "type": "city"
     },
     "mentions": {
-        "sierra highway": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.1182306",
-            "locType": "secondary",
+        "placerita trail": {
+            "latitude": "34.3758312",
+            "locType": "park",
+            "longitude": "-118.4459162",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Sierra Highway, Palmdale, Los Angeles County, California, 93550, United States of America",
-            "latitude": "34.5912297"
-        },
-        "placerita canyon road": {
             "closest_to": "santa clarita",
-            "longitude": "-118.4926118",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3769153"
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America"
         },
-        "los angeles international": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.407057290249",
-            "locType": "aerodrome",
+        "san bernardino": {
+            "latitude": "34.1083449",
+            "locType": "city",
+            "longitude": "-117.2897651",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/santa_clarita"
             ],
-            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America",
-            "latitude": "33.94211345"
-        },
-        "san fernando valley": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4389718",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita"
-            ],
-            "address": "San Fernando, Los Angeles County, California, United States of America",
-            "latitude": "34.2819461"
+            "closest_to": "santa ana",
+            "address": "San Bernardino, San Bernardino County, California, United States of America"
         },
         "rice canyon": {
-            "closest_to": "santa ana",
-            "longitude": "-117.144195",
+            "latitude": "33.4050222",
             "locType": "tertiary",
+            "longitude": "-117.144195",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Rice Canyon Road, Rainbow CDP, San Diego County, California, 92028, United States of America",
-            "latitude": "33.4050222"
-        },
-        "channel islands national park": {
-            "closest_to": "santa clarita",
-            "longitude": "-119.266377755078",
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
-            ],
-            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America",
-            "latitude": "34.248597"
-        },
-        "newhall ave": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.501592",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Newhall Avenue, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3646153"
-        },
-        "golden valley ranch": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4795884",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Disney Golden Oak Ranch, Canyon Country, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.378418"
-        },
-        "golden valley road": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4740207",
-            "locType": "trunk",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Golden Valley Road, Canyon Country, Santa Clarita, Los Angeles County, California, 91351, United States of America",
-            "latitude": "34.3933054"
-        },
-        "east canyon mtwy": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5446174",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "East Canyon Motorway, Newhall, Los Angeles County, California, SCV, United States of America",
-            "latitude": "34.3470216"
-        },
-        "burbank": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.3258553",
-            "enrich_metadata": {
-                "attraction_in_file": "burbank.json",
-                "label": "Burbank, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "P-IjNfRM9uY,eaWfyBR8wyU,lOHD_p4eDMo",
-                "type": "http://dbpedia.org/resource/Charter_city",
-                "mention_address": "Burbank, Los Angeles County, California, United States of America",
-                "abstract": "Burbank is a city in Los Angeles County in Southern California, United States, 12 miles (19 km) northwest of downtown Los Angeles. The population at the 2010 census was 103,340. Billed as the \"Media Capital of the World\" and only a few miles northeast of Hollywood, numerous media and entertainment companies are headquartered or have significant production facilities in Burbank, including The Walt Disney Company, Warner Bros. Entertainment, ABC Studios, ABC Family, Marvel Studios, Nickelodeon, NBC, and Insomniac Games. The city is also home to Bob Hope Airport. Burbank also holds a special place in aerospace history since Lockheed's Skunk Works in Burbank produced some of the most secret and technologically advanced airplanes, including the U-2 spy planes that uncovered the Soviet Union missile components in Cuba. Burbank consists of two distinct areas: a downtown, in the foothills of the Verdugo Mountains, and flatlands, at the east end of the San Fernando Valley. At one time, it was referred to as \"Beautiful Downtown Burbank\" on Laugh-In and The Tonight Show Starring Johnny Carson. The city was named after David Burbank, a New Hampshire-born dentist and entrepreneur.",
-                "attraction_latitude": "34.1816482",
-                "no_of_blogFiles": "286",
-                "subject": "http://dbpedia.org/resource/Burbank,_California",
-                "mention_popularity": "60",
-                "imageUrls": [
-                    "http://www.cheapmovingcompanies.co/wp-content/uploads/2016/07/burbank.jpg",
-                    "http://cdn.precioyviajes.com/Destinations/1252/1252/burbank-3685182704-L.jpg",
-                    "https://res.cloudinary.com/washos/image/upload/v1452562357/seo_locations/burbank.jpg"
-                ],
-                "mention_name": "burbank",
-                "attraction_longitude": "-118.3258553",
-                "attraction_in": "Burbank",
-                "comment": "Burbank is a city in Los Angeles County in Southern California, United States, 12 miles (19 km) northwest of downtown Los Angeles. The population at the 2010 census was 103,340.Billed as the \"Media Capital of the World\" and only a few miles northeast of Hollywood, numerous media and entertainment companies are headquartered or have significant production facilities in Burbank, including The Walt Disney Company, Warner Bros. Entertainment, ABC Studios, ABC Family, Marvel Studios, Nickelodeon, NBC, and Insomniac Games. The city is also home to Bob Hope Airport. Burbank also holds a special place in aerospace history since Lockheed's Skunk Works in Burbank produced some of the most secret and technologically advanced airplanes, including the U-2 spy planes that uncovered the Soviet Union miss",
-                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_riverside.json,avalon_and_san bernardino.json,anaheim_and_napa.json,anaheim_and_santa monica.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_temecula.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_los angeles.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_los angeles.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_mammoth lakes.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_santa ana.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_santa ana.json,malibu_and_sausalito.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa barbara.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_santa ana.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_santa monica.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_santa ana.json,san diego_and_santa clarita.json,san diego_and_santa monica.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_temecula.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa monica.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_temecula.json,stockton_and_temecula.json",
-                "mention_latitude": "34.1816482",
-                "mention_type": "city",
-                "mention_longitude": "-118.3258553"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita"
-            ],
-            "address": "Burbank, Los Angeles County, California, United States of America",
-            "latitude": "34.1816482"
-        },
-        "placerita trail": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4459162",
-            "locType": "park",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
-            "latitude": "34.3758312"
-        },
-        "irvine": {
             "closest_to": "santa ana",
-            "longitude": "-117.8259818",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.livability.com/ca"
-            ],
-            "address": "Irvine, Orange County, California, United States of America",
-            "latitude": "33.6856969"
-        },
-        "castaic lake": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.587025025849",
-            "enrich_metadata": {
-                "attraction_name": "Castaic Lake",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"axqm1zwRtr8,AiCCaWa-RwA,APAdsfFaPlo\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "26",
-                "mention_popularity": "6",
-                "attraction_reviewComments": [
-                    "We love to walk the dog on weekends around the lake. If you park outside then there is no price to go in. Makes you feel like you are on a vacation.",
-                    "We recently visited Castaic and were happy with our choice. A few downsides...the water level is very low this year, some of the people we encountered were not the highest quality... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Castaic",
-                "attraction_address": "\"31540 Ridge Route Rd , Castaic , CA 91384-3358\"",
-                "mention_type": "water",
-                "mention_found_in_blogFiles": "\"anaheim_and_santa clarita.json,avalon_and_santa clarita.json,bakersfield_and_santa clarita.json,berkeley_and_santa clarita.json,beverly hills_and_fresno.json,beverly hills_and_santa clarita.json,big bear lake_and_santa clarita.json,carlsbad_and_santa clarita.json,carlsbad_and_santa monica.json,fremont_and_santa clarita.json,fresno_and_santa clarita.json,long beach_and_santa clarita.json,mammoth lakes_and_santa clarita.json,napa_and_santa clarita.json,malibu_and_santa clarita.json,oakland_and_santa clarita.json,pasadena_and_santa clarita.json,pismo beach_and_santa clarita.json,riverside_and_santa clarita.json,san diego_and_santa clarita.json,san francisco_and_santa clarita.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json\"",
-                "mention_address": "\"Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-Castaic_Lake-Castaic_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-or10-Castaic_Lake-Castaic_California.html"
-                ],
-                "attraction_in_file": "castaic.json",
-                "blogLinks": [
-                    "http://visitsantaclarita.com/things-to-do/family-fun/",
-                    "http://visitsantaclarita.com/things-to-do/",
-                    "http://traveltips.usatoday.com/places-stay-between-los-angeles-sequoia-national-park-105841.html",
-                    "https://www.latourist.com/index.php?page=hotels-los-angeles",
-                    "http://archive.signalscv.com/archives/16774/",
-                    "http://visitsantaclarita.com/plan/free-things-to-do/"
-                ],
-                "imageUrls": [
-                    "http://www.socalcamping.com/000angeles/castaic2.jpg",
-                    "https://d32swstyppi9nx.cloudfront.net/blog/wp-content/uploads/2016/08/castaic-lake.jpg",
-                    "http://www.happylandforsale.com/wp-content/uploads/2012/01/CASTAIC-LAKE.jpg"
-                ],
-                "zip_code": "31540",
-                "attraction_ranking": "1",
-                "attraction_knownFor": "",
-                "mention_name": "castaic lake",
-                "attraction_no_of_reviews": "17",
-                "mention_latitude": "34.5406179",
-                "attraction_contact": "+1 661-257-4050",
-                "mention_longitude": "-118.587025025849"
-            },
-            "locType": "water",
-            "blogLinks": [
-                "http://visitsantaclarita.com/things-to-do/"
-            ],
-            "address": "Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America",
-            "latitude": "34.5406179"
+            "address": "Rice Canyon Road, Rainbow CDP, San Diego County, California, 92028, United States of America"
         },
         "calgrove": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5553757",
+            "latitude": "34.3591518",
             "locType": "secondary",
+            "longitude": "-118.5553757",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3591518"
+            "closest_to": "santa clarita",
+            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
         },
         "beverly hills": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4003562",
+            "latitude": "34.0736204",
+            "locType": "city",
             "enrich_metadata": {
-                "label": "Beverly Hills, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "xo1ydCntmOs,cielCwd83x8,bTvr_2v-0HI",
-                "type": "http://dbpedia.org/resource/Local_government_in_California",
-                "mention_address": "Beverly Hills, Los Angeles County, California, United States of America",
+                "mention_popularity": "248",
                 "abstract": "Beverly Hills is a city in Los Angeles County, California, United States, surrounded by the cities of Los Angeles and West Hollywood. Originally a Spanish ranch where lima beans were grown, Beverly Hills was incorporated in 1914 by a group of investors who had failed to find oil, but found water instead and eventually decided to develop it into a town. By 2013, its population had grown to 34,658. Sometimes referred to as \"90210\", one of its primary ZIP codes, it is home to many actors and celebrities. The city includes the Rodeo Drive shopping district and the Beverly Hills Oil Field.",
-                "attraction_latitude": "34.0736204",
                 "no_of_blogFiles": "282",
-                "subject": "http://dbpedia.org/resource/Beverly_Hills,_California",
-                "attraction_in_file": "beverly_hills.json",
+                "attraction_longitude": "-118.4003562",
+                "mention_address": "Beverly Hills, Los Angeles County, California, United States of America",
                 "imageUrls": [
                     "http://4.bp.blogspot.com/-Y-jzCBLyKwc/Vfg0INSSv4I/AAAAAAABV6c/TXBHSjvQI0I/s640/2015-09-15_18-05-36.jpg",
                     "https://readtiger.com/img/wkp/ru/Via_Rodeo_Dr.JPG",
                     "https://img2.goodfon.ru/original/2560x1600/8/3b/beverly-hills-shop-road.jpg"
                 ],
-                "mention_name": "beverly hills",
-                "mention_type": "city",
-                "attraction_longitude": "-118.4003562",
+                "label": "Beverly Hills, California",
+                "mention_latitude": "34.0736204",
                 "attraction_in": "Beverly Hills",
                 "comment": "Beverly Hills is a city in Los Angeles County, California, United States, surrounded by the cities of Los Angeles and West Hollywood. Originally a Spanish ranch where lima beans were grown, Beverly Hills was incorporated in 1914 by a group of investors who had failed to find oil, but found water instead and eventually decided to develop it into a town. By 2013, its population had grown to 34,658. Sometimes referred to as \"90210\", one of its primary ZIP codes, it is home to many actors and celebrities. The city includes the Rodeo Drive shopping district and the Beverly Hills Oil Field.",
+                "Confidence": "100",
+                "mention_type": "city",
+                "attraction_in_file": "beverly_hills.json",
+                "attraction_latitude": "34.0736204",
+                "mention_name": "beverly hills",
+                "youTubeLinkIds": "xo1ydCntmOs,cielCwd83x8,bTvr_2v-0HI",
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_riverside.json,avalon_and_san bernardino.json,avalon_and_san diego.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa monica.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_santa monica.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_santa barbara.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_los angeles.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,long beach_and_pasadena.json,long beach_and_riverside.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pasadena.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa monica.json,malibu_and_sausalito.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_san luis obispo.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_sacramento.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa ana.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pismo beach_and_riverside.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,riverside_and_santa clarita.json,riverside_and_santa monica.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa monica.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa monica.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa ana_and_santa monica.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_temecula.json",
                 "mention_longitude": "-118.4003562",
-                "mention_latitude": "34.0736204",
-                "mention_popularity": "248",
-                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_riverside.json,avalon_and_san bernardino.json,avalon_and_san diego.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa monica.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_santa monica.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_santa barbara.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_los angeles.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,long beach_and_pasadena.json,long beach_and_riverside.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pasadena.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa monica.json,malibu_and_sausalito.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_san luis obispo.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_sacramento.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa ana.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pismo beach_and_riverside.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,riverside_and_santa clarita.json,riverside_and_santa monica.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa monica.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa monica.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa ana_and_santa monica.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_temecula.json"
+                "subject": "http://dbpedia.org/resource/Beverly_Hills,_California",
+                "type": "http://dbpedia.org/resource/Local_government_in_California"
             },
-            "locType": "city",
+            "longitude": "-118.4003562",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/santa_clarita"
             ],
-            "address": "Beverly Hills, Los Angeles County, California, United States of America",
-            "latitude": "34.0736204"
-        },
-        "placerita": {
             "closest_to": "santa clarita",
-            "longitude": "-118.4459162",
-            "locType": "park",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
-            "latitude": "34.3758312"
+            "address": "Beverly Hills, Los Angeles County, California, United States of America"
         },
-        "los angeles county": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.2096813",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://visitsantaclarita.com/"
-            ],
-            "address": "Los Angeles County, California, United States of America",
-            "latitude": "34.3155072"
-        },
-        "placerita motorway": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4632589",
-            "locType": "unclassified",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Motorway, Canyon Country, Los Angeles County, California, 91351, United States of America",
-            "latitude": "34.3877976"
-        },
-        "whitney canyon": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4929088",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Whitney Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3658881"
-        },
-        "santa monica": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4869738",
+        "glendale": {
+            "latitude": "34.1423455",
             "locType": "city",
+            "longitude": "-118.248367",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/santa_clarita"
             ],
-            "address": "Santa Monica, Los Angeles County, California, United States of America",
-            "latitude": "34.0195598"
-        },
-        "aliso canyon": {
             "closest_to": "santa clarita",
-            "longitude": "-118.5641161",
-            "locType": "locality",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Aliso Canyon gas leak, Los Angeles County, California, United States of America",
-            "latitude": "34.3150312"
+            "address": "Glendale, Los Angeles County, California, United States of America"
         },
-        "southern california": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.286343973446",
-            "locType": "university",
+        "los angeles": {
+            "latitude": "34.0543942",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_pismo beach.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_huntington beach.json,avalon_and_irvine.json,avalon_and_long beach.json,avalon_and_los angeles.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa ana.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_los angeles.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_pismo beach.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_pismo beach.json,long beach_and_riverside.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_santa monica.json,long beach_and_sausalito.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pasadena.json,los angeles_and_pismo beach.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_santa ana.json,los angeles_and_santa barbara.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_oakland.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_riverside.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,mammoth lakes_and_pismo beach.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_sacramento.json,newport beach_and_san bernardino.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa clarita.json,newport beach_and_santa cruz.json,newport beach_and_santa monica.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa ana.json,pasadena_and_santa barbara.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_sacramento.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa ana.json,pismo beach_and_santa clarita.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_santa monica.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa cruz.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,riverside_and_santa ana.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,big bear lake_and_huntington beach.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_santa cruz.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa ana_and_temecula.json,santa barbara_and_santa clarita.json,santa barbara_and_santa cruz.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_santa monica.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_popularity": "756",
+                "no_of_blogFiles": "491",
+                "attraction_longitude": "-118.2439408",
+                "mention_address": "LA, Los Angeles County, California, United States of America",
+                "imageUrls": [
+                    "http://images.cityhdwallpapers.com/images/1920x1200/Commercial%20district%20Los%20Angeles%20city%20wallpaper.jpg",
+                    "http://psudoterad.ru/img/picture/Jun/04/e4a19f33e17a91d93d35631fff7dd959/4.jpg",
+                    "http://www.wallpaper4k.com/wp_highres/city/WPDSKX3F.jpg"
+                ],
+                "label": "Civic Center, Los Angeles",
+                "mention_latitude": "34.0543942",
+                "mention_type": "city",
+                "comment": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "Confidence": "100",
+                "attraction_in": "Los Angeles",
+                "attraction_in_file": "los_angeles.json",
+                "abstract": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "mention_name": "los angeles",
+                "youTubeLinkIds": "jtrF479Dzj4,Vc5jSKOsgCA,bTvr_2v-0HI",
+                "attraction_latitude": "34.0543942",
+                "mention_longitude": "-118.2439408",
+                "subject": "http://dbpedia.org/resource/Civic_Center,_Los_Angeles",
+                "type": "http://dbpedia.org/resource/List_of_districts_and_neighborhoods_of_Los_Angeles"
+            },
+            "longitude": "-118.2439408",
             "blogLinks": [
                 "http://visitsantaclarita.com/",
                 "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
                 "http://www.bestplaces.net/city/california/santa_clarita",
-                "http://visitsantaclarita.com/things-to-do/"
+                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
-            "latitude": "34.0224149"
-        },
-        "pasadena": {
             "closest_to": "santa clarita",
-            "longitude": "-118.1444778",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita"
-            ],
-            "address": "Pasadena, Los Angeles County, California, United States of America",
-            "latitude": "34.1476452"
+            "address": "LA, Los Angeles County, California, United States of America"
         },
-        "new england": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.0890007",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
-            ],
-            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America",
-            "latitude": "33.8793794"
-        },
-        "elsmere canyon": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5015127",
-            "locType": "residential",
+        "placerita canyon": {
+            "latitude": "34.3758312",
+            "locType": "park",
+            "longitude": "-118.4459162",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Elsmere Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3632486"
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America"
         },
         "santa ana": {
-            "closest_to": "santa ana",
-            "longitude": "-117.8732212",
+            "latitude": "33.7494951",
             "locType": "city",
+            "longitude": "-117.8732212",
             "blogLinks": [
                 "http://www.distancesfrom.com/us/distance-from-Santa-Clarita-to-Santa-Ana/DistanceHistory/14900619.aspx",
                 "http://www.distancesfrom.com/us/map-from-Santa-Clarita-to-Santa-Ana/MapHistory/14900619.aspx",
@@ -413,53 +190,106 @@
                 "http://www.bestplaces.net/county/california/santa_clara",
                 "https://www.groupon.com/local/santa-ana/things-to-do"
             ],
-            "address": "Santa Ana, Orange County, California, United States of America",
-            "latitude": "33.7494951"
+            "closest_to": "santa ana",
+            "address": "Santa Ana, Orange County, California, United States of America"
         },
-        "glendale": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.248367",
-            "locType": "city",
+        "san fernando valley": {
+            "latitude": "34.2819461",
+            "locType": "administrative",
+            "longitude": "-118.4389718",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/santa_clarita"
             ],
-            "address": "Glendale, Los Angeles County, California, United States of America",
-            "latitude": "34.1423455"
-        },
-        "calgrove blvd": {
             "closest_to": "santa clarita",
-            "longitude": "-118.5553757",
+            "address": "San Fernando, Los Angeles County, California, United States of America"
+        },
+        "east canyon mtwy": {
+            "latitude": "34.3470216",
+            "locType": "residential",
+            "longitude": "-118.5446174",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "East Canyon Motorway, Newhall, Los Angeles County, California, SCV, United States of America"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "locType": "city",
+            "longitude": "-117.8259818",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "closest_to": "santa ana",
+            "address": "Irvine, Orange County, California, United States of America"
+        },
+        "southern california": {
+            "latitude": "34.0224149",
+            "locType": "university",
+            "longitude": "-118.286343973446",
+            "blogLinks": [
+                "http://visitsantaclarita.com/",
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
+                "http://www.bestplaces.net/city/california/santa_clarita",
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "closest_to": "santa clarita",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America"
+        },
+        "placerita canyon rd": {
+            "latitude": "34.3769153",
             "locType": "secondary",
+            "longitude": "-118.4926118",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3591518"
-        },
-        "eternal valley cemetery": {
             "closest_to": "santa clarita",
-            "longitude": "-118.510342379681",
-            "locType": "cemetery",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Eternal Valley, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3618974"
+            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America"
         },
-        "canyon country": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.472028",
-            "locType": "suburb",
+        "golden valley ranch": {
+            "latitude": "34.378418",
+            "locType": "residential",
+            "longitude": "-118.4795884",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Canyon Country, Santa Clarita, Los Angeles County, California, United States of America",
-            "latitude": "34.4233293"
+            "closest_to": "santa clarita",
+            "address": "Disney Golden Oak Ranch, Canyon Country, Los Angeles County, California, 91321, United States of America"
+        },
+        "new england": {
+            "latitude": "33.8793794",
+            "locType": "residential",
+            "longitude": "-118.0890007",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "closest_to": "santa clarita",
+            "address": "New England, Cerritos, Los Angeles County, California, 90701, United States of America"
+        },
+        "towsley canyon": {
+            "latitude": "34.3573878",
+            "locType": "residential",
+            "longitude": "-118.5605864",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Towsley Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
+        },
+        "placerita motorway": {
+            "latitude": "34.3877976",
+            "locType": "unclassified",
+            "longitude": "-118.4632589",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Placerita Motorway, Canyon Country, Los Angeles County, California, 91351, United States of America"
         },
         "santa clarita": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5425859",
+            "latitude": "34.3916641",
             "locType": "city",
+            "longitude": "-118.5425859",
             "blogLinks": [
                 "http://www.distancesfrom.com/us/distance-from-Santa-Clarita-to-Santa-Ana/DistanceHistory/14900619.aspx",
                 "http://www.distancesfrom.com/us/map-from-Santa-Clarita-to-Santa-Ana/MapHistory/14900619.aspx",
@@ -474,209 +304,397 @@
                 "http://visitsantaclarita.com/",
                 "http://www.distancecalculator.net/from-santa-clarita-to-santa-ana"
             ],
-            "address": "Santa Clarita, Los Angeles County, California, United States of America",
-            "latitude": "34.3916641"
-        },
-        "placerita canyon": {
             "closest_to": "santa clarita",
-            "longitude": "-118.4459162",
-            "locType": "park",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America",
-            "latitude": "34.3758312"
+            "address": "Santa Clarita, Los Angeles County, California, United States of America"
         },
-        "soledad canyon": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.48154",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Soledad Canyon Road, Honby, Canyon Country, Santa Clarita, Los Angeles County, California, 93510, United States of America",
-            "latitude": "34.4180678"
-        },
-        "pacific coast": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.063517668143",
-            "locType": "yes",
+        "santa ana route": {
+            "latitude": "33.7494951",
+            "locType": "city",
+            "longitude": "-117.8732212",
             "blogLinks": [
                 "http://www.livability.com/ca"
             ],
-            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
-            "latitude": "33.8047323"
-        },
-        "placerita canyon rd": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.4926118",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3769153"
-        },
-        "san marino": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.1057393",
-            "locType": "town",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita"
-            ],
-            "address": "San Marino, Los Angeles County, California, United States of America",
-            "latitude": "34.1215947"
-        },
-        "long beach": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.158049215311",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita"
-            ],
-            "address": "Long Beach, Los Angeles County, California, United States of America",
-            "latitude": "33.78538945"
-        },
-        "towsley canyon": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5605864",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Towsley Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America",
-            "latitude": "34.3573878"
-        },
-        "san bernardino": {
             "closest_to": "santa ana",
-            "longitude": "-117.2897651",
+            "address": "Santa Ana, Orange County, California, United States of America"
+        },
+        "burbank": {
+            "latitude": "34.1816482",
             "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "60",
+                "abstract": "Burbank is a city in Los Angeles County in Southern California, United States, 12 miles (19 km) northwest of downtown Los Angeles. The population at the 2010 census was 103,340. Billed as the \"Media Capital of the World\" and only a few miles northeast of Hollywood, numerous media and entertainment companies are headquartered or have significant production facilities in Burbank, including The Walt Disney Company, Warner Bros. Entertainment, ABC Studios, ABC Family, Marvel Studios, Nickelodeon, NBC, and Insomniac Games. The city is also home to Bob Hope Airport. Burbank also holds a special place in aerospace history since Lockheed's Skunk Works in Burbank produced some of the most secret and technologically advanced airplanes, including the U-2 spy planes that uncovered the Soviet Union missile components in Cuba. Burbank consists of two distinct areas: a downtown, in the foothills of the Verdugo Mountains, and flatlands, at the east end of the San Fernando Valley. At one time, it was referred to as \"Beautiful Downtown Burbank\" on Laugh-In and The Tonight Show Starring Johnny Carson. The city was named after David Burbank, a New Hampshire-born dentist and entrepreneur.",
+                "no_of_blogFiles": "286",
+                "attraction_longitude": "-118.3258553",
+                "mention_address": "Burbank, Los Angeles County, California, United States of America",
+                "imageUrls": [
+                    "http://www.cheapmovingcompanies.co/wp-content/uploads/2016/07/burbank.jpg",
+                    "http://cdn.precioyviajes.com/Destinations/1252/1252/burbank-3685182704-L.jpg",
+                    "https://res.cloudinary.com/washos/image/upload/v1452562357/seo_locations/burbank.jpg"
+                ],
+                "label": "Burbank, California",
+                "mention_latitude": "34.1816482",
+                "mention_type": "city",
+                "comment": "Burbank is a city in Los Angeles County in Southern California, United States, 12 miles (19 km) northwest of downtown Los Angeles. The population at the 2010 census was 103,340.Billed as the \"Media Capital of the World\" and only a few miles northeast of Hollywood, numerous media and entertainment companies are headquartered or have significant production facilities in Burbank, including The Walt Disney Company, Warner Bros. Entertainment, ABC Studios, ABC Family, Marvel Studios, Nickelodeon, NBC, and Insomniac Games. The city is also home to Bob Hope Airport. Burbank also holds a special place in aerospace history since Lockheed's Skunk Works in Burbank produced some of the most secret and technologically advanced airplanes, including the U-2 spy planes that uncovered the Soviet Union miss",
+                "Confidence": "100",
+                "attraction_in": "Burbank",
+                "attraction_in_file": "burbank.json",
+                "attraction_latitude": "34.1816482",
+                "mention_name": "burbank",
+                "youTubeLinkIds": "P-IjNfRM9uY,eaWfyBR8wyU,lOHD_p4eDMo",
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_riverside.json,avalon_and_san bernardino.json,anaheim_and_napa.json,anaheim_and_santa monica.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_temecula.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_los angeles.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_los angeles.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_mammoth lakes.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_santa ana.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_santa ana.json,malibu_and_sausalito.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa barbara.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_santa ana.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_santa monica.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_santa ana.json,san diego_and_santa clarita.json,san diego_and_santa monica.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_temecula.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa monica.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_temecula.json,stockton_and_temecula.json",
+                "mention_longitude": "-118.3258553",
+                "subject": "http://dbpedia.org/resource/Burbank,_California",
+                "type": "http://dbpedia.org/resource/Charter_city"
+            },
+            "longitude": "-118.3258553",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/santa_clarita"
             ],
-            "address": "San Bernardino, San Bernardino County, California, United States of America",
-            "latitude": "34.1083449"
-        },
-        "los angeles": {
             "closest_to": "santa clarita",
-            "longitude": "-118.2439408",
-            "enrich_metadata": {
-                "mention_popularity": "756",
-                "label": "Civic Center, Los Angeles",
-                "Confidence": "100",
-                "youTubeLinkIds": "jtrF479Dzj4,Vc5jSKOsgCA,bTvr_2v-0HI",
-                "type": "http://dbpedia.org/resource/List_of_districts_and_neighborhoods_of_Los_Angeles",
-                "attraction_in_file": "los_angeles.json",
-                "abstract": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
-                "attraction_latitude": "34.0543942",
-                "no_of_blogFiles": "491",
-                "subject": "http://dbpedia.org/resource/Civic_Center,_Los_Angeles",
-                "mention_address": "LA, Los Angeles County, California, United States of America",
-                "imageUrls": [
-                    "http://images.cityhdwallpapers.com/images/1920x1200/Commercial%20district%20Los%20Angeles%20city%20wallpaper.jpg",
-                    "http://psudoterad.ru/img/picture/Jun/04/e4a19f33e17a91d93d35631fff7dd959/4.jpg",
-                    "http://www.wallpaper4k.com/wp_highres/city/WPDSKX3F.jpg"
-                ],
-                "mention_name": "los angeles",
-                "attraction_longitude": "-118.2439408",
-                "attraction_in": "Los Angeles",
-                "comment": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
-                "mention_longitude": "-118.2439408",
-                "mention_latitude": "34.0543942",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_pismo beach.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_huntington beach.json,avalon_and_irvine.json,avalon_and_long beach.json,avalon_and_los angeles.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa ana.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_los angeles.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_pismo beach.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_pismo beach.json,long beach_and_riverside.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_santa monica.json,long beach_and_sausalito.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pasadena.json,los angeles_and_pismo beach.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_santa ana.json,los angeles_and_santa barbara.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_oakland.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_riverside.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,mammoth lakes_and_pismo beach.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_sacramento.json,newport beach_and_san bernardino.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa clarita.json,newport beach_and_santa cruz.json,newport beach_and_santa monica.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa ana.json,pasadena_and_santa barbara.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_sacramento.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa ana.json,pismo beach_and_santa clarita.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_santa monica.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa cruz.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,riverside_and_santa ana.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,big bear lake_and_huntington beach.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_santa cruz.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa ana_and_temecula.json,santa barbara_and_santa clarita.json,santa barbara_and_santa cruz.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_santa monica.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
+            "address": "Burbank, Los Angeles County, California, United States of America"
+        },
+        "pacific coast": {
+            "latitude": "33.8047323",
+            "locType": "yes",
+            "longitude": "-118.063517668143",
             "blogLinks": [
-                "http://visitsantaclarita.com/",
-                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html",
-                "http://www.bestplaces.net/city/california/santa_clarita",
-                "http://www.timeanddate.com/worldclock/distances.html?n=137",
+                "http://www.livability.com/ca"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America"
+        },
+        "los angeles county": {
+            "latitude": "34.3155072",
+            "locType": "administrative",
+            "longitude": "-118.2096813",
+            "blogLinks": [
+                "http://visitsantaclarita.com/"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Los Angeles County, California, United States of America"
+        },
+        "santa monica": {
+            "latitude": "34.0195598",
+            "locType": "city",
+            "longitude": "-118.4869738",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Santa Monica, Los Angeles County, California, United States of America"
+        },
+        "elsmere canyon": {
+            "latitude": "34.3632486",
+            "locType": "residential",
+            "longitude": "-118.5015127",
+            "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "LA, Los Angeles County, California, United States of America",
-            "latitude": "34.0543942"
-        },
-        "magic mountain": {
             "closest_to": "santa clarita",
-            "longitude": "-119.2563693",
-            "locType": "peak",
+            "address": "Elsmere Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
+        },
+        "lancaster": {
+            "latitude": "34.6981064",
+            "locType": "city",
+            "longitude": "-118.1366152",
             "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita",
                 "http://www.timeanddate.com/worldclock/distances.html?n=137"
             ],
-            "address": "Magic Mountain, Ventura County, California, United States of America",
-            "latitude": "34.4724515"
-        },
-        "old road": {
             "closest_to": "santa clarita",
-            "longitude": "-118.506284",
-            "locType": "primary",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "The Old Road, LA, Los Angeles County, California, SCV, United States of America",
-            "latitude": "34.3328446"
+            "address": "Lancaster, Los Angeles County, California, United States of America"
         },
         "santa clarita valley": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.5425859",
+            "latitude": "34.3916641",
             "locType": "city",
+            "longitude": "-118.5425859",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Santa Clarita, Los Angeles County, California, United States of America",
-            "latitude": "34.3916641"
-        },
-        "remsen road": {
             "closest_to": "santa clarita",
-            "longitude": "-118.2085386",
-            "locType": "theatre",
-            "blogLinks": [
-                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
-            ],
-            "address": "Remsen Bird Hillside Theater, 1600, Campus Road, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America",
-            "latitude": "34.1293636"
+            "address": "Santa Clarita, Los Angeles County, California, United States of America"
         },
         "santa monica mountains conservancy": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.616054173671",
+            "latitude": "34.15089545",
             "locType": "park",
+            "longitude": "-118.616054173671",
             "blogLinks": [
                 "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
             ],
-            "address": "Santa Monica Mountains Conservancy, Reforma Road, Woodland Hills, LA, Los Angeles County, California, 91364, United States of America",
-            "latitude": "34.15089545"
+            "closest_to": "santa clarita",
+            "address": "Santa Monica Mountains Conservancy, Reforma Road, Woodland Hills, LA, Los Angeles County, California, 91364, United States of America"
+        },
+        "old road": {
+            "latitude": "34.3328446",
+            "locType": "primary",
+            "longitude": "-118.506284",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "The Old Road, LA, Los Angeles County, California, SCV, United States of America"
+        },
+        "canyon country": {
+            "latitude": "34.4233293",
+            "locType": "suburb",
+            "longitude": "-118.472028",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Canyon Country, Santa Clarita, Los Angeles County, California, United States of America"
+        },
+        "calgrove blvd": {
+            "latitude": "34.3591518",
+            "locType": "secondary",
+            "longitude": "-118.5553757",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Calgrove Boulevard, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
+        },
+        "golden valley road": {
+            "latitude": "34.3933054",
+            "locType": "trunk",
+            "longitude": "-118.4740207",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Golden Valley Road, Canyon Country, Santa Clarita, Los Angeles County, California, 91351, United States of America"
+        },
+        "long beach": {
+            "latitude": "33.78538945",
+            "locType": "city",
+            "longitude": "-118.158049215311",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Long Beach, Los Angeles County, California, United States of America"
+        },
+        "los angeles international": {
+            "latitude": "33.94211345",
+            "locType": "aerodrome",
+            "longitude": "-118.407057290249",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Los Angeles International Airport, Gate 41, Westchester, Playa del Rey, LA, Los Angeles County, California, 90245, United States of America"
         },
         "pacific coast highway": {
-            "closest_to": "santa ana",
-            "longitude": "-118.0051687",
+            "latitude": "33.6595127",
             "locType": "primary",
+            "longitude": "-118.0051687",
             "blogLinks": [
                 "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
             ],
-            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
-            "latitude": "33.6595127"
-        },
-        "santa ana route": {
             "closest_to": "santa ana",
-            "longitude": "-117.8732212",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.livability.com/ca"
-            ],
-            "address": "Santa Ana, Orange County, California, United States of America",
-            "latitude": "33.7494951"
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America"
         },
-        "lancaster": {
-            "closest_to": "santa clarita",
-            "longitude": "-118.1366152",
-            "locType": "city",
+        "soledad canyon": {
+            "latitude": "34.4180678",
+            "locType": "secondary",
+            "longitude": "-118.48154",
             "blogLinks": [
-                "http://www.bestplaces.net/city/california/santa_clarita",
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Soledad Canyon Road, Honby, Canyon Country, Santa Clarita, Los Angeles County, California, 93510, United States of America"
+        },
+        "channel islands national park": {
+            "latitude": "34.248597",
+            "locType": "national_park",
+            "longitude": "-119.266377755078",
+            "blogLinks": [
+                "http://www.caroadtrip.com/2012/07/Santa-barbara-to-monterey-by-car.html"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Channel Islands National Park, Spinnaker Drive, Ventura, Ventura County, California, 93006, United States of America"
+        },
+        "whitney canyon": {
+            "latitude": "34.3658881",
+            "locType": "residential",
+            "longitude": "-118.4929088",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Whitney Canyon Road, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
+        },
+        "remsen road": {
+            "latitude": "34.1293636",
+            "locType": "theatre",
+            "longitude": "-118.2085386",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Remsen Bird Hillside Theater, 1600, Campus Road, Eagle Rock, Highland Park, LA, Los Angeles County, California, 90041, United States of America"
+        },
+        "aliso canyon": {
+            "latitude": "34.3150312",
+            "locType": "locality",
+            "longitude": "-118.5641161",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Aliso Canyon gas leak, Los Angeles County, California, United States of America"
+        },
+        "magic mountain": {
+            "latitude": "34.4724515",
+            "locType": "peak",
+            "longitude": "-119.2563693",
+            "blogLinks": [
                 "http://www.timeanddate.com/worldclock/distances.html?n=137"
             ],
-            "address": "Lancaster, Los Angeles County, California, United States of America",
-            "latitude": "34.6981064"
+            "closest_to": "santa clarita",
+            "address": "Magic Mountain, Ventura County, California, United States of America"
+        },
+        "placerita": {
+            "latitude": "34.3758312",
+            "locType": "park",
+            "longitude": "-118.4459162",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon State Park, Placerita Canyon Trail, Sand Canyon, Los Angeles County, California, 91351, United States of America"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "locType": "city",
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Pasadena, Los Angeles County, California, United States of America"
+        },
+        "castaic lake": {
+            "latitude": "34.5406179",
+            "locType": "water",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"anaheim_and_santa clarita.json,avalon_and_santa clarita.json,bakersfield_and_santa clarita.json,berkeley_and_santa clarita.json,beverly hills_and_fresno.json,beverly hills_and_santa clarita.json,big bear lake_and_santa clarita.json,carlsbad_and_santa clarita.json,carlsbad_and_santa monica.json,fremont_and_santa clarita.json,fresno_and_santa clarita.json,long beach_and_santa clarita.json,mammoth lakes_and_santa clarita.json,napa_and_santa clarita.json,malibu_and_santa clarita.json,oakland_and_santa clarita.json,pasadena_and_santa clarita.json,pismo beach_and_santa clarita.json,riverside_and_santa clarita.json,san diego_and_santa clarita.json,san francisco_and_santa clarita.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "26",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-Castaic_Lake-Castaic_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-or10-Castaic_Lake-Castaic_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "We love to walk the dog on weekends around the lake. If you park outside then there is no price to go in. Makes you feel like you are on a vacation.",
+                            0.25,
+                            0.325,
+                            "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-Castaic_Lake-Castaic_California.html"
+                        ],
+                        [
+                            "We recently visited Castaic and were happy with our choice. A few downsides...the water level is very low this year, some of the people we encountered were not the highest quality... read more",
+                            0.22000000000000003,
+                            0.44800000000000006,
+                            "https://www.tripadvisor.com/Attraction_Review-g32182-d4021883-Reviews-or10-Castaic_Lake-Castaic_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"31540 Ridge Route Rd , Castaic , CA 91384-3358\"",
+                "attraction_longitude": "",
+                "mention_type": "water",
+                "attraction_in_file": "castaic.json",
+                "mention_name": "castaic lake",
+                "youTubeLinkIds": "\"axqm1zwRtr8,AiCCaWa-RwA,APAdsfFaPlo\"",
+                "attraction_name": "Castaic Lake",
+                "mention_longitude": "-118.587025025849",
+                "attraction_no_of_reviews": "17",
+                "mention_address": "\"Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America\"",
+                "blogLinks": [
+                    "http://visitsantaclarita.com/things-to-do/family-fun/",
+                    "http://visitsantaclarita.com/things-to-do/",
+                    "http://traveltips.usatoday.com/places-stay-between-los-angeles-sequoia-national-park-105841.html",
+                    "https://www.latourist.com/index.php?page=hotels-los-angeles",
+                    "http://archive.signalscv.com/archives/16774/",
+                    "http://visitsantaclarita.com/plan/free-things-to-do/"
+                ],
+                "mention_latitude": "34.5406179",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "",
+                "zip_code": "31540",
+                "Confidence": "100",
+                "attraction_in": "Castaic",
+                "mention_popularity": "6",
+                "imageUrls": [
+                    "http://www.socalcamping.com/000angeles/castaic2.jpg",
+                    "https://d32swstyppi9nx.cloudfront.net/blog/wp-content/uploads/2016/08/castaic-lake.jpg",
+                    "http://www.happylandforsale.com/wp-content/uploads/2012/01/CASTAIC-LAKE.jpg"
+                ],
+                "attraction_contact": "+1 661-257-4050",
+                "attraction_reviewComments": [
+                    "We love to walk the dog on weekends around the lake. If you park outside then there is no price to go in. Makes you feel like you are on a vacation.",
+                    "We recently visited Castaic and were happy with our choice. A few downsides...the water level is very low this year, some of the people we encountered were not the highest quality... read more"
+                ]
+            },
+            "longitude": "-118.587025025849",
+            "blogLinks": [
+                "http://visitsantaclarita.com/things-to-do/"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Castaic Lake, Castaic Reservoir Road, Los Angeles County, California, United States of America"
+        },
+        "san marino": {
+            "latitude": "34.1215947",
+            "locType": "town",
+            "longitude": "-118.1057393",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/santa_clarita"
+            ],
+            "closest_to": "santa clarita",
+            "address": "San Marino, Los Angeles County, California, United States of America"
+        },
+        "sierra highway": {
+            "latitude": "34.5912297",
+            "locType": "secondary",
+            "longitude": "-118.1182306",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Sierra Highway, Palmdale, Los Angeles County, California, 93550, United States of America"
+        },
+        "placerita canyon road": {
+            "latitude": "34.3769153",
+            "locType": "secondary",
+            "longitude": "-118.4926118",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Placerita Canyon Road, Newhall, Los Angeles County, California, 91321, United States of America"
+        },
+        "eternal valley cemetery": {
+            "latitude": "34.3618974",
+            "locType": "cemetery",
+            "longitude": "-118.510342379681",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Eternal Valley, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
+        },
+        "newhall ave": {
+            "latitude": "34.3646153",
+            "locType": "secondary",
+            "longitude": "-118.501592",
+            "blogLinks": [
+                "https://www.yelp.com/list/best-places-to-hike-in-santa-clarita-newhall-3"
+            ],
+            "closest_to": "santa clarita",
+            "address": "Newhall Avenue, Newhall, Santa Clarita, Los Angeles County, California, 91321, United States of America"
         }
     }
 }

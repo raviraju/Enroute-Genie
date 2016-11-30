@@ -1,146 +1,278 @@
 {
+    "fresno": {
+        "lon": "-119.714839601149",
+        "display_name": "Fresno, Fresno County, California, United States of America",
+        "importance": 0.79213103374115,
+        "osm_id": "33120274",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "36.748793",
+        "place_id": "72530219",
+        "osm_type": "way",
+        "boundingbox": [
+            "36.747122",
+            "36.75042",
+            "-119.7159249",
+            "-119.7091549"
+        ],
+        "type": "city"
+    },
+    "fremont": {
+        "lon": "-121.9885718",
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "importance": 0.70373394703995,
+        "osm_id": "111943",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.5482697",
+        "place_id": "159050638",
+        "osm_type": "relation",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "type": "city"
+    },
     "mentions": {
-        "south san francisco": {
-            "closest_to": "fremont",
-            "longitude": "-122.408125",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "South San Francisco, San Mateo County, California, United States of America",
-            "latitude": "37.6549493"
-        },
-        "san francisco bay area of california": {
-            "closest_to": "fremont",
-            "longitude": "-122.3558472",
-            "locType": "region",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "San Francisco Bay Area, SF, California, United States of America",
-            "latitude": "37.7884969"
-        },
-        "san luis obispo county": {
-            "closest_to": "fresno",
-            "longitude": "-120.3757162",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "San Luis Obispo County, California, United States of America",
-            "latitude": "35.3540209"
-        },
-        "san francisco bay area": {
-            "closest_to": "fremont",
-            "longitude": "-122.3558472",
-            "locType": "region",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "San Francisco Bay Area, SF, California, United States of America",
-            "latitude": "37.7884969"
-        },
-        "golden gate": {
-            "closest_to": "fremont",
-            "longitude": "-122.4793972",
-            "locType": "strait",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America",
-            "latitude": "37.8190177"
-        },
-        "san francisco solano": {
-            "closest_to": "fremont",
-            "longitude": "-122.458560315194",
-            "locType": "museum",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America",
-            "latitude": "38.21389995"
-        },
-        "carmel": {
-            "closest_to": "fremont",
-            "longitude": "-121.353308848273",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
-            "latitude": "38.75511285"
-        },
-        "mission bay ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.3911711",
+        "chinatown": {
+            "latitude": "37.7999301",
             "locType": "neighbourhood",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_san jose.json,berkeley_and_long beach.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_oakland.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa cruz.json,berkeley_and_sausalito.json,berkeley_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,big bear lake_and_oakland.json,big bear lake_and_santa cruz.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,fremont_and_fresno.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san francisco.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa cruz.json,fresno_and_stockton.json,huntington beach_and_monterey.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_san francisco.json,long beach_and_santa cruz.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_oakland.json,malibu_and_sausalito.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,newport beach_and_oakland.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,riverside_and_sausalito.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san diego.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_santa cruz.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa cruz_and_santa monica.json,santa monica_and_sausalito.json,sausalito_and_stockton.json\"",
+                "attraction_latitude": "37.788237",
+                "no_of_blogFiles": "152",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "A fairly large China Town in the city, recommend finding a place to stop and enjoy dim sum since fairly inexpensive. Not prettiest area to walk around in, but worth getting the... read more",
+                            0.36904761904761907,
+                            0.48809523809523814,
+                            "https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"Grant Avenue , San Francisco , CA 94108\"",
+                "attraction_longitude": "-122.4051522",
+                "mention_type": "neighbourhood",
+                "attraction_in_file": "san_francisco.json",
+                "mention_name": "chinatown",
+                "youTubeLinkIds": "\"OEYIKwEsGE0,PJmnLzw8NA4,rX8jZTN0CdU\"",
+                "attraction_name": "Chinatown",
+                "mention_longitude": "-122.2702385",
+                "attraction_no_of_reviews": "\"3,955\"",
+                "mention_address": "\"Chinatown, Oakland, Alameda County, California, ca, United States of America\"",
+                "blogLinks": [
+                    "https://www.cheaptickets.com/California.d206.Destination-Travel-Guides",
+                    "http://www.bestplaces.net/city/california/newark",
+                    "https://en.wikipedia.org/wiki/Napa,_California",
+                    "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                    "http://www.bestplaces.net/city/california/sausalito",
+                    "https://www.visitoakland.org/explore/101-things-to-do/",
+                    "https://www.kcet.org/departures-columns/on-location-monterey-park",
+                    "https://www.cheaptickets.com/Destinations-In-California.d206.Hotel-Destinations",
+                    "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                    "https://www.audleytravel.com/usa/california/things-to-do/san-francisco-city-tour-muir-woods-sausalito",
+                    "http://wikitravel.org/en/Fremont",
+                    "http://wikitravel.org/en/Los_Angeles",
+                    "http://www.bestplaces.net/city/berkeley-california.aspx",
+                    "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                    "http://gocalifornia.about.com/od/casfmenu/ss/things-to-do-in-san-francisco.htm",
+                    "https://www.yelp.com/topic/fremont-seattle-vs-sf",
+                    "http://www.bestplaces.net/city/california/oakland",
+                    "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area",
+                    "https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html",
+                    "http://www.cosmos.com/tour/golden-west-adventure/8500/",
+                    "http://www.bestplaces.net/zip-code/california/sausalito",
+                    "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539",
+                    "http://www.bestplaces.net/city/california/berkeley",
+                    "http://www.sftravel.com/article/7-best-things-do-san-francisco",
+                    "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                    "http://www.movoto.com/blog/opinions/san-francisco-vs-los-angeles/",
+                    "http://www.theamericanroadtripcompany.co.uk/roadtrips/pacific-coast-highway/",
+                    "https://www.yelp.com/list/best-places-in-oakland-berkeley-you-havent-found-yet-oakland",
+                    "https://www.trekaroo.com/places/california/snapshot",
+                    "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                    "http://www.touropia.com/best-places-to-visit-in-california/",
+                    "http://www.rewards-insiders.marriott.com/thread/14517",
+                    "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                    "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                    "https://blog.trekaroo.com/grand-california-road-trip/",
+                    "http://www.bestplaces.net/city/california/walnut_creek",
+                    "http://www.bestplaces.net/city/california/discovery_bay",
+                    "http://thisismyhappiness.com/2014/06/17/things-do-san-francisco/",
+                    "http://www.bestplaces.net/zip-code/california/sausalito/94965",
+                    "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                    "http://www.bestplaces.net/city/california/fremont",
+                    "http://www.literarytraveler.com/articles/jack-kerouac-and-john-steinbeck-on-the-californian-coast/",
+                    "http://www.bestplaces.net/metro/california/san_francisco-oakland-fremont",
+                    "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                    "http://www.bestplaces.net/zip-code/california/fremont/94538",
+                    "https://en.wikipedia.org/wiki/List_of_largest_California_cities_by_population",
+                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                    "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                    "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas-part-2/",
+                    "https://en.wikipedia.org/wiki/Oakland,_California",
+                    "http://www.travbuddy.com/travel-blogs/3049/",
+                    "http://www.mytravelguideposts.com/2011/11/3-day-vacation-ideas-in-california.html",
+                    "https://www.orbitz.com/lp/flights/178304/178305/san-diego-to-san-francisco",
+                    "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                    "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco",
+                    "http://www.bestoftheroad.com/roadtrip/california-route-1-coast-drive/626",
+                    "http://www.bestplaces.net/zip-code/california/berkeley/94720"
+                ],
+                "mention_latitude": "37.7999301",
+                "attraction_ranking": "54",
+                "attraction_knownFor": "",
+                "zip_code": "94108",
+                "Confidence": "100",
+                "attraction_in": "San Francisco",
+                "mention_popularity": "57",
+                "imageUrls": [
+                    "http://www.olivier-sourisse.fr/blog/wp-content/uploads/2015/10/San-Francisco-Chinatown-1.jpg",
+                    "http://www.markgibsonphoto.com/images/K077.06W04W.JPG",
+                    "http://www.kapakliforum.com/wp-content/uploads/2016/05/san-francisco-hem-klasik-hem-yerel-ruhu-yansitiyor-572758933c751.jpg"
+                ],
+                "attraction_contact": "+1 888-212-3203",
+                "attraction_reviewComments": [
+                    "A fairly large China Town in the city, recommend finding a place to stop and enjoy dim sum since fairly inexpensive. Not prettiest area to walk around in, but worth getting the... read more"
+                ]
+            },
+            "longitude": "-122.2702385",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America"
+        },
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "locType": "peak",
+            "longitude": "-120.8676993",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Mission Bay, SF, California, 94158, United States of America",
-            "latitude": "37.7707742"
+            "closest_to": "fresno",
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America"
+        },
+        "south bay": {
+            "latitude": "37.794096",
+            "locType": "bay",
+            "longitude": "-122.4927499",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America"
+        },
+        "san miguel": {
+            "latitude": "35.7524679",
+            "locType": "village",
+            "longitude": "-120.6962825",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "San Miguel, San Luis Obispo County, California, United States of America"
+        },
+        "santa clara county": {
+            "latitude": "37.2333253",
+            "locType": "administrative",
+            "longitude": "-121.6846348",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Santa Clara County, California, United States of America"
         },
         "daly city": {
-            "closest_to": "fremont",
-            "longitude": "-122.4619204",
+            "latitude": "37.7057671",
             "locType": "city",
+            "longitude": "-122.4619204",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/fremont"
             ],
-            "address": "Daly City, San Mateo County, California, United States of America",
-            "latitude": "37.7057671"
-        },
-        "solano county": {
             "closest_to": "fremont",
-            "longitude": "-121.9163554",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Solano County, California, United States of America",
-            "latitude": "38.2218938"
+            "address": "Daly City, San Mateo County, California, United States of America"
         },
-        "san simeon": {
+        "central san joaquin valley": {
+            "latitude": "37.9544208",
+            "locType": "car_repair",
+            "longitude": "-121.2715599",
+            "blogLinks": [
+                "http://www.fresno.gov/DiscoverFresno/default.htm"
+            ],
             "closest_to": "fresno",
-            "longitude": "-121.1907532",
-            "locType": "hamlet",
+            "address": "Central Valley Auto Tech, East Market Street, Stockton, San Joaquin County, California, 95205, United States of America"
+        },
+        "pacific northwest": {
+            "latitude": "37.98042375",
+            "locType": "university",
+            "longitude": "-121.312847098327",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America"
+        },
+        "el dorado county": {
+            "latitude": "38.7574137",
+            "locType": "administrative",
+            "longitude": "-120.5276128",
             "blogLinks": [
                 "http://www.travbuddy.com/California-popular-cities-p85"
             ],
-            "address": "San Simeon, San Luis Obispo County, California, United States of America",
-            "latitude": "35.6438587"
+            "closest_to": "fremont",
+            "address": "El Dorado County, California, United States of America"
+        },
+        "san francisco bay area": {
+            "latitude": "37.7884969",
+            "locType": "region",
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "San Francisco Bay Area, SF, California, United States of America"
         },
         "san francisco": {
-            "closest_to": "fremont",
-            "longitude": "-122.4192362",
+            "latitude": "37.7792808",
+            "locType": "city",
             "enrich_metadata": {
-                "attraction_in_file": "san_francisco.json",
-                "label": "San Francisco",
-                "Confidence": "100",
-                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
-                "type": "http://dbpedia.org/resource/Consolidated_city-county",
-                "mention_address": "SF, California, United States of America",
-                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
-                "attraction_latitude": "37.7792808",
-                "no_of_blogFiles": "361",
-                "subject": "http://dbpedia.org/resource/San_Francisco",
                 "mention_popularity": "601",
+                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
+                "no_of_blogFiles": "361",
+                "attraction_longitude": "-122.4192362",
+                "mention_address": "SF, California, United States of America",
                 "imageUrls": [
                     "https://d2w04addmnh2aq.cloudfront.net/api/file/94zcYc44Q3abA6TWvh0u",
                     "https://www.kingofmaids.com/wp-content/uploads/2015/11/houes-cleaning-san-francisco.jpg",
                     "http://img.mota.ru/upload/wallpapers/2013/05/12/13/04/35889/RATvxR7GYk-2560x1600.jpg"
                 ],
-                "mention_name": "san francisco",
-                "attraction_longitude": "-122.4192362",
-                "attraction_in": "San Francisco",
-                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "label": "San Francisco",
                 "mention_latitude": "37.7792808",
                 "mention_type": "city",
-                "mention_longitude": "-122.4192362"
+                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
+                "Confidence": "100",
+                "attraction_in": "San Francisco",
+                "attraction_in_file": "san_francisco.json",
+                "attraction_latitude": "37.7792808",
+                "mention_name": "san francisco",
+                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_longitude": "-122.4192362",
+                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "type": "http://dbpedia.org/resource/Consolidated_city-county"
             },
-            "locType": "city",
+            "longitude": "-122.4192362",
             "blogLinks": [
                 "http://www.parks.ca.gov/?page_id=22722",
                 "https://www.ridebooker.com/transfers/fremont-ca/fresno-ca/van",
@@ -149,222 +281,393 @@
                 "http://www.bestplaces.net/city/california/fremont",
                 "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm"
             ],
-            "address": "SF, California, United States of America",
-            "latitude": "37.7792808"
-        },
-        "pacific": {
             "closest_to": "fremont",
-            "longitude": "-120.507146",
+            "address": "SF, California, United States of America"
+        },
+        "aurora": {
+            "latitude": "37.65993",
             "locType": "hamlet",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Pacific, El Dorado County, California, United States of America",
-            "latitude": "38.7601815"
-        },
-        "morro bay ca": {
-            "closest_to": "fresno",
-            "longitude": "-120.8499012",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
-            "latitude": "35.3658075"
-        },
-        "pebble beach ca": {
-            "closest_to": "fresno",
-            "longitude": "-121.9466112",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Pebble Beach, Monterey County, California, United States of America",
-            "latitude": "36.5664874"
-        },
-        "us": {
-            "closest_to": "fresno",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.california-blog.com/",
-                "http://www.travbuddy.com/California-popular-cities-p85",
-                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "pacific ocean": {
-            "closest_to": "fresno",
-            "longitude": "-121.678715787326",
-            "locType": "cliff",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America",
-            "latitude": "36.16305775"
-        },
-        "bay bridge": {
-            "closest_to": "fremont",
-            "longitude": "-122.342234",
-            "locType": "abandoned",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America",
-            "latitude": "37.8193514"
-        },
-        "ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.232613735941",
-            "locType": "postcode",
-            "blogLinks": [
-                "https://www.ridebooker.com/transfers/fremont-ca/fresno-ca/van"
-            ],
-            "address": "Piedmont, Alameda County, California, ca, United States of America",
-            "latitude": "37.8242285466918"
-        },
-        "santa cruz mountains.the": {
-            "closest_to": "fresno",
-            "longitude": "-122.0712855",
-            "locType": "mountain_range",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
-            "latitude": "37.2188403"
-        },
-        "monterey bay": {
-            "closest_to": "fresno",
-            "longitude": "-121.9010667",
-            "locType": "bay",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Monterey Bay, Monterey County, California, United States of America",
-            "latitude": "36.7999557"
-        },
-        "el dorado county": {
-            "closest_to": "fremont",
-            "longitude": "-120.5276128",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "El Dorado County, California, United States of America",
-            "latitude": "38.7574137"
-        },
-        "salinas valley": {
-            "closest_to": "fresno",
-            "longitude": "-121.6550371",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Salinas, Monterey County, California, United States of America",
-            "latitude": "36.6744117"
-        },
-        "oakland": {
-            "closest_to": "fremont",
-            "longitude": "-122.2713562",
-            "enrich_metadata": {
-                "label": "Oakland, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "4cUVH71rQtk,vk516Cq4ulY,50RZpphkZkQ",
-                "type": "http://dbpedia.org/resource/Charter_city",
-                "mention_address": "Oakland, Alameda County, California, United States of America",
-                "abstract": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco. Oakland's territory covers what was once a mosaic of coastal terrace prairie, oak woodland, and north coastal scrub. Its land served as a rich resource when its hillside oak and redwood timber were logged to build San Francisco, and Oakland's fertile flatland soils helped it become a prolific agricultural region. In the late 1860s, Oakland was selected as the western terminal of the Transcontinental Railroad. Following the 1906 San Francisco earthquake, many San Franciscans relocated to Oakland, enlarging the city's population, increasing its housing stock and improving its infrastructure. It continued to grow in the 20th century with its busy port, shipyards, and a thriving automobile manufacturing industry. Oakland is known for its sustainability practices, including a top ranking for usage of electricity from renewable resources. Oakland is also known for its history of political activism, as well as its professional sports franchises and major corporations, which include health care, dot-com companies and manufacturers of household products. In addition, thanks to a steady influx of immigrants during the 20th century, along with thousands of African-American war-industry workers who relocated from the Deep South during the 1940s, Oakland is one of the most ethnically diverse major cities in the country.",
-                "attraction_latitude": "37.8044557",
-                "no_of_blogFiles": "196",
-                "subject": "http://dbpedia.org/resource/Oakland,_California",
-                "attraction_in_file": "oakland.json",
-                "imageUrls": [
-                    "https://readtiger.com/img/wkp/en/Oakland_California_aerial_view.jpg",
-                    "http://s1.dmcdn.net/LkaVc/1280x720-wJY.jpg",
-                    "http://kstati.net/wp-content/uploads/2016/08/chinatown-1-960x600.jpg"
-                ],
-                "mention_name": "oakland",
-                "mention_type": "city",
-                "attraction_longitude": "-122.2713562",
-                "attraction_in": "Oakland",
-                "comment": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco.",
-                "mention_longitude": "-122.2713562",
-                "mention_latitude": "37.8044557",
-                "mention_popularity": "165",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_oakland.json,anaheim_and_santa cruz.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,berkeley_and_san jose.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_oakland.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa barbara.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_santa cruz.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_oakland.json,malibu_and_san francisco.json,malibu_and_san jose.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,riverside_and_sacramento.json,riverside_and_san jose.json,sacramento_and_san jose.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Oakland, Alameda County, California, United States of America",
-            "latitude": "37.8044557"
-        },
-        "menlo park": {
-            "closest_to": "fremont",
-            "longitude": "-122.182187",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "Menlo Park, San Mateo County, California, United States of America",
-            "latitude": "37.4538274"
-        },
-        "airbnb": {
-            "closest_to": "fremont",
-            "longitude": "-122.4054483",
-            "locType": "company",
+            "longitude": "-121.002712",
             "blogLinks": [
                 "http://www.fremontuniverse.com/"
             ],
-            "address": "Airbnb, 888, Brannan Street, West SoMa, SF, California, 94103, United States of America",
-            "latitude": "37.7719568"
+            "closest_to": "fresno",
+            "address": "Aurora, Stanislaus County, California, United States of America"
+        },
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "locType": "secondary",
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "locType": "river",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "Kern River, Tulare County, California, United States of America"
+        },
+        "alpha phi": {
+            "latitude": "37.9818363",
+            "locType": "yes",
+            "longitude": "-121.311315241098",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "Alpha Phi, Presidents Drive, Stockton, San Joaquin County, California, 95211, United States of America"
+        },
+        "san simeon": {
+            "latitude": "35.6438587",
+            "locType": "hamlet",
+            "longitude": "-121.1907532",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "San Simeon, San Luis Obispo County, California, United States of America"
+        },
+        "freemont street": {
+            "latitude": "36.001262",
+            "locType": "residential",
+            "longitude": "-120.1119339",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "https://www.vegas.com/attractions/off-the-strip/fremont-street-experience/"
+            ],
+            "closest_to": "fresno",
+            "address": "Freemont Street, Avenal, Kings County, California, 93204, United States of America"
         },
         "alameda": {
-            "closest_to": "fresno",
-            "longitude": "-121.8991419",
+            "latitude": "37.6090291",
             "locType": "administrative",
+            "longitude": "-121.8991419",
             "blogLinks": [
                 "http://www.parks.ca.gov/?page_id=22722"
             ],
-            "address": "Alameda County, California, United States of America",
-            "latitude": "37.6090291"
-        },
-        "central san joaquin valley": {
             "closest_to": "fresno",
-            "longitude": "-121.2715599",
-            "locType": "car_repair",
+            "address": "Alameda County, California, United States of America"
+        },
+        "south san francisco": {
+            "latitude": "37.6549493",
+            "locType": "administrative",
+            "longitude": "-122.408125",
             "blogLinks": [
-                "http://www.fresno.gov/DiscoverFresno/default.htm"
+                "http://www.bestplaces.net/city/california/fremont"
             ],
-            "address": "Central Valley Auto Tech, East Market Street, Stockton, San Joaquin County, California, 95205, United States of America",
-            "latitude": "37.9544208"
+            "closest_to": "fremont",
+            "address": "South San Francisco, San Mateo County, California, United States of America"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "locType": "school",
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America"
+        },
+        "solano county": {
+            "latitude": "38.2218938",
+            "locType": "administrative",
+            "longitude": "-121.9163554",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Solano County, California, United States of America"
+        },
+        "santa cruz": {
+            "latitude": "36.9735903",
+            "locType": "city",
+            "longitude": "-122.0260569",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Santa Cruz, Santa Cruz County, California, United States of America"
+        },
+        "santa clara": {
+            "latitude": "37.3541132",
+            "locType": "city",
+            "longitude": "-121.9551743",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "Santa Clara, Santa Clara County, California, United States of America"
+        },
+        "salinas river": {
+            "latitude": "35.2891002",
+            "locType": "river",
+            "longitude": "-120.3596546",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "Salinas River, San Luis Obispo County, California, United States of America"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "locType": "residential",
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America"
+        },
+        "san jose": {
+            "latitude": "37.3361905",
+            "locType": "city",
+            "longitude": "-121.8905832",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.bestplaces.net/city/california/fremont",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America"
+        },
+        "san rafael": {
+            "latitude": "37.9735346",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,avalon_and_napa.json,anaheim_and_napa.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_napa.json,berkeley_and_sacramento.json,berkeley_and_fremont.json,beverly hills_and_san jose.json,big bear lake_and_sausalito.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_los angeles.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa cruz.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_sausalito.json,fresno_and_riverside.json,long beach_and_san jose.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa cruz.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,mammoth lakes_and_sausalito.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_santa cruz.json,oakland_and_san luis obispo.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,pasadena_and_sacramento.json,pasadena_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_stockton.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_popularity": "18",
+                "no_of_blogFiles": "128",
+                "attraction_longitude": "-122.5310873",
+                "mention_address": "San Rafael, Marin County, California, United States of America",
+                "imageUrls": [
+                    "https://readtiger.com/img/wkp/ru/San_Rafael_California_Canal_Area_aerial_view.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Terra_Linda%2C_California.JPG",
+                    "http://pics4.city-data.com/cpicc/cfiles49663.jpg"
+                ],
+                "label": "San Rafael, California",
+                "mention_latitude": "37.9735346",
+                "mention_type": "city",
+                "comment": "San Rafael (/\u02ccs\u00e6n r\u0259\u02c8f\u025bl/ SAN r\u0259-FEL; [san rafa\u02c8el]) (Spanish for \"Saint Raphael\") is a city and the county seat of Marin County, California, United States. The city is located in the North Bay region of the San Francisco Bay Area. As of the 2010 census the city's population is 57,713.",
+                "Confidence": "100",
+                "attraction_in": "San Rafael",
+                "attraction_in_file": "san_rafael.json",
+                "abstract": "San Rafael (/\u02ccs\u00e6n r\u0259\u02c8f\u025bl/ SAN r\u0259-FEL; [san rafa\u02c8el]) (Spanish for \"Saint Raphael\") is a city and the county seat of Marin County, California, United States. The city is located in the North Bay region of the San Francisco Bay Area. As of the 2010 census the city's population is 57,713.",
+                "mention_name": "san rafael",
+                "youTubeLinkIds": "aj3bgQb3tFY,lsAi6h93f9A,5_iEHS9NYVs",
+                "attraction_latitude": "37.9735346",
+                "mention_longitude": "-122.5310873",
+                "subject": "http://dbpedia.org/resource/San_Rafael,_California",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-122.5310873",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "San Rafael, Marin County, California, United States of America"
+        },
+        "mount tamalpais": {
+            "latitude": "37.879988",
+            "locType": "census",
+            "longitude": "-122.535021480702",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America"
+        },
+        "vallejo": {
+            "latitude": "38.1040864",
+            "locType": "city",
+            "longitude": "-122.2566366",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Vallejo, Solano County, California, United States of America"
+        },
+        "windsor": {
+            "latitude": "38.519758",
+            "locType": "administrative",
+            "longitude": "-122.804427291464",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Windsor, Sonoma County, California, United States of America"
+        },
+        "san antonio valley": {
+            "latitude": "38.1838069",
+            "locType": "hamlet",
+            "longitude": "-122.5913722",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "San Antonio, Marin County, California, United States of America"
+        },
+        "golden gate": {
+            "latitude": "37.8190177",
+            "locType": "strait",
+            "longitude": "-122.4793972",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Golden Gate, Golden Gate Bridge, Waldo, Marin County, California, 94965, United States of America"
+        },
+        "bay bridge": {
+            "latitude": "37.8193514",
+            "locType": "abandoned",
+            "longitude": "-122.342234",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "San Francisco \u2013 Oakland Bay Bridge, Oakland, Alameda County, California, 94625, United States of America"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm"
+            ],
+            "closest_to": "fresno",
+            "address": "California, United States of America"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "locType": "water",
+            "longitude": "-122.501983281136",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America"
+        },
+        "pacific ocean": {
+            "latitude": "36.16305775",
+            "locType": "cliff",
+            "longitude": "-121.678715787326",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Pacific Ocean, Cabrillo Highway, Monterey County, California, 93920, United States of America"
+        },
+        "san juan bautista": {
+            "latitude": "36.8455173",
+            "locType": "city",
+            "longitude": "-121.5379893",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "San Juan Bautista, San Benito County, California, United States of America"
+        },
+        "soledad": {
+            "latitude": "36.4269452",
+            "locType": "city",
+            "longitude": "-121.3272146",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "Soledad, Monterey County, California, United States of America"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "locType": "neighbourhood",
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Mission Bay, SF, California, 94158, United States of America"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "locType": "aerodrome",
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America"
+        },
+        "oakhurst": {
+            "latitude": "37.333178",
+            "locType": "administrative",
+            "longitude": "-119.657244022836",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America"
+        },
+        "calico": {
+            "latitude": "35.6327332",
+            "locType": "locality",
+            "longitude": "-119.206496",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Calico, Kern County, California, United States of America"
+        },
+        "santa cruz mountains.the": {
+            "latitude": "37.2188403",
+            "locType": "mountain_range",
+            "longitude": "-122.0712855",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America"
         },
         "san francisco bay": {
-            "closest_to": "fremont",
-            "longitude": "-122.2802469",
+            "latitude": "37.708264",
+            "locType": "bay",
             "enrich_metadata": {
-                "attraction_name": "San Francisco Bay",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"9-QPDr_LZls,ttQH4Xl0HCM,agoYM_Jmg40\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_fresno.json,avalon_and_oakland.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa cruz.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_pismo beach.json,carlsbad_and_santa cruz.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_monterey.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san francisco.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,carlsbad_and_san luis obispo.json,long beach_and_oakland.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,malibu_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_santa barbara.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa barbara.json,napa_and_santa cruz.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_stockton.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pismo beach_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san luis obispo.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_temecula.json,santa ana_and_stockton.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json\"",
                 "attraction_latitude": "37.7647993",
                 "no_of_blogFiles": "232",
-                "mention_popularity": "68",
-                "attraction_reviewComments": [
-                    "SF is by far my favorite U.S. city, much above NOLA and NYC. San Francisco is an unique, cosmopolitan and very picturesque city with many world renown attractions to include the... read more"
-                ],
-                "attraction_longitude": "-122.4629896",
-                "attraction_in": "San Francisco",
-                "attraction_address": "\"San Francisco , CA\"",
-                "mention_type": "bay",
-                "mention_found_in_blogFiles": "\"anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_fresno.json,avalon_and_oakland.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_santa cruz.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_pismo beach.json,carlsbad_and_santa cruz.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_monterey.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san francisco.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,carlsbad_and_san luis obispo.json,long beach_and_oakland.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,malibu_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_santa barbara.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa barbara.json,napa_and_santa cruz.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_stockton.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pismo beach_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san luis obispo.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_temecula.json,santa ana_and_stockton.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json\"",
-                "mention_address": "\"San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g60713-d106745-Reviews-San_Francisco_Bay-San_Francisco_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "SF is by far my favorite U.S. city, much above NOLA and NYC. San Francisco is an unique, cosmopolitan and very picturesque city with many world renown attractions to include the... read more",
+                            0.271875,
+                            0.5625,
+                            "https://www.tripadvisor.com/Attraction_Review-g60713-d106745-Reviews-San_Francisco_Bay-San_Francisco_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"San Francisco , CA\"",
+                "attraction_longitude": "-122.4629896",
+                "mention_type": "bay",
                 "attraction_in_file": "san_francisco.json",
+                "mention_name": "san francisco bay",
+                "youTubeLinkIds": "\"9-QPDr_LZls,ttQH4Xl0HCM,agoYM_Jmg40\"",
+                "attraction_name": "San Francisco Bay",
+                "mention_longitude": "-122.2802469",
+                "attraction_no_of_reviews": "\"5,735\"",
+                "mention_address": "\"San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America\"",
                 "blogLinks": [
                     "http://www.trinitysf.com/bay-family-friendly-activities-water-san-francisco/",
                     "http://www.bestplaces.net/city/california/newark",
@@ -435,341 +738,64 @@
                     "http://wikitravel.org/en/Sausalito",
                     "http://www.usatourist.com/english/destinations/california/california-driving-tour.html"
                 ],
+                "mention_latitude": "37.708264",
+                "attraction_ranking": "4",
+                "attraction_knownFor": "\"Bodies of Water , Nature & Parks \"",
+                "zip_code": "",
+                "Confidence": "100",
+                "attraction_in": "San Francisco",
+                "mention_popularity": "68",
                 "imageUrls": [
                     "https://img1.goodfon.ru/original/2560x1600/6/57/san-francisco-oakland-bay.jpg",
                     "http://mapsof.net/uploads/static-maps/san_francisco_bay_area_map.png",
                     "http://razorpix.ru/s/35/san_francisko_1920x1080.jpg"
                 ],
-                "zip_code": "",
-                "attraction_ranking": "4",
-                "attraction_knownFor": "\"Bodies of Water , Nature & Parks \"",
-                "mention_name": "san francisco bay",
-                "attraction_no_of_reviews": "\"5,735\"",
-                "mention_latitude": "37.708264",
                 "attraction_contact": "1-415-788-2222",
-                "mention_longitude": "-122.2802469"
+                "attraction_reviewComments": [
+                    "SF is by far my favorite U.S. city, much above NOLA and NYC. San Francisco is an unique, cosmopolitan and very picturesque city with many world renown attractions to include the... read more"
+                ]
             },
-            "locType": "bay",
+            "longitude": "-122.2802469",
             "blogLinks": [
                 "http://www.travbuddy.com/California-popular-cities-p85"
             ],
-            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America",
-            "latitude": "37.708264"
-        },
-        "half moon bay state beach": {
             "closest_to": "fremont",
-            "longitude": "-122.449789014662",
-            "locType": "beach",
-            "blogLinks": [
-                "http://www.timeanddate.com/worldclock/distances.html?n=224",
-                "https://www.tripadvisor.com/"
-            ],
-            "address": "Half Moon Bay State Beach, Venice Boulevard, Half Moon Bay, San Mateo County, California, 94019, United States of America",
-            "latitude": "37.47903115"
+            "address": "San Francisco Bay, Ferry Landing, Alameda, Alameda County, California, 94502, United States of America"
         },
-        "mount tamalpais": {
-            "closest_to": "fremont",
-            "longitude": "-122.535021480702",
-            "locType": "census",
+        "san luis obispo": {
+            "latitude": "35.2827525",
+            "locType": "city",
+            "longitude": "-120.6596155",
             "blogLinks": [
                 "http://www.parks.ca.gov/?page_id=22722"
             ],
-            "address": "Tamalpais-Homestead Valley, Wendy Way, Almonte, Tamalpais Valley, Marin County, California, 94941, United States of America",
-            "latitude": "37.879988"
-        },
-        "fresno county": {
             "closest_to": "fresno",
-            "longitude": "-119.8155354",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.fresno.gov/DiscoverFresno/default.htm"
-            ],
-            "address": "Fresno County, California, United States of America",
-            "latitude": "36.6713502"
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America"
         },
-        "sonoma": {
-            "closest_to": "fremont",
-            "longitude": "-122.8473387",
+        "menlo park": {
+            "latitude": "37.4538274",
             "locType": "administrative",
-            "blogLinks": [
-                "http://www.fresno.gov/DiscoverFresno/default.htm"
-            ],
-            "address": "Sonoma County, California, United States of America",
-            "latitude": "38.5110803"
-        },
-        "san jose": {
-            "closest_to": "fresno",
-            "longitude": "-121.8905832",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "http://www.bestplaces.net/city/california/fremont",
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
-            "latitude": "37.3361905"
-        },
-        "san mateo": {
-            "closest_to": "fremont",
-            "longitude": "-122.3330572",
-            "locType": "administrative",
+            "longitude": "-122.182187",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/fremont"
             ],
-            "address": "San Mateo County, California, United States of America",
-            "latitude": "37.496904"
-        },
-        "san rafael": {
             "closest_to": "fremont",
-            "longitude": "-122.5310873",
-            "enrich_metadata": {
-                "mention_popularity": "18",
-                "label": "San Rafael, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "aj3bgQb3tFY,lsAi6h93f9A,5_iEHS9NYVs",
-                "type": "http://dbpedia.org/resource/California",
-                "attraction_in_file": "san_rafael.json",
-                "abstract": "San Rafael (/\u02ccs\u00e6n r\u0259\u02c8f\u025bl/ SAN r\u0259-FEL; [san rafa\u02c8el]) (Spanish for \"Saint Raphael\") is a city and the county seat of Marin County, California, United States. The city is located in the North Bay region of the San Francisco Bay Area. As of the 2010 census the city's population is 57,713.",
-                "attraction_latitude": "37.9735346",
-                "no_of_blogFiles": "128",
-                "subject": "http://dbpedia.org/resource/San_Rafael,_California",
-                "mention_address": "San Rafael, Marin County, California, United States of America",
-                "imageUrls": [
-                    "https://readtiger.com/img/wkp/ru/San_Rafael_California_Canal_Area_aerial_view.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Terra_Linda%2C_California.JPG",
-                    "http://pics4.city-data.com/cpicc/cfiles49663.jpg"
-                ],
-                "mention_name": "san rafael",
-                "attraction_longitude": "-122.5310873",
-                "attraction_in": "San Rafael",
-                "comment": "San Rafael (/\u02ccs\u00e6n r\u0259\u02c8f\u025bl/ SAN r\u0259-FEL; [san rafa\u02c8el]) (Spanish for \"Saint Raphael\") is a city and the county seat of Marin County, California, United States. The city is located in the North Bay region of the San Francisco Bay Area. As of the 2010 census the city's population is 57,713.",
-                "mention_longitude": "-122.5310873",
-                "mention_latitude": "37.9735346",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,avalon_and_napa.json,anaheim_and_napa.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_napa.json,berkeley_and_sacramento.json,berkeley_and_fremont.json,beverly hills_and_san jose.json,big bear lake_and_sausalito.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_los angeles.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa cruz.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_sausalito.json,fresno_and_riverside.json,long beach_and_san jose.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa cruz.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,mammoth lakes_and_sausalito.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_santa cruz.json,oakland_and_san luis obispo.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,pasadena_and_sacramento.json,pasadena_and_sausalito.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_stockton.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Rafael, Marin County, California, United States of America",
-            "latitude": "37.9735346"
+            "address": "Menlo Park, San Mateo County, California, United States of America"
         },
-        "san luis obispo": {
-            "closest_to": "fresno",
-            "longitude": "-120.6596155",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
-            "latitude": "35.2827525"
-        },
-        "palou": {
-            "closest_to": "fremont",
-            "longitude": "-122.3890349",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America",
-            "latitude": "37.732919"
-        },
-        "calico": {
-            "closest_to": "fresno",
-            "longitude": "-119.206496",
-            "locType": "locality",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Calico, Kern County, California, United States of America",
-            "latitude": "35.6327332"
-        },
-        "silicon valley": {
-            "closest_to": "fremont",
-            "longitude": "-122.0597491",
-            "locType": "school",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
-            "latitude": "37.4105333"
-        },
-        "san joaquin valley": {
-            "closest_to": "fresno",
-            "longitude": "-121.2773718",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.fresno.gov/DiscoverFresno/default.htm"
-            ],
-            "address": "San Joaquin County, California, United States of America",
-            "latitude": "37.9372901"
-        },
-        "la": {
-            "closest_to": "fresno",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85",
-                "http://gocalifornia.about.com/od/topcalifornia/qt/From-To-In-California.htm"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "san juan bautista": {
-            "closest_to": "fresno",
-            "longitude": "-121.5379893",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Juan Bautista, San Benito County, California, United States of America",
-            "latitude": "36.8455173"
-        },
-        "monterey bay aquarium ca": {
-            "closest_to": "fresno",
-            "longitude": "-121.901680002002",
-            "locType": "aquarium",
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "locType": "hamlet",
+            "longitude": "-121.9466112",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
-            "latitude": "36.61809095"
-        },
-        "berkeley": {
-            "closest_to": "fremont",
-            "longitude": "-122.2728638",
-            "enrich_metadata": {
-                "attraction_in_file": "berkeley.json",
-                "label": "Berkeley, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "lh4b6D14pAs,bA9k2E0FsTE,ifv_ktmbMUk",
-                "type": "http://dbpedia.org/resource/Charter_city",
-                "mention_address": "Berkeley, Alameda County, California, United States of America",
-                "abstract": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580. Berkeley is the site of the oldest campus in the University of California system \u2013 the University of California, Berkeley \u2013 of the Lawrence Berkeley National Laboratory which is managed and operated by the university, and the Graduate Theological Union. It is one of the most politically liberal cities in the United States.",
-                "attraction_latitude": "37.8708393",
-                "no_of_blogFiles": "208",
-                "subject": "http://dbpedia.org/resource/Berkeley,_California",
-                "mention_popularity": "267",
-                "imageUrls": [
-                    "https://humwork.uchri.org/wp-content/uploads/2016/02/Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg",
-                    "http://diit.cz/sites/default/files/images/2176/anicka016.jpg",
-                    "https://static-5502.kxcdn.com/wp-content/uploads/2015/11/ucberkeleycampus.jpg"
-                ],
-                "mention_name": "berkeley",
-                "attraction_longitude": "-122.2728638",
-                "attraction_in": "Berkeley",
-                "comment": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580.",
-                "mention_longitude": "-122.2728638",
-                "mention_latitude": "37.8708393",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_san francisco.json,anaheim_and_sausalito.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_sacramento.json,berkeley_and_long beach.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_berkeley.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_oakland.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,beverly hills_and_stockton.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sausalito.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_san francisco.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_sausalito.json,san luis obispo_and_temecula.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Berkeley, Alameda County, California, United States of America",
-            "latitude": "37.8708393"
-        },
-        "oakhurst": {
             "closest_to": "fresno",
-            "longitude": "-119.657244022836",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
-            "latitude": "37.333178"
-        },
-        "redwood city": {
-            "closest_to": "fremont",
-            "longitude": "-122.2363547",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "Redwood City, San Mateo County, California, United States of America",
-            "latitude": "37.4852152"
-        },
-        "aurora": {
-            "closest_to": "fresno",
-            "longitude": "-121.002712",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Aurora, Stanislaus County, California, United States of America",
-            "latitude": "37.65993"
-        },
-        "windsor": {
-            "closest_to": "fremont",
-            "longitude": "-122.804427291464",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Windsor, Sonoma County, California, United States of America",
-            "latitude": "38.519758"
-        },
-        "yerba buena island": {
-            "closest_to": "fremont",
-            "longitude": "-122.3660816",
-            "locType": "island",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Yerba Buena Island, SF, California, United States of America",
-            "latitude": "37.8099281"
-        },
-        "san antonio valley": {
-            "closest_to": "fremont",
-            "longitude": "-122.5913722",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Antonio, Marin County, California, United States of America",
-            "latitude": "38.1838069"
-        },
-        "united states": {
-            "closest_to": "fresno",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/",
-                "http://www.bestplaces.net/city/california/fremont",
-                "http://www.travbuddy.com/California-popular-cities-p85",
-                "http://www.fresno.gov/DiscoverFresno/default.htm",
-                "https://www.tripadvisor.com/"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "salinas river": {
-            "closest_to": "fresno",
-            "longitude": "-120.3596546",
-            "locType": "river",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Salinas River, San Luis Obispo County, California, United States of America",
-            "latitude": "35.2891002"
-        },
-        "monterey": {
-            "closest_to": "fresno",
-            "longitude": "-121.866792846206",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Monterey, Monterey County, California, United States of America",
-            "latitude": "36.5844165"
+            "address": "Pebble Beach, Monterey County, California, United States of America"
         },
         "fresno": {
-            "closest_to": "fresno",
-            "longitude": "-119.714839601149",
+            "latitude": "36.748793",
             "locType": "city",
+            "longitude": "-119.714839601149",
             "blogLinks": [
                 "http://www.timeanddate.com/worldclock/distances.html?n=390",
                 "http://www.movoto.com/fresno-ca/3051-e-fremont-ave-fresno-ca-93710-104_439255/for-sale/",
@@ -779,387 +805,385 @@
                 "http://www.roadsideamerica.com/location/ne",
                 "http://www.fresno.gov/DiscoverFresno/default.htm"
             ],
-            "address": "Fresno, Fresno County, California, United States of America",
-            "latitude": "36.748793"
-        },
-        "north lake ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.501983281136",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
-            "latitude": "37.76958295"
-        },
-        "santa clara county": {
             "closest_to": "fresno",
-            "longitude": "-121.6846348",
+            "address": "Fresno, Fresno County, California, United States of America"
+        },
+        "laguna st.": {
+            "latitude": "37.8048689",
+            "locType": "secondary",
+            "longitude": "-122.4320022",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America"
+        },
+        "san mateo": {
+            "latitude": "37.496904",
             "locType": "administrative",
+            "longitude": "-122.3330572",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "San Mateo County, California, United States of America"
+        },
+        "pacific": {
+            "latitude": "38.7601815",
+            "locType": "hamlet",
+            "longitude": "-120.507146",
             "blogLinks": [
                 "http://www.travbuddy.com/California-popular-cities-p85"
             ],
-            "address": "Santa Clara County, California, United States of America",
-            "latitude": "37.2333253"
+            "closest_to": "fremont",
+            "address": "Pacific, El Dorado County, California, United States of America"
         },
-        "kern river": {
+        "sonoma": {
+            "latitude": "38.5110803",
+            "locType": "administrative",
+            "longitude": "-122.8473387",
+            "blogLinks": [
+                "http://www.fresno.gov/DiscoverFresno/default.htm"
+            ],
+            "closest_to": "fremont",
+            "address": "Sonoma County, California, United States of America"
+        },
+        "san francisco bay area of california": {
+            "latitude": "37.7884969",
+            "locType": "region",
+            "longitude": "-122.3558472",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "San Francisco Bay Area, SF, California, United States of America"
+        },
+        "san andreas": {
+            "latitude": "38.1875605",
+            "locType": "administrative",
+            "longitude": "-120.675382525556",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
             "closest_to": "fresno",
-            "longitude": "-118.4124188",
-            "locType": "river",
+            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America"
+        },
+        "monterey": {
+            "latitude": "36.5844165",
+            "locType": "city",
+            "longitude": "-121.866792846206",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Monterey, Monterey County, California, United States of America"
+        },
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "locType": "administrative",
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "http://www.fresno.gov/DiscoverFresno/default.htm"
+            ],
+            "closest_to": "fresno",
+            "address": "San Joaquin County, California, United States of America"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA"
+            ],
+            "closest_to": "fresno",
+            "address": "California, United States of America"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/",
+                "http://www.bestplaces.net/city/california/fremont",
+                "http://www.travbuddy.com/California-popular-cities-p85",
+                "http://www.fresno.gov/DiscoverFresno/default.htm",
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "California, United States of America"
+        },
+        "palou": {
+            "latitude": "37.732919",
+            "locType": "residential",
+            "longitude": "-122.3890349",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "Palou Avenue, Bayview District, SF, California, 94124, United States of America"
+        },
+        "ca": {
+            "latitude": "37.8242285466918",
+            "locType": "postcode",
+            "longitude": "-122.232613735941",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/fremont-ca/fresno-ca/van"
+            ],
+            "closest_to": "fremont",
+            "address": "Piedmont, Alameda County, California, ca, United States of America"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "locType": "aquarium",
+            "longitude": "-121.901680002002",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Kern River, Tulare County, California, United States of America",
-            "latitude": "36.6816956"
+            "closest_to": "fresno",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "locType": "city",
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Redwood City, San Mateo County, California, United States of America"
+        },
+        "yerba buena island": {
+            "latitude": "37.8099281",
+            "locType": "island",
+            "longitude": "-122.3660816",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "Yerba Buena Island, SF, California, United States of America"
+        },
+        "san francisco solano": {
+            "latitude": "38.21389995",
+            "locType": "museum",
+            "longitude": "-122.458560315194",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fremont",
+            "address": "California Missions Museum, Arnold Drive, McGill, Sonoma County, California, United States of America"
+        },
+        "fresno county": {
+            "latitude": "36.6713502",
+            "locType": "administrative",
+            "longitude": "-119.8155354",
+            "blogLinks": [
+                "http://www.fresno.gov/DiscoverFresno/default.htm"
+            ],
+            "closest_to": "fresno",
+            "address": "Fresno County, California, United States of America"
+        },
+        "berkeley": {
+            "latitude": "37.8708393",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "267",
+                "abstract": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580. Berkeley is the site of the oldest campus in the University of California system \u2013 the University of California, Berkeley \u2013 of the Lawrence Berkeley National Laboratory which is managed and operated by the university, and the Graduate Theological Union. It is one of the most politically liberal cities in the United States.",
+                "no_of_blogFiles": "208",
+                "attraction_longitude": "-122.2728638",
+                "mention_address": "Berkeley, Alameda County, California, United States of America",
+                "imageUrls": [
+                    "https://humwork.uchri.org/wp-content/uploads/2016/02/Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg",
+                    "http://diit.cz/sites/default/files/images/2176/anicka016.jpg",
+                    "https://static-5502.kxcdn.com/wp-content/uploads/2015/11/ucberkeleycampus.jpg"
+                ],
+                "label": "Berkeley, California",
+                "mention_latitude": "37.8708393",
+                "mention_type": "city",
+                "comment": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580.",
+                "Confidence": "100",
+                "attraction_in": "Berkeley",
+                "attraction_in_file": "berkeley.json",
+                "attraction_latitude": "37.8708393",
+                "mention_name": "berkeley",
+                "youTubeLinkIds": "lh4b6D14pAs,bA9k2E0FsTE,ifv_ktmbMUk",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_san francisco.json,anaheim_and_sausalito.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_sacramento.json,berkeley_and_long beach.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_berkeley.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_oakland.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,beverly hills_and_stockton.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sausalito.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_san francisco.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_sausalito.json,san luis obispo_and_temecula.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,stockton_and_temecula.json",
+                "mention_longitude": "-122.2728638",
+                "subject": "http://dbpedia.org/resource/Berkeley,_California",
+                "type": "http://dbpedia.org/resource/Charter_city"
+            },
+            "longitude": "-122.2728638",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Berkeley, Alameda County, California, United States of America"
         },
         "calistoga": {
-            "closest_to": "fremont",
-            "longitude": "-122.583325948608",
+            "latitude": "38.582615",
+            "locType": "city",
             "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_stockton.json,avalon_and_fresno.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,anaheim_and_napa.json,bakersfield_and_fremont.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_sausalito.json,berkeley_and_mammoth lakes.json,berkeley_and_napa.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_carlsbad.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,beverly hills_and_napa.json,beverly hills_and_san jose.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_san jose.json,big bear lake_and_santa cruz.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_sacramento.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_long beach.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa cruz.json,fresno_and_sausalito.json,huntington beach_and_oakland.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_napa.json,irvine_and_sacramento.json,long beach_and_napa.json,los angeles_and_napa.json,malibu_and_napa.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_newport beach.json,malibu_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,monterey_and_napa.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa cruz.json,napa_and_santa monica.json,monterey_and_newport beach.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,pasadena_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san diego_and_sausalito.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,napa_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,santa barbara_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_stockton.json,sausalito_and_temecula.json",
                 "mention_popularity": "55",
-                "label": "Calistoga, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "X7IMhhxMbjc,6WLxVcrzIUY,sh7emkKhGbI",
-                "type": "http://dbpedia.org/resource/California",
-                "attraction_in_file": "calistoga.json",
-                "abstract": "Calistoga is a city in Napa County, California, United States. During the 2010 census, the population was 5,155.",
-                "attraction_latitude": "38.582615",
                 "no_of_blogFiles": "114",
-                "subject": "http://dbpedia.org/resource/Calistoga,_California",
+                "attraction_longitude": "-122.583325948608",
                 "mention_address": "Calistoga, Napa County, California, United States of America",
                 "imageUrls": [
                     "https://readtiger.com/img/wkp/en/Calistoga_near_1277_Lincoln_Avenue_looking_north.JPG",
                     "http://static6.businessinsider.com/image/56942164e6183efa428b59df-1200/california-solage-calistoga-calistoga.jpg",
                     "http://ld.homeswing.com/photos/18/2016/4/5/Th_701753_0_1758.jpg"
                 ],
-                "mention_name": "calistoga",
-                "attraction_longitude": "-122.583325948608",
-                "attraction_in": "Calistoga",
-                "comment": "Calistoga is a city in Napa County, California, United States. During the 2010 census, the population was 5,155.",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_stockton.json,avalon_and_fresno.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,anaheim_and_napa.json,bakersfield_and_fremont.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_sausalito.json,berkeley_and_mammoth lakes.json,berkeley_and_napa.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_carlsbad.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,beverly hills_and_napa.json,beverly hills_and_san jose.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_san jose.json,big bear lake_and_santa cruz.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_sacramento.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_long beach.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa cruz.json,fresno_and_sausalito.json,huntington beach_and_oakland.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_napa.json,irvine_and_sacramento.json,long beach_and_napa.json,los angeles_and_napa.json,malibu_and_napa.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_newport beach.json,malibu_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,monterey_and_napa.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa cruz.json,napa_and_santa monica.json,monterey_and_newport beach.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,pasadena_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san diego_and_sausalito.json,san francisco_and_santa cruz.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,napa_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,santa barbara_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_stockton.json,sausalito_and_temecula.json",
+                "label": "Calistoga, California",
                 "mention_latitude": "38.582615",
                 "mention_type": "city",
-                "mention_longitude": "-122.583325948608"
+                "comment": "Calistoga is a city in Napa County, California, United States. During the 2010 census, the population was 5,155.",
+                "Confidence": "100",
+                "attraction_in": "Calistoga",
+                "attraction_in_file": "calistoga.json",
+                "abstract": "Calistoga is a city in Napa County, California, United States. During the 2010 census, the population was 5,155.",
+                "mention_name": "calistoga",
+                "youTubeLinkIds": "X7IMhhxMbjc,6WLxVcrzIUY,sh7emkKhGbI",
+                "attraction_latitude": "38.582615",
+                "mention_longitude": "-122.583325948608",
+                "subject": "http://dbpedia.org/resource/Calistoga,_California",
+                "type": "http://dbpedia.org/resource/California"
             },
-            "locType": "city",
+            "longitude": "-122.583325948608",
             "blogLinks": [
                 "http://www.travbuddy.com/California-popular-cities-p85"
             ],
-            "address": "Calistoga, Napa County, California, United States of America",
-            "latitude": "38.582615"
+            "closest_to": "fremont",
+            "address": "Calistoga, Napa County, California, United States of America"
+        },
+        "salinas valley": {
+            "latitude": "36.6744117",
+            "locType": "city",
+            "longitude": "-121.6550371",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722"
+            ],
+            "closest_to": "fresno",
+            "address": "Salinas, Monterey County, California, United States of America"
         },
         "mono lake ca": {
-            "closest_to": "fresno",
-            "longitude": "-118.967033937845",
+            "latitude": "38.0077189",
             "locType": "water",
+            "longitude": "-118.967033937845",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Mono Lake, Mono County, California, United States of America",
-            "latitude": "38.0077189"
-        },
-        "chinatown": {
-            "closest_to": "fremont",
-            "longitude": "-122.2702385",
-            "enrich_metadata": {
-                "attraction_name": "Chinatown",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"OEYIKwEsGE0,PJmnLzw8NA4,rX8jZTN0CdU\"",
-                "attraction_latitude": "37.788237",
-                "no_of_blogFiles": "152",
-                "mention_popularity": "57",
-                "attraction_reviewComments": [
-                    "A fairly large China Town in the city, recommend finding a place to stop and enjoy dim sum since fairly inexpensive. Not prettiest area to walk around in, but worth getting the... read more"
-                ],
-                "attraction_longitude": "-122.4051522",
-                "attraction_in": "San Francisco",
-                "attraction_address": "\"Grant Avenue , San Francisco , CA 94108\"",
-                "mention_type": "neighbourhood",
-                "mention_found_in_blogFiles": "\"anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_san jose.json,berkeley_and_long beach.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_oakland.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa cruz.json,berkeley_and_sausalito.json,berkeley_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,big bear lake_and_oakland.json,big bear lake_and_santa cruz.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,fremont_and_fresno.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san francisco.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa cruz.json,fresno_and_stockton.json,huntington beach_and_monterey.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_san francisco.json,long beach_and_santa cruz.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_oakland.json,malibu_and_sausalito.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,newport beach_and_oakland.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,riverside_and_sausalito.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san diego.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_santa cruz.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa cruz_and_santa monica.json,santa monica_and_sausalito.json,sausalito_and_stockton.json\"",
-                "mention_address": "\"Chinatown, Oakland, Alameda County, California, ca, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html"
-                ],
-                "attraction_in_file": "san_francisco.json",
-                "blogLinks": [
-                    "https://www.cheaptickets.com/California.d206.Destination-Travel-Guides",
-                    "http://www.bestplaces.net/city/california/newark",
-                    "https://en.wikipedia.org/wiki/Napa,_California",
-                    "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
-                    "http://www.bestplaces.net/city/california/sausalito",
-                    "https://www.visitoakland.org/explore/101-things-to-do/",
-                    "https://www.kcet.org/departures-columns/on-location-monterey-park",
-                    "https://www.cheaptickets.com/Destinations-In-California.d206.Hotel-Destinations",
-                    "https://www.berkeleyparentsnetwork.org/recommend/places/la",
-                    "https://www.audleytravel.com/usa/california/things-to-do/san-francisco-city-tour-muir-woods-sausalito",
-                    "http://wikitravel.org/en/Fremont",
-                    "http://wikitravel.org/en/Los_Angeles",
-                    "http://www.bestplaces.net/city/berkeley-california.aspx",
-                    "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
-                    "http://gocalifornia.about.com/od/casfmenu/ss/things-to-do-in-san-francisco.htm",
-                    "https://www.yelp.com/topic/fremont-seattle-vs-sf",
-                    "http://www.bestplaces.net/city/california/oakland",
-                    "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area",
-                    "https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html",
-                    "http://www.cosmos.com/tour/golden-west-adventure/8500/",
-                    "http://www.bestplaces.net/zip-code/california/sausalito",
-                    "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539",
-                    "http://www.bestplaces.net/city/california/berkeley",
-                    "http://www.sftravel.com/article/7-best-things-do-san-francisco",
-                    "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
-                    "http://www.movoto.com/blog/opinions/san-francisco-vs-los-angeles/",
-                    "http://www.theamericanroadtripcompany.co.uk/roadtrips/pacific-coast-highway/",
-                    "https://www.yelp.com/list/best-places-in-oakland-berkeley-you-havent-found-yet-oakland",
-                    "https://www.trekaroo.com/places/california/snapshot",
-                    "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
-                    "http://www.touropia.com/best-places-to-visit-in-california/",
-                    "http://www.rewards-insiders.marriott.com/thread/14517",
-                    "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
-                    "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
-                    "https://blog.trekaroo.com/grand-california-road-trip/",
-                    "http://www.bestplaces.net/city/california/walnut_creek",
-                    "http://www.bestplaces.net/city/california/discovery_bay",
-                    "http://thisismyhappiness.com/2014/06/17/things-do-san-francisco/",
-                    "http://www.bestplaces.net/zip-code/california/sausalito/94965",
-                    "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
-                    "http://www.bestplaces.net/city/california/fremont",
-                    "http://www.literarytraveler.com/articles/jack-kerouac-and-john-steinbeck-on-the-californian-coast/",
-                    "http://www.bestplaces.net/metro/california/san_francisco-oakland-fremont",
-                    "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
-                    "http://www.bestplaces.net/zip-code/california/fremont/94538",
-                    "https://en.wikipedia.org/wiki/List_of_largest_California_cities_by_population",
-                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
-                    "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
-                    "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas-part-2/",
-                    "https://en.wikipedia.org/wiki/Oakland,_California",
-                    "http://www.travbuddy.com/travel-blogs/3049/",
-                    "http://www.mytravelguideposts.com/2011/11/3-day-vacation-ideas-in-california.html",
-                    "https://www.orbitz.com/lp/flights/178304/178305/san-diego-to-san-francisco",
-                    "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
-                    "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco",
-                    "http://www.bestoftheroad.com/roadtrip/california-route-1-coast-drive/626",
-                    "http://www.bestplaces.net/zip-code/california/berkeley/94720"
-                ],
-                "imageUrls": [
-                    "http://www.olivier-sourisse.fr/blog/wp-content/uploads/2015/10/San-Francisco-Chinatown-1.jpg",
-                    "http://www.markgibsonphoto.com/images/K077.06W04W.JPG",
-                    "http://www.kapakliforum.com/wp-content/uploads/2016/05/san-francisco-hem-klasik-hem-yerel-ruhu-yansitiyor-572758933c751.jpg"
-                ],
-                "zip_code": "94108",
-                "attraction_ranking": "54",
-                "attraction_knownFor": "",
-                "mention_name": "chinatown",
-                "attraction_no_of_reviews": "\"3,955\"",
-                "mention_latitude": "37.7999301",
-                "attraction_contact": "+1 888-212-3203",
-                "mention_longitude": "-122.2702385"
-            },
-            "locType": "neighbourhood",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
-            "latitude": "37.7999301"
-        },
-        "soledad": {
             "closest_to": "fresno",
-            "longitude": "-121.3272146",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Soledad, Monterey County, California, United States of America",
-            "latitude": "36.4269452"
-        },
-        "santa cruz": {
-            "closest_to": "fresno",
-            "longitude": "-122.0260569",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Santa Cruz, Santa Cruz County, California, United States of America",
-            "latitude": "36.9735903"
-        },
-        "marin county": {
-            "closest_to": "fremont",
-            "longitude": "-122.6199637",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont"
-            ],
-            "address": "Marin County, California, United States of America",
-            "latitude": "38.0409144"
-        },
-        "san miguel": {
-            "closest_to": "fresno",
-            "longitude": "-120.6962825",
-            "locType": "village",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Miguel, San Luis Obispo County, California, United States of America",
-            "latitude": "35.7524679"
-        },
-        "napa valley ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.3002947",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
-            "latitude": "38.2972603"
-        },
-        "vallejo": {
-            "closest_to": "fremont",
-            "longitude": "-122.2566366",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "Vallejo, Solano County, California, United States of America",
-            "latitude": "38.1040864"
-        },
-        "alpha phi": {
-            "closest_to": "fresno",
-            "longitude": "-121.311315241098",
-            "locType": "yes",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Alpha Phi, Presidents Drive, Stockton, San Joaquin County, California, 95211, United States of America",
-            "latitude": "37.9818363"
-        },
-        "laguna st.": {
-            "closest_to": "fremont",
-            "longitude": "-122.4320022",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Laguna Street, Marina District, SF, California, 14123, United States of America",
-            "latitude": "37.8048689"
-        },
-        "south bay": {
-            "closest_to": "fremont",
-            "longitude": "-122.4927499",
-            "locType": "bay",
-            "blogLinks": [
-                "http://www.travbuddy.com/California-popular-cities-p85"
-            ],
-            "address": "South Bay, Sea Cliff Avenue, Seacliff, SF, California, 94121, United States of America",
-            "latitude": "37.794096"
-        },
-        "freemont street": {
-            "closest_to": "fresno",
-            "longitude": "-120.1119339",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722",
-                "https://www.vegas.com/attractions/off-the-strip/fremont-street-experience/"
-            ],
-            "address": "Freemont Street, Avenal, Kings County, California, 93204, United States of America",
-            "latitude": "36.001262"
-        },
-        "monterey peninsula ca": {
-            "closest_to": "fresno",
-            "longitude": "-121.843618374407",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
-            "latitude": "36.5878734"
-        },
-        "morro rock ca": {
-            "closest_to": "fresno",
-            "longitude": "-120.8676993",
-            "locType": "peak",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
-            "latitude": "35.369669"
-        },
-        "pacific northwest": {
-            "closest_to": "fresno",
-            "longitude": "-121.312847098327",
-            "locType": "university",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
-            "latitude": "37.98042375"
-        },
-        "santa clara": {
-            "closest_to": "fresno",
-            "longitude": "-121.9551743",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "Santa Clara, Santa Clara County, California, United States of America",
-            "latitude": "37.3541132"
-        },
-        "san andreas": {
-            "closest_to": "fresno",
-            "longitude": "-120.675382525556",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.parks.ca.gov/?page_id=22722"
-            ],
-            "address": "San Andreas, Angels Road, Toyanza Subdivision, Calaveras County, California, 95249, United States of America",
-            "latitude": "38.1875605"
+            "address": "Mono Lake, Mono County, California, United States of America"
         },
         "paso robles": {
-            "closest_to": "fresno",
-            "longitude": "-120.6912455",
+            "latitude": "35.6267654",
             "locType": "city",
+            "longitude": "-120.6912455",
             "blogLinks": [
                 "http://www.parks.ca.gov/?page_id=22722"
             ],
-            "address": "Paso Robles, San Luis Obispo County, California, United States of America",
-            "latitude": "35.6267654"
+            "closest_to": "fresno",
+            "address": "Paso Robles, San Luis Obispo County, California, United States of America"
+        },
+        "san luis obispo county": {
+            "latitude": "35.3540209",
+            "locType": "administrative",
+            "longitude": "-120.3757162",
+            "blogLinks": [
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "San Luis Obispo County, California, United States of America"
+        },
+        "monterey bay": {
+            "latitude": "36.7999557",
+            "locType": "bay",
+            "longitude": "-121.9010667",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fresno",
+            "address": "Monterey Bay, Monterey County, California, United States of America"
+        },
+        "half moon bay state beach": {
+            "latitude": "37.47903115",
+            "locType": "beach",
+            "longitude": "-122.449789014662",
+            "blogLinks": [
+                "http://www.timeanddate.com/worldclock/distances.html?n=224",
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Half Moon Bay State Beach, Venice Boulevard, Half Moon Bay, San Mateo County, California, 94019, United States of America"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "locType": "city",
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fresno",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America"
+        },
+        "oakland": {
+            "latitude": "37.8044557",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "165",
+                "abstract": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco. Oakland's territory covers what was once a mosaic of coastal terrace prairie, oak woodland, and north coastal scrub. Its land served as a rich resource when its hillside oak and redwood timber were logged to build San Francisco, and Oakland's fertile flatland soils helped it become a prolific agricultural region. In the late 1860s, Oakland was selected as the western terminal of the Transcontinental Railroad. Following the 1906 San Francisco earthquake, many San Franciscans relocated to Oakland, enlarging the city's population, increasing its housing stock and improving its infrastructure. It continued to grow in the 20th century with its busy port, shipyards, and a thriving automobile manufacturing industry. Oakland is known for its sustainability practices, including a top ranking for usage of electricity from renewable resources. Oakland is also known for its history of political activism, as well as its professional sports franchises and major corporations, which include health care, dot-com companies and manufacturers of household products. In addition, thanks to a steady influx of immigrants during the 20th century, along with thousands of African-American war-industry workers who relocated from the Deep South during the 1940s, Oakland is one of the most ethnically diverse major cities in the country.",
+                "no_of_blogFiles": "196",
+                "attraction_longitude": "-122.2713562",
+                "mention_address": "Oakland, Alameda County, California, United States of America",
+                "imageUrls": [
+                    "https://readtiger.com/img/wkp/en/Oakland_California_aerial_view.jpg",
+                    "http://s1.dmcdn.net/LkaVc/1280x720-wJY.jpg",
+                    "http://kstati.net/wp-content/uploads/2016/08/chinatown-1-960x600.jpg"
+                ],
+                "label": "Oakland, California",
+                "mention_latitude": "37.8044557",
+                "attraction_in": "Oakland",
+                "comment": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco.",
+                "Confidence": "100",
+                "mention_type": "city",
+                "attraction_in_file": "oakland.json",
+                "attraction_latitude": "37.8044557",
+                "mention_name": "oakland",
+                "youTubeLinkIds": "4cUVH71rQtk,vk516Cq4ulY,50RZpphkZkQ",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_oakland.json,anaheim_and_santa cruz.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,berkeley_and_san jose.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_oakland.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa barbara.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_santa cruz.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_oakland.json,malibu_and_san francisco.json,malibu_and_san jose.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,riverside_and_sacramento.json,riverside_and_san jose.json,sacramento_and_san jose.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json,stockton_and_temecula.json",
+                "mention_longitude": "-122.2713562",
+                "subject": "http://dbpedia.org/resource/Oakland,_California",
+                "type": "http://dbpedia.org/resource/Charter_city"
+            },
+            "longitude": "-122.2713562",
+            "blogLinks": [
+                "http://www.parks.ca.gov/?page_id=22722",
+                "http://www.travbuddy.com/California-popular-cities-p85"
+            ],
+            "closest_to": "fremont",
+            "address": "Oakland, Alameda County, California, United States of America"
+        },
+        "airbnb": {
+            "latitude": "37.7719568",
+            "locType": "company",
+            "longitude": "-122.4054483",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Airbnb, 888, Brannan Street, West SoMa, SF, California, 94103, United States of America"
+        },
+        "marin county": {
+            "latitude": "38.0409144",
+            "locType": "administrative",
+            "longitude": "-122.6199637",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Marin County, California, United States of America"
         }
-    },
-    "fresno": {
-        "place_id": "72530219",
-        "importance": 0.79213103374115,
-        "type": "city",
-        "osm_type": "way",
-        "class": "place",
-        "boundingbox": [
-            "36.747122",
-            "36.75042",
-            "-119.7159249",
-            "-119.7091549"
-        ],
-        "osm_id": "33120274",
-        "lon": "-119.714839601149",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "36.748793",
-        "display_name": "Fresno, Fresno County, California, United States of America"
-    },
-    "fremont": {
-        "place_id": "159050638",
-        "importance": 0.70373394703995,
-        "type": "city",
-        "osm_type": "relation",
-        "class": "place",
-        "boundingbox": [
-            "37.4539501",
-            "37.6066739",
-            "-122.1509872",
-            "-121.8701127"
-        ],
-        "osm_id": "111943",
-        "lon": "-121.9885718",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.5482697",
-        "display_name": "Fremont, Alameda County, California, United States of America"
     }
 }

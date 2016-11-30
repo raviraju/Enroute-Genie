@@ -1,295 +1,199 @@
 {
+    "fremont": {
+        "lon": "-121.9885718",
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "importance": 0.70373394703995,
+        "osm_id": "111943",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.5482697",
+        "place_id": "159050638",
+        "osm_type": "relation",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "type": "city"
+    },
     "mentions": {
-        "coyote hills regional park": {
-            "closest_to": "fremont",
-            "longitude": "-122.085946385887",
-            "locType": "park",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Coyote Hills Regional Park, Bayview Trail, Fremont, Alameda County, California, 94555, United States of America",
-            "latitude": "37.54987645"
-        },
-        "agnew road": {
-            "closest_to": "san jose",
-            "longitude": "-121.9488924",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/"
-            ],
-            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America",
-            "latitude": "37.3943647"
-        },
-        "trimboli way": {
-            "closest_to": "san jose",
-            "longitude": "-121.9609595",
-            "locType": "residential",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Trimboli Way, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.5317274"
-        },
-        "fremont boulevard": {
-            "closest_to": "san jose",
-            "longitude": "-121.9631622",
+        "niles canyon road": {
+            "latitude": "37.576703",
             "locType": "primary",
+            "longitude": "-121.9714341",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Fremont Boulevard, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.535223"
-        },
-        "santa cruz mountains": {
-            "closest_to": "san jose",
-            "longitude": "-122.0712855",
-            "locType": "mountain_range",
-            "blogLinks": [
-                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why"
-            ],
-            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America",
-            "latitude": "37.2188403"
-        },
-        "palo alto": {
             "closest_to": "fremont",
-            "longitude": "-122.1634471",
-            "locType": "city",
-            "blogLinks": [
-                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why",
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Palo Alto, Santa Clara County, California, United States of America",
-            "latitude": "37.442156"
-        },
-        "north fremont": {
-            "closest_to": "fremont",
-            "longitude": "-121.968504861836",
-            "locType": "yes",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "N, Red Hawk Circle, Niles District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.55584255"
-        },
-        "dumbarton bridge": {
-            "closest_to": "fremont",
-            "longitude": "-122.1124535",
-            "locType": "motorway",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Dumbarton Bridge, Fremont, Alameda County, California, 94025, United States of America",
-            "latitude": "37.510027"
-        },
-        "gianera street": {
-            "closest_to": "san jose",
-            "longitude": "-121.9677788",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/"
-            ],
-            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America",
-            "latitude": "37.3997317"
-        },
-        "san pedro square": {
-            "closest_to": "san jose",
-            "longitude": "-121.893554381311",
-            "locType": "retail",
-            "blogLinks": [
-                "http://www.10best.com/destinations/california/san-jose/"
-            ],
-            "address": "San Pedro Square, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America",
-            "latitude": "37.33583055"
-        },
-        "niles boulevard": {
-            "closest_to": "fremont",
-            "longitude": "-122.0006704",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Niles Boulevard, Niles District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.581646"
-        },
-        "san tomas aquino creek trail": {
-            "closest_to": "san jose",
-            "longitude": "-121.9802759",
-            "locType": "cycleway",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/"
-            ],
-            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America",
-            "latitude": "37.4145764"
-        },
-        "cupertino": {
-            "closest_to": "san jose",
-            "longitude": "-122.0322518",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bayareakidfun.com/best-of-the-bay/"
-            ],
-            "address": "Cupertino, Santa Clara County, California, United States of America",
-            "latitude": "37.3230107"
-        },
-        "rinconada": {
-            "closest_to": "fremont",
-            "longitude": "-122.164095840299",
-            "locType": "yes",
-            "blogLinks": [
-                "http://www.bayareakidfun.com/best-of-the-bay/",
-                "http://www.travelmath.com/nearest-airport/Fremont,+CA"
-            ],
-            "address": "Rinconada, Bowdoin Lane, Stanford University, Santa Clara County, California, 94305, United States of America",
-            "latitude": "37.4238073"
-        },
-        "marshlands rd": {
-            "closest_to": "fremont",
-            "longitude": "-122.1094477",
-            "locType": "unclassified",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Marshlands Road, Fremont, Alameda County, California, 94025, United States of America",
-            "latitude": "37.5120969"
+            "address": "Niles Canyon Road, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America"
         },
         "old canyon road": {
-            "closest_to": "fremont",
-            "longitude": "-121.9689646",
+            "latitude": "37.5782129",
             "locType": "residential",
+            "longitude": "-121.9689646",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Old Canyon Road, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.5782129"
-        },
-        "boscell rd": {
-            "closest_to": "san jose",
-            "longitude": "-121.9713038",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Boscell Road, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.4992779"
-        },
-        "santa clara": {
-            "closest_to": "san jose",
-            "longitude": "-121.9551743",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/",
-                "http://wikitravel.org/en/Fremont",
-                "http://www.bayareakidfun.com/best-of-the-bay/"
-            ],
-            "address": "Santa Clara, Santa Clara County, California, United States of America",
-            "latitude": "37.3541132"
-        },
-        "menlo park": {
             "closest_to": "fremont",
-            "longitude": "-122.182187",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont",
-                "http://www.bestplaces.net/city/california/discovery_bay"
-            ],
-            "address": "Menlo Park, San Mateo County, California, United States of America",
-            "latitude": "37.4538274"
+            "address": "Old Canyon Road, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America"
         },
-        "los gatos": {
-            "closest_to": "san jose",
-            "longitude": "-121.9746796",
+        "santa clara county": {
+            "latitude": "37.2333253",
             "locType": "administrative",
+            "longitude": "-121.6846348",
             "blogLinks": [
-                "http://www.bayareakidfun.com/best-of-the-bay/"
+                "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Los Gatos, Santa Clara County, California, United States of America",
-            "latitude": "37.226611"
+            "closest_to": "san jose",
+            "address": "Santa Clara County, California, United States of America"
+        },
+        "chapel way": {
+            "latitude": "37.5365372",
+            "locType": "residential",
+            "longitude": "-121.9606467",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Chapel Way, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "ardenwood": {
+            "latitude": "37.55967095",
+            "locType": "farm",
+            "longitude": "-122.04658567295",
+            "blogLinks": [
+                "https://www.yelp.ca/search?find_desc=Places+To+Visit&find_loc=Fremont%2C+CA",
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Ardenwood Historic Farm, Centerville District, Fremont, Alameda County, California, 94555, United States of America"
+        },
+        "los altos": {
+            "latitude": "37.3790629",
+            "locType": "city",
+            "longitude": "-122.1165779",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/animal-fun-in-the-bay-area/"
+            ],
+            "closest_to": "san jose",
+            "address": "Los Altos, Santa Clara County, California, United States of America"
+        },
+        "dumbarton bridge": {
+            "latitude": "37.510027",
+            "locType": "motorway",
+            "longitude": "-122.1124535",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Dumbarton Bridge, Fremont, Alameda County, California, 94025, United States of America"
+        },
+        "fremont central park": {
+            "latitude": "37.55024145",
+            "locType": "park",
+            "longitude": "-121.963101453004",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Fremont Central Park, 40000, Paseo Padre Parkway, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "drawbridge": {
+            "latitude": "37.4663279",
+            "locType": "ruins",
+            "longitude": "-121.9749599",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Drawbridge, Mallard Slough Trail Spur, Alviso, San Jos\u00e9, Santa Clara County, California, 95002, United States of America"
         },
         "niles district": {
-            "closest_to": "fremont",
-            "longitude": "-121.9779065",
+            "latitude": "37.5789187",
             "locType": "suburb",
+            "longitude": "-121.9779065",
             "blogLinks": [
                 "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Fremont-752644/Things_To_Do-Fremont-TG-C-1.html"
             ],
-            "address": "Niles District, Fremont, Alameda County, California, United States of America",
-            "latitude": "37.5789187"
+            "closest_to": "fremont",
+            "address": "Niles District, Fremont, Alameda County, California, United States of America"
         },
-        "fremont central park": {
+        "agnew road": {
+            "latitude": "37.3943647",
+            "locType": "secondary",
+            "longitude": "-121.9488924",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
             "closest_to": "san jose",
-            "longitude": "-121.963101453004",
-            "locType": "park",
+            "address": "Agnew Road, Santa Clara, Santa Clara County, California, 95054, United States of America"
+        },
+        "landing parkway": {
+            "latitude": "37.4874417",
+            "locType": "tertiary",
+            "longitude": "-121.9423189",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Fremont Central Park, 40000, Paseo Padre Parkway, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.55024145"
-        },
-        "great america": {
             "closest_to": "san jose",
-            "longitude": "-121.9743159",
-            "locType": "tram_stop",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/",
-                "http://www.bayareakidfun.com/best-of-the-bay/"
-            ],
-            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America",
-            "latitude": "37.4034903"
-        },
-        "vasona park": {
-            "closest_to": "san jose",
-            "longitude": "-121.9869804",
-            "locType": "drain",
-            "blogLinks": [
-                "http://www.bayareakidfun.com/best-of-the-bay/"
-            ],
-            "address": "Vasona Canal, San Jos\u00e9, Santa Clara County, California, United States of America",
-            "latitude": "37.268274"
+            "address": "Landing Parkway, Warm Springs District, Fremont, Alameda County, California, 94538, United States of America"
         },
         "alameda creek": {
-            "closest_to": "fremont",
-            "longitude": "-122.0103727",
+            "latitude": "37.5701222",
             "locType": "river",
+            "longitude": "-122.0103727",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Alameda Creek, Fremont, Alameda County, California, United States of America",
-            "latitude": "37.5701222"
+            "closest_to": "fremont",
+            "address": "Alameda Creek, Fremont, Alameda County, California, United States of America"
         },
-        "chapel way": {
-            "closest_to": "san jose",
-            "longitude": "-121.9606467",
-            "locType": "residential",
+        "san pedro square": {
+            "latitude": "37.33583055",
+            "locType": "retail",
+            "longitude": "-121.893554381311",
             "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
+                "http://www.10best.com/destinations/california/san-jose/"
             ],
-            "address": "Chapel Way, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.5365372"
+            "closest_to": "san jose",
+            "address": "San Pedro Square, Japantown, San Jos\u00e9, Santa Clara County, California, 95113, United States of America"
         },
         "paseo padre parkway": {
-            "closest_to": "san jose",
-            "longitude": "-121.9434228",
+            "latitude": "37.5396781",
             "locType": "secondary",
+            "longitude": "-121.9434228",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Paseo Padre Parkway, Mission San Jose District, Fremont, Alameda County, California, 94539, United States of America",
-            "latitude": "37.5396781"
-        },
-        "mission san jose": {
             "closest_to": "san jose",
-            "longitude": "-121.9041561",
-            "locType": "tertiary",
+            "address": "Paseo Padre Parkway, Mission San Jose District, Fremont, Alameda County, California, 94539, United States of America"
+        },
+        "cupertino": {
+            "latitude": "37.3230107",
+            "locType": "city",
+            "longitude": "-122.0322518",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "san jose",
+            "address": "Cupertino, Santa Clara County, California, United States of America"
+        },
+        "osgood road": {
+            "latitude": "37.5129283",
+            "locType": "primary",
+            "longitude": "-121.9420013",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "West Mission Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
-            "latitude": "37.3495341"
+            "closest_to": "san jose",
+            "address": "Osgood Road, Snoboy, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America"
         },
         "san jose": {
-            "closest_to": "san jose",
-            "longitude": "-121.8905832",
+            "latitude": "37.3361905",
             "locType": "city",
+            "longitude": "-121.8905832",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/discovery_bay",
                 "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why",
@@ -302,236 +206,123 @@
                 "https://www.tripadvisor.com/Attractions-g33020-Activities-San_Jose_California.html",
                 "http://www.bestplaces.net/city/california/fremont"
             ],
-            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
-            "latitude": "37.3361905"
-        },
-        "niles canyon railway": {
-            "closest_to": "fremont",
-            "longitude": "-121.9731392",
-            "enrich_metadata": {
-                "attraction_name": "Niles Canyon Railway",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"gzCmP8QXE4o,xKK72PotnPw,31y9hlQbvqI\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "2",
-                "mention_popularity": "1",
-                "attraction_reviewComments": [
-                    "This is not an authentically restored historic ride but it is not a regular train either. It's something in the middle. However, you'll see a beautiful canyon, we'll be exposed to... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Fremont",
-                "attraction_address": "\"6 Kilkare Rd , Niles Station , Fremont , CA\"",
-                "mention_type": "disused",
-                "mention_found_in_blogFiles": "\"fremont_and_monterey.json,fremont_and_san jose.json\"",
-                "mention_address": "\"Niles Canyon Railway, Mission Boulevard, Niles Junction, Niles District, Fremont, Alameda County, California, 94539, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g32411-d270487-Reviews-Niles_Canyon_Railway-Fremont_California.html"
-                ],
-                "attraction_in_file": "fremont.json",
-                "blogLinks": [
-                    "http://wikitravel.org/en/Fremont"
-                ],
-                "imageUrls": [
-                    "https://upload.wikimedia.org/wikipedia/commons/0/08/%28View_of_Rail_Road_and_people.%29_San_Jose%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
-                    "http://www.okthepk.ca/publicArchive/201004nilesCanyon/images/mapNiles.gif",
-                    "http://prodimage.images-bn.com/pimages/9780738529837_p0_v1_s1200x630.jpg"
-                ],
-                "zip_code": "",
-                "attraction_ranking": "4",
-                "attraction_knownFor": "\"Scenic Railroads , Tours\"",
-                "mention_name": "niles canyon railway",
-                "attraction_no_of_reviews": "89",
-                "mention_latitude": "37.5777735",
-                "attraction_contact": "+1 510-996-8420",
-                "mention_longitude": "-121.9731392"
-            },
-            "locType": "disused",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Niles Canyon Railway, Mission Boulevard, Niles Junction, Niles District, Fremont, Alameda County, California, 94539, United States of America",
-            "latitude": "37.5777735"
-        },
-        "europe": {
             "closest_to": "san jose",
-            "longitude": "-121.9980641",
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America"
+        },
+        "trimboli way": {
+            "latitude": "37.5317274",
             "locType": "residential",
-            "blogLinks": [
-                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why"
-            ],
-            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America",
-            "latitude": "37.3491727"
-        },
-        "niles blvd": {
-            "closest_to": "fremont",
-            "longitude": "-122.0006704",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Fremont-752644/Things_To_Do-Fremont-TG-C-1.html"
-            ],
-            "address": "Niles Boulevard, Niles District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.581646"
-        },
-        "alameda county": {
-            "closest_to": "fremont",
-            "longitude": "-121.8991419",
-            "locType": "administrative",
+            "longitude": "-121.9609595",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Alameda County, California, United States of America",
-            "latitude": "37.6090291"
-        },
-        "drawbridge": {
             "closest_to": "san jose",
-            "longitude": "-121.9749599",
-            "locType": "ruins",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Drawbridge, Mallard Slough Trail Spur, Alviso, San Jos\u00e9, Santa Clara County, California, 95002, United States of America",
-            "latitude": "37.4663279"
+            "address": "Trimboli Way, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
         },
-        "grimmer blvd": {
-            "closest_to": "san jose",
-            "longitude": "-121.9669301",
-            "locType": "secondary",
+        "irvington": {
+            "latitude": "37.5322543",
+            "locType": "proposed",
+            "longitude": "-121.953848",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Grimmer Boulevard, Irvington District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.5345757"
+            "closest_to": "san jose",
+            "address": "Irvington, Osgood Road, Irvington District, Fremont, Alameda County, California, 94539, United States of America"
         },
         "bonde way": {
-            "closest_to": "fremont",
-            "longitude": "-122.0078327",
+            "latitude": "37.5595013",
             "locType": "residential",
+            "longitude": "-122.0078327",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Bonde Way, Centerville District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.5595013"
-        },
-        "ardenwood": {
             "closest_to": "fremont",
-            "longitude": "-122.04658567295",
-            "locType": "farm",
-            "blogLinks": [
-                "https://www.yelp.ca/search?find_desc=Places+To+Visit&find_loc=Fremont%2C+CA",
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Ardenwood Historic Farm, Centerville District, Fremont, Alameda County, California, 94555, United States of America",
-            "latitude": "37.55967095"
+            "address": "Bonde Way, Centerville District, Fremont, Alameda County, California, 94536, United States of America"
         },
-        "redwood city": {
-            "closest_to": "fremont",
-            "longitude": "-122.2363547",
+        "sunnyvale": {
+            "latitude": "37.3688301",
             "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "avalon_and_monterey.json,berkeley_and_san jose.json,bakersfield_and_sausalito.json,berkeley_and_fremont.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_san jose.json,fresno_and_santa clarita.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,long beach_and_oakland.json,los angeles_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_san jose.json,los angeles_and_santa cruz.json,oakland_and_san jose.json,oakland_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san jose_and_santa clarita.json,san jose_and_santa cruz.json,sacramento_and_san bernardino.json,sacramento_and_san francisco.json,san jose_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json",
+                "mention_popularity": "20",
+                "no_of_blogFiles": "43",
+                "attraction_longitude": "-122.0363495",
+                "mention_address": "Sunnyvale, Santa Clara County, California, United States of America",
+                "imageUrls": [
+                    "http://l2.yimg.com/bt/api/res/1.2/MN8.8XxtCiE9.Nofvwp_Hg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NDQwO3B5b2ZmPTA7cT03NTt3PTY4MA--/http://media.zenfs.com/en-us/homerun/complex.com/0ba653da9f8729cb77b66ec8d80be8b5",
+                    "https://readtiger.com/img/wkp/ru/Murphystreetsunnyvale.jpg",
+                    "http://s3.amazonaws.com/movotoblog/2014/01/safest-mid-sized-cities/images/3.jpg"
+                ],
+                "label": "Sunnyvale, California",
+                "mention_latitude": "37.3688301",
+                "mention_type": "city",
+                "comment": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095.The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101.",
+                "Confidence": "100",
+                "attraction_in": "Sunnyvale",
+                "attraction_in_file": "sunnyvale.json",
+                "abstract": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095. The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101. As part of California's high-tech area known as Silicon Valley, companies such as Juniper Networks, Fortinet, Advanced Micro Devices, NetApp, Spansion, Yahoo!, AppliedMicro and Ariba are headquartered there. Sunnyvale is also home to several aerospace/defense companies; Lockheed Martin has a major facility in Sunnyvale, and Honeywell, Northrop Grumman Electronic Systems - Marine Systems (formerly Joshua Hendy Iron Works), Finisar, and Spirent also have offices in Sunnyvale. Sunnyvale was also the home to Onizuka Air Force Station, often referred to as \"the Blue Cube\" due to the color and shape of its windowless main building. The facility, previously known as Sunnyvale Air Force Station, was named for the deceased Space Shuttle Challenger astronaut Ellison Onizuka. It served as an artificial satellite control facility of the United States armed forces until August 2010 and has since been decommissioned and demolished. Sunnyvale is one of the few U.S. cities to have a single unified Department of Public Safety, where all personnel are trained as firefighters, police officers, and EMTs, so they can respond to an emergency in any of the three roles. Library services for the city are provided by the Sunnyvale Public Library, located at the Sunnyvale Civic Center.",
+                "mention_name": "sunnyvale",
+                "youTubeLinkIds": "-89tMr3t9uc,b5HSEc216_A,OJf4TUjZW7Q",
+                "attraction_latitude": "37.3688301",
+                "mention_longitude": "-122.0363495",
+                "subject": "http://dbpedia.org/resource/Sunnyvale,_California",
+                "type": "http://dbpedia.org/resource/Charter_city"
+            },
+            "longitude": "-122.0363495",
             "blogLinks": [
-                "http://www.bestplaces.net/city/california/fremont",
+                "http://www.bayareakidfun.com/best-of-the-bay/",
                 "http://www.bestplaces.net/city/california/discovery_bay"
             ],
-            "address": "Redwood City, San Mateo County, California, United States of America",
-            "latitude": "37.4852152"
-        },
-        "union city": {
-            "closest_to": "fremont",
-            "longitude": "-122.0816296",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Union City, Alameda County, California, United States of America",
-            "latitude": "37.5963232"
-        },
-        "milpitas": {
             "closest_to": "san jose",
-            "longitude": "-121.9066237",
-            "locType": "city",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Milpitas, Santa Clara County, California, United States of America",
-            "latitude": "37.4282724"
-        },
-        "niles canyon road": {
-            "closest_to": "fremont",
-            "longitude": "-121.9714341",
-            "locType": "primary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Niles Canyon Road, Niles Junction, Niles District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.576703"
-        },
-        "centennial boulevard": {
-            "closest_to": "san jose",
-            "longitude": "-121.9694691",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/"
-            ],
-            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
-            "latitude": "37.4047084"
-        },
-        "newark": {
-            "closest_to": "fremont",
-            "longitude": "-122.0402398",
-            "locType": "city",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Newark, Alameda County, California, United States of America",
-            "latitude": "37.5296593"
-        },
-        "silicon valley": {
-            "closest_to": "san jose",
-            "longitude": "-122.0597491",
-            "locType": "school",
-            "blogLinks": [
-                "http://www.santaclara.org/getting-around/public-transportation/",
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America",
-            "latitude": "37.4105333"
-        },
-        "lakeview boulevard": {
-            "closest_to": "san jose",
-            "longitude": "-121.9371952",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Lakeview Boulevard, Curtner, Warm Springs District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.4791482"
+            "address": "Sunnyvale, Santa Clara County, California, United States of America"
         },
         "central park": {
-            "closest_to": "san jose",
-            "longitude": "-122.0638948",
+            "latitude": "37.391994",
+            "locType": "service",
             "enrich_metadata": {
-                "attraction_name": "Central Park",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"PG3DMCoENdk,220sIrfOxoM,1Ki4tUnh3Zc\"",
+                "mention_found_in_blogFiles": "\"avalon_and_fremont.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_stockton.json,berkeley_and_fremont.json,beverly hills_and_san francisco.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san jose.json,fremont_and_santa ana.json,huntington beach_and_sausalito.json,irvine_and_sausalito.json,mammoth lakes_and_santa clarita.json,monterey_and_santa clarita.json,napa_and_san diego.json,oakland_and_stockton.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,santa clarita_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "22",
-                "mention_popularity": "18",
-                "attraction_reviewComments": [
-                    "This is a simple lawn-mall style park with trees, sidewalks and a small play area. It lacks art, water features and enough places to sit.",
-                    "Popular park on Raymond Ave right outside the Del Mar orange line metro station. Lots of activity on a Sunday morning, Croquet, lawn bowls and kids in the playground and Mixed in... read more",
-                    "We drove by this park on our way into town. It looked nice enough that we walked to it later in our stay. Being a city park in a downtown/old town area, it was utilized by... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Pasadena",
-                "attraction_address": "\"275 S Raymond Ave , Pasadena , CA 91105-2044\"",
-                "mention_type": "service",
-                "mention_found_in_blogFiles": "\"avalon_and_fremont.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_stockton.json,berkeley_and_fremont.json,beverly hills_and_san francisco.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san jose.json,fremont_and_santa ana.json,huntington beach_and_sausalito.json,irvine_and_sausalito.json,mammoth lakes_and_santa clarita.json,monterey_and_santa clarita.json,napa_and_san diego.json,oakland_and_stockton.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,santa clarita_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json\"",
-                "mention_address": "\"Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-Central_Park-Pasadena_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-or20-Central_Park-Pasadena_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-or10-Central_Park-Pasadena_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "Popular park on Raymond Ave right outside the Del Mar orange line metro station. Lots of activity on a Sunday morning, Croquet, lawn bowls and kids in the playground and Mixed in... read more",
+                            0.27714285714285714,
+                            0.4471428571428572,
+                            "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-or20-Central_Park-Pasadena_California.html"
+                        ],
+                        [
+                            "We drove by this park on our way into town. It looked nice enough that we walked to it later in our stay. Being a city park in a downtown/old town area, it was utilized by... read more",
+                            0.275,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-or10-Central_Park-Pasadena_California.html"
+                        ]
+                    ],
+                    "negative": [
+                        [
+                            "This is a simple lawn-mall style park with trees, sidewalks and a small play area. It lacks art, water features and enough places to sit.",
+                            -0.08333333333333333,
+                            0.41904761904761906,
+                            "https://www.tripadvisor.com/Attraction_Review-g32859-d7142580-Reviews-Central_Park-Pasadena_California.html"
+                        ]
+                    ]
+                },
+                "attraction_address": "\"275 S Raymond Ave , Pasadena , CA 91105-2044\"",
+                "attraction_longitude": "",
+                "mention_type": "service",
                 "attraction_in_file": "pasadena.json",
+                "mention_name": "central park",
+                "youTubeLinkIds": "\"PG3DMCoENdk,220sIrfOxoM,1Ki4tUnh3Zc\"",
+                "attraction_name": "Central Park",
+                "mention_longitude": "-122.0638948",
+                "attraction_no_of_reviews": "28",
+                "mention_address": "\"Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America\"",
                 "blogLinks": [
                     "https://www.expedia.com/San-Jose-Hotels.d603085.Travel-Guide-Hotels",
                     "http://www.mercurynews.com/2014/06/27/july-4th-2014-bay-area-fireworks-parades-and-other-events/",
@@ -552,258 +343,504 @@
                     "http://www.thehangoutrestaurant.com/blog/things-to-do-in-huntington-beach",
                     "https://www.yelp.com/biz/city-of-fremont-fremont"
                 ],
+                "mention_latitude": "37.391994",
+                "attraction_ranking": "21",
+                "attraction_knownFor": "",
+                "zip_code": "91105",
+                "Confidence": "100",
+                "attraction_in": "Pasadena",
+                "mention_popularity": "18",
                 "imageUrls": [
                     "https://upload.wikimedia.org/wikipedia/commons/7/71/Central_Park%2C_California_City%2C_California.jpg",
                     "https://readtiger.com/img/wkp/ru/Central_Park_San_Mateo_CA.jpg",
                     "http://www.sapettogroup.com/imgs/photos/clients/Central-Park-West.jpg"
                 ],
-                "zip_code": "91105",
-                "attraction_ranking": "21",
-                "attraction_knownFor": "",
-                "mention_name": "central park",
-                "attraction_no_of_reviews": "28",
-                "mention_latitude": "37.391994",
                 "attraction_contact": "",
-                "mention_longitude": "-122.0638948"
+                "attraction_reviewComments": [
+                    "This is a simple lawn-mall style park with trees, sidewalks and a small play area. It lacks art, water features and enough places to sit.",
+                    "Popular park on Raymond Ave right outside the Del Mar orange line metro station. Lots of activity on a Sunday morning, Croquet, lawn bowls and kids in the playground and Mixed in... read more",
+                    "We drove by this park on our way into town. It looked nice enough that we walked to it later in our stay. Being a city park in a downtown/old town area, it was utilized by... read more"
+                ]
             },
-            "locType": "service",
+            "longitude": "-122.0638948",
             "blogLinks": [
                 "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Fremont-752644/Things_To_Do-Fremont-TG-C-1.html"
             ],
-            "address": "Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America",
-            "latitude": "37.391994"
-        },
-        "patterson ranch road": {
-            "closest_to": "fremont",
-            "longitude": "-122.0783468",
-            "locType": "residential",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Patterson Ranch Road, Fremont, Alameda County, California, 94555, United States of America",
-            "latitude": "37.5526674"
-        },
-        "landing parkway": {
             "closest_to": "san jose",
-            "longitude": "-121.9423189",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Landing Parkway, Warm Springs District, Fremont, Alameda County, California, 94538, United States of America",
-            "latitude": "37.4874417"
+            "address": "Central Park, Central Park At Whisman Station, Mountain View, Santa Clara County, California, 94043, United States of America"
         },
-        "pleasanton": {
-            "closest_to": "fremont",
-            "longitude": "-121.8746788",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Pleasanton, Alameda County, California, United States of America",
-            "latitude": "37.6624312"
-        },
-        "peralta blvd": {
-            "closest_to": "fremont",
-            "longitude": "-122.0048962",
-            "locType": "primary",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Peralta Boulevard, Centerville District, Fremont, Alameda County, California, 94536, United States of America",
-            "latitude": "37.5592002"
-        },
-        "sunnyvale": {
-            "closest_to": "san jose",
-            "longitude": "-122.0363495",
-            "enrich_metadata": {
-                "mention_popularity": "20",
-                "label": "Sunnyvale, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "-89tMr3t9uc,b5HSEc216_A,OJf4TUjZW7Q",
-                "type": "http://dbpedia.org/resource/Charter_city",
-                "attraction_in_file": "sunnyvale.json",
-                "abstract": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095. The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101. As part of California's high-tech area known as Silicon Valley, companies such as Juniper Networks, Fortinet, Advanced Micro Devices, NetApp, Spansion, Yahoo!, AppliedMicro and Ariba are headquartered there. Sunnyvale is also home to several aerospace/defense companies; Lockheed Martin has a major facility in Sunnyvale, and Honeywell, Northrop Grumman Electronic Systems - Marine Systems (formerly Joshua Hendy Iron Works), Finisar, and Spirent also have offices in Sunnyvale. Sunnyvale was also the home to Onizuka Air Force Station, often referred to as \"the Blue Cube\" due to the color and shape of its windowless main building. The facility, previously known as Sunnyvale Air Force Station, was named for the deceased Space Shuttle Challenger astronaut Ellison Onizuka. It served as an artificial satellite control facility of the United States armed forces until August 2010 and has since been decommissioned and demolished. Sunnyvale is one of the few U.S. cities to have a single unified Department of Public Safety, where all personnel are trained as firefighters, police officers, and EMTs, so they can respond to an emergency in any of the three roles. Library services for the city are provided by the Sunnyvale Public Library, located at the Sunnyvale Civic Center.",
-                "attraction_latitude": "37.3688301",
-                "no_of_blogFiles": "43",
-                "subject": "http://dbpedia.org/resource/Sunnyvale,_California",
-                "mention_address": "Sunnyvale, Santa Clara County, California, United States of America",
-                "imageUrls": [
-                    "http://l2.yimg.com/bt/api/res/1.2/MN8.8XxtCiE9.Nofvwp_Hg--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9NDQwO3B5b2ZmPTA7cT03NTt3PTY4MA--/http://media.zenfs.com/en-us/homerun/complex.com/0ba653da9f8729cb77b66ec8d80be8b5",
-                    "https://readtiger.com/img/wkp/ru/Murphystreetsunnyvale.jpg",
-                    "http://s3.amazonaws.com/movotoblog/2014/01/safest-mid-sized-cities/images/3.jpg"
-                ],
-                "mention_name": "sunnyvale",
-                "attraction_longitude": "-122.0363495",
-                "attraction_in": "Sunnyvale",
-                "comment": "Sunnyvale (/\u02c8s\u028cnive\u026al/ or /\u02c8s\u028cniv\u0259l/) is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095.The city is one of the major cities that make up Silicon Valley. It is the seventh most populous city in the San Francisco Bay Area. Sunnyvale is bordered by portions of San Jose to the north, Moffett Federal Airfield to the northwest, Mountain View to the west, Los Altos to the southwest, Cupertino to the south, and Santa Clara to the east. It lies along the historic El Camino Real and Highway 101.",
-                "mention_longitude": "-122.0363495",
-                "mention_latitude": "37.3688301",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "avalon_and_monterey.json,berkeley_and_san jose.json,bakersfield_and_sausalito.json,berkeley_and_fremont.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fresno_and_san jose.json,fresno_and_santa clarita.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,long beach_and_oakland.json,los angeles_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_san jose.json,los angeles_and_santa cruz.json,oakland_and_san jose.json,oakland_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_santa cruz.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san francisco_and_santa ana.json,san francisco_and_santa clarita.json,san jose_and_santa clarita.json,san jose_and_santa cruz.json,sacramento_and_san bernardino.json,sacramento_and_san francisco.json,san jose_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json"
-            },
+        "santa clara": {
+            "latitude": "37.3541132",
             "locType": "city",
+            "longitude": "-121.9551743",
             "blogLinks": [
-                "http://www.bayareakidfun.com/best-of-the-bay/",
-                "http://www.bestplaces.net/city/california/discovery_bay"
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://wikitravel.org/en/Fremont",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
             ],
-            "address": "Sunnyvale, Santa Clara County, California, United States of America",
-            "latitude": "37.3688301"
+            "closest_to": "san jose",
+            "address": "Santa Clara, Santa Clara County, California, United States of America"
         },
-        "ardenwood blvd": {
+        "niles blvd": {
+            "latitude": "37.581646",
+            "locType": "secondary",
+            "longitude": "-122.0006704",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Fremont-752644/Things_To_Do-Fremont-TG-C-1.html"
+            ],
             "closest_to": "fremont",
-            "longitude": "-122.0635643",
-            "locType": "primary",
+            "address": "Niles Boulevard, Niles District, Fremont, Alameda County, California, 94536, United States of America"
+        },
+        "gianera street": {
+            "latitude": "37.3997317",
+            "locType": "residential",
+            "longitude": "-121.9677788",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "closest_to": "san jose",
+            "address": "Gianera Street, Santa Clara, Santa Clara County, California, 95054, United States of America"
+        },
+        "silicon valley": {
+            "latitude": "37.4105333",
+            "locType": "school",
+            "longitude": "-122.0597491",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Carnegie Mellon Silicon Valley, South Akron Road, Santa Clara County, California, 94035-0016, United States of America"
+        },
+        "niles canyon railway": {
+            "latitude": "37.5777735",
+            "locType": "disused",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"fremont_and_monterey.json,fremont_and_san jose.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "2",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32411-d270487-Reviews-Niles_Canyon_Railway-Fremont_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "This is not an authentically restored historic ride but it is not a regular train either. It's something in the middle. However, you'll see a beautiful canyon, we'll be exposed to... read more",
+                            0.27,
+                            0.3153846153846154,
+                            "https://www.tripadvisor.com/Attraction_Review-g32411-d270487-Reviews-Niles_Canyon_Railway-Fremont_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"6 Kilkare Rd , Niles Station , Fremont , CA\"",
+                "attraction_longitude": "",
+                "mention_type": "disused",
+                "attraction_in_file": "fremont.json",
+                "mention_name": "niles canyon railway",
+                "youTubeLinkIds": "\"gzCmP8QXE4o,xKK72PotnPw,31y9hlQbvqI\"",
+                "attraction_name": "Niles Canyon Railway",
+                "mention_longitude": "-121.9731392",
+                "attraction_no_of_reviews": "89",
+                "mention_address": "\"Niles Canyon Railway, Mission Boulevard, Niles Junction, Niles District, Fremont, Alameda County, California, 94539, United States of America\"",
+                "blogLinks": [
+                    "http://wikitravel.org/en/Fremont"
+                ],
+                "mention_latitude": "37.5777735",
+                "attraction_ranking": "4",
+                "attraction_knownFor": "\"Scenic Railroads , Tours\"",
+                "zip_code": "",
+                "Confidence": "100",
+                "attraction_in": "Fremont",
+                "mention_popularity": "1",
+                "imageUrls": [
+                    "https://upload.wikimedia.org/wikipedia/commons/0/08/%28View_of_Rail_Road_and_people.%29_San_Jose%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+                    "http://www.okthepk.ca/publicArchive/201004nilesCanyon/images/mapNiles.gif",
+                    "http://prodimage.images-bn.com/pimages/9780738529837_p0_v1_s1200x630.jpg"
+                ],
+                "attraction_contact": "+1 510-996-8420",
+                "attraction_reviewComments": [
+                    "This is not an authentically restored historic ride but it is not a regular train either. It's something in the middle. However, you'll see a beautiful canyon, we'll be exposed to... read more"
+                ]
+            },
+            "longitude": "-121.9731392",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Ardenwood Boulevard, Fremont, Alameda County, California, 94555, United States of America",
-            "latitude": "37.5595004"
+            "closest_to": "fremont",
+            "address": "Niles Canyon Railway, Mission Boulevard, Niles Junction, Niles District, Fremont, Alameda County, California, 94539, United States of America"
         },
-        "irvington": {
-            "closest_to": "san jose",
-            "longitude": "-121.953848",
-            "locType": "proposed",
-            "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
-            ],
-            "address": "Irvington, Osgood Road, Irvington District, Fremont, Alameda County, California, 94539, United States of America",
-            "latitude": "37.5322543"
-        },
-        "fujitsu planetarium": {
-            "closest_to": "san jose",
-            "longitude": "-122.046052500132",
-            "locType": "attraction",
+        "vasona park": {
+            "latitude": "37.268274",
+            "locType": "drain",
+            "longitude": "-121.9869804",
             "blogLinks": [
                 "http://www.bayareakidfun.com/best-of-the-bay/"
             ],
-            "address": "Fujitsu Planetarium, Campus Drive, Cupertino, Santa Clara County, California, 95014-4221, United States of America",
-            "latitude": "37.31892545"
+            "closest_to": "san jose",
+            "address": "Vasona Canal, San Jos\u00e9, Santa Clara County, California, United States of America"
+        },
+        "grimmer blvd": {
+            "latitude": "37.5345757",
+            "locType": "secondary",
+            "longitude": "-121.9669301",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Grimmer Boulevard, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "rinconada": {
+            "latitude": "37.4238073",
+            "locType": "yes",
+            "longitude": "-122.164095840299",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/",
+                "http://www.travelmath.com/nearest-airport/Fremont,+CA"
+            ],
+            "closest_to": "fremont",
+            "address": "Rinconada, Bowdoin Lane, Stanford University, Santa Clara County, California, 94305, United States of America"
+        },
+        "great america": {
+            "latitude": "37.4034903",
+            "locType": "tram_stop",
+            "longitude": "-121.9743159",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/",
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "san jose",
+            "address": "Great America, West Tasman Drive, Santa Clara, Santa Clara County, California, 95002, United States of America"
+        },
+        "menlo park": {
+            "latitude": "37.4538274",
+            "locType": "administrative",
+            "longitude": "-122.182187",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont",
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "closest_to": "fremont",
+            "address": "Menlo Park, San Mateo County, California, United States of America"
+        },
+        "europe": {
+            "latitude": "37.3491727",
+            "locType": "residential",
+            "longitude": "-121.9980641",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why"
+            ],
+            "closest_to": "san jose",
+            "address": "Europe Court, Santa Clara, Santa Clara County, California, 95051, United States of America"
+        },
+        "san tomas aquino creek trail": {
+            "latitude": "37.4145764",
+            "locType": "cycleway",
+            "longitude": "-121.9802759",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "closest_to": "san jose",
+            "address": "San Tomas Aquino Creek Trail, Santa Clara, Santa Clara County, California, 95002, United States of America"
+        },
+        "palo alto": {
+            "latitude": "37.442156",
+            "locType": "city",
+            "longitude": "-122.1634471",
+            "blogLinks": [
+                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why",
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Palo Alto, Santa Clara County, California, United States of America"
+        },
+        "north fremont": {
+            "latitude": "37.55584255",
+            "locType": "yes",
+            "longitude": "-121.968504861836",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "N, Red Hawk Circle, Niles District, Fremont, Alameda County, California, 94536, United States of America"
+        },
+        "boscell rd": {
+            "latitude": "37.4992779",
+            "locType": "tertiary",
+            "longitude": "-121.9713038",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Boscell Road, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "centennial boulevard": {
+            "latitude": "37.4047084",
+            "locType": "tertiary",
+            "longitude": "-121.9694691",
+            "blogLinks": [
+                "http://www.santaclara.org/getting-around/public-transportation/"
+            ],
+            "closest_to": "san jose",
+            "address": "Centennial Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America"
+        },
+        "fujitsu planetarium": {
+            "latitude": "37.31892545",
+            "locType": "attraction",
+            "longitude": "-122.046052500132",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "san jose",
+            "address": "Fujitsu Planetarium, Campus Drive, Cupertino, Santa Clara County, California, 95014-4221, United States of America"
+        },
+        "milpitas": {
+            "latitude": "37.4282724",
+            "locType": "city",
+            "longitude": "-121.9066237",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Milpitas, Santa Clara County, California, United States of America"
+        },
+        "niles boulevard": {
+            "latitude": "37.581646",
+            "locType": "secondary",
+            "longitude": "-122.0006704",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Niles Boulevard, Niles District, Fremont, Alameda County, California, 94536, United States of America"
         },
         "sunol": {
-            "closest_to": "fremont",
-            "longitude": "-121.8885682",
+            "latitude": "37.5943781",
             "locType": "hamlet",
+            "longitude": "-121.8885682",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Sunol, Alameda County, California, United States of America",
-            "latitude": "37.5943781"
+            "closest_to": "fremont",
+            "address": "Sunol, Alameda County, California, United States of America"
         },
-        "osgood road": {
-            "closest_to": "san jose",
-            "longitude": "-121.9420013",
-            "locType": "primary",
+        "santa cruz mountains": {
+            "latitude": "37.2188403",
+            "locType": "mountain_range",
+            "longitude": "-122.0712855",
             "blogLinks": [
-                "http://wikitravel.org/en/Fremont"
+                "https://www.quora.com/What-are-the-most-amazing-places-to-visit-in-the-Bay-Area-Why"
             ],
-            "address": "Osgood Road, Snoboy, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America",
-            "latitude": "37.5129283"
+            "closest_to": "san jose",
+            "address": "Santa Cruz Mountains, Santa Clara County, California, United States of America"
+        },
+        "redwood city": {
+            "latitude": "37.4852152",
+            "locType": "city",
+            "longitude": "-122.2363547",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/fremont",
+                "http://www.bestplaces.net/city/california/discovery_bay"
+            ],
+            "closest_to": "fremont",
+            "address": "Redwood City, San Mateo County, California, United States of America"
         },
         "fremont": {
-            "closest_to": "fremont",
-            "longitude": "-121.9885718",
+            "latitude": "37.5482697",
+            "locType": "city",
             "enrich_metadata": {
-                "attraction_in_file": "fremont.json",
-                "label": "Fremont, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "tpSNk4oylXY,P0557v4M0PQ,VHSs812FCOA",
-                "type": "http://dbpedia.org/resource/California",
-                "mention_address": "Fremont, Alameda County, California, United States of America",
-                "abstract": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\" Located in the southeast section of the San Francisco Bay Area in the East Bay region primarily, Fremont has a population of around 220,000. It is the fourth most populous city in the San Francisco Bay Area, and the largest suburb in the metropolis. It is the closest East Bay city to Silicon Valley, and is thus sometimes associated with it. The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area. Fremont is home to the largest population of Afghan Americans in the United States.",
-                "attraction_latitude": "37.5482697",
-                "no_of_blogFiles": "66",
-                "subject": "http://dbpedia.org/resource/Fremont,_California",
                 "mention_popularity": "144",
+                "abstract": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\" Located in the southeast section of the San Francisco Bay Area in the East Bay region primarily, Fremont has a population of around 220,000. It is the fourth most populous city in the San Francisco Bay Area, and the largest suburb in the metropolis. It is the closest East Bay city to Silicon Valley, and is thus sometimes associated with it. The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area. Fremont is home to the largest population of Afghan Americans in the United States.",
+                "no_of_blogFiles": "66",
+                "attraction_longitude": "-121.9885718",
+                "mention_address": "Fremont, Alameda County, California, United States of America",
                 "imageUrls": [
                     "https://www.wikiplanet.click/imgw/Mission-Peak-2006.jpg",
                     "http://www.taylorbenefitsinsurance.com/wp-content/uploads/2014/04/fremont.jpg",
                     "http://2.bp.blogspot.com/-USRfkNiRrNw/UrSNCr56wUI/AAAAAAAAGBM/yGxICeleFkI/s1600/fremont_map_san_francisco.gif"
                 ],
-                "mention_name": "fremont",
-                "attraction_longitude": "-121.9885718",
-                "attraction_in": "Fremont",
-                "comment": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\"The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area.Fremont is home to the largest population of Afghan Americans in the United States.",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_santa cruz.json,avalon_and_fremont.json,berkeley_and_san jose.json,bakersfield_and_fremont.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fremont.json,berkeley_and_fresno.json,beverly hills_and_fremont.json,big bear lake_and_san jose.json,carlsbad_and_fremont.json,carlsbad_and_santa cruz.json,fremont_and_irvine.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_santa cruz.json,fresno_and_temecula.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_san jose.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,los angeles_and_santa cruz.json,newport beach_and_santa cruz.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,sacramento_and_santa cruz.json,san bernardino_and_santa cruz.json,san diego_and_santa cruz.json,san francisco_and_santa clarita.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json",
+                "label": "Fremont, California",
                 "mention_latitude": "37.5482697",
                 "mention_type": "city",
-                "mention_longitude": "-121.9885718"
+                "comment": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\"The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area.Fremont is home to the largest population of Afghan Americans in the United States.",
+                "Confidence": "100",
+                "attraction_in": "Fremont",
+                "attraction_in_file": "fremont.json",
+                "attraction_latitude": "37.5482697",
+                "mention_name": "fremont",
+                "youTubeLinkIds": "tpSNk4oylXY,P0557v4M0PQ,VHSs812FCOA",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_santa cruz.json,avalon_and_fremont.json,berkeley_and_san jose.json,bakersfield_and_fremont.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fremont.json,berkeley_and_fresno.json,beverly hills_and_fremont.json,big bear lake_and_san jose.json,carlsbad_and_fremont.json,carlsbad_and_santa cruz.json,fremont_and_irvine.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_santa cruz.json,fresno_and_temecula.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_san jose.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,los angeles_and_santa cruz.json,newport beach_and_santa cruz.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,sacramento_and_santa cruz.json,san bernardino_and_santa cruz.json,san diego_and_santa cruz.json,san francisco_and_santa clarita.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json",
+                "mention_longitude": "-121.9885718",
+                "subject": "http://dbpedia.org/resource/Fremont,_California",
+                "type": "http://dbpedia.org/resource/California"
             },
-            "locType": "city",
+            "longitude": "-121.9885718",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont",
                 "http://www.travelmath.com/nearest-airport/Fremont,+CA"
             ],
-            "address": "Fremont, Alameda County, California, United States of America",
-            "latitude": "37.5482697"
+            "closest_to": "fremont",
+            "address": "Fremont, Alameda County, California, United States of America"
         },
-        "santa clara county": {
-            "closest_to": "san jose",
-            "longitude": "-121.6846348",
-            "locType": "administrative",
+        "lakeview boulevard": {
+            "latitude": "37.4791482",
+            "locType": "tertiary",
+            "longitude": "-121.9371952",
             "blogLinks": [
                 "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Santa Clara County, California, United States of America",
-            "latitude": "37.2333253"
+            "closest_to": "san jose",
+            "address": "Lakeview Boulevard, Curtner, Warm Springs District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "pleasanton": {
+            "latitude": "37.6624312",
+            "locType": "administrative",
+            "longitude": "-121.8746788",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Pleasanton, Alameda County, California, United States of America"
+        },
+        "mission san jose": {
+            "latitude": "37.3495341",
+            "locType": "tertiary",
+            "longitude": "-121.9041561",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "West Mission Street, Civic Center, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America"
+        },
+        "ardenwood blvd": {
+            "latitude": "37.5595004",
+            "locType": "primary",
+            "longitude": "-122.0635643",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Ardenwood Boulevard, Fremont, Alameda County, California, 94555, United States of America"
+        },
+        "los gatos": {
+            "latitude": "37.226611",
+            "locType": "administrative",
+            "longitude": "-121.9746796",
+            "blogLinks": [
+                "http://www.bayareakidfun.com/best-of-the-bay/"
+            ],
+            "closest_to": "san jose",
+            "address": "Los Gatos, Santa Clara County, California, United States of America"
+        },
+        "peralta blvd": {
+            "latitude": "37.5592002",
+            "locType": "primary",
+            "longitude": "-122.0048962",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Peralta Boulevard, Centerville District, Fremont, Alameda County, California, 94536, United States of America"
         },
         "santa clara convention center": {
-            "closest_to": "san jose",
-            "longitude": "-121.975031612487",
+            "latitude": "37.4044039",
             "locType": "conference_centre",
+            "longitude": "-121.975031612487",
             "blogLinks": [
                 "http://www.santaclara.org/getting-around/public-transportation/"
             ],
-            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America",
-            "latitude": "37.4044039"
-        },
-        "los altos": {
             "closest_to": "san jose",
-            "longitude": "-122.1165779",
-            "locType": "city",
+            "address": "Santa Clara Convention Center, Convention Center Way, Santa Clara, Santa Clara County, California, 95002, United States of America"
+        },
+        "coyote hills regional park": {
+            "latitude": "37.54987645",
+            "locType": "park",
+            "longitude": "-122.085946385887",
             "blogLinks": [
-                "http://www.bayareakidfun.com/animal-fun-in-the-bay-area/"
+                "http://wikitravel.org/en/Fremont"
             ],
-            "address": "Los Altos, Santa Clara County, California, United States of America",
-            "latitude": "37.3790629"
+            "closest_to": "fremont",
+            "address": "Coyote Hills Regional Park, Bayview Trail, Fremont, Alameda County, California, 94555, United States of America"
+        },
+        "newark": {
+            "latitude": "37.5296593",
+            "locType": "city",
+            "longitude": "-122.0402398",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Newark, Alameda County, California, United States of America"
+        },
+        "alameda county": {
+            "latitude": "37.6090291",
+            "locType": "administrative",
+            "longitude": "-121.8991419",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Alameda County, California, United States of America"
+        },
+        "union city": {
+            "latitude": "37.5963232",
+            "locType": "administrative",
+            "longitude": "-122.0816296",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Union City, Alameda County, California, United States of America"
+        },
+        "fremont boulevard": {
+            "latitude": "37.535223",
+            "locType": "primary",
+            "longitude": "-121.9631622",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "san jose",
+            "address": "Fremont Boulevard, Irvington District, Fremont, Alameda County, California, 94538, United States of America"
+        },
+        "marshlands rd": {
+            "latitude": "37.5120969",
+            "locType": "unclassified",
+            "longitude": "-122.1094477",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Marshlands Road, Fremont, Alameda County, California, 94025, United States of America"
+        },
+        "patterson ranch road": {
+            "latitude": "37.5526674",
+            "locType": "residential",
+            "longitude": "-122.0783468",
+            "blogLinks": [
+                "http://wikitravel.org/en/Fremont"
+            ],
+            "closest_to": "fremont",
+            "address": "Patterson Ranch Road, Fremont, Alameda County, California, 94555, United States of America"
         }
     },
     "san jose": {
-        "place_id": "159251412",
+        "lon": "-121.8905832",
+        "display_name": "San Jos\u00e9, Santa Clara County, California, United States of America",
         "importance": 0.79127376502597,
-        "type": "city",
-        "osm_type": "relation",
+        "osm_id": "112143",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.3361905",
+        "place_id": "159251412",
+        "osm_type": "relation",
         "boundingbox": [
             "37.124503",
             "37.4692175",
             "-122.0456719",
             "-121.5891529"
         ],
-        "osm_id": "112143",
-        "lon": "-121.8905832",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.3361905",
-        "display_name": "San Jos\u00e9, Santa Clara County, California, United States of America"
-    },
-    "fremont": {
-        "place_id": "159050638",
-        "importance": 0.70373394703995,
-        "type": "city",
-        "osm_type": "relation",
-        "class": "place",
-        "boundingbox": [
-            "37.4539501",
-            "37.6066739",
-            "-122.1509872",
-            "-121.8701127"
-        ],
-        "osm_id": "111943",
-        "lon": "-121.9885718",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.5482697",
-        "display_name": "Fremont, Alameda County, California, United States of America"
+        "type": "city"
     }
 }

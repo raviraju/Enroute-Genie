@@ -1,215 +1,662 @@
 {
     "mammoth lakes": {
-        "place_id": "73282228",
+        "lon": "-118.9668508",
+        "display_name": "Mammoth Lakes, Mono County, California, United States of America",
         "importance": 0.67062928815144,
-        "type": "administrative",
-        "osm_type": "way",
+        "osm_id": "33114461",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
         "class": "boundary",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.6432525",
+        "place_id": "73282228",
+        "osm_type": "way",
         "boundingbox": [
             "37.580115",
             "37.659467",
             "-119.0613999",
             "-118.9370119"
         ],
-        "osm_id": "33114461",
-        "lon": "-118.9668508",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.6432525",
-        "display_name": "Mammoth Lakes, Mono County, California, United States of America"
+        "type": "administrative"
     },
     "fresno": {
-        "place_id": "72530219",
+        "lon": "-119.714839601149",
+        "display_name": "Fresno, Fresno County, California, United States of America",
         "importance": 0.79213103374115,
-        "type": "city",
-        "osm_type": "way",
+        "osm_id": "33120274",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "36.748793",
+        "place_id": "72530219",
+        "osm_type": "way",
         "boundingbox": [
             "36.747122",
             "36.75042",
             "-119.7159249",
             "-119.7091549"
         ],
-        "osm_id": "33120274",
-        "lon": "-119.714839601149",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "36.748793",
-        "display_name": "Fresno, Fresno County, California, United States of America"
+        "type": "city"
     },
     "mentions": {
-        "juniper springs resort": {
+        "shaver lake": {
+            "latitude": "37.09684",
+            "locType": "administrative",
+            "longitude": "-119.320258225573",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
             "closest_to": "mammoth lakes",
-            "longitude": "-118.990318491261",
-            "locType": "yes",
+            "address": "Shaver Lake, Huntington Lake Road, Rock Haven, Fresno County, California, 93664, United States of America"
+        },
+        "mammoth hospital": {
+            "latitude": "37.6438445",
+            "locType": "hospital",
+            "longitude": "-118.9630532",
             "blogLinks": [
                 "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels"
             ],
-            "address": "Juniper Springs Resort, 4000, Juniper Springs Drive, Mammoth Lakes, Mono County, California, 93546, United States of America",
-            "latitude": "37.63561455"
-        },
-        "big oak flat road": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.8747389",
-            "locType": "primary",
+            "address": "Mammoth Hospital, Sierra Park Road, Mammoth Lakes, Mono County, California, 93546, United States of America"
+        },
+        "tenaya lodge": {
+            "latitude": "37.47315115",
+            "locType": "hotel",
+            "longitude": "-119.635128238303",
             "blogLinks": [
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
             ],
-            "address": "Big Oak Flat Road, Sequoia, Tuolumne County, California, United States of America",
-            "latitude": "37.812339"
+            "closest_to": "mammoth lakes",
+            "address": "Tenaya Lodge, Main Entrance, Fish Camp, Mariposa County, California, 93623, United States of America"
         },
         "sabrina campground": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.606460347368",
+            "latitude": "37.21981785",
             "locType": "camp_site",
+            "longitude": "-118.606460347368",
             "blogLinks": [
                 "http://www.sunset.com/travel/california/best-campgrounds-california"
             ],
-            "address": "Sabrina Campground, CA 168, Inyo County, California, United States of America",
-            "latitude": "37.21981785"
-        },
-        "fresno airport": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.719956716463",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "http://www.edisonlake.com/hikers/transportation"
-            ],
-            "address": "Fresno Yosemite International Airport, East Andersen Avenue, Fresno County, California, 93727, United States of America",
-            "latitude": "36.77616835"
+            "address": "Sabrina Campground, CA 168, Inyo County, California, United States of America"
         },
-        "state route 168": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-117.8736649",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
-            ],
-            "address": "CA 266, Mono County, California, United States of America",
-            "latitude": "37.484814"
-        },
-        "tenaya lake": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.461466359589",
-            "locType": "water",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
-            ],
-            "address": "Tenaya Lake, Tenaya Lake Trail, Mariposa County, California, United States of America",
-            "latitude": "37.8310253"
-        },
-        "north fresno": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.714839601149",
-            "locType": "city",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html"
-            ],
-            "address": "Fresno, Fresno County, California, United States of America",
-            "latitude": "36.748793"
-        },
-        "mono lake": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.967033937845",
-            "locType": "water",
+        "yosemite valley": {
+            "latitude": "37.734435",
+            "locType": "town",
+            "longitude": "-119.6064673",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
+                "http://www.travelyosemite.com/discover/getting-here/",
                 "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
-                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
-            ],
-            "address": "Mono Lake, Mono County, California, United States of America",
-            "latitude": "38.0077189"
-        },
-        "vermilion valley resort": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.0124766",
-            "locType": "guest_house",
-            "blogLinks": [
-                "http://www.edisonlake.com/hikers/transportation",
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Vermilion Valley Resort, Kaiser Pass Road, Mono Hot Springs, Fresno County, California, United States of America",
-            "latitude": "37.3763954"
-        },
-        "kings river": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.4451345",
-            "locType": "river",
-            "blogLinks": [
+                "http://www.yosemite.com/plan-your-trip/transportation/",
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
                 "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
             ],
-            "address": "Kings River, Fresno County, California, United States of America",
-            "latitude": "36.7556141"
-        },
-        "mammoth mountain": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.0326341",
-            "locType": "peak",
-            "blogLinks": [
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
-            ],
-            "address": "Mammoth Mountain, Mammoth Lakes, Mono County, California, United States of America",
-            "latitude": "37.6307692"
-        },
-        "america": {
-            "closest_to": "fresno",
-            "longitude": "-119.8948706",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html"
-            ],
-            "address": "America, Kings County, California, 93246, United States of America",
-            "latitude": "36.2573198"
-        },
-        "montana": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.6129969",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=59"
-            ],
-            "address": "Montana, Rovana, Inyo County, California, United States of America",
-            "latitude": "37.413991"
+            "address": "Yosemite Valley, Mariposa County, California, United States of America"
         },
         "tuolumne meadows": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.3575555",
+            "latitude": "37.8741952",
             "locType": "suburb",
+            "longitude": "-119.3575555",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
                 "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
                 "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
                 "http://www.travelyosemite.com/discover/getting-here/"
             ],
-            "address": "Tuolumne Meadows, Tuolumne County, California, United States of America",
-            "latitude": "37.8741952"
-        },
-        "el portal": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.784068",
-            "locType": "hamlet",
+            "address": "Tuolumne Meadows, Tuolumne County, California, United States of America"
+        },
+        "fishcamp": {
+            "latitude": "37.4794649",
+            "locType": "service",
+            "longitude": "-119.6387522",
             "blogLinks": [
                 "http://www.yosemite.com/plan-your-trip/transportation/"
             ],
-            "address": "El Portal, Mariposa County, California, United States of America",
-            "latitude": "37.6746526"
-        },
-        "yosemite sierra view": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.6452115",
-            "locType": "motel",
+            "address": "Fishcamp Lane, Fish Camp, Mariposa County, California, 93623, United States of America"
+        },
+        "eastern sierra": {
+            "latitude": "37.37088005",
+            "locType": "aerodrome",
+            "longitude": "-118.365786577889",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America"
+        },
+        "vermilion valley resort": {
+            "latitude": "37.3763954",
+            "locType": "guest_house",
+            "longitude": "-119.0124766",
+            "blogLinks": [
+                "http://www.edisonlake.com/hikers/transportation",
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Vermilion Valley Resort, Kaiser Pass Road, Mono Hot Springs, Fresno County, California, United States of America"
+        },
+        "white wolf": {
+            "latitude": "37.8693671",
+            "locType": "hamlet",
+            "longitude": "-119.6501704",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "White Wolf, Tuolumne County, California, United States of America"
+        },
+        "sequoia national park": {
+            "latitude": "36.49584065",
+            "locType": "national_park",
+            "longitude": "-118.559919284386",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "fresno",
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America"
+        },
+        "glacier point": {
+            "latitude": "37.499192",
+            "locType": "residential",
+            "longitude": "-119.8282379",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America"
+        },
+        "yosemite": {
+            "latitude": "37.7488554",
+            "locType": "attraction",
+            "longitude": "-119.5893389",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
+                "http://www.sunset.com/travel/california/best-campgrounds-california",
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
+                "http://www.yosemite.com/plan-your-trip/transportation/",
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America"
+        },
+        "montana": {
+            "latitude": "37.413991",
+            "locType": "residential",
+            "longitude": "-118.6129969",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Montana, Rovana, Inyo County, California, United States of America"
+        },
+        "saddlebag lake": {
+            "latitude": "37.97340665",
+            "locType": "water",
+            "longitude": "-119.275566547803",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Saddlebag Lake, Saddlebag Lake Road, Mono County, California, United States of America"
+        },
+        "el portal": {
+            "latitude": "37.6746526",
+            "locType": "hamlet",
+            "longitude": "-119.784068",
+            "blogLinks": [
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "El Portal, Mariposa County, California, United States of America"
+        },
+        "bishop creek": {
+            "latitude": "37.3017791",
+            "locType": "stream",
+            "longitude": "-118.5317704",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Bishop Creek, Inyo County, California, United States of America"
+        },
+        "kings canyon national park": {
+            "latitude": "36.91527845",
+            "locType": "national_park",
+            "longitude": "-118.607655759626",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America"
+        },
+        "wawona": {
+            "latitude": "37.5368699",
+            "locType": "hamlet",
+            "longitude": "-119.6549159",
+            "blogLinks": [
+                "http://www.california-blog.com/",
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Wawona, Mariposa County, California, United States of America"
+        },
+        "mono lake": {
+            "latitude": "38.0077189",
+            "locType": "water",
+            "longitude": "-118.967033937845",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Mono Lake, Mono County, California, United States of America"
+        },
+        "la": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "California, United States of America"
+        },
+        "mcgee creek": {
+            "latitude": "37.5930673",
+            "locType": "stream",
+            "longitude": "-118.7827157",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "McGee Creek, Mono County, California, United States of America"
+        },
+        "america": {
+            "latitude": "36.2573198",
+            "locType": "residential",
+            "longitude": "-119.8948706",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html"
+            ],
+            "closest_to": "fresno",
+            "address": "America, Kings County, California, 93246, United States of America"
+        },
+        "lake mary": {
+            "latitude": "37.5990811",
+            "locType": "hamlet",
+            "longitude": "-118.9985361",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Lake Mary, Mono County, California, United States of America"
+        },
+        "united states of america": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
             "blogLinks": [
                 "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
             ],
-            "address": "Yosemite Sierra Inn, 40662, Hodges Hill Drive, Oakhurst, Madera County, California, 93644, United States of America",
-            "latitude": "37.3381875"
+            "closest_to": "mammoth lakes",
+            "address": "California, United States of America"
+        },
+        "valley floor": {
+            "latitude": "37.7393703",
+            "locType": "peak",
+            "longitude": "-119.736006",
+            "blogLinks": [
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Devils Dance Floor, Mariposa County, California, United States of America"
+        },
+        "tenaya lake": {
+            "latitude": "37.8310253",
+            "locType": "water",
+            "longitude": "-119.461466359589",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Tenaya Lake, Tenaya Lake Trail, Mariposa County, California, United States of America"
+        },
+        "mariposa county": {
+            "latitude": "37.570148",
+            "locType": "administrative",
+            "longitude": "-119.9036591",
+            "blogLinks": [
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Mariposa County, California, United States of America"
+        },
+        "oakhurst": {
+            "latitude": "37.333178",
+            "locType": "administrative",
+            "longitude": "-119.657244022836",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America"
+        },
+        "inyo national forest": {
+            "latitude": "37.77262635",
+            "locType": "national_park",
+            "longitude": "-118.827549399277",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Inyo National Forest, 1517, Mono County, California, United States of America"
+        },
+        "groveland": {
+            "latitude": "37.8382608",
+            "locType": "hamlet",
+            "longitude": "-120.2326893",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Groveland, Tuolumne County, California, United States of America"
+        },
+        "half dome": {
+            "latitude": "37.745962",
+            "locType": "peak",
+            "longitude": "-119.5330756",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Half Dome, Mariposa County, California, United States of America"
+        },
+        "midpines": {
+            "latitude": "37.5443798",
+            "locType": "hamlet",
+            "longitude": "-119.9204506",
+            "blogLinks": [
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Midpines, Mariposa County, California, United States of America"
+        },
+        "mammoth lakes": {
+            "latitude": "37.6432525",
+            "locType": "administrative",
+            "longitude": "-118.9668508",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.visitmammoth.com/",
+                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Mammoth Lakes, Mono County, California, United States of America"
+        },
+        "yosemite sierra view": {
+            "latitude": "37.3381875",
+            "locType": "motel",
+            "longitude": "-119.6452115",
+            "blogLinks": [
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Yosemite Sierra Inn, 40662, Hodges Hill Drive, Oakhurst, Madera County, California, 93644, United States of America"
+        },
+        "lake sabrina": {
+            "latitude": "37.2057593",
+            "locType": "water",
+            "longitude": "-118.620394259583",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Lake Sabrina, Lake Sabrina Road, Aspendell, Inyo County, California, United States of America"
+        },
+        "glacier point road": {
+            "latitude": "37.6734831",
+            "locType": "tertiary",
+            "longitude": "-119.6363454",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Glacier Point Road, Mariposa County, California, United States of America"
+        },
+        "kaweah river": {
+            "latitude": "36.3479005",
+            "locType": "river",
+            "longitude": "-119.1621456",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "fresno",
+            "address": "Kaweah River, Tulare County, California, United States of America"
+        },
+        "fresno": {
+            "latitude": "36.748793",
+            "locType": "city",
+            "longitude": "-119.714839601149",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
+                "http://www.edisonlake.com/hikers/transportation",
+                "http://www.sunset.com/travel/california/best-campgrounds-california",
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
+                "http://www.yosemite.com/plan-your-trip/transportation/",
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
+                "http://www.distancebetweencities.net/fresno_ca_and_mammoth-lakes_ca/route"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Fresno, Fresno County, California, United States of America"
+        },
+        "visalia": {
+            "latitude": "36.3302284",
+            "locType": "city",
+            "longitude": "-119.2920584",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "closest_to": "fresno",
+            "address": "Visalia, Tulare County, California, United States of America"
+        },
+        "big oak flat road": {
+            "latitude": "37.812339",
+            "locType": "primary",
+            "longitude": "-119.8747389",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Big Oak Flat Road, Sequoia, Tuolumne County, California, United States of America"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "locType": "river",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Kern River, Tulare County, California, United States of America"
+        },
+        "yosemite national park": {
+            "latitude": "37.84054795",
+            "locType": "national_park",
+            "longitude": "-119.516587698025",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california",
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels",
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here",
+                "http://www.yosemite.com/plan-your-trip/transportation/",
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America"
+        },
+        "sierra national forest": {
+            "latitude": "37.2582539",
+            "locType": "national_park",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"big bear lake_and_monterey.json,fresno_and_mammoth lakes.json,fresno_and_riverside.json,long beach_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,riverside_and_santa cruz.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "9",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-Sierra_National_Forest-Clovis_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or20-Sierra_National_Forest-Clovis_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or10-Sierra_National_Forest-Clovis_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [
+                        [
+                            "",
+                            0.0,
+                            0.0,
+                            "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or20-Sierra_National_Forest-Clovis_California.html"
+                        ]
+                    ],
+                    "positive": [
+                        [
+                            "Nothing better than leaving the busy city, smog, and noise to enjoy a day of peace and beauty. Amazing scenery and shows the true power of mother nature.",
+                            0.39,
+                            0.5700000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-Sierra_National_Forest-Clovis_California.html"
+                        ],
+                        [
+                            "Day hike out of Edison to Devils Bathtub. Long hike long day lol. It is gorgeous hiking and and the trails are well kept. The forest service has done their job well!",
+                            0.39375000000000004,
+                            0.6,
+                            "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or10-Sierra_National_Forest-Clovis_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"1600 Tollhouse Rd , Clovis , CA 93611-0532\"",
+                "attraction_longitude": "",
+                "mention_type": "national_park",
+                "attraction_in_file": "clovis.json",
+                "mention_name": "sierra national forest",
+                "youTubeLinkIds": "\"mK6urzQCtbo,K5qX3KXZFjU,_0zxHOjql6k\"",
+                "attraction_name": "Sierra National Forest",
+                "mention_longitude": "-119.455561431123",
+                "attraction_no_of_reviews": "21",
+                "mention_address": "\"Sierra National Forest, Whisky Snowmobile Trails Road, Cascadel Woods, Madera County, California, United States of America\"",
+                "blogLinks": [
+                    "http://www.daytrippen.com/california-eastern-sierra-hot-springs/",
+                    "http://blogs.kqed.org/guides/2012/08/secrets-to-scoring-last-minute-campsites/",
+                    "http://www.sunset.com/travel/california/best-campgrounds-california"
+                ],
+                "mention_latitude": "37.2582539",
+                "attraction_ranking": "3",
+                "attraction_knownFor": "",
+                "zip_code": "93611",
+                "Confidence": "100",
+                "attraction_in": "Clovis",
+                "mention_popularity": "3",
+                "imageUrls": [
+                    "http://www.worldpopulationstatistics.com/wp-content/uploads/2013/08/california-population-2013-outdoors.jpg",
+                    "http://www.totalescape.net/store/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/i/sierranf300.jpg",
+                    "http://cdn.allmammoth.com/images/content/11778_11760_Eagle_Lake_Sierra_National_Forest_md.jpg"
+                ],
+                "attraction_contact": "",
+                "attraction_reviewComments": [
+                    "Nothing better than leaving the busy city, smog, and noise to enjoy a day of peace and beauty. Amazing scenery and shows the true power of mother nature.",
+                    "",
+                    "Day hike out of Edison to Devils Bathtub. Long hike long day lol. It is gorgeous hiking and and the trails are well kept. The forest service has done their job well!"
+                ]
+            },
+            "longitude": "-119.455561431123",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Sierra National Forest, Whisky Snowmobile Trails Road, Cascadel Woods, Madera County, California, United States of America"
+        },
+        "park": {
+            "latitude": "37.501904",
+            "locType": "forest",
+            "longitude": "-120.238185637585",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Park, Hornitos, Mariposa County, California, 3004, United States of America"
+        },
+        "merced": {
+            "latitude": "37.3029568",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,avalon_and_mammoth lakes.json,bakersfield_and_fresno.json,bakersfield_and_mammoth lakes.json,bakersfield_and_stockton.json,berkeley_and_mammoth lakes.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_mammoth lakes.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_stockton.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,long beach_and_sacramento.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_sacramento.json,monterey_and_stockton.json,napa_and_san diego.json,mammoth lakes_and_pismo beach.json,napa_and_temecula.json,oakland_and_san diego.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_temecula.json,san diego_and_san jose.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,irvine_and_stockton.json,san jose_and_temecula.json,santa clarita_and_stockton.json,santa monica_and_stockton.json,stockton_and_temecula.json",
+                "mention_popularity": "16",
+                "no_of_blogFiles": "62",
+                "attraction_longitude": "-120.4843268",
+                "mention_address": "Merced, Merced County, California, United States of America",
+                "imageUrls": [
+                    "http://cashmancuneo.net/biomes/calcentral/pict/Merced.JPG",
+                    "https://images.trvl-media.com/hotels/1000000/40000/34800/34725/34725_164_z.jpg",
+                    "http://www.ppp-news.com/wp-content/uploads/2016/02/412.jpg"
+                ],
+                "label": "Merced, California",
+                "mention_latitude": "37.3029568",
+                "mention_type": "city",
+                "comment": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby.In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
+                "Confidence": "100",
+                "attraction_in": "Merced",
+                "attraction_in_file": "merced.json",
+                "abstract": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby. Merced, known as the \"Gateway to Yosemite,\" is less than two hours by automobile from Yosemite National Park to the east and Monterey Bay, the Pacific Ocean, and several beaches to the west. The community is served by the rail passenger service Amtrak, a major airline through Merced Regional Airport, and three bus lines. It is approximately 110 miles (180 km) from Sacramento, 130 miles (210 km) from San Francisco, 45 miles (72 km) from Fresno, and 270 miles (430 km) from Los Angeles. In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
+                "mention_name": "merced",
+                "youTubeLinkIds": "K7vWFLgSSF0,2xgde7YWHU0,l4ZmEAnKNRc",
+                "attraction_latitude": "37.3029568",
+                "mention_longitude": "-120.4843268",
+                "subject": "http://dbpedia.org/resource/Merced,_California",
+                "type": "http://dbpedia.org/resource/Charter_city"
+            },
+            "longitude": "-120.4843268",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "http://www.yosemite.com/plan-your-trip/transportation/"
+            ],
+            "closest_to": "fresno",
+            "address": "Merced, Merced County, California, United States of America"
+        },
+        "state route 168": {
+            "latitude": "37.484814",
+            "locType": "secondary",
+            "longitude": "-117.8736649",
+            "blogLinks": [
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "CA 266, Mono County, California, United States of America"
         },
         "us": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.7559973",
+            "latitude": "36.7014631",
             "locType": "administrative",
+            "longitude": "-118.7559973",
             "blogLinks": [
                 "http://www.tripleblaze.com/best/?c=59",
                 "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels",
@@ -220,13 +667,43 @@
                 "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels",
                 "http://www.distancebetweencities.net/fresno_ca_and_mammoth-lakes_ca/route"
             ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
+            "closest_to": "mammoth lakes",
+            "address": "California, United States of America"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "California, United States of America"
+        },
+        "minaret falls campground": {
+            "latitude": "37.63967595",
+            "locType": "camp_site",
+            "longitude": "-119.083728563158",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Minaret Falls Campground, Minaret Road, Madera County, California, United States of America"
+        },
+        "kings river": {
+            "latitude": "36.7556141",
+            "locType": "river",
+            "longitude": "-119.4451345",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Kings River, Fresno County, California, United States of America"
         },
         "tioga pass": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.2578542",
+            "latitude": "37.9109049",
             "locType": "yes",
+            "longitude": "-119.2578542",
             "blogLinks": [
                 "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
                 "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
@@ -235,527 +712,149 @@
                 "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
                 "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm"
             ],
-            "address": "Tioga Pass, Tuolumne County, California, United States of America",
-            "latitude": "37.9109049"
-        },
-        "crowley lake": {
             "closest_to": "mammoth lakes",
-            "longitude": "-118.7454081",
-            "locType": "village",
-            "blogLinks": [
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
-            ],
-            "address": "Crowley Lake, Mono County, California, United States of America",
-            "latitude": "37.564155"
+            "address": "Tioga Pass, Tuolumne County, California, United States of America"
         },
-        "shaver lake": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.320258225573",
+        "mariposa": {
+            "latitude": "37.570148",
             "locType": "administrative",
+            "longitude": "-119.9036591",
             "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Shaver Lake, Huntington Lake Road, Rock Haven, Fresno County, California, 93664, United States of America",
-            "latitude": "37.09684"
-        },
-        "kings canyon national park": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.607655759626",
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
-            ],
-            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
-            "latitude": "36.91527845"
-        },
-        "bishop creek": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.5317704",
-            "locType": "stream",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Bishop Creek, Inyo County, California, United States of America",
-            "latitude": "37.3017791"
-        },
-        "groveland": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-120.2326893",
-            "locType": "hamlet",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
-            ],
-            "address": "Groveland, Tuolumne County, California, United States of America",
-            "latitude": "37.8382608"
-        },
-        "merced": {
-            "closest_to": "fresno",
-            "longitude": "-120.4843268",
-            "enrich_metadata": {
-                "mention_popularity": "16",
-                "label": "Merced, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "K7vWFLgSSF0,2xgde7YWHU0,l4ZmEAnKNRc",
-                "type": "http://dbpedia.org/resource/Charter_city",
-                "attraction_in_file": "merced.json",
-                "abstract": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby. Merced, known as the \"Gateway to Yosemite,\" is less than two hours by automobile from Yosemite National Park to the east and Monterey Bay, the Pacific Ocean, and several beaches to the west. The community is served by the rail passenger service Amtrak, a major airline through Merced Regional Airport, and three bus lines. It is approximately 110 miles (180 km) from Sacramento, 130 miles (210 km) from San Francisco, 45 miles (72 km) from Fresno, and 270 miles (430 km) from Los Angeles. In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
-                "attraction_latitude": "37.3029568",
-                "no_of_blogFiles": "62",
-                "subject": "http://dbpedia.org/resource/Merced,_California",
-                "mention_address": "Merced, Merced County, California, United States of America",
-                "imageUrls": [
-                    "http://cashmancuneo.net/biomes/calcentral/pict/Merced.JPG",
-                    "https://images.trvl-media.com/hotels/1000000/40000/34800/34725/34725_164_z.jpg",
-                    "http://www.ppp-news.com/wp-content/uploads/2016/02/412.jpg"
-                ],
-                "mention_name": "merced",
-                "attraction_longitude": "-120.4843268",
-                "attraction_in": "Merced",
-                "comment": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby.In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
-                "mention_longitude": "-120.4843268",
-                "mention_latitude": "37.3029568",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_fresno.json,avalon_and_mammoth lakes.json,bakersfield_and_fresno.json,bakersfield_and_mammoth lakes.json,bakersfield_and_stockton.json,berkeley_and_mammoth lakes.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_mammoth lakes.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_stockton.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,long beach_and_sacramento.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_sacramento.json,monterey_and_stockton.json,napa_and_san diego.json,mammoth lakes_and_pismo beach.json,napa_and_temecula.json,oakland_and_san diego.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_temecula.json,san diego_and_san jose.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,irvine_and_stockton.json,san jose_and_temecula.json,santa clarita_and_stockton.json,santa monica_and_stockton.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
                 "http://www.travelyosemite.com/discover/getting-here/",
-                "http://www.yosemite.com/plan-your-trip/transportation/"
+                "http://www.yosemite.com/plan-your-trip/transportation/",
+                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
             ],
-            "address": "Merced, Merced County, California, United States of America",
-            "latitude": "37.3029568"
-        },
-        "white wolf": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.6501704",
-            "locType": "hamlet",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
-            ],
-            "address": "White Wolf, Tuolumne County, California, United States of America",
-            "latitude": "37.8693671"
+            "address": "Mariposa County, California, United States of America"
         },
-        "glacier point": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.8282379",
-            "locType": "residential",
+        "north fresno": {
+            "latitude": "36.748793",
+            "locType": "city",
+            "longitude": "-119.714839601149",
             "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
+                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html"
             ],
-            "address": "Glacier Point, Darrah, Mariposa County, California, 95338, United States of America",
-            "latitude": "37.499192"
-        },
-        "mcgee creek": {
             "closest_to": "mammoth lakes",
-            "longitude": "-118.7827157",
-            "locType": "stream",
-            "blogLinks": [
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
-            ],
-            "address": "McGee Creek, Mono County, California, United States of America",
-            "latitude": "37.5930673"
-        },
-        "wawona": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.6549159",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.california-blog.com/",
-                "http://www.yosemite.com/plan-your-trip/transportation/"
-            ],
-            "address": "Wawona, Mariposa County, California, United States of America",
-            "latitude": "37.5368699"
-        },
-        "lake sabrina": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.620394259583",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Lake Sabrina, Lake Sabrina Road, Aspendell, Inyo County, California, United States of America",
-            "latitude": "37.2057593"
-        },
-        "eastern sierra": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.365786577889",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "http://www.travelyosemite.com/discover/getting-here/"
-            ],
-            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America",
-            "latitude": "37.37088005"
-        },
-        "mammoth lakes": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.9668508",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
-                "http://www.visitmammoth.com/",
-                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels"
-            ],
-            "address": "Mammoth Lakes, Mono County, California, United States of America",
-            "latitude": "37.6432525"
-        },
-        "fresno yosemite international airport": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.719956716463",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "http://www.yosemite.com/plan-your-trip/transportation/"
-            ],
-            "address": "Fresno Yosemite International Airport, East Andersen Avenue, Fresno County, California, 93727, United States of America",
-            "latitude": "36.77616835"
-        },
-        "park": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-120.238185637585",
-            "locType": "forest",
-            "blogLinks": [
-                "http://www.travelyosemite.com/discover/getting-here/"
-            ],
-            "address": "Park, Hornitos, Mariposa County, California, 3004, United States of America",
-            "latitude": "37.501904"
+            "address": "Fresno, Fresno County, California, United States of America"
         },
         "cold springs campground": {
-            "closest_to": "fresno",
-            "longitude": "-118.614314067159",
+            "latitude": "36.4509069",
             "locType": "camp_site",
+            "longitude": "-118.614314067159",
             "blogLinks": [
                 "http://www.sunset.com/travel/california/best-campgrounds-california"
             ],
-            "address": "Cold Springs Campground, Tar Gap Trail, Cabin Cove, Tulare County, California, United States of America",
-            "latitude": "36.4509069"
+            "closest_to": "fresno",
+            "address": "Cold Springs Campground, Tar Gap Trail, Cabin Cove, Tulare County, California, United States of America"
         },
-        "kern river": {
+        "mariposa grove": {
+            "latitude": "37.515215",
+            "locType": "wood",
+            "longitude": "-119.6040411",
+            "blogLinks": [
+                "http://www.sunset.com/travel/california/best-campgrounds-california"
+            ],
             "closest_to": "mammoth lakes",
-            "longitude": "-118.4124188",
-            "locType": "river",
+            "address": "Mariposa Grove, Mariposa Grove Road, Mariposa County, California, United States of America"
+        },
+        "lee vining": {
+            "latitude": "37.9574254",
+            "locType": "hamlet",
+            "longitude": "-119.1218155",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Lee Vining, Mono County, California, United States of America"
+        },
+        "mammoth mountain": {
+            "latitude": "37.6307692",
+            "locType": "peak",
+            "longitude": "-119.0326341",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Mammoth Mountain, Mammoth Lakes, Mono County, California, United States of America"
+        },
+        "june lake loop": {
+            "latitude": "37.7977914",
+            "locType": "secondary",
+            "longitude": "-119.0637386",
+            "blogLinks": [
+                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "June Lake Loop, Rabbit Loop, June Lake Junction, Mono County, California, 93529, United States of America"
+        },
+        "crane flat": {
+            "latitude": "37.74639645",
+            "locType": "camp_site",
+            "longitude": "-119.800064691048",
+            "blogLinks": [
+                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm"
+            ],
+            "closest_to": "mammoth lakes",
+            "address": "Crane Flat, Lane 300, Buena Vista, Mariposa County, California, United States of America"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "locType": "water",
+            "longitude": "-118.967033937845",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Kern River, Tulare County, California, United States of America",
-            "latitude": "36.6816956"
-        },
-        "inyo national forest": {
             "closest_to": "mammoth lakes",
-            "longitude": "-118.827549399277",
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Inyo National Forest, 1517, Mono County, California, United States of America",
-            "latitude": "37.77262635"
-        },
-        "yosemite valley": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.6064673",
-            "locType": "town",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
-                "http://www.travelyosemite.com/discover/getting-here/",
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
-                "http://www.yosemite.com/plan-your-trip/transportation/",
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
-            ],
-            "address": "Yosemite Valley, Mariposa County, California, United States of America",
-            "latitude": "37.734435"
-        },
-        "fishcamp": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.6387522",
-            "locType": "service",
-            "blogLinks": [
-                "http://www.yosemite.com/plan-your-trip/transportation/"
-            ],
-            "address": "Fishcamp Lane, Fish Camp, Mariposa County, California, 93623, United States of America",
-            "latitude": "37.4794649"
-        },
-        "sequoia national park": {
-            "closest_to": "fresno",
-            "longitude": "-118.559919284386",
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
-            "latitude": "36.49584065"
-        },
-        "june lake loop": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.0637386",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
-            ],
-            "address": "June Lake Loop, Rabbit Loop, June Lake Junction, Mono County, California, 93529, United States of America",
-            "latitude": "37.7977914"
-        },
-        "crane flat": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.800064691048",
-            "locType": "camp_site",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm"
-            ],
-            "address": "Crane Flat, Lane 300, Buena Vista, Mariposa County, California, United States of America",
-            "latitude": "37.74639645"
-        },
-        "half dome": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.5330756",
-            "locType": "peak",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
-            ],
-            "address": "Half Dome, Mariposa County, California, United States of America",
-            "latitude": "37.745962"
-        },
-        "oakhurst": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.657244022836",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
-            "latitude": "37.333178"
-        },
-        "saddlebag lake": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.275566547803",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Saddlebag Lake, Saddlebag Lake Road, Mono County, California, United States of America",
-            "latitude": "37.97340665"
-        },
-        "mariposa": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.9036591",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.travelyosemite.com/discover/getting-here/",
-                "http://www.yosemite.com/plan-your-trip/transportation/",
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "Mariposa County, California, United States of America",
-            "latitude": "37.570148"
-        },
-        "mariposa grove": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.6040411",
-            "locType": "wood",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Mariposa Grove, Mariposa Grove Road, Mariposa County, California, United States of America",
-            "latitude": "37.515215"
+            "address": "Mono Lake, Mono County, California, United States of America"
         },
         "coarsegold": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.7009833",
+            "latitude": "37.2621687",
             "locType": "hamlet",
+            "longitude": "-119.7009833",
             "blogLinks": [
                 "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
             ],
-            "address": "Coarsegold, Madera County, California, United States of America",
-            "latitude": "37.2621687"
-        },
-        "valley floor": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.736006",
-            "locType": "peak",
-            "blogLinks": [
-                "http://www.yosemite.com/plan-your-trip/transportation/"
-            ],
-            "address": "Devils Dance Floor, Mariposa County, California, United States of America",
-            "latitude": "37.7393703"
+            "address": "Coarsegold, Madera County, California, United States of America"
         },
-        "mammoth hospital": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.9630532",
-            "locType": "hospital",
-            "blogLinks": [
-                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels"
-            ],
-            "address": "Mammoth Hospital, Sierra Park Road, Mammoth Lakes, Mono County, California, 93546, United States of America",
-            "latitude": "37.6438445"
-        },
-        "sierra national forest": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.455561431123",
-            "enrich_metadata": {
-                "attraction_name": "Sierra National Forest",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"mK6urzQCtbo,K5qX3KXZFjU,_0zxHOjql6k\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "9",
-                "mention_popularity": "3",
-                "attraction_reviewComments": [
-                    "Nothing better than leaving the busy city, smog, and noise to enjoy a day of peace and beauty. Amazing scenery and shows the true power of mother nature.",
-                    "",
-                    "Day hike out of Edison to Devils Bathtub. Long hike long day lol. It is gorgeous hiking and and the trails are well kept. The forest service has done their job well!"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Clovis",
-                "attraction_address": "\"1600 Tollhouse Rd , Clovis , CA 93611-0532\"",
-                "mention_type": "national_park",
-                "mention_found_in_blogFiles": "\"big bear lake_and_monterey.json,fresno_and_mammoth lakes.json,fresno_and_riverside.json,long beach_and_mammoth lakes.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,riverside_and_santa cruz.json\"",
-                "mention_address": "\"Sierra National Forest, Whisky Snowmobile Trails Road, Cascadel Woods, Madera County, California, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-Sierra_National_Forest-Clovis_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or20-Sierra_National_Forest-Clovis_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32225-d7712362-Reviews-or10-Sierra_National_Forest-Clovis_California.html"
-                ],
-                "attraction_in_file": "clovis.json",
-                "blogLinks": [
-                    "http://www.daytrippen.com/california-eastern-sierra-hot-springs/",
-                    "http://blogs.kqed.org/guides/2012/08/secrets-to-scoring-last-minute-campsites/",
-                    "http://www.sunset.com/travel/california/best-campgrounds-california"
-                ],
-                "imageUrls": [
-                    "http://www.worldpopulationstatistics.com/wp-content/uploads/2013/08/california-population-2013-outdoors.jpg",
-                    "http://www.totalescape.net/store/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/i/sierranf300.jpg",
-                    "http://cdn.allmammoth.com/images/content/11778_11760_Eagle_Lake_Sierra_National_Forest_md.jpg"
-                ],
-                "zip_code": "93611",
-                "attraction_ranking": "3",
-                "attraction_knownFor": "",
-                "mention_name": "sierra national forest",
-                "attraction_no_of_reviews": "21",
-                "mention_latitude": "37.2582539",
-                "attraction_contact": "",
-                "mention_longitude": "-119.455561431123"
-            },
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Sierra National Forest, Whisky Snowmobile Trails Road, Cascadel Woods, Madera County, California, United States of America",
-            "latitude": "37.2582539"
-        },
-        "glacier point road": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.6363454",
-            "locType": "tertiary",
+        "yosemite village": {
+            "latitude": "37.7481814",
+            "locType": "suburb",
+            "longitude": "-119.5868868",
             "blogLinks": [
                 "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
             ],
-            "address": "Glacier Point Road, Mariposa County, California, United States of America",
-            "latitude": "37.6734831"
-        },
-        "yosemite national park": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.516587698025",
-            "locType": "national_park",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california",
-                "http://www.travelyosemite.com/discover/getting-here/",
-                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels",
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
-                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here",
-                "http://www.yosemite.com/plan-your-trip/transportation/",
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
-                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
-            "latitude": "37.84054795"
+            "address": "Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America"
         },
-        "mariposa county": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.9036591",
-            "locType": "administrative",
+        "fresno yosemite international airport": {
+            "latitude": "36.77616835",
+            "locType": "aerodrome",
+            "longitude": "-119.719956716463",
             "blogLinks": [
                 "http://www.yosemite.com/plan-your-trip/transportation/"
             ],
-            "address": "Mariposa County, California, United States of America",
-            "latitude": "37.570148"
-        },
-        "minaret falls campground": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.083728563158",
-            "locType": "camp_site",
+            "address": "Fresno Yosemite International Airport, East Andersen Avenue, Fresno County, California, 93727, United States of America"
+        },
+        "san joaquin river": {
+            "latitude": "37.5308299",
+            "locType": "river",
+            "longitude": "-119.1862809",
             "blogLinks": [
                 "http://www.sunset.com/travel/california/best-campgrounds-california"
             ],
-            "address": "Minaret Falls Campground, Minaret Road, Madera County, California, United States of America",
-            "latitude": "37.63967595"
-        },
-        "fresno": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.714839601149",
-            "locType": "city",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
-                "http://www.edisonlake.com/hikers/transportation",
-                "http://www.sunset.com/travel/california/best-campgrounds-california",
-                "http://www.travelyosemite.com/discover/getting-here/",
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
-                "http://www.yosemite.com/plan-your-trip/transportation/",
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
-                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
-                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
-                "http://www.distancebetweencities.net/fresno_ca_and_mammoth-lakes_ca/route"
-            ],
-            "address": "Fresno, Fresno County, California, United States of America",
-            "latitude": "36.748793"
-        },
-        "united states": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "lake mary": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.9985361",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
-            ],
-            "address": "Lake Mary, Mono County, California, United States of America",
-            "latitude": "37.5990811"
+            "address": "San Joaquin River, Madera County, California, United States of America"
         },
         "lakes basin": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.0058958",
+            "latitude": "37.623955",
+            "locType": "cycleway",
             "enrich_metadata": {
-                "attraction_name": "Lakes Basin",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"upnIY73Djds,PwfyoNnHxVQ,X-F2pOqxkKk\"",
+                "mention_found_in_blogFiles": "\"fresno_and_mammoth lakes.json,fresno_and_riverside.json,long beach_and_mammoth lakes.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,riverside_and_santa cruz.json\"",
                 "attraction_latitude": "39.7533435",
                 "no_of_blogFiles": "7",
-                "mention_popularity": "2",
-                "attraction_reviewComments": [
-                    "Camping with a family, multigenerational and multi-interest? This is your spot. Hikes for everyone; fishing; mountain biking; swimming; dog-friendly; quiet; beautiful. Just go.",
-                    "Absolutely beautiful small alpine lakes...lots of hiking; kayaking and some gems of resorts.",
-                    "The Lakes Basin area has some 30 lakes, hiking trails, mountain bike trails, lodges, wild life and so of the most fantastic views.",
-                    "I have spent many vacations in the Lakes Basin area and I've never been bored. There are numerous lakes around Graeagle but my absolute favorite is Salmon Lake. This place has so... read more",
-                    "This is a small jewel in the Sierras. In fact, it puts you in the High Country without carrying a pack on your back -- unless you want to do that, in which case, you can!"
-                ],
-                "attraction_longitude": "-120.64844570134",
-                "attraction_in": "Graeagle",
-                "attraction_address": "\"Graeagle , CA\"",
-                "mention_type": "cycleway",
-                "mention_found_in_blogFiles": "\"fresno_and_mammoth lakes.json,fresno_and_riverside.json,long beach_and_mammoth lakes.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,riverside_and_santa cruz.json\"",
-                "mention_address": "\"Lakes Basin Path, Mammoth Lakes, Mono County, California, 93546, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-Lakes_Basin-Graeagle_Plumas_County_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or40-Lakes_Basin-Graeagle_Plumas_County_California.html",
@@ -763,151 +862,114 @@
                     "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or20-Lakes_Basin-Graeagle_Plumas_County_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or10-Lakes_Basin-Graeagle_Plumas_County_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "Camping with a family, multigenerational and multi-interest? This is your spot. Hikes for everyone; fishing; mountain biking; swimming; dog-friendly; quiet; beautiful. Just go.",
+                            0.425,
+                            0.6666666666666666,
+                            "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-Lakes_Basin-Graeagle_Plumas_County_California.html"
+                        ],
+                        [
+                            "Absolutely beautiful small alpine lakes...lots of hiking; kayaking and some gems of resorts.",
+                            0.3,
+                            0.7,
+                            "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or40-Lakes_Basin-Graeagle_Plumas_County_California.html"
+                        ],
+                        [
+                            "The Lakes Basin area has some 30 lakes, hiking trails, mountain bike trails, lodges, wild life and so of the most fantastic views.",
+                            0.3333333333333333,
+                            0.6,
+                            "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or30-Lakes_Basin-Graeagle_Plumas_County_California.html"
+                        ],
+                        [
+                            "I have spent many vacations in the Lakes Basin area and I've never been bored. There are numerous lakes around Graeagle but my absolute favorite is Salmon Lake. This place has so... read more",
+                            0.15714285714285717,
+                            0.6428571428571429,
+                            "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or20-Lakes_Basin-Graeagle_Plumas_County_California.html"
+                        ]
+                    ],
+                    "negative": [
+                        [
+                            "This is a small jewel in the Sierras. In fact, it puts you in the High Country without carrying a pack on your back -- unless you want to do that, in which case, you can!",
+                            -0.03,
+                            0.3133333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g32443-d254731-Reviews-or10-Lakes_Basin-Graeagle_Plumas_County_California.html"
+                        ]
+                    ]
+                },
+                "attraction_address": "\"Graeagle , CA\"",
+                "attraction_longitude": "-120.64844570134",
+                "mention_type": "cycleway",
                 "attraction_in_file": "graeagle.json",
+                "mention_name": "lakes basin",
+                "youTubeLinkIds": "\"upnIY73Djds,PwfyoNnHxVQ,X-F2pOqxkKk\"",
+                "attraction_name": "Lakes Basin",
+                "mention_longitude": "-119.0058958",
+                "attraction_no_of_reviews": "46",
+                "mention_address": "\"Lakes Basin Path, Mammoth Lakes, Mono County, California, 93546, United States of America\"",
                 "blogLinks": [
                     "https://www.tripadvisor.com/ShowTopic-g28926-i29-k8584321-Beautiful_places_in_California_to_visit-California.html",
                     "http://www.sunset.com/travel/california/best-campgrounds-california"
                 ],
+                "mention_latitude": "37.623955",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "",
+                "zip_code": "",
+                "Confidence": "100",
+                "attraction_in": "Graeagle",
+                "mention_popularity": "2",
                 "imageUrls": [
                     "http://wildflowers.russellramblings.com/wp-content/uploads/2010/07/LakesBasinTrailMap.gif",
                     "http://sustainablerunoff.sdsu.edu/sustainable_runoff_for_basin_salt_balance_03.jpg",
                     "http://goldmountainhome.com/lakesbasin_infomap.jpg"
                 ],
-                "zip_code": "",
-                "attraction_ranking": "1",
-                "attraction_knownFor": "",
-                "mention_name": "lakes basin",
-                "attraction_no_of_reviews": "46",
-                "mention_latitude": "37.623955",
                 "attraction_contact": "",
-                "mention_longitude": "-119.0058958"
+                "attraction_reviewComments": [
+                    "Camping with a family, multigenerational and multi-interest? This is your spot. Hikes for everyone; fishing; mountain biking; swimming; dog-friendly; quiet; beautiful. Just go.",
+                    "Absolutely beautiful small alpine lakes...lots of hiking; kayaking and some gems of resorts.",
+                    "The Lakes Basin area has some 30 lakes, hiking trails, mountain bike trails, lodges, wild life and so of the most fantastic views.",
+                    "I have spent many vacations in the Lakes Basin area and I've never been bored. There are numerous lakes around Graeagle but my absolute favorite is Salmon Lake. This place has so... read more",
+                    "This is a small jewel in the Sierras. In fact, it puts you in the High Country without carrying a pack on your back -- unless you want to do that, in which case, you can!"
+                ]
             },
-            "locType": "cycleway",
+            "longitude": "-119.0058958",
             "blogLinks": [
                 "http://www.sunset.com/travel/california/best-campgrounds-california"
             ],
-            "address": "Lakes Basin Path, Mammoth Lakes, Mono County, California, 93546, United States of America",
-            "latitude": "37.623955"
-        },
-        "midpines": {
             "closest_to": "mammoth lakes",
-            "longitude": "-119.9204506",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.yosemite.com/plan-your-trip/transportation/"
-            ],
-            "address": "Midpines, Mariposa County, California, United States of America",
-            "latitude": "37.5443798"
+            "address": "Lakes Basin Path, Mammoth Lakes, Mono County, California, 93546, United States of America"
         },
-        "san joaquin river": {
+        "juniper springs resort": {
+            "latitude": "37.63561455",
+            "locType": "yes",
+            "longitude": "-118.990318491261",
+            "blogLinks": [
+                "https://www.expedia.com/Yosemite-National-Park-Hotels.d180672.Travel-Guide-Hotels"
+            ],
             "closest_to": "mammoth lakes",
-            "longitude": "-119.1862809",
-            "locType": "river",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "San Joaquin River, Madera County, California, United States of America",
-            "latitude": "37.5308299"
+            "address": "Juniper Springs Resort, 4000, Juniper Springs Drive, Mammoth Lakes, Mono County, California, 93546, United States of America"
         },
-        "mono lake ca": {
+        "crowley lake": {
+            "latitude": "37.564155",
+            "locType": "village",
+            "longitude": "-118.7454081",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
             "closest_to": "mammoth lakes",
-            "longitude": "-118.967033937845",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Mono Lake, Mono County, California, United States of America",
-            "latitude": "38.0077189"
+            "address": "Crowley Lake, Mono County, California, United States of America"
         },
-        "la": {
+        "fresno airport": {
+            "latitude": "36.77616835",
+            "locType": "aerodrome",
+            "longitude": "-119.719956716463",
+            "blogLinks": [
+                "http://www.edisonlake.com/hikers/transportation"
+            ],
             "closest_to": "mammoth lakes",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=59",
-                "http://www.travelyosemite.com/discover/getting-here/"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "yosemite village": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.5868868",
-            "locType": "suburb",
-            "blogLinks": [
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm"
-            ],
-            "address": "Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
-            "latitude": "37.7481814"
-        },
-        "tenaya lodge": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.635128238303",
-            "locType": "hotel",
-            "blogLinks": [
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "Tenaya Lodge, Main Entrance, Fish Camp, Mariposa County, California, 93623, United States of America",
-            "latitude": "37.47315115"
-        },
-        "united states of america": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "lee vining": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.1218155",
-            "locType": "hamlet",
-            "blogLinks": [
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html"
-            ],
-            "address": "Lee Vining, Mono County, California, United States of America",
-            "latitude": "37.9574254"
-        },
-        "kaweah river": {
-            "closest_to": "fresno",
-            "longitude": "-119.1621456",
-            "locType": "river",
-            "blogLinks": [
-                "http://www.sunset.com/travel/california/best-campgrounds-california"
-            ],
-            "address": "Kaweah River, Tulare County, California, United States of America",
-            "latitude": "36.3479005"
-        },
-        "visalia": {
-            "closest_to": "fresno",
-            "longitude": "-119.2920584",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
-            ],
-            "address": "Visalia, Tulare County, California, United States of America",
-            "latitude": "36.3302284"
-        },
-        "yosemite": {
-            "closest_to": "mammoth lakes",
-            "longitude": "-119.5893389",
-            "locType": "attraction",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g60791-i711-k4239053-Sites_stops_best_route_between_Las_Vegas_and_San_Francisco-Mammoth_Lakes_California.html",
-                "http://www.sunset.com/travel/california/best-campgrounds-california",
-                "http://www.travelyosemite.com/discover/getting-here/",
-                "https://www.tripadvisor.co.uk/Travel-g28926-c182361/California:United-States:Las.Vegas.To.Yosemite.National.Park.html",
-                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
-                "http://www.yosemite.com/plan-your-trip/transportation/",
-                "https://www.nps.gov/yose/planyourvisit/publictransportation.htm",
-                "https://www.nps.gov/yose/planyourvisit/tiogaclosed.htm",
-                "https://www.tripadvisor.co.uk/ShowTopic-g28926-i29-k6896750-Mammoth_Lakes_to_Morro_Bay-California.html",
-                "https://www.expedia.com/Ahwahnee-Hotels.d182950.Travel-Guide-Hotels"
-            ],
-            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
-            "latitude": "37.7488554"
+            "address": "Fresno Yosemite International Airport, East Andersen Avenue, Fresno County, California, 93727, United States of America"
         }
     }
 }

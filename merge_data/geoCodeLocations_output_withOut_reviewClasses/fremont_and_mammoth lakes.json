@@ -1,0 +1,1123 @@
+{
+    "mammoth lakes": {
+        "place_id": "73282228",
+        "importance": 0.67062928815144,
+        "type": "administrative",
+        "osm_type": "way",
+        "class": "boundary",
+        "boundingbox": [
+            "37.580115",
+            "37.659467",
+            "-119.0613999",
+            "-118.9370119"
+        ],
+        "osm_id": "33114461",
+        "lon": "-118.9668508",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.6432525",
+        "display_name": "Mammoth Lakes, Mono County, California, United States of America"
+    },
+    "fremont": {
+        "place_id": "159050638",
+        "importance": 0.70373394703995,
+        "type": "city",
+        "osm_type": "relation",
+        "class": "place",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "osm_id": "111943",
+        "lon": "-121.9885718",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.5482697",
+        "display_name": "Fremont, Alameda County, California, United States of America"
+    },
+    "mentions": {
+        "oroville": {
+            "closest_to": "fremont",
+            "longitude": "-121.5563589",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Oroville, Butte County, California, United States of America",
+            "latitude": "39.5137752"
+        },
+        "mono lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.967033937845",
+            "locType": "water",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.yelp.com/list/must-dos-on-395---from-los-angeles-to-mammoth-and-beyond-mammoth-lakes",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "latitude": "38.0077189"
+        },
+        "death valley national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.102293507719",
+            "locType": "national_park",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "latitude": "36.4914385"
+        },
+        "us national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.5893389",
+            "locType": "attraction",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.7488554"
+        },
+        "june lake junction": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.0543116",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "June Lake Junction, Mono County, California, United States of America",
+            "latitude": "37.8124299"
+        },
+        "san francisco": {
+            "closest_to": "fremont",
+            "longitude": "-122.4192362",
+            "enrich_metadata": {
+                "mention_popularity": "601",
+                "label": "San Francisco",
+                "Confidence": "100",
+                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
+                "type": "http://dbpedia.org/resource/Consolidated_city-county",
+                "attraction_in_file": "san_francisco.json",
+                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
+                "attraction_latitude": "37.7792808",
+                "no_of_blogFiles": "361",
+                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "mention_address": "SF, California, United States of America",
+                "imageUrls": [
+                    "https://d2w04addmnh2aq.cloudfront.net/api/file/94zcYc44Q3abA6TWvh0u",
+                    "https://www.kingofmaids.com/wp-content/uploads/2015/11/houes-cleaning-san-francisco.jpg",
+                    "http://img.mota.ru/upload/wallpapers/2013/05/12/13/04/35889/RATvxR7GYk-2560x1600.jpg"
+                ],
+                "mention_name": "san francisco",
+                "attraction_longitude": "-122.4192362",
+                "attraction_in": "San Francisco",
+                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
+                "mention_longitude": "-122.4192362",
+                "mention_latitude": "37.7792808",
+                "mention_type": "city",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808"
+        },
+        "u.s. highway": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "los angeles aqueduct": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.0956309",
+            "locType": "canal",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Los Angeles Aqueduct, Inyo County, California, United States of America",
+            "latitude": "36.6516297"
+        },
+        "owens valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.109577818995",
+            "locType": "desert",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Owens Valley, Lone Pine, Inyo County, California, 93545, United States of America",
+            "latitude": "36.61562975"
+        },
+        "us": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "owens river": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.3819013",
+            "enrich_metadata": {
+                "attraction_name": "Owens River",
+                "Confidence": "100",
+                "youTubeLinkIds": "\"qB8Ysv5vUG0,5A43xH5dR7k,PLOnIT4IjxQ\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "69",
+                "mention_popularity": "6",
+                "attraction_reviewComments": [
+                    "Granted it's been a while since I looked for the river, but there hasn't been much there since the 1920s-1930s when Los Angeles decided it could use all the water in the valley... read more"
+                ],
+                "attraction_longitude": "",
+                "attraction_in": "Lone Pine",
+                "attraction_address": "\"California Highway 136 , Lone Pine , CA\"",
+                "mention_type": "river",
+                "mention_found_in_blogFiles": "\"anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,avalon_and_mammoth lakes.json,bakersfield_and_mammoth lakes.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san jose.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_san jose.json,big bear lake_and_mammoth lakes.json,carlsbad_and_fresno.json,carlsbad_and_mammoth lakes.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_santa cruz.json,fremont_and_mammoth lakes.json,fremont_and_san bernardino.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,los angeles_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san jose.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,mammoth lakes_and_sausalito.json,monterey_and_santa monica.json,oakland_and_pasadena.json,oakland_and_san diego.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_sacramento.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,san diego_and_san jose.json,san francisco_and_santa clarita.json,sacramento_and_san diego.json,san jose_and_temecula.json,santa monica_and_sausalito.json\"",
+                "mention_address": "\"Owens River, Inyo County, California, United States of America\"",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32646-d10376230-Reviews-Owens_River-Lone_Pine_California.html"
+                ],
+                "attraction_in_file": "lone_pine.json",
+                "blogLinks": [
+                    "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k195168-Driving_San_Diego_to_Lake_Tahoe_Route_planning-California.html",
+                    "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                    "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                    "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                    "http://www.travbuddy.com/travel-blogs/3049/"
+                ],
+                "imageUrls": [
+                    "http://ca.water.usgs.gov/projects/owens/images/Picture1.jpg",
+                    "https://prv3.lori-images.net/owens-river-eastern-sierra-california-0021012979-preview.jpg",
+                    "http://img1.liveinternet.ru/images/attach/c/10/109/136/109136923_Owens_River_California.jpg"
+                ],
+                "zip_code": "",
+                "attraction_ranking": "7",
+                "attraction_knownFor": "",
+                "mention_name": "owens river",
+                "attraction_no_of_reviews": "3",
+                "mention_latitude": "37.4100005",
+                "attraction_contact": "",
+                "mention_longitude": "-118.3819013"
+            },
+            "locType": "river",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Owens River, Inyo County, California, United States of America",
+            "latitude": "37.4100005"
+        },
+        "ballarat": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.2233899",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Ballarat, Inyo County, California, United States of America",
+            "latitude": "36.0477266"
+        },
+        "june lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.080801214763",
+            "locType": "town",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "June Lake, Mono County, California, United States of America",
+            "latitude": "37.7807507"
+        },
+        "crowley lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7454081",
+            "locType": "village",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Crowley Lake, Mono County, California, United States of America",
+            "latitude": "37.564155"
+        },
+        "sacramento": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.4943995",
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "latitude": "38.5815719"
+        },
+        "yosemite": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.5893389",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/DistanceHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DirectionHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DistanceHistory/15231497.aspx",
+                "https://www.yelp.com/list/must-dos-on-395---from-los-angeles-to-mammoth-and-beyond-mammoth-lakes",
+                "http://www.distancesfrom.com/us/travel-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/TravelFromHistory/29244660.aspx"
+            ],
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.7488554"
+        },
+        "panamint": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.0953326",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Panamint, Inyo County, California, United States of America",
+            "latitude": "36.1182827"
+        },
+        "long valley caldera": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.8969685",
+            "locType": "volcano",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Long Valley Caldera, Mono County, California, United States of America",
+            "latitude": "37.6947003"
+        },
+        "bridgeport reservoir": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.226550374411",
+            "locType": "water",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Bridgeport Reservoir, Lakeside Drive, Bridgeport, Mono County, California, 93517, United States of America",
+            "latitude": "38.2954848"
+        },
+        "mount whitney": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.2922848",
+            "locType": "peak",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Mount Whitney, Inyo County, California, United States of America",
+            "latitude": "36.5784428"
+        },
+        "lake tahoe": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.050511752934",
+            "locType": "water",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Lake Tahoe, Placer County, California, United States of America",
+            "latitude": "39.0888982"
+        },
+        "mammoth lakes": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.9668508",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.yellowpages.com/mammoth-lakes-ca/attractions",
+                "http://www.distancesfrom.com/us/directions-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DirectionHistory/15231497.aspx",
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.distancesfrom.com/us/distance-from-Mammoth-Lakes-to-San-Francisco-Oakland-Fremont-Tiburon-Dr/DistanceHistory/5356992.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/TravelFromHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/DistanceHistory/29244660.aspx",
+                "http://www.visitmammoth.com/",
+                "http://www.distancesfrom.com/us/how-far-is-Fremont-from-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/HowFarHistory/29244660.aspx",
+                "https://www.yelp.com/list/must-dos-on-395---from-los-angeles-to-mammoth-and-beyond-mammoth-lakes",
+                "http://www.distancesfrom.com/us/distance-from-Mammoth-Lakes-to-Fremont-via-Yosemite-National-Park-Livermore/DistanceHistory/12780260.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DistanceHistory/15231497.aspx",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6432525"
+        },
+        "ca": {
+            "closest_to": "fremont",
+            "longitude": "-122.232613735941",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DirectionHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Mammoth-Lakes-to-San-Francisco-Oakland-Fremont-Tiburon-Dr/DistanceHistory/5356992.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/TravelFromHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/DistanceHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Fremont-from-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/HowFarHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DistanceHistory/15231497.aspx"
+            ],
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "latitude": "37.8242285466918"
+        },
+        "mono county": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.9398757",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Mono County, California, United States of America",
+            "latitude": "37.9533927"
+        },
+        "panamint valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.297827185511",
+            "locType": "desert",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Panamint Valley, Trona Wildrose Road, Inyo County, California, United States of America",
+            "latitude": "36.1353115"
+        },
+        "white mountain peak": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.2557103",
+            "locType": "peak",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "White Mountain Peak, Mono County, California, United States of America",
+            "latitude": "37.6342052"
+        },
+        "hot creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.813105",
+            "locType": "stream",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.yellowpages.com/mammoth-lakes-ca/attractions"
+            ],
+            "address": "Hot Creek, Mono County, California, United States of America",
+            "latitude": "37.6732307"
+        },
+        "the june lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.080801214763",
+            "locType": "town",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "June Lake, Mono County, California, United States of America",
+            "latitude": "37.7807507"
+        },
+        "carson city": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.7658449",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "California Street, Carson City, Nevada, 89701, United States of America",
+            "latitude": "39.125696"
+        },
+        "eastern sierra": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.365786577889",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.yellowpages.com/mammoth-lakes-ca/attractions"
+            ],
+            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America",
+            "latitude": "37.37088005"
+        },
+        "montana": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.6129969",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Montana, Rovana, Inyo County, California, United States of America",
+            "latitude": "37.413991"
+        },
+        "rock creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.3845004",
+            "locType": "stream",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Rock Creek, Mono County, California, United States of America",
+            "latitude": "37.7523771"
+        },
+        "china lake boulevard": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6617299",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "China Lake, Kern County, California, United States of America",
+            "latitude": "35.6507888"
+        },
+        "sierra nevada": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.1396689",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.yelp.com/list/must-dos-on-395---from-los-angeles-to-mammoth-and-beyond-mammoth-lakes"
+            ],
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "latitude": "39.097593"
+        },
+        "donner pass": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.269194802709",
+            "locType": "water",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Donner Lake, Donner Pass Road, Truckee, Nevada County, California, 96161, United States of America",
+            "latitude": "39.32283405"
+        },
+        "yosemite national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.516587698025",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Mammoth-Lakes-to-Fremont-via-Yosemite-National-Park-Livermore/DistanceHistory/12780260.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Fremont-from-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/HowFarHistory/29244660.aspx",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "latitude": "37.84054795"
+        },
+        "usa": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/DistanceHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Fremont-from-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/HowFarHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DistanceHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DirectionHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/TravelFromHistory/29244660.aspx"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "lee vining": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.1218155",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Lee Vining, Mono County, California, United States of America",
+            "latitude": "37.9574254"
+        },
+        "bristlecone pine forest": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.0216199",
+            "locType": "residential",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Bristlecone Way, Modesto, Stanislaus County, California, 95351, United States of America",
+            "latitude": "37.616801"
+        },
+        "beckwourth pass": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.1083993",
+            "locType": "saddle",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Beckwourth Pass, CA 70, Reno Junction, Lassen County, California, United States of America",
+            "latitude": "39.7907307"
+        },
+        "cartago": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.025758368858",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Cartago, US 395, Cartago, Inyo County, California, United States of America",
+            "latitude": "36.3160425"
+        },
+        "fremont": {
+            "closest_to": "fremont",
+            "longitude": "-121.9885718",
+            "enrich_metadata": {
+                "label": "Fremont, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "tpSNk4oylXY,P0557v4M0PQ,VHSs812FCOA",
+                "type": "http://dbpedia.org/resource/California",
+                "mention_address": "Fremont, Alameda County, California, United States of America",
+                "abstract": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\" Located in the southeast section of the San Francisco Bay Area in the East Bay region primarily, Fremont has a population of around 220,000. It is the fourth most populous city in the San Francisco Bay Area, and the largest suburb in the metropolis. It is the closest East Bay city to Silicon Valley, and is thus sometimes associated with it. The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area. Fremont is home to the largest population of Afghan Americans in the United States.",
+                "attraction_latitude": "37.5482697",
+                "no_of_blogFiles": "66",
+                "subject": "http://dbpedia.org/resource/Fremont,_California",
+                "attraction_in_file": "fremont.json",
+                "imageUrls": [
+                    "https://www.wikiplanet.click/imgw/Mission-Peak-2006.jpg",
+                    "http://www.taylorbenefitsinsurance.com/wp-content/uploads/2014/04/fremont.jpg",
+                    "http://2.bp.blogspot.com/-USRfkNiRrNw/UrSNCr56wUI/AAAAAAAAGBM/yGxICeleFkI/s1600/fremont_map_san_francisco.gif"
+                ],
+                "mention_name": "fremont",
+                "mention_type": "city",
+                "attraction_longitude": "-121.9885718",
+                "attraction_in": "Fremont",
+                "comment": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\"The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area.Fremont is home to the largest population of Afghan Americans in the United States.",
+                "mention_longitude": "-121.9885718",
+                "mention_latitude": "37.5482697",
+                "mention_popularity": "144",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_santa cruz.json,avalon_and_fremont.json,berkeley_and_san jose.json,bakersfield_and_fremont.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fremont.json,berkeley_and_fresno.json,beverly hills_and_fremont.json,big bear lake_and_san jose.json,carlsbad_and_fremont.json,carlsbad_and_santa cruz.json,fremont_and_irvine.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_santa cruz.json,fresno_and_temecula.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_san jose.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,los angeles_and_santa cruz.json,newport beach_and_santa cruz.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,sacramento_and_santa cruz.json,san bernardino_and_santa cruz.json,san diego_and_santa cruz.json,san francisco_and_santa clarita.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DirectionHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/TravelFromHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/DistanceHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/how-far-is-Fremont-from-Fremont-via-Mammoth-Lakes-Joshua-Tree-Malibu/HowFarHistory/29244660.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Fremont-to-Mammoth-Lakes-via-Yosemite/DistanceHistory/15231497.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Mammoth-Lakes-to-Fremont-CA/TravelTimeHistory/1845264.aspx"
+            ],
+            "address": "Fremont, Alameda County, California, United States of America",
+            "latitude": "37.5482697"
+        },
+        "topaz lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.539277195995",
+            "locType": "water",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Topaz Lake, US 395, Mono County, California, 96133, United States of America",
+            "latitude": "38.67535995"
+        },
+        "june lake loop road": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.1224879",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "June Lake Loop Road, Mono County, California, United States of America",
+            "latitude": "37.830602"
+        },
+        "limekiln": {
+            "closest_to": "fremont",
+            "longitude": "-121.527771252348",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Limekiln State Park, Twitchell Elevator, Lucia, Monterey County, California, United States of America",
+            "latitude": "36.0227366"
+        },
+        "loon lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.306228938508",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Loon Lake, Ice House Road, El Dorado County, California, United States of America",
+            "latitude": "38.9998212"
+        },
+        "mono mills": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.9593088",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Mono Mills, Mono County, California, United States of America",
+            "latitude": "37.8874283"
+        },
+        "benton hot springs": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.5290106",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Benton Hot Springs, Mono County, California, United States of America",
+            "latitude": "37.8002103"
+        },
+        "sierra county": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.530573",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065"
+        },
+        "mammoth lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.192562160667",
+            "locType": "water",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Mammoth Lake, Canyon Loop Trail, Merced County, California, United States of America",
+            "latitude": "37.04355835"
+        },
+        "east walker river": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.159315",
+            "locType": "dam",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Walker Lake 6-035 Dam, Mono County, California, United States of America",
+            "latitude": "37.8765942"
+        },
+        "tuolumne meadows": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.3575555",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Tuolumne Meadows, Tuolumne County, California, United States of America",
+            "latitude": "37.8741952"
+        },
+        "lone pine": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.078359194897",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "latitude": "36.583176"
+        },
+        "coleville": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.5071118",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Coleville, Mono County, California, United States of America",
+            "latitude": "38.5662988"
+        },
+        "fairfield": {
+            "closest_to": "fremont",
+            "longitude": "-122.0399662",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelwyoming.com/"
+            ],
+            "address": "Fairfield, Solano County, California, United States of America",
+            "latitude": "38.2493581"
+        },
+        "grant lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.1161914",
+            "locType": "fountain",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "grant lake, June Lake Loop Road, Mono County, California, United States of America",
+            "latitude": "37.8478499"
+        },
+        "sierra": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.530573",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.yelp.com/list/must-dos-on-395---from-los-angeles-to-mammoth-and-beyond-mammoth-lakes"
+            ],
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065"
+        },
+        "california state parks": {
+            "closest_to": "fremont",
+            "longitude": "-122.5126798",
+            "locType": "theatre",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "California State Parks, Adobe Canyon Road, Kenwood, Sonoma County, California, 95452, United States of America",
+            "latitude": "38.4366423"
+        },
+        "owens lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.92691625138",
+            "locType": "mud",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Owens Lake, Inyo County, California, United States of America",
+            "latitude": "36.42402715"
+        },
+        "little lakes valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.704322972815",
+            "locType": "water",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Little Lakes, Tokopah Falls Trail, Tulare County, California, 93262, United States of America",
+            "latitude": "36.64748395"
+        },
+        "bishop creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.5317704",
+            "locType": "stream",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Bishop Creek, Inyo County, California, United States of America",
+            "latitude": "37.3017791"
+        },
+        "white mountains": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.343331059198",
+            "locType": "wood",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "White Mountains, Mono County, California, United States of America",
+            "latitude": "37.72577275"
+        },
+        "el paso mountains": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.856838021309",
+            "locType": "protected_area",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "El Paso Mountains Wilderness, Mesquite Canyon Road, Kern County, California, United States of America",
+            "latitude": "35.50768425"
+        },
+        "yosemite valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.6064673",
+            "locType": "town",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.734435"
+        },
+        "bridgeport": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.2312664",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.yellowpages.com/mammoth-lakes-ca/attractions",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Bridgeport, Mono County, California, United States of America",
+            "latitude": "38.255757"
+        },
+        "nevada highway": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.8089842",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Nevada County, California, United States of America",
+            "latitude": "39.3540335"
+        },
+        "nevada": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.8089842",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Nevada County, California, United States of America",
+            "latitude": "39.3540335"
+        },
+        "sonoma": {
+            "closest_to": "fremont",
+            "longitude": "-122.8473387",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Sonoma County, California, United States of America",
+            "latitude": "38.5110803"
+        },
+        "china lake naws": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6908749",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "China Lake Naws (Armitage Field) Airport, Water Road, China Lake, Kern County, California, United States of America",
+            "latitude": "35.686008"
+        },
+        "mammoth yosemite airport": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.8408336",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Mammoth Yosemite Airport, US 395, South Landing, Mono County, California, United States of America",
+            "latitude": "37.6248165"
+        },
+        "ridgecrest": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6699413",
+            "enrich_metadata": {
+                "attraction_in_file": "ridgecrest.json",
+                "label": "Ridgecrest, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "dSExeOf0Ajw,nf--RXS68Mg,v47m9jQ57nc",
+                "type": "http://dbpedia.org/resource/California",
+                "mention_address": "Ridgecrest, Kern County, California, United States of America",
+                "abstract": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963. Ridgecrest is surrounded by four mountain ranges; the Sierra Nevada on the west, the Cosos on the north, the Argus Range on the east, and the El Paso Mountains on the south. It is approximately 82 miles (132 km) from the Lancaster/Palmdale area and approximately 145 miles (233 km) from both Bakersfield and San Bernardino, the three nearest major urban centers. Private air travel in and out of the city is provided through the Inyokern Airport. There are currently no scheduled commercial flights in or out of Ridgecrest. Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S.",
+                "attraction_latitude": "35.6225064",
+                "no_of_blogFiles": "35",
+                "subject": "http://dbpedia.org/resource/Ridgecrest,_California",
+                "mention_popularity": "10",
+                "imageUrls": [
+                    "http://pics4.city-data.com/cpicv/vfiles2899.jpg",
+                    "http://media-cache-ak0.pinimg.com/originals/03/a7/f3/03a7f3ed89bdc94961893068cb711bda.jpg",
+                    "http://images2.mygola.com/446f19081a7723190abb8977a1b79753_1394406363_l.jpg"
+                ],
+                "mention_name": "ridgecrest",
+                "attraction_longitude": "-117.6699413",
+                "attraction_in": "Ridgecrest",
+                "comment": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963.Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S.",
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,avalon_and_bakersfield.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_san jose.json,bakersfield_and_temecula.json,beverly hills_and_mammoth lakes.json,carlsbad_and_fresno.json,carlsbad_and_mammoth lakes.json,fremont_and_mammoth lakes.json,fremont_and_pasadena.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,riverside_and_sacramento.json",
+                "mention_latitude": "35.6225064",
+                "mention_type": "city",
+                "mention_longitude": "-117.6699413"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "latitude": "35.6225064"
+        },
+        "olancha": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.999811836627",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Olancha, US 395, Grant, Inyo County, California, 93549, United States of America",
+            "latitude": "36.270251"
+        },
+        "june lake loop": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.0637386",
+            "locType": "secondary",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "June Lake Loop, Rabbit Loop, June Lake Junction, Mono County, California, 93529, United States of America",
+            "latitude": "37.7977914"
+        },
+        "kern county": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7538221",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Kern County, California, United States of America",
+            "latitude": "35.3145701"
+        },
+        "eastern california": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.365786577889",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America",
+            "latitude": "37.37088005"
+        },
+        "aurora": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.002712",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Aurora, Stanislaus County, California, United States of America",
+            "latitude": "37.65993"
+        },
+        "nevada hot springs": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-121.478983217626",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Nevada Cabin, Gilroy Hot Springs Road, Santa Clara County, California, 95020, United States of America",
+            "latitude": "37.1092831"
+        },
+        "inyokern": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.8125673",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Inyokern, Kern County, California, United States of America",
+            "latitude": "35.6468991"
+        },
+        "tiburon": {
+            "closest_to": "fremont",
+            "longitude": "-122.4566121",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/distance-from-Mammoth-Lakes-to-San-Francisco-Oakland-Fremont-Tiburon-Dr/DistanceHistory/5356992.aspx"
+            ],
+            "address": "Tiburon, Marin County, California, United States of America",
+            "latitude": "37.8734371"
+        },
+        "united states": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "hallelujah junction": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-120.0396755",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Hallelujah Junction, Lassen County, California, United States of America",
+            "latitude": "39.7753813"
+        },
+        "tioga pass": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.2578542",
+            "locType": "yes",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Tioga Pass, Tuolumne County, California, United States of America",
+            "latitude": "37.9109049"
+        },
+        "geyserville": {
+            "closest_to": "fremont",
+            "longitude": "-122.9024963",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "latitude": "38.707687"
+        },
+        "south china lake boulevard": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.7135499",
+            "locType": "trunk",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "South China Lake Boulevard, Kern County, California, 93555, United States of America",
+            "latitude": "35.551143"
+        },
+        "inyo county": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.4074711",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Inyo County, California, United States of America",
+            "latitude": "36.5595325"
+        },
+        "la": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.yellowpages.com/mammoth-lakes-ca/attractions"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "chicago": {
+            "closest_to": "fremont",
+            "longitude": "-122.2872948",
+            "locType": "residential",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Chicago, Woodstock, Alameda, Alameda County, California, 94501, United States of America",
+            "latitude": "37.7850531"
+        },
+        "provincetown": {
+            "closest_to": "fremont",
+            "longitude": "-122.0106739",
+            "locType": "residential",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Provincetown Drive, San Jos\u00e9, Santa Clara County, California, 95129, United States of America",
+            "latitude": "37.2943"
+        },
+        "tioga road": {
+            "closest_to": "fremont",
+            "longitude": "-122.0821668",
+            "locType": "residential",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g28926-i29-k7348865-What_to_see_between_Mammoth_Lakes_and_Yosemite-California.html"
+            ],
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "latitude": "37.6577485"
+        },
+        "death valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-116.914043572057",
+            "locType": "desert",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "latitude": "36.42404725"
+        },
+        "little lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.9067407",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://en.wikipedia.org/wiki/U.S._Route_395_in_California"
+            ],
+            "address": "Little Lake, Inyo County, California, United States of America",
+            "latitude": "35.9366136"
+        }
+    }
+}

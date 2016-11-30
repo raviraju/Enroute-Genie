@@ -179,10 +179,19 @@ $
     >wc -l overlap_auto_manual_attractions.txt 
     76 overlap_auto_manual_attractions.txt
     ```
+    
+19. **new_mergeAllResults.py** : integrate data for enroute-genie mashup
+    + read enriched metadata for mentions from  :  merge_data/mentionData_withBlogLinks_output/ and updates the respective mentions in merge_data/geoCodeLocations_output/
+    + read enriched metadata for city from  :  merge_data/cityData_output/ and updates the respective city mentions in merge_data/geoCodeLocations_output/
 
-21. **imageFetch.py** : an utility script to fetch images for specified query from yandex
-22. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
-23. **fetchImages_Attractions.py** : an utility script to fetch images for the attractions given in a txt file
+20. **sentimentAnalysis_ReviewComments.py** : perform sentiment analysis for review comments classifying them into positive, negative and neutral polarity classes
+    + read and update reviewComments from merge_data/geoCodeLocations_output/
+
+
+31. **imageFetch.py** : an utility script to fetch images for specified query from yandex
+32. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
+33. **fetchImages_Attractions.py** : an utility script to fetch images for the attractions given in a txt file
+34. **sentimentAnalysis.py** : an utility script to fetch sentiment polarity for a review comment
 
 
 

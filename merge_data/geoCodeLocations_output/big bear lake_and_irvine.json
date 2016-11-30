@@ -1,101 +1,401 @@
 {
-    "irvine": {
-        "place_id": "159062335",
-        "importance": 0.55,
-        "type": "city",
+    "big bear lake": {
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "osm_id": "4045674",
+        "place_id": "159717820",
+        "lat": "34.253293",
+        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
+        "class": "natural",
+        "importance": 0.80624782713774,
+        "boundingbox": [
+            "34.2375569",
+            "34.2689983",
+            "-116.9775303",
+            "-116.8663043"
+        ],
         "osm_type": "relation",
+        "lon": "-116.932209587315",
+        "type": "water"
+    },
+    "irvine": {
+        "lon": "-117.8259818",
+        "display_name": "Irvine, Orange County, California, United States of America",
+        "importance": 0.55,
+        "osm_id": "114485",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "33.6856969",
+        "place_id": "159062335",
+        "osm_type": "relation",
         "boundingbox": [
             "33.5993914",
             "33.7736521",
             "-117.8687518",
             "-117.6780258"
         ],
-        "osm_id": "114485",
-        "lon": "-117.8259818",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "33.6856969",
-        "display_name": "Irvine, Orange County, California, United States of America"
+        "type": "city"
     },
     "mentions": {
-        "orange county": {
-            "closest_to": "irvine",
-            "longitude": "-117.870493",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Orange County, California, United States of America",
-            "latitude": "33.7500378"
-        },
-        "brywood park": {
-            "closest_to": "irvine",
-            "longitude": "-117.772895455479",
+        "valley oak park": {
+            "latitude": "33.66655605",
             "locType": "park",
+            "longitude": "-117.775492771241",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "Brywood Park, Bryan Avenue, Northwood, Irvine, Orange County, California, 92780, United States of America",
-            "latitude": "33.71247895"
-        },
-        "los angeles harbor": {
             "closest_to": "irvine",
-            "longitude": "-118.2675706",
-            "locType": "bay",
+            "address": "Valley Oak Park, San Diego Creek Bike Trail, Woodbridge, Irvine, Orange County, California, 92620, United States of America"
+        },
+        "irvine": {
+            "latitude": "33.6856969",
+            "locType": "city",
+            "longitude": "-117.8259818",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Big-Bear-Lake-to-Irvine-los-angeles/TravelFromHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Big-Bear-Lake-to-Irvine/DirectionHistory/8176087.aspx",
+                "http://www.bearlake.org/",
+                "http://www.distancesfrom.com/us/flight-distance-from-Big-Bear-Lake-to-Irvine-los-angeles/FlightHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/Big-Bear-Lake-to-Irvine-los-angeles-Route/RouteplannerHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Big-Bear-Lake/DistanceHistory/22746752.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Big-Bear-Lake-to-Irvine-los-angeles/DistanceHistory/13575056.aspx",
+                "https://www.tripadvisor.com/Attractions-g32074-Activities-Big_Bear_Region_California.html",
+                "http://www.distancesfrom.com/us/directions-from-Irvine-to-Big-Bear-Lake/DirectionHistory/22746752.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Big-Bear-Lake-to-Irvine-los-angeles/TravelTimeHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Big-Bear-Lake-to-Irvine-los-angeles/TripCostHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Big-Bear-Lake-to-Irvine/DistanceHistory/25602990.aspx",
+                "http://ocmomblog.com/category/parks/irvine/",
+                "http://www.distancesfrom.com/us/how-far-is-Irvine-los-angeles-from-Big-Bear-Lake/HowFarHistory/13575056.aspx",
+                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Phoenix-AZ-via-Big-Bear-Lake/DistanceHistory/10270172.aspx",
+                "http://www.distancesfrom.com/us/map-from-Big-Bear-Lake-to-Irvine/MapHistory/8176087.aspx"
+            ],
+            "closest_to": "irvine",
+            "address": "Irvine, Orange County, California, United States of America"
+        },
+        "irvine route": {
+            "latitude": "33.6431901",
+            "locType": "university",
+            "longitude": "-117.84016483553",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/directions-from-Big-Bear-Lake-to-Irvine/DirectionHistory/8176087.aspx"
+            ],
+            "closest_to": "irvine",
+            "address": "University of California, Irvine, East Peltason Drive, Turtle Rock, Irvine, Orange County, California, 92612, United States of America"
+        },
+        "san diego creek trail": {
+            "latitude": "33.6795768",
+            "locType": "cycleway",
+            "longitude": "-117.8038448",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "San Diego Creek Trail, Woodbridge, Irvine, Orange County, California, 92614, United States of America"
+        },
+        "newport beach": {
+            "latitude": "33.6170092",
+            "locType": "city",
+            "longitude": "-117.92944",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/",
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "irvine",
+            "address": "Newport Beach, Orange County, California, United States of America"
+        },
+        "university community park": {
+            "latitude": "33.6605916",
+            "locType": "park",
+            "longitude": "-117.818749958995",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "University Community Park, Beech Tree Lane, Turtle Rock, Irvine, Orange County, California, 92612, United States of America"
+        },
+        "los angeles": {
+            "latitude": "34.0543942",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_pismo beach.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_huntington beach.json,avalon_and_irvine.json,avalon_and_long beach.json,avalon_and_los angeles.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa ana.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_los angeles.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_pismo beach.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_pismo beach.json,long beach_and_riverside.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_santa monica.json,long beach_and_sausalito.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pasadena.json,los angeles_and_pismo beach.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_santa ana.json,los angeles_and_santa barbara.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_oakland.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_riverside.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,mammoth lakes_and_pismo beach.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_sacramento.json,newport beach_and_san bernardino.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa clarita.json,newport beach_and_santa cruz.json,newport beach_and_santa monica.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa ana.json,pasadena_and_santa barbara.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_sacramento.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa ana.json,pismo beach_and_santa clarita.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_santa monica.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa cruz.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,riverside_and_santa ana.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,big bear lake_and_huntington beach.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_santa cruz.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa ana_and_temecula.json,santa barbara_and_santa clarita.json,santa barbara_and_santa cruz.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_santa monica.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_popularity": "756",
+                "no_of_blogFiles": "491",
+                "attraction_longitude": "-118.2439408",
+                "mention_address": "LA, Los Angeles County, California, United States of America",
+                "imageUrls": [
+                    "http://images.cityhdwallpapers.com/images/1920x1200/Commercial%20district%20Los%20Angeles%20city%20wallpaper.jpg",
+                    "http://psudoterad.ru/img/picture/Jun/04/e4a19f33e17a91d93d35631fff7dd959/4.jpg",
+                    "http://www.wallpaper4k.com/wp_highres/city/WPDSKX3F.jpg"
+                ],
+                "label": "Civic Center, Los Angeles",
+                "mention_latitude": "34.0543942",
+                "mention_type": "city",
+                "comment": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "Confidence": "100",
+                "attraction_in": "Los Angeles",
+                "attraction_in_file": "los_angeles.json",
+                "abstract": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "mention_name": "los angeles",
+                "youTubeLinkIds": "jtrF479Dzj4,Vc5jSKOsgCA,bTvr_2v-0HI",
+                "attraction_latitude": "34.0543942",
+                "mention_longitude": "-118.2439408",
+                "subject": "http://dbpedia.org/resource/Civic_Center,_Los_Angeles",
+                "type": "http://dbpedia.org/resource/List_of_districts_and_neighborhoods_of_Los_Angeles"
+            },
+            "longitude": "-118.2439408",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
+            ],
+            "closest_to": "irvine",
+            "address": "LA, Los Angeles County, California, United States of America"
+        },
+        "quail hill irvine": {
+            "latitude": "33.65475605",
+            "locType": "retail",
+            "longitude": "-117.779042025334",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Quail Hill Shopping Center, Woodbridge, Irvine, Orange County, California, 92603, United States of America"
+        },
+        "hotel irvine": {
+            "latitude": "33.6778967",
+            "locType": "hotel",
+            "longitude": "-117.840246764526",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Hotel Irvine, Park Plaza, Westpark, Irvine, Orange County, California, 92614, United States of America"
+        },
+        "stanfield cutoff": {
+            "latitude": "34.2601412",
+            "locType": "tertiary",
+            "longitude": "-116.8845335",
             "blogLinks": [
                 "http://www.bigbearvacations.com/experience/things-to-do"
             ],
-            "address": "Los Angeles Harbor, Miner Street, San Pedro, LA, Los Angeles County, California, 90731, United States of America",
-            "latitude": "33.7097418"
+            "closest_to": "big bear lake",
+            "address": "Stanfield Cutoff, Minnelusa, San Bernardino County, California, 92314, United States of America"
+        },
+        "brywood park": {
+            "latitude": "33.71247895",
+            "locType": "park",
+            "longitude": "-117.772895455479",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Brywood Park, Bryan Avenue, Northwood, Irvine, Orange County, California, 92780, United States of America"
+        },
+        "beacon park": {
+            "latitude": "33.6886299",
+            "locType": "park",
+            "longitude": "-117.733413996379",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Beacon Park, 501, Benchmark, El Camino Real, Irvine, Orange County, California, 92618, United States of America"
         },
         "southern california": {
-            "closest_to": "irvine",
-            "longitude": "-118.286343973446",
+            "latitude": "34.0224149",
             "locType": "university",
+            "longitude": "-118.286343973446",
             "blogLinks": [
                 "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html",
                 "http://www.bigbearvacations.com/experience/things-to-do"
             ],
-            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
-            "latitude": "34.0224149"
-        },
-        "knollcrest park": {
             "closest_to": "irvine",
-            "longitude": "-117.773902417266",
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America"
+        },
+        "boulder bay park": {
+            "latitude": "34.23859285",
             "locType": "park",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"anaheim_and_big bear lake.json,avalon_and_big bear lake.json,bakersfield_and_big bear lake.json,berkeley_and_big bear lake.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,big bear lake_and_temecula.json,san bernardino_and_santa monica.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "26",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or110-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or50-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or40-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or30-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or90-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or60-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or80-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or100-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or70-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or20-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or10-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "Park is always clean and well kept city does a great job All we need now is water in the lake It's sad water is so low that people can't enjoy it",
+                            0.21333333333333337,
+                            0.65,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "It's just a real pretty place to walk and get a great view of the lake. It's nice to take the kids and the pets to stroll and walk down the dock over the water.",
+                            0.40486111111111106,
+                            0.7597222222222222,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or110-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "The weather was perfect. A little windy but you can't get any better than this when it comes to nature. The drought has affected other small beaches but not here. Check it out and... read more",
+                            0.23958333333333334,
+                            0.5458333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or50-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "This little park was not far from the cabin we rented. There were lot of ducks and swans to keep us entertained. Also, a really nice place to just sit and relax.",
+                            0.12083333333333333,
+                            0.8333333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or40-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "This is a pretty lake front park. This last trip the water level was really low so it wasn't quite as nice, but clean and nice place for the kids to run around",
+                            0.3027777777777778,
+                            0.6777777777777777,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or30-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "This park is LAKEFRONT in the ROCKY area of BIG BEAR LAKE & is MOST SCENIC & RELAXING especially in the evenings ! GREAT walking area ! A MUST see !",
+                            0.375,
+                            0.5875,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or90-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Nice little park with a panoramic view of the lake. Great place for a picnic or a little stroll along the lake. The park was somewhat overrated in my opinion. We had a feeling... read more",
+                            0.305,
+                            0.65,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or60-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "park right on the lake. I love the big boulders and the trees surrounding it. We had a picnic there and the kids played football. It was great!!",
+                            0.4464285714285714,
+                            0.49642857142857144,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or80-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We stopped here on the way out of Big Bear. The park is very clean, has plenty of seats to admire the spectacular views. Many people we're fishing for bass I believe. It was very... read more",
+                            0.30380952380952386,
+                            0.53,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or100-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Nice little park with a beautiful view of the lake. Great place for a picnic or a little stroll along the lake.",
+                            0.375,
+                            0.75,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or70-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "well kept little park with a ramp down to the water (which is VERY low right now). Dog friendly, has some nice big rocks to play on.",
+                            0.13109410430839002,
+                            0.47351473922902493,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or20-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Great Park for all--humans and dogs alike. The park provided good views of the Lake and had plenty of parking spaces.",
+                            0.75,
+                            0.675,
+                            "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or10-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"39148 California 18 , Big Bear Lake , CA 92315\"",
+                "attraction_longitude": "",
+                "mention_type": "park",
+                "attraction_in_file": "big_bear_lake.json",
+                "mention_name": "boulder bay park",
+                "youTubeLinkIds": "\"Pp-96vCnMZg,Fk8nIc46xZ8,HVRFB9awDWw\"",
+                "attraction_name": "Boulder Bay Park",
+                "mention_longitude": "-116.949195007263",
+                "attraction_no_of_reviews": "124",
+                "mention_address": "\"Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America\"",
+                "blogLinks": [
+                    "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
+                    "http://www.bigbearvacations.com/experience/things-to-do"
+                ],
+                "mention_latitude": "34.23859285",
+                "attraction_ranking": "3",
+                "attraction_knownFor": "Nature & Parks",
+                "zip_code": "39148",
+                "Confidence": "100",
+                "attraction_in": "Big Bear Lake",
+                "mention_popularity": "3",
+                "imageUrls": [
+                    "http://www.crystalrockstar.com/wp-content/uploads/2014/08/boulder-bay-big-bear-crystalrockstar.jpg",
+                    "http://s3-media3.fl.yelpcdn.com/bphoto/4PktNSPCWhF-1Dj_sgV-JA/o.jpg",
+                    "https://media-cdn.tripadvisor.com/media/photo-s/04/8d/59/0f/boulder-bay-park.jpg"
+                ],
+                "attraction_contact": "+1 909-866-7521",
+                "attraction_reviewComments": [
+                    "Park is always clean and well kept city does a great job All we need now is water in the lake It's sad water is so low that people can't enjoy it",
+                    "It's just a real pretty place to walk and get a great view of the lake. It's nice to take the kids and the pets to stroll and walk down the dock over the water.",
+                    "The weather was perfect. A little windy but you can't get any better than this when it comes to nature. The drought has affected other small beaches but not here. Check it out and... read more",
+                    "This little park was not far from the cabin we rented. There were lot of ducks and swans to keep us entertained. Also, a really nice place to just sit and relax.",
+                    "This is a pretty lake front park. This last trip the water level was really low so it wasn't quite as nice, but clean and nice place for the kids to run around",
+                    "This park is LAKEFRONT in the ROCKY area of BIG BEAR LAKE & is MOST SCENIC & RELAXING especially in the evenings ! GREAT walking area ! A MUST see !",
+                    "Nice little park with a panoramic view of the lake. Great place for a picnic or a little stroll along the lake. The park was somewhat overrated in my opinion. We had a feeling... read more",
+                    "park right on the lake. I love the big boulders and the trees surrounding it. We had a picnic there and the kids played football. It was great!!",
+                    "We stopped here on the way out of Big Bear. The park is very clean, has plenty of seats to admire the spectacular views. Many people we're fishing for bass I believe. It was very... read more",
+                    "Nice little park with a beautiful view of the lake. Great place for a picnic or a little stroll along the lake.",
+                    "well kept little park with a ramp down to the water (which is VERY low right now). Dog friendly, has some nice big rocks to play on.",
+                    "Great Park for all--humans and dogs alike. The park provided good views of the Lake and had plenty of parking spaces."
+                ]
+            },
+            "longitude": "-116.949195007263",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "irvine",
+            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
+        },
+        "valley view park": {
+            "latitude": "34.2350067",
+            "locType": "hamlet",
+            "longitude": "-117.3080999",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "Knollcrest Park, Quail Hill Parkway, Woodbridge, Irvine, Orange County, California, 92603, United States of America",
-            "latitude": "33.6487968"
+            "closest_to": "irvine",
+            "address": "Valley View Park, San Bernardino County, California, United States of America"
+        },
+        "orange county": {
+            "latitude": "33.7500378",
+            "locType": "administrative",
+            "longitude": "-117.870493",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Orange County, California, United States of America"
+        },
+        "los angeles harbor": {
+            "latitude": "33.7097418",
+            "locType": "bay",
+            "longitude": "-118.2675706",
+            "blogLinks": [
+                "http://www.bigbearvacations.com/experience/things-to-do"
+            ],
+            "closest_to": "irvine",
+            "address": "Los Angeles Harbor, Miner Street, San Pedro, LA, Los Angeles County, California, 90731, United States of America"
         },
         "san bernardino national forest": {
-            "closest_to": "irvine",
-            "longitude": "-116.968502795539",
+            "latitude": "34.18055525",
+            "locType": "national_park",
             "enrich_metadata": {
-                "attraction_name": "San Bernardino National Forest",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"ul7Ngn6l1iA,soBPFMrC-Dg,t234jBMK-Io\"",
+                "mention_found_in_blogFiles": "\"avalon_and_big bear lake.json,avalon_and_san bernardino.json,beverly hills_and_big bear lake.json,berkeley_and_big bear lake.json,big bear lake_and_fremont.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_mammoth lakes.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_stockton.json,big bear lake_and_san bernardino.json,napa_and_san bernardino.json,pasadena_and_sacramento.json,san bernardino_and_temecula.json,big bear lake_and_huntington beach.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "25",
-                "mention_popularity": "14",
-                "attraction_reviewComments": [
-                    "We love just driving around in the mountains. The air is clean and there are things to do. They sell jerky and have nice restraunts. It does get very busy during the winter when... read more",
-                    "We went to California to visit family who live in San Bernardino at the foot of the mountains. We took a full day and drove up the mountain stopping at many of the turn outs to... read more",
-                    "This was my first California National Forest and just wanted to check out how it looks. Trust me the drive up the hill is bit scary with all the turns but it is surely an... read more",
-                    "This forest offers hikes for persons at all athletic levels. There are lots of beautiful trees and rocks to see. I highly recommend bringing a picnic lunch, finding a nice quiet... read more",
-                    "Beautiful! Loved Big Bear Lake area! The Big Bear Lake Brewing was so good and the beers were great. The overall scenery was lovely!",
-                    "Drove the Rim of the World Scenic Highway. Lots of curves and switchbacks. The panoramic views were quite impressive. By the time I arrived at Big Bear Lake, the temperature had... read more",
-                    "I was in the area to attend a camp. Each morning I got up earlier so that I could go hiking before the day started. Beautiful place to hike!",
-                    "San Bernaridno National Forest, Lake Arrowhead in particular, was amazing over the Labor Day week end. The lake is high, the sky is blue and we hade a leisurely stroll in... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "San Bernardino",
-                "attraction_address": "\"San Bernardino , CA 92408-2607\"",
-                "mention_type": "national_park",
-                "mention_found_in_blogFiles": "\"avalon_and_big bear lake.json,avalon_and_san bernardino.json,beverly hills_and_big bear lake.json,berkeley_and_big bear lake.json,big bear lake_and_fremont.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_mammoth lakes.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_stockton.json,big bear lake_and_san bernardino.json,napa_and_san bernardino.json,pasadena_and_sacramento.json,san bernardino_and_temecula.json,big bear lake_and_huntington beach.json\"",
-                "mention_address": "\"San Bernardino National Forest, Clark's Grade, Pinezanita, San Bernardino County, California, 92305, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-San_Bernardino_National_Forest-San_Bernardino_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or70-San_Bernardino_National_Forest-San_Bernardino_California.html",
@@ -106,7 +406,70 @@
                     "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or10-San_Bernardino_National_Forest-San_Bernardino_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or60-San_Bernardino_National_Forest-San_Bernardino_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "We love just driving around in the mountains. The air is clean and there are things to do. They sell jerky and have nice restraunts. It does get very busy during the winter when... read more",
+                            0.41933333333333334,
+                            0.638,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "We went to California to visit family who live in San Bernardino at the foot of the mountains. We took a full day and drove up the mountain stopping at many of the turn outs to... read more",
+                            0.3715909090909091,
+                            0.5125,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or70-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "This was my first California National Forest and just wanted to check out how it looks. Trust me the drive up the hill is bit scary with all the turns but it is surely an... read more",
+                            0.1875,
+                            0.6805555555555556,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or50-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "This forest offers hikes for persons at all athletic levels. There are lots of beautiful trees and rocks to see. I highly recommend bringing a picnic lunch, finding a nice quiet... read more",
+                            0.36833333333333335,
+                            0.5622222222222223,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or40-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "Beautiful! Loved Big Bear Lake area! The Big Bear Lake Brewing was so good and the beers were great. The overall scenery was lovely!",
+                            0.478125,
+                            0.5125,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or30-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "Drove the Rim of the World Scenic Highway. Lots of curves and switchbacks. The panoramic views were quite impressive. By the time I arrived at Big Bear Lake, the temperature had... read more",
+                            0.5,
+                            0.5333333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or20-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "I was in the area to attend a camp. Each morning I got up earlier so that I could go hiking before the day started. Beautiful place to hike!",
+                            0.5,
+                            0.75,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or10-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ],
+                        [
+                            "San Bernaridno National Forest, Lake Arrowhead in particular, was amazing over the Labor Day week end. The lake is high, the sky is blue and we hade a leisurely stroll in... read more",
+                            0.2853333333333333,
+                            0.4746666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g33009-d207973-Reviews-or60-San_Bernardino_National_Forest-San_Bernardino_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"San Bernardino , CA 92408-2607\"",
+                "attraction_longitude": "",
+                "mention_type": "national_park",
                 "attraction_in_file": "san_bernardino.json",
+                "mention_name": "san bernardino national forest",
+                "youTubeLinkIds": "\"ul7Ngn6l1iA,soBPFMrC-Dg,t234jBMK-Io\"",
+                "attraction_name": "San Bernardino National Forest",
+                "mention_longitude": "-116.968502795539",
+                "attraction_no_of_reviews": "85",
+                "mention_address": "\"San Bernardino National Forest, Clark's Grade, Pinezanita, San Bernardino County, California, 92305, United States of America\"",
                 "blogLinks": [
                     "http://losangeles.cbslocal.com/top-lists/best-photo-opportunity-spots-in-los-angeles/",
                     "http://www.sheknows.com/living/articles/830469/best-family-camping-spots-in-california",
@@ -123,101 +486,86 @@
                     "https://misstourist.com/hipmunk-hotels-best-cheap-hotels-in-napa-valley-santa-fe-and-more/",
                     "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
                 ],
+                "mention_latitude": "34.18055525",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "\"Forests , Nature & Parks\"",
+                "zip_code": "92408",
+                "Confidence": "100",
+                "attraction_in": "San Bernardino",
+                "mention_popularity": "14",
                 "imageUrls": [
                     "http://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5261572.gif",
                     "http://wiki.radioreference.com/images/f/f0/R5_2012_San_Bermardino_NF_RD_Map.JPG",
                     "http://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5261569.gif"
                 ],
-                "zip_code": "92408",
-                "attraction_ranking": "1",
-                "attraction_knownFor": "\"Forests , Nature & Parks\"",
-                "mention_name": "san bernardino national forest",
-                "attraction_no_of_reviews": "85",
-                "mention_latitude": "34.18055525",
                 "attraction_contact": "19093822600",
-                "mention_longitude": "-116.968502795539"
+                "attraction_reviewComments": [
+                    "We love just driving around in the mountains. The air is clean and there are things to do. They sell jerky and have nice restraunts. It does get very busy during the winter when... read more",
+                    "We went to California to visit family who live in San Bernardino at the foot of the mountains. We took a full day and drove up the mountain stopping at many of the turn outs to... read more",
+                    "This was my first California National Forest and just wanted to check out how it looks. Trust me the drive up the hill is bit scary with all the turns but it is surely an... read more",
+                    "This forest offers hikes for persons at all athletic levels. There are lots of beautiful trees and rocks to see. I highly recommend bringing a picnic lunch, finding a nice quiet... read more",
+                    "Beautiful! Loved Big Bear Lake area! The Big Bear Lake Brewing was so good and the beers were great. The overall scenery was lovely!",
+                    "Drove the Rim of the World Scenic Highway. Lots of curves and switchbacks. The panoramic views were quite impressive. By the time I arrived at Big Bear Lake, the temperature had... read more",
+                    "I was in the area to attend a camp. Each morning I got up earlier so that I could go hiking before the day started. Beautiful place to hike!",
+                    "San Bernaridno National Forest, Lake Arrowhead in particular, was amazing over the Labor Day week end. The lake is high, the sky is blue and we hade a leisurely stroll in... read more"
+                ]
             },
-            "locType": "national_park",
+            "longitude": "-116.968502795539",
             "blogLinks": [
                 "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
             ],
-            "address": "San Bernardino National Forest, Clark's Grade, Pinezanita, San Bernardino County, California, 92305, United States of America",
-            "latitude": "34.18055525"
-        },
-        "irvine route": {
             "closest_to": "irvine",
-            "longitude": "-117.84016483553",
-            "locType": "university",
+            "address": "San Bernardino National Forest, Clark's Grade, Pinezanita, San Bernardino County, California, 92305, United States of America"
+        },
+        "big bear": {
+            "latitude": "34.253293",
+            "locType": "water",
+            "longitude": "-116.932209587315",
             "blogLinks": [
-                "http://www.distancesfrom.com/us/directions-from-Big-Bear-Lake-to-Irvine/DirectionHistory/8176087.aspx"
+                "http://www.bigbear.com/things-to-do/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html",
+                "http://www.bigbearvacations.com/experience/things-to-do"
             ],
-            "address": "University of California, Irvine, East Peltason Drive, Turtle Rock, Irvine, Orange County, California, 92612, United States of America",
-            "latitude": "33.6431901"
-        },
-        "beacon park": {
             "closest_to": "irvine",
-            "longitude": "-117.733413996379",
-            "locType": "park",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Beacon Park, 501, Benchmark, El Camino Real, Irvine, Orange County, California, 92618, United States of America",
-            "latitude": "33.6886299"
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
         },
-        "north shore": {
-            "closest_to": "irvine",
-            "longitude": "-117.1842077",
-            "locType": "hamlet",
+        "north shore drive": {
+            "latitude": "34.0146349",
+            "locType": "residential",
+            "longitude": "-117.5868906",
             "blogLinks": [
                 "http://www.bigbearvacations.com/experience/things-to-do"
             ],
-            "address": "North Shore, San Bernardino County, California, United States of America",
-            "latitude": "34.2680613"
-        },
-        "irvine park": {
             "closest_to": "irvine",
-            "longitude": "-116.9604311",
+            "address": "North Shore Drive, Ontario, San Bernardino County, California, 91761, United States of America"
+        },
+        "phoenix": {
+            "latitude": "33.6988015",
             "locType": "residential",
+            "longitude": "-117.7764481",
             "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
+                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Phoenix-AZ-via-Big-Bear-Lake/DistanceHistory/10270172.aspx"
             ],
-            "address": "Irvine Park, Beaumont, Riverside County, California, 92223, United States of America",
-            "latitude": "33.9082151"
+            "closest_to": "irvine",
+            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America"
         },
         "big bear lake route": {
-            "closest_to": "irvine",
-            "longitude": "-116.932209587315",
+            "latitude": "34.253293",
             "locType": "water",
+            "longitude": "-116.932209587315",
             "blogLinks": [
                 "http://www.distancesfrom.com/us/directions-from-Irvine-to-Big-Bear-Lake/DirectionHistory/22746752.aspx"
             ],
-            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
-            "latitude": "34.253293"
+            "closest_to": "irvine",
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
         },
         "irvine park railroad": {
-            "closest_to": "irvine",
-            "longitude": "-117.754123588843",
+            "latitude": "33.7962496",
+            "locType": "yes",
             "enrich_metadata": {
-                "attraction_name": "Irvine Park Railroad",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"gu7xAuSd030,N66i6AJVXMU,y1lBO6surTE\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_irvine.json,anaheim_and_long beach.json,anaheim_and_riverside.json,big bear lake_and_irvine.json,fresno_and_irvine.json,huntington beach_and_irvine.json,huntington beach_and_los angeles.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_riverside.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_pasadena.json,long beach_and_riverside.json,long beach_and_san bernardino.json,long beach_and_temecula.json,los angeles_and_riverside.json,los angeles_and_temecula.json,long beach_and_santa barbara.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_san bernardino.json,newport beach_and_temecula.json,pasadena_and_riverside.json,pasadena_and_san diego.json,pasadena_and_santa barbara.json,pasadena_and_temecula.json,riverside_and_san diego.json,riverside_and_santa clarita.json,san bernardino_and_santa barbara.json,santa barbara_and_temecula.json,santa monica_and_temecula.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "37",
-                "mention_popularity": "5",
-                "attraction_reviewComments": [
-                    "I've been there several times with my kids. They really enjoyed everything there, the train ride, the horse rides, walking around the park. Always excellent service. Fun for... read more",
-                    "The Irvine park Railroad is a quick way to get an overview of the attractions at Irvine Park. My granddaughter loves to ride the train whenever we go. Christmas, Halloween and... read more",
-                    "We love it. We go in October and December ... they decorate accordingly and have extra activities for the kids. We always have a blast and we usually walk or drive over to the... read more",
-                    "This train ride was fun, but a little slow. Great scenery is the highlight of this attraction. I highly recommend the Los Angeles Live Steamers Railroad museum also, as they go... read more",
-                    "A Choo-Choo-Train, for everyone. And a great way to see The Lakes & Park area @Orange County Regional Park.",
-                    "Fun way to see the park. Kids and adults will love it. Even though it's dry the park is green, with horses for tots to adults."
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Orange",
-                "attraction_address": "\"1 Irvine Park Rd , Orange , CA 92869-1000\"",
-                "mention_type": "yes",
-                "mention_found_in_blogFiles": "\"anaheim_and_irvine.json,anaheim_and_long beach.json,anaheim_and_riverside.json,big bear lake_and_irvine.json,fresno_and_irvine.json,huntington beach_and_irvine.json,huntington beach_and_los angeles.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_riverside.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_pasadena.json,long beach_and_riverside.json,long beach_and_san bernardino.json,long beach_and_temecula.json,los angeles_and_riverside.json,los angeles_and_temecula.json,long beach_and_santa barbara.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_san bernardino.json,newport beach_and_temecula.json,pasadena_and_riverside.json,pasadena_and_san diego.json,pasadena_and_santa barbara.json,pasadena_and_temecula.json,riverside_and_san diego.json,riverside_and_santa clarita.json,san bernardino_and_santa barbara.json,santa barbara_and_temecula.json,santa monica_and_temecula.json\"",
-                "mention_address": "\"Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-Irvine_Park_Railroad-Orange_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or10-Irvine_Park_Railroad-Orange_California.html",
@@ -226,7 +574,58 @@
                     "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or20-Irvine_Park_Railroad-Orange_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or30-Irvine_Park_Railroad-Orange_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "I've been there several times with my kids. They really enjoyed everything there, the train ride, the horse rides, walking around the park. Always excellent service. Fun for... read more",
+                            0.45999999999999996,
+                            0.48,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-Irvine_Park_Railroad-Orange_California.html"
+                        ],
+                        [
+                            "The Irvine park Railroad is a quick way to get an overview of the attractions at Irvine Park. My granddaughter loves to ride the train whenever we go. Christmas, Halloween and... read more",
+                            0.41666666666666663,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or10-Irvine_Park_Railroad-Orange_California.html"
+                        ],
+                        [
+                            "We love it. We go in October and December ... they decorate accordingly and have extra activities for the kids. We always have a blast and we usually walk or drive over to the... read more",
+                            0.1875,
+                            0.3625,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or50-Irvine_Park_Railroad-Orange_California.html"
+                        ],
+                        [
+                            "This train ride was fun, but a little slow. Great scenery is the highlight of this attraction. I highly recommend the Los Angeles Live Steamers Railroad museum also, as they go... read more",
+                            0.2012662337662338,
+                            0.48428571428571426,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or40-Irvine_Park_Railroad-Orange_California.html"
+                        ],
+                        [
+                            "A Choo-Choo-Train, for everyone. And a great way to see The Lakes & Park area @Orange County Regional Park.",
+                            0.8,
+                            0.75,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or20-Irvine_Park_Railroad-Orange_California.html"
+                        ],
+                        [
+                            "Fun way to see the park. Kids and adults will love it. Even though it's dry the park is green, with horses for tots to adults.",
+                            0.13333333333333336,
+                            0.425,
+                            "https://www.tripadvisor.com/Attraction_Review-g32825-d1588407-Reviews-or30-Irvine_Park_Railroad-Orange_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"1 Irvine Park Rd , Orange , CA 92869-1000\"",
+                "attraction_longitude": "",
+                "mention_type": "yes",
                 "attraction_in_file": "orange.json",
+                "mention_name": "irvine park railroad",
+                "youTubeLinkIds": "\"gu7xAuSd030,N66i6AJVXMU,y1lBO6surTE\"",
+                "attraction_name": "Irvine Park Railroad",
+                "mention_longitude": "-117.754123588843",
+                "attraction_no_of_reviews": "62",
+                "mention_address": "\"Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America\"",
                 "blogLinks": [
                     "http://www.coastalgroupoc.com/blog/2015-awards-the-99-best-places-to-take-your-kids-in-orange-county.html",
                     "http://losangeles.cbslocal.com/top-lists/seeing-santa-in-less-than-ordinary-ways/",
@@ -234,104 +633,156 @@
                     "http://www.travelmath.com/drive-distance/from/Irvine,+CA/to/Los+Angeles,+CA",
                     "https://blog.trekaroo.com/top-ten-holiday-events-to-enjoy-with-kids-in-southern-california/"
                 ],
+                "mention_latitude": "33.7962496",
+                "attraction_ranking": "5",
+                "attraction_knownFor": "Nature & Parks",
+                "zip_code": "92869",
+                "Confidence": "100",
+                "attraction_in": "Orange",
+                "mention_popularity": "5",
                 "imageUrls": [
                     "https://media-cdn.tripadvisor.com/media/photo-s/02/d7/4d/24/irvine-park-railroad.jpg",
                     "http://imgcdn.americantowns.com/img/uploads/groups/2015/03/14/group5504a4b3b4529.jpg",
                     "http://socallocale.com/wp-content/uploads/2015/09/Irvine-Park-Railroad-Pumpkin-Patch_2.jpg"
                 ],
-                "zip_code": "92869",
-                "attraction_ranking": "5",
-                "attraction_knownFor": "Nature & Parks",
-                "mention_name": "irvine park railroad",
-                "attraction_no_of_reviews": "62",
-                "mention_latitude": "33.7962496",
                 "attraction_contact": "+1 714-997-3968",
-                "mention_longitude": "-117.754123588843"
+                "attraction_reviewComments": [
+                    "I've been there several times with my kids. They really enjoyed everything there, the train ride, the horse rides, walking around the park. Always excellent service. Fun for... read more",
+                    "The Irvine park Railroad is a quick way to get an overview of the attractions at Irvine Park. My granddaughter loves to ride the train whenever we go. Christmas, Halloween and... read more",
+                    "We love it. We go in October and December ... they decorate accordingly and have extra activities for the kids. We always have a blast and we usually walk or drive over to the... read more",
+                    "This train ride was fun, but a little slow. Great scenery is the highlight of this attraction. I highly recommend the Los Angeles Live Steamers Railroad museum also, as they go... read more",
+                    "A Choo-Choo-Train, for everyone. And a great way to see The Lakes & Park area @Orange County Regional Park.",
+                    "Fun way to see the park. Kids and adults will love it. Even though it's dry the park is green, with horses for tots to adults."
+                ]
             },
-            "locType": "yes",
+            "longitude": "-117.754123588843",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America",
-            "latitude": "33.7962496"
-        },
-        "quail hill irvine": {
             "closest_to": "irvine",
-            "longitude": "-117.779042025334",
-            "locType": "retail",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Quail Hill Shopping Center, Woodbridge, Irvine, Orange County, California, 92603, United States of America",
-            "latitude": "33.65475605"
+            "address": "Irvine Park Railroad, 1, Irvine Regional Park, Cowan Heights, Orange Park Acres, Orange County, California, 92869, United States of America"
         },
-        "university community park": {
-            "closest_to": "irvine",
-            "longitude": "-117.818749958995",
-            "locType": "park",
+        "irvine park": {
+            "latitude": "33.9082151",
+            "locType": "residential",
+            "longitude": "-116.9604311",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "University Community Park, Beech Tree Lane, Turtle Rock, Irvine, Orange County, California, 92612, United States of America",
-            "latitude": "33.6605916"
+            "closest_to": "irvine",
+            "address": "Irvine Park, Beaumont, Riverside County, California, 92223, United States of America"
+        },
+        "arrowhead": {
+            "latitude": "34.1477879",
+            "locType": "hamlet",
+            "longitude": "-117.2872653",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
+            ],
+            "closest_to": "irvine",
+            "address": "Arrowhead, San Bernardino County, California, United States of America"
+        },
+        "heritage park": {
+            "latitude": "34.123511",
+            "locType": "residential",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"bakersfield_and_long beach.json,big bear lake_and_irvine.json,big bear lake_and_malibu.json,big bear lake_and_pismo beach.json,big bear lake_and_santa monica.json,carlsbad_and_pismo beach.json,fremont_and_long beach.json,fresno_and_long beach.json,irvine_and_santa cruz.json,long beach_and_stockton.json,los angeles_and_pismo beach.json,malibu_and_pismo beach.json,pismo beach_and_stockton.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "13",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-Heritage_Park-Cerritos_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or40-Heritage_Park-Cerritos_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or30-Heritage_Park-Cerritos_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or20-Heritage_Park-Cerritos_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or10-Heritage_Park-Cerritos_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "This park is often used to take pictures. You see most kids going to homecoming, proms and special occasions taking pictures here. Nice duck area and also good place to have a... read more",
+                            0.5314285714285715,
+                            0.6342857142857142,
+                            "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-Heritage_Park-Cerritos_California.html"
+                        ],
+                        [
+                            "In the middle of the park is an island, a recreation of Boston and Paul Revere, slides, climbers, tunnels you name it. Every Thursday night during the summer there are free... read more",
+                            0.3,
+                            0.43333333333333335,
+                            "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or40-Heritage_Park-Cerritos_California.html"
+                        ],
+                        [
+                            "A wonderful place for a family picnic. This park has a little colonial village and bridges for children to explore. There are ducks and turtles and a pond. There are several... read more",
+                            0.328125,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or30-Heritage_Park-Cerritos_California.html"
+                        ],
+                        [
+                            "Lovely park experience. Great picnic areas. During the summer there are weekly free evening concerts in the park. The children's area is both fun and historical...an island to... read more",
+                            0.5,
+                            0.6,
+                            "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or20-Heritage_Park-Cerritos_California.html"
+                        ],
+                        [
+                            "This is a beautiful park with a lovely pond. This has a wonderful sculpture of Paul Revere, miniature village surrounding the Old North Church, were Paul Revere hung the famous... read more",
+                            0.5750000000000001,
+                            0.7416666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or10-Heritage_Park-Cerritos_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"18600 Bloomfield Ave , Cerritos , CA 90703-6089\"",
+                "attraction_longitude": "",
+                "mention_type": "residential",
+                "attraction_in_file": "cerritos.json",
+                "mention_name": "heritage park",
+                "youTubeLinkIds": "\"wVH30kqCFNQ,Cm0dPZux2d0,dXbRmyBLJb8\"",
+                "attraction_name": "Heritage Park",
+                "mention_longitude": "-117.595707621245",
+                "attraction_no_of_reviews": "50",
+                "mention_address": "\"Heritage Park, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91701, United States of America\"",
+                "blogLinks": [
+                    "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
+                    "http://www.hauntedplaces.org/state/California",
+                    "http://www.bestplaces.net/comments/city/california/oceanside",
+                    "http://ocmomblog.com/category/parks/irvine/"
+                ],
+                "mention_latitude": "34.123511",
+                "attraction_ranking": "2",
+                "attraction_knownFor": "Nature & Parks",
+                "zip_code": "18600",
+                "Confidence": "100",
+                "attraction_in": "Cerritos",
+                "mention_popularity": "4",
+                "imageUrls": [
+                    "https://c1.staticflickr.com/5/4049/4265099642_4071645bd8_b.jpg",
+                    "https://irs1.4sqi.net/img/general/600x600/21972221_o-SOai7bTqXHVtXJ1a_t0oaxfG_mYLX1Gh5QBa0CitM.jpg",
+                    "http://visitoceanside.org/wp-content/uploads/2013/10/Screen-Shot-2013-10-24-at-3.14.40-PM.png"
+                ],
+                "attraction_contact": "+1 562-916-8570",
+                "attraction_reviewComments": [
+                    "This park is often used to take pictures. You see most kids going to homecoming, proms and special occasions taking pictures here. Nice duck area and also good place to have a... read more",
+                    "In the middle of the park is an island, a recreation of Boston and Paul Revere, slides, climbers, tunnels you name it. Every Thursday night during the summer there are free... read more",
+                    "A wonderful place for a family picnic. This park has a little colonial village and bridges for children to explore. There are ducks and turtles and a pond. There are several... read more",
+                    "Lovely park experience. Great picnic areas. During the summer there are weekly free evening concerts in the park. The children's area is both fun and historical...an island to... read more",
+                    "This is a beautiful park with a lovely pond. This has a wonderful sculpture of Paul Revere, miniature village surrounding the Old North Church, were Paul Revere hung the famous... read more"
+                ]
+            },
+            "longitude": "-117.595707621245",
+            "blogLinks": [
+                "http://ocmomblog.com/category/parks/irvine/"
+            ],
+            "closest_to": "irvine",
+            "address": "Heritage Park, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91701, United States of America"
         },
         "big bear lake": {
-            "closest_to": "irvine",
-            "longitude": "-116.932209587315",
+            "latitude": "34.253293",
+            "locType": "water",
             "enrich_metadata": {
-                "attraction_name": "Big Bear Lake",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"yAGF1JUpvLg,o3gxOlnzx0I,Z6FPT3dh838\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_big bear lake.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_riverside.json,avalon_and_san bernardino.json,anaheim_and_napa.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,avalon_and_santa barbara.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,big bear lake_and_carlsbad.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_riverside.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,big bear lake_and_temecula.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,big bear lake_and_san bernardino.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa cruz.json,los angeles_and_mammoth lakes.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pismo beach.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_san bernardino.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san diego.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,sacramento_and_santa barbara.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san jose.json,san bernardino_and_santa barbara.json,san bernardino_and_santa monica.json,san bernardino_and_temecula.json,san diego_and_santa monica.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san jose_and_santa monica.json,big bear lake_and_huntington beach.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_temecula.json,stockton_and_temecula.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "174",
-                "mention_popularity": "203",
-                "attraction_reviewComments": [
-                    "my partner and I spent 2nights in big bear. this place was fantastic. beautiful lake, fantastic places to eat and drinks, lots of activities. beautiful scenery. fantastic people... read more",
-                    "We rented boats from this Marina and the poeple there were great. They were helpful and the prices were reasonable. If we are in the area again we will be going to Pleasure... read more",
-                    "Although I've lived in southern California all my life, I'd never been to Big Bear. I finally got the chance when, after listening to a three-hour time-share pitch, I received a... read more",
-                    "WOW this is the place to be and it has all the fun, lake, foods, festivals, churches and so close with now of the poor air-- it is all great up here in the fresh air",
-                    "We have a vacation home in Big Bear and visit every month. While the lake, summer, and boating seem to go hand in hand. Once the ski resorts close, I prefer to bike the paths on... read more",
-                    "LIKE: Fishing, boat rentals, skiing, eating, jeeping (ect.) shooting, shopping (for the ladies), flying, ect. Living 15 miles away. (Lived here 32 yrs) DISLIKE: Shoveling snow",
-                    "Good place to stay with family. It locates at very high altitute so need to concern about breath if you are not healthy condition.",
-                    "Enjoy swimming or fishing, even kayaking !;). The lake has a beautiful trail and wonderful",
-                    "There are so many activities to enjoy especially on the Lake. I really enjoyed the shops in the Village and the weather was great.",
-                    "Big Bear Lake offers some good fishing and has an enjoyable climate. There are also plenty of walking and bike trails as well as boating options.",
-                    "I love the drive around the lake. Nice peaceful scenery. The view quite amazing and the houses makes me envy.",
-                    "we came here to celebrate my bday and we did enjoy a lot. we got the 1st snowfall of the season here, amazingly beautiful. loved the drive around the lake, specially on HWY 38.",
-                    "Our second visit - after loving the first visit so much. Just so peaceful, a great location to break up the drive from Vas to San Diego, one night visit - wish we stayed a few... read more",
-                    "We went to the lake, did some hiking along the shore. It was very nice. The weather was just perfect. It would have been nice to take a cruise, but it was there slow season... read more",
-                    "I love Big Bear great place to visit for the weekend or the week. If you water skiing or snow skiing this resort has both depending not he seasons. If you just want to relax... read more",
-                    "The road is long and winding. If you get car sick, be forewarned. It's very peaceful. I'm sure it gets VERY crowded. We were there on a Friday and it was great",
-                    "Find Juniper Point on the north shore of Big Bear, and walk it. You won't be disappointed. It is beautiful, and the pup liked it.",
-                    "We stayed at a lodge on the lake and the views were awesome! Great lake for activities. Not so much for swimming. Fishing is good but I heard this year it has not been very... read more",
-                    "We caught 5 bullheads, 2 good size Bass, and 1 blue gill all in few hours in the morning! Definitely will come back and fish there now that we found \"the spot\"!",
-                    "This place is just a short drive from Pasadena, about an hour and a half. The place offers cool retreat during summer and an alternate for us to see the fireworks at the lake... read more",
-                    "7000 feet above sea level, fantastic views and great weather. Visit this location and enjoy Nature. We hired a boat for 4 hours and explored the water, and the floating restrooms... read more",
-                    "Some of the nicest people we have ever met...Beautiful! reminded us of Bavaria...trip up the mountain at Snow Summit was the highlight...",
-                    "Had the perfect romantic getaway. Picnic with a view, beautiful scenery, great restaurants, quaint lodge. Weather was perfect!",
-                    "What a quaint town to walk and visit shops and cafes....then take the boat ride on the lake. The Skipper provides a great tour and knows all the facts of the lake and... read more",
-                    "We loved this lake, water shoes needed for sure advised at the visitor center as well. We found a nice location had lunch and the kids were able to get in the water also there... read more",
-                    "beautiful calm lake, I highly recommend going on a hiking trail by alpine pedal path, great views of the lake and mountains",
-                    "This vacation place has it all no matter the season there is always something to do. Hiking, biking, after sports, fishing, skiing. Or just hanging out and relaxing.",
-                    "Great 360degree views. All for free So you can rent a boat canoe or ride the jet propelled shoes that give you a cool ride there are hiking bike trails and off road trails... read more",
-                    "Recommend a cruise on the Miss liberty Paddle Wheeler for a historic and celebrity sighting homes on the Lake. Good value, friendly staff and informative history of the area.",
-                    "Drove around the complete area of the lake and all the views of the lake were fantastic. We stopped at a public park run by the forest service and it was very clean and the people... read more",
-                    "So sad to see the lake so low this year. Hoping for a good wet season to bring the lake up to its normal level.",
-                    "pontoon boating was awesome! Great scenery.Can take pets & my pets loved it. You won't be disappointed!!",
-                    "Having grown up in the Los Angeles basin, I went to Big Bear a lot. The great thing is that it's nice in the Winter (Snow Skiing), and also in the Summer (Water Skiing).",
-                    "Big Bear lake is one of the best places that we have visited as a family in years. There is so much to do and the weather is beautiful. It's our new favorite place to come on... read more",
-                    "Brought my parents out here for a relaxing getaway. We walked around Big Bear Lake with our dog, enjoyed a hike around lake while breathing in the cool brisk air! Looking at the... read more",
-                    "Big Bear lake is located approx one hour from the bottom of the mountain which makes it close enough for a day trip or picnic. Many of the parking lots on the north shore require... read more",
-                    "So, had only visited Big Bear during ski season so going during summer was a lovely surprise! The lake has a bike/jogging path that has obviously an amazing view of lake but you... read more",
-                    "Considering so little snow this past Winter, I was surprised that the water level was not that low. Someone told me they buy and import water, not sure from where or how. Nice... read more",
-                    "Staying in a friends cabin for the fourth of July weekend. We had to go to the fireworks show. They did a fantastic job. Someone had a radio and they played the music to match the... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Big Bear Region",
-                "attraction_address": "\"Hwys 30, 330 & 18 , CA 92315\"",
-                "mention_type": "water",
-                "mention_found_in_blogFiles": "\"anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_big bear lake.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_stockton.json,avalon_and_big bear lake.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_riverside.json,avalon_and_san bernardino.json,anaheim_and_napa.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,avalon_and_santa barbara.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_santa barbara.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,big bear lake_and_carlsbad.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_riverside.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,big bear lake_and_temecula.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,fremont_and_huntington beach.json,fremont_and_newport beach.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa monica.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,big bear lake_and_san bernardino.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,long beach_and_san bernardino.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa cruz.json,los angeles_and_mammoth lakes.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pismo beach.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_san bernardino.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san diego.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,sacramento_and_santa barbara.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san jose.json,san bernardino_and_santa barbara.json,san bernardino_and_santa monica.json,san bernardino_and_temecula.json,san diego_and_santa monica.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san jose_and_santa monica.json,big bear lake_and_huntington beach.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_temecula.json,stockton_and_temecula.json\"",
-                "mention_address": "\"Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or380-Big_Bear_Lake-Big_Bear_Region_California.html",
@@ -373,7 +824,257 @@
                     "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or150-Big_Bear_Lake-Big_Bear_Region_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or140-Big_Bear_Lake-Big_Bear_Region_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [
+                        [
+                            "LIKE: Fishing, boat rentals, skiing, eating, jeeping (ect.) shooting, shopping (for the ladies), flying, ect. Living 15 miles away. (Lived here 32 yrs) DISLIKE: Shoveling snow",
+                            0.0,
+                            0.0,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or370-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Some of the nicest people we have ever met...Beautiful! reminded us of Bavaria...trip up the mountain at Snow Summit was the highlight...",
+                            0.0,
+                            0.0,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or250-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "This vacation place has it all no matter the season there is always something to do. Hiking, biking, after sports, fishing, skiing. Or just hanging out and relaxing.",
+                            0.0,
+                            0.0,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or10-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ]
+                    ],
+                    "positive": [
+                        [
+                            "my partner and I spent 2nights in big bear. this place was fantastic. beautiful lake, fantastic places to eat and drinks, lots of activities. beautiful scenery. fantastic people... read more",
+                            0.4125,
+                            0.675,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We rented boats from this Marina and the poeple there were great. They were helpful and the prices were reasonable. If we are in the area again we will be going to Pleasure... read more",
+                            0.5,
+                            0.6166666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or380-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Although I've lived in southern California all my life, I'd never been to Big Bear. I finally got the chance when, after listening to a three-hour time-share pitch, I received a... read more",
+                            0.125,
+                            0.4,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or50-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "WOW this is the place to be and it has all the fun, lake, foods, festivals, churches and so close with now of the poor air-- it is all great up here in the fresh air",
+                            0.22000000000000003,
+                            0.61,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or360-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We have a vacation home in Big Bear and visit every month. While the lake, summer, and boating seem to go hand in hand. Once the ski resorts close, I prefer to bike the paths on... read more",
+                            0.25,
+                            0.3,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or350-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Good place to stay with family. It locates at very high altitute so need to concern about breath if you are not healthy condition.",
+                            0.2193333333333333,
+                            0.6006666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or60-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Enjoy swimming or fishing, even kayaking !;). The lake has a beautiful trail and wonderful",
+                            0.65,
+                            0.875,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or340-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "There are so many activities to enjoy especially on the Lake. I really enjoyed the shops in the Village and the weather was great.",
+                            0.44000000000000006,
+                            0.6900000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or320-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Big Bear Lake offers some good fishing and has an enjoyable climate. There are also plenty of walking and bike trails as well as boating options.",
+                            0.32499999999999996,
+                            0.325,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or330-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "I love the drive around the lake. Nice peaceful scenery. The view quite amazing and the houses makes me envy.",
+                            0.48750000000000004,
+                            0.75,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or70-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "we came here to celebrate my bday and we did enjoy a lot. we got the 1st snowfall of the season here, amazingly beautiful. loved the drive around the lake, specially on HWY 38.",
+                            0.5767857142857142,
+                            0.7178571428571427,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or310-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Our second visit - after loving the first visit so much. Just so peaceful, a great location to break up the drive from Vas to San Diego, one night visit - wish we stayed a few... read more",
+                            0.30000000000000004,
+                            0.4166666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or300-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We went to the lake, did some hiking along the shore. It was very nice. The weather was just perfect. It would have been nice to take a cruise, but it was there slow season... read more",
+                            0.516,
+                            0.78,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or290-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "I love Big Bear great place to visit for the weekend or the week. If you water skiing or snow skiing this resort has both depending not he seasons. If you just want to relax... read more",
+                            0.45,
+                            0.4875,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or80-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "The road is long and winding. If you get car sick, be forewarned. It's very peaceful. I'm sure it gets VERY crowded. We were there on a Friday and it was great",
+                            0.1767857142857143,
+                            0.6410052910052909,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or40-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Find Juniper Point on the north shore of Big Bear, and walk it. You won't be disappointed. It is beautiful, and the pup liked it.",
+                            0.175,
+                            0.6625000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or30-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We stayed at a lodge on the lake and the views were awesome! Great lake for activities. Not so much for swimming. Fishing is good but I heard this year it has not been very... read more",
+                            0.5666666666666668,
+                            0.5583333333333332,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or280-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We caught 5 bullheads, 2 good size Bass, and 1 blue gill all in few hours in the morning! Definitely will come back and fish there now that we found \"the spot\"!",
+                            0.04999999999999999,
+                            0.30000000000000004,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or270-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "This place is just a short drive from Pasadena, about an hour and a half. The place offers cool retreat during summer and an alternate for us to see the fireworks at the lake... read more",
+                            0.13055555555555556,
+                            0.26944444444444443,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or90-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "7000 feet above sea level, fantastic views and great weather. Visit this location and enjoy Nature. We hired a boat for 4 hours and explored the water, and the floating restrooms... read more",
+                            0.42000000000000004,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or260-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Had the perfect romantic getaway. Picnic with a view, beautiful scenery, great restaurants, quaint lodge. Weather was perfect!",
+                            0.7300000000000001,
+                            0.85,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or240-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "What a quaint town to walk and visit shops and cafes....then take the boat ride on the lake. The Skipper provides a great tour and knows all the facts of the lake and... read more",
+                            0.65,
+                            0.625,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or100-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "We loved this lake, water shoes needed for sure advised at the visitor center as well. We found a nice location had lunch and the kids were able to get in the water also there... read more",
+                            0.44999999999999996,
+                            0.6523148148148148,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or20-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "beautiful calm lake, I highly recommend going on a hiking trail by alpine pedal path, great views of the lake and mountains",
+                            0.5275,
+                            0.76,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or230-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Great 360degree views. All for free So you can rent a boat canoe or ride the jet propelled shoes that give you a cool ride there are hiking bike trails and off road trails... read more",
+                            0.5125000000000001,
+                            0.675,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or210-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Recommend a cruise on the Miss liberty Paddle Wheeler for a historic and celebrity sighting homes on the Lake. Good value, friendly staff and informative history of the area.",
+                            0.35833333333333334,
+                            0.3666666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or220-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Drove around the complete area of the lake and all the views of the lake were fantastic. We stopped at a public park run by the forest service and it was very clean and the people... read more",
+                            0.29533333333333334,
+                            0.5553333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or110-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "So sad to see the lake so low this year. Hoping for a good wet season to bring the lake up to its normal level.",
+                            0.04999999999999999,
+                            0.5900000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or200-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "pontoon boating was awesome! Great scenery.Can take pets & my pets loved it. You won't be disappointed!!",
+                            0.375,
+                            0.825,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or190-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Having grown up in the Los Angeles basin, I went to Big Bear a lot. The great thing is that it's nice in the Winter (Snow Skiing), and also in the Summer (Water Skiing).",
+                            0.4666666666666666,
+                            0.6166666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or180-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Big Bear lake is one of the best places that we have visited as a family in years. There is so much to do and the weather is beautiful. It's our new favorite place to come on... read more",
+                            0.45519480519480515,
+                            0.5077922077922078,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or120-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Brought my parents out here for a relaxing getaway. We walked around Big Bear Lake with our dog, enjoyed a hike around lake while breathing in the cool brisk air! Looking at the... read more",
+                            0.359375,
+                            0.4875,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or170-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Big Bear lake is located approx one hour from the bottom of the mountain which makes it close enough for a day trip or picnic. Many of the parking lots on the north shore require... read more",
+                            0.25,
+                            0.4,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or160-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "So, had only visited Big Bear during ski season so going during summer was a lovely surprise! The lake has a bike/jogging path that has obviously an amazing view of lake but you... read more",
+                            0.34500000000000003,
+                            0.65,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or130-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Considering so little snow this past Winter, I was surprised that the water level was not that low. Someone told me they buy and import water, not sure from where or how. Nice... read more",
+                            0.0732142857142857,
+                            0.6198412698412697,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or150-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ],
+                        [
+                            "Staying in a friends cabin for the fourth of July weekend. We had to go to the fireworks show. They did a fantastic job. Someone had a radio and they played the music to match the... read more",
+                            0.3,
+                            0.4666666666666666,
+                            "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-or140-Big_Bear_Lake-Big_Bear_Region_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"Hwys 30, 330 & 18 , CA 92315\"",
+                "attraction_longitude": "",
+                "mention_type": "water",
                 "attraction_in_file": "big_bear_region.json",
+                "mention_name": "big bear lake",
+                "youTubeLinkIds": "\"yAGF1JUpvLg,o3gxOlnzx0I,Z6FPT3dh838\"",
+                "attraction_name": "Big Bear Lake",
+                "mention_longitude": "-116.932209587315",
+                "attraction_no_of_reviews": "453",
+                "mention_address": "\"Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America\"",
                 "blogLinks": [
                     "http://www.distancesfrom.com/us/directions-from-Sacramento-to-Big-Bear-Lake/DirectionHistory/24901007.aspx",
                     "http://www.distancesfrom.com/us/Malibu-to-Big-Bear-Lake-Route/RouteplannerHistory/29841705.aspx",
@@ -583,21 +1284,62 @@
                     "http://www.distancesfrom.com/us/distance-from-Big-Bear-Lake-to-Anaheim/DistanceHistory/20972847.aspx",
                     "http://golosangeles.about.com/od/thingstodoinlosangeles/ss/Road-Trips-From-Los-Angeles.htm"
                 ],
+                "mention_latitude": "34.253293",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "\"Ski & Snowboard Areas , Hiking Trails , Bodies of Water , Outdoor Activities , Nature & Parks , More\"",
+                "zip_code": "92315",
+                "Confidence": "100",
+                "attraction_in": "Big Bear Region",
+                "mention_popularity": "203",
                 "imageUrls": [
                     "http://static4.depositphotos.com/1012448/286/i/950/depositphotos_2864365-Big-bear-lake.jpg",
                     "http://www.whoneedsmaps.com/wp-content/uploads/big-bear-lake.jpg",
                     "https://sumatradiscovery.files.wordpress.com/2014/03/swiss-alps.jpg"
                 ],
-                "zip_code": "92315",
-                "attraction_ranking": "1",
-                "attraction_knownFor": "\"Ski & Snowboard Areas , Hiking Trails , Bodies of Water , Outdoor Activities , Nature & Parks , More\"",
-                "mention_name": "big bear lake",
-                "attraction_no_of_reviews": "453",
-                "mention_latitude": "34.253293",
                 "attraction_contact": "909-866-4345",
-                "mention_longitude": "-116.932209587315"
+                "attraction_reviewComments": [
+                    "my partner and I spent 2nights in big bear. this place was fantastic. beautiful lake, fantastic places to eat and drinks, lots of activities. beautiful scenery. fantastic people... read more",
+                    "We rented boats from this Marina and the poeple there were great. They were helpful and the prices were reasonable. If we are in the area again we will be going to Pleasure... read more",
+                    "Although I've lived in southern California all my life, I'd never been to Big Bear. I finally got the chance when, after listening to a three-hour time-share pitch, I received a... read more",
+                    "WOW this is the place to be and it has all the fun, lake, foods, festivals, churches and so close with now of the poor air-- it is all great up here in the fresh air",
+                    "We have a vacation home in Big Bear and visit every month. While the lake, summer, and boating seem to go hand in hand. Once the ski resorts close, I prefer to bike the paths on... read more",
+                    "LIKE: Fishing, boat rentals, skiing, eating, jeeping (ect.) shooting, shopping (for the ladies), flying, ect. Living 15 miles away. (Lived here 32 yrs) DISLIKE: Shoveling snow",
+                    "Good place to stay with family. It locates at very high altitute so need to concern about breath if you are not healthy condition.",
+                    "Enjoy swimming or fishing, even kayaking !;). The lake has a beautiful trail and wonderful",
+                    "There are so many activities to enjoy especially on the Lake. I really enjoyed the shops in the Village and the weather was great.",
+                    "Big Bear Lake offers some good fishing and has an enjoyable climate. There are also plenty of walking and bike trails as well as boating options.",
+                    "I love the drive around the lake. Nice peaceful scenery. The view quite amazing and the houses makes me envy.",
+                    "we came here to celebrate my bday and we did enjoy a lot. we got the 1st snowfall of the season here, amazingly beautiful. loved the drive around the lake, specially on HWY 38.",
+                    "Our second visit - after loving the first visit so much. Just so peaceful, a great location to break up the drive from Vas to San Diego, one night visit - wish we stayed a few... read more",
+                    "We went to the lake, did some hiking along the shore. It was very nice. The weather was just perfect. It would have been nice to take a cruise, but it was there slow season... read more",
+                    "I love Big Bear great place to visit for the weekend or the week. If you water skiing or snow skiing this resort has both depending not he seasons. If you just want to relax... read more",
+                    "The road is long and winding. If you get car sick, be forewarned. It's very peaceful. I'm sure it gets VERY crowded. We were there on a Friday and it was great",
+                    "Find Juniper Point on the north shore of Big Bear, and walk it. You won't be disappointed. It is beautiful, and the pup liked it.",
+                    "We stayed at a lodge on the lake and the views were awesome! Great lake for activities. Not so much for swimming. Fishing is good but I heard this year it has not been very... read more",
+                    "We caught 5 bullheads, 2 good size Bass, and 1 blue gill all in few hours in the morning! Definitely will come back and fish there now that we found \"the spot\"!",
+                    "This place is just a short drive from Pasadena, about an hour and a half. The place offers cool retreat during summer and an alternate for us to see the fireworks at the lake... read more",
+                    "7000 feet above sea level, fantastic views and great weather. Visit this location and enjoy Nature. We hired a boat for 4 hours and explored the water, and the floating restrooms... read more",
+                    "Some of the nicest people we have ever met...Beautiful! reminded us of Bavaria...trip up the mountain at Snow Summit was the highlight...",
+                    "Had the perfect romantic getaway. Picnic with a view, beautiful scenery, great restaurants, quaint lodge. Weather was perfect!",
+                    "What a quaint town to walk and visit shops and cafes....then take the boat ride on the lake. The Skipper provides a great tour and knows all the facts of the lake and... read more",
+                    "We loved this lake, water shoes needed for sure advised at the visitor center as well. We found a nice location had lunch and the kids were able to get in the water also there... read more",
+                    "beautiful calm lake, I highly recommend going on a hiking trail by alpine pedal path, great views of the lake and mountains",
+                    "This vacation place has it all no matter the season there is always something to do. Hiking, biking, after sports, fishing, skiing. Or just hanging out and relaxing.",
+                    "Great 360degree views. All for free So you can rent a boat canoe or ride the jet propelled shoes that give you a cool ride there are hiking bike trails and off road trails... read more",
+                    "Recommend a cruise on the Miss liberty Paddle Wheeler for a historic and celebrity sighting homes on the Lake. Good value, friendly staff and informative history of the area.",
+                    "Drove around the complete area of the lake and all the views of the lake were fantastic. We stopped at a public park run by the forest service and it was very clean and the people... read more",
+                    "So sad to see the lake so low this year. Hoping for a good wet season to bring the lake up to its normal level.",
+                    "pontoon boating was awesome! Great scenery.Can take pets & my pets loved it. You won't be disappointed!!",
+                    "Having grown up in the Los Angeles basin, I went to Big Bear a lot. The great thing is that it's nice in the Winter (Snow Skiing), and also in the Summer (Water Skiing).",
+                    "Big Bear lake is one of the best places that we have visited as a family in years. There is so much to do and the weather is beautiful. It's our new favorite place to come on... read more",
+                    "Brought my parents out here for a relaxing getaway. We walked around Big Bear Lake with our dog, enjoyed a hike around lake while breathing in the cool brisk air! Looking at the... read more",
+                    "Big Bear lake is located approx one hour from the bottom of the mountain which makes it close enough for a day trip or picnic. Many of the parking lots on the north shore require... read more",
+                    "So, had only visited Big Bear during ski season so going during summer was a lovely surprise! The lake has a bike/jogging path that has obviously an amazing view of lake but you... read more",
+                    "Considering so little snow this past Winter, I was surprised that the water level was not that low. Someone told me they buy and import water, not sure from where or how. Nice... read more",
+                    "Staying in a friends cabin for the fourth of July weekend. We had to go to the fireworks show. They did a fantastic job. Someone had a radio and they played the music to match the... read more"
+                ]
             },
-            "locType": "water",
+            "longitude": "-116.932209587315",
             "blogLinks": [
                 "http://www.distancesfrom.com/us/travel-from-Big-Bear-Lake-to-Irvine-los-angeles/TravelFromHistory/13575056.aspx",
                 "http://www.bigbear.com/things-to-do/",
@@ -616,329 +1358,38 @@
                 "http://www.distancesfrom.com/us/distance-from-Irvine-to-Phoenix-AZ-via-Big-Bear-Lake/DistanceHistory/10270172.aspx",
                 "http://www.distancesfrom.com/us/map-from-Big-Bear-Lake-to-Irvine/MapHistory/8176087.aspx"
             ],
-            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
-            "latitude": "34.253293"
-        },
-        "san diego creek trail": {
             "closest_to": "irvine",
-            "longitude": "-117.8038448",
-            "locType": "cycleway",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "San Diego Creek Trail, Woodbridge, Irvine, Orange County, California, 92614, United States of America",
-            "latitude": "33.6795768"
-        },
-        "irvine": {
-            "closest_to": "irvine",
-            "longitude": "-117.8259818",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.distancesfrom.com/us/travel-from-Big-Bear-Lake-to-Irvine-los-angeles/TravelFromHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/directions-from-Big-Bear-Lake-to-Irvine/DirectionHistory/8176087.aspx",
-                "http://www.bearlake.org/",
-                "http://www.distancesfrom.com/us/flight-distance-from-Big-Bear-Lake-to-Irvine-los-angeles/FlightHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/Big-Bear-Lake-to-Irvine-los-angeles-Route/RouteplannerHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Big-Bear-Lake/DistanceHistory/22746752.aspx",
-                "http://www.distancesfrom.com/us/distance-from-Big-Bear-Lake-to-Irvine-los-angeles/DistanceHistory/13575056.aspx",
-                "https://www.tripadvisor.com/Attractions-g32074-Activities-Big_Bear_Region_California.html",
-                "http://www.distancesfrom.com/us/directions-from-Irvine-to-Big-Bear-Lake/DirectionHistory/22746752.aspx",
-                "http://www.distancesfrom.com/us/travel-time-from-Big-Bear-Lake-to-Irvine-los-angeles/TravelTimeHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/Trip-Cost-from-Big-Bear-Lake-to-Irvine-los-angeles/TripCostHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/distance-from-Big-Bear-Lake-to-Irvine/DistanceHistory/25602990.aspx",
-                "http://ocmomblog.com/category/parks/irvine/",
-                "http://www.distancesfrom.com/us/how-far-is-Irvine-los-angeles-from-Big-Bear-Lake/HowFarHistory/13575056.aspx",
-                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Phoenix-AZ-via-Big-Bear-Lake/DistanceHistory/10270172.aspx",
-                "http://www.distancesfrom.com/us/map-from-Big-Bear-Lake-to-Irvine/MapHistory/8176087.aspx"
-            ],
-            "address": "Irvine, Orange County, California, United States of America",
-            "latitude": "33.6856969"
-        },
-        "heritage park": {
-            "closest_to": "irvine",
-            "longitude": "-117.595707621245",
-            "enrich_metadata": {
-                "attraction_name": "Heritage Park",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"wVH30kqCFNQ,Cm0dPZux2d0,dXbRmyBLJb8\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "13",
-                "mention_popularity": "4",
-                "attraction_reviewComments": [
-                    "This park is often used to take pictures. You see most kids going to homecoming, proms and special occasions taking pictures here. Nice duck area and also good place to have a... read more",
-                    "In the middle of the park is an island, a recreation of Boston and Paul Revere, slides, climbers, tunnels you name it. Every Thursday night during the summer there are free... read more",
-                    "A wonderful place for a family picnic. This park has a little colonial village and bridges for children to explore. There are ducks and turtles and a pond. There are several... read more",
-                    "Lovely park experience. Great picnic areas. During the summer there are weekly free evening concerts in the park. The children's area is both fun and historical...an island to... read more",
-                    "This is a beautiful park with a lovely pond. This has a wonderful sculpture of Paul Revere, miniature village surrounding the Old North Church, were Paul Revere hung the famous... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Cerritos",
-                "attraction_address": "\"18600 Bloomfield Ave , Cerritos , CA 90703-6089\"",
-                "mention_type": "residential",
-                "mention_found_in_blogFiles": "\"bakersfield_and_long beach.json,big bear lake_and_irvine.json,big bear lake_and_malibu.json,big bear lake_and_pismo beach.json,big bear lake_and_santa monica.json,carlsbad_and_pismo beach.json,fremont_and_long beach.json,fresno_and_long beach.json,irvine_and_santa cruz.json,long beach_and_stockton.json,los angeles_and_pismo beach.json,malibu_and_pismo beach.json,pismo beach_and_stockton.json\"",
-                "mention_address": "\"Heritage Park, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91701, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-Heritage_Park-Cerritos_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or40-Heritage_Park-Cerritos_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or30-Heritage_Park-Cerritos_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or20-Heritage_Park-Cerritos_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32196-d2630825-Reviews-or10-Heritage_Park-Cerritos_California.html"
-                ],
-                "attraction_in_file": "cerritos.json",
-                "blogLinks": [
-                    "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/",
-                    "http://www.hauntedplaces.org/state/California",
-                    "http://www.bestplaces.net/comments/city/california/oceanside",
-                    "http://ocmomblog.com/category/parks/irvine/"
-                ],
-                "imageUrls": [
-                    "https://c1.staticflickr.com/5/4049/4265099642_4071645bd8_b.jpg",
-                    "https://irs1.4sqi.net/img/general/600x600/21972221_o-SOai7bTqXHVtXJ1a_t0oaxfG_mYLX1Gh5QBa0CitM.jpg",
-                    "http://visitoceanside.org/wp-content/uploads/2013/10/Screen-Shot-2013-10-24-at-3.14.40-PM.png"
-                ],
-                "zip_code": "18600",
-                "attraction_ranking": "2",
-                "attraction_knownFor": "Nature & Parks",
-                "mention_name": "heritage park",
-                "attraction_no_of_reviews": "50",
-                "mention_latitude": "34.123511",
-                "attraction_contact": "+1 562-916-8570",
-                "mention_longitude": "-117.595707621245"
-            },
-            "locType": "residential",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Heritage Park, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91701, United States of America",
-            "latitude": "34.123511"
+            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America"
         },
         "south orange county": {
-            "closest_to": "irvine",
-            "longitude": "-117.667997530973",
+            "latitude": "33.6589297",
             "locType": "yes",
+            "longitude": "-117.667997530973",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America",
-            "latitude": "33.6589297"
-        },
-        "newport beach": {
             "closest_to": "irvine",
-            "longitude": "-117.92944",
-            "locType": "city",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/",
-                "http://www.bigbearvacations.com/experience/things-to-do"
-            ],
-            "address": "Newport Beach, Orange County, California, United States of America",
-            "latitude": "33.6170092"
+            "address": "S, Bellecour Way, Bellecour Way Apartments, Foothill Ranch, Lake Forest, Orange County, California, 92630, United States of America"
         },
-        "arrowhead": {
-            "closest_to": "irvine",
-            "longitude": "-117.2872653",
+        "north shore": {
+            "latitude": "34.2680613",
             "locType": "hamlet",
+            "longitude": "-117.1842077",
             "blogLinks": [
-                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
+                "http://www.bigbearvacations.com/experience/things-to-do"
             ],
-            "address": "Arrowhead, San Bernardino County, California, United States of America",
-            "latitude": "34.1477879"
-        },
-        "boulder bay park": {
             "closest_to": "irvine",
-            "longitude": "-116.949195007263",
-            "enrich_metadata": {
-                "attraction_name": "Boulder Bay Park",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"Pp-96vCnMZg,Fk8nIc46xZ8,HVRFB9awDWw\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "26",
-                "mention_popularity": "3",
-                "attraction_reviewComments": [
-                    "Park is always clean and well kept city does a great job All we need now is water in the lake It's sad water is so low that people can't enjoy it",
-                    "It's just a real pretty place to walk and get a great view of the lake. It's nice to take the kids and the pets to stroll and walk down the dock over the water.",
-                    "The weather was perfect. A little windy but you can't get any better than this when it comes to nature. The drought has affected other small beaches but not here. Check it out and... read more",
-                    "This little park was not far from the cabin we rented. There were lot of ducks and swans to keep us entertained. Also, a really nice place to just sit and relax.",
-                    "This is a pretty lake front park. This last trip the water level was really low so it wasn't quite as nice, but clean and nice place for the kids to run around",
-                    "This park is LAKEFRONT in the ROCKY area of BIG BEAR LAKE & is MOST SCENIC & RELAXING especially in the evenings ! GREAT walking area ! A MUST see !",
-                    "Nice little park with a panoramic view of the lake. Great place for a picnic or a little stroll along the lake. The park was somewhat overrated in my opinion. We had a feeling... read more",
-                    "park right on the lake. I love the big boulders and the trees surrounding it. We had a picnic there and the kids played football. It was great!!",
-                    "We stopped here on the way out of Big Bear. The park is very clean, has plenty of seats to admire the spectacular views. Many people we're fishing for bass I believe. It was very... read more",
-                    "Nice little park with a beautiful view of the lake. Great place for a picnic or a little stroll along the lake.",
-                    "well kept little park with a ramp down to the water (which is VERY low right now). Dog friendly, has some nice big rocks to play on.",
-                    "Great Park for all--humans and dogs alike. The park provided good views of the Lake and had plenty of parking spaces."
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Big Bear Lake",
-                "attraction_address": "\"39148 California 18 , Big Bear Lake , CA 92315\"",
-                "mention_type": "park",
-                "mention_found_in_blogFiles": "\"anaheim_and_big bear lake.json,avalon_and_big bear lake.json,bakersfield_and_big bear lake.json,berkeley_and_big bear lake.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_malibu.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,big bear lake_and_temecula.json,san bernardino_and_santa monica.json\"",
-                "mention_address": "\"Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or110-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or50-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or40-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or30-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or90-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or60-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or80-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or100-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or70-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or20-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g2018261-d4738135-Reviews-or10-Boulder_Bay_Park-Big_Bear_Lake_Big_Bear_Region_California.html"
-                ],
-                "attraction_in_file": "big_bear_lake.json",
-                "blogLinks": [
-                    "http://www.latimes.com/travel/deals/la-tr-200-microitineraries-for-southern-california-20121219-htmlstory.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32074-d105409-Reviews-Big_Bear_Lake-Big_Bear_Region_California.html",
-                    "http://www.bigbearvacations.com/experience/things-to-do"
-                ],
-                "imageUrls": [
-                    "http://www.crystalrockstar.com/wp-content/uploads/2014/08/boulder-bay-big-bear-crystalrockstar.jpg",
-                    "http://s3-media3.fl.yelpcdn.com/bphoto/4PktNSPCWhF-1Dj_sgV-JA/o.jpg",
-                    "https://media-cdn.tripadvisor.com/media/photo-s/04/8d/59/0f/boulder-bay-park.jpg"
-                ],
-                "zip_code": "39148",
-                "attraction_ranking": "3",
-                "attraction_knownFor": "Nature & Parks",
-                "mention_name": "boulder bay park",
-                "attraction_no_of_reviews": "124",
-                "mention_latitude": "34.23859285",
-                "attraction_contact": "+1 909-866-7521",
-                "mention_longitude": "-116.949195007263"
-            },
+            "address": "North Shore, San Bernardino County, California, United States of America"
+        },
+        "knollcrest park": {
+            "latitude": "33.6487968",
             "locType": "park",
-            "blogLinks": [
-                "http://www.bigbearvacations.com/experience/things-to-do"
-            ],
-            "address": "Boulder Bay Park, Big Bear Boulevard, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
-            "latitude": "34.23859285"
-        },
-        "big bear": {
-            "closest_to": "irvine",
-            "longitude": "-116.932209587315",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.bigbear.com/things-to-do/",
-                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html",
-                "http://www.bigbearvacations.com/experience/things-to-do"
-            ],
-            "address": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
-            "latitude": "34.253293"
-        },
-        "los angeles": {
-            "closest_to": "irvine",
-            "longitude": "-118.2439408",
-            "enrich_metadata": {
-                "mention_popularity": "756",
-                "label": "Civic Center, Los Angeles",
-                "Confidence": "100",
-                "youTubeLinkIds": "jtrF479Dzj4,Vc5jSKOsgCA,bTvr_2v-0HI",
-                "type": "http://dbpedia.org/resource/List_of_districts_and_neighborhoods_of_Los_Angeles",
-                "attraction_in_file": "los_angeles.json",
-                "abstract": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
-                "attraction_latitude": "34.0543942",
-                "no_of_blogFiles": "491",
-                "subject": "http://dbpedia.org/resource/Civic_Center,_Los_Angeles",
-                "mention_address": "LA, Los Angeles County, California, United States of America",
-                "imageUrls": [
-                    "http://images.cityhdwallpapers.com/images/1920x1200/Commercial%20district%20Los%20Angeles%20city%20wallpaper.jpg",
-                    "http://psudoterad.ru/img/picture/Jun/04/e4a19f33e17a91d93d35631fff7dd959/4.jpg",
-                    "http://www.wallpaper4k.com/wp_highres/city/WPDSKX3F.jpg"
-                ],
-                "mention_name": "los angeles",
-                "attraction_longitude": "-118.2439408",
-                "attraction_in": "Los Angeles",
-                "comment": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
-                "mention_longitude": "-118.2439408",
-                "mention_latitude": "34.0543942",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_pismo beach.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_huntington beach.json,avalon_and_irvine.json,avalon_and_long beach.json,avalon_and_los angeles.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa ana.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_los angeles.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_pismo beach.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_pismo beach.json,long beach_and_riverside.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_santa monica.json,long beach_and_sausalito.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pasadena.json,los angeles_and_pismo beach.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_santa ana.json,los angeles_and_santa barbara.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_oakland.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_riverside.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,mammoth lakes_and_pismo beach.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_sacramento.json,newport beach_and_san bernardino.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa clarita.json,newport beach_and_santa cruz.json,newport beach_and_santa monica.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa ana.json,pasadena_and_santa barbara.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_sacramento.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa ana.json,pismo beach_and_santa clarita.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_santa monica.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa cruz.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,riverside_and_santa ana.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,big bear lake_and_huntington beach.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_santa cruz.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa ana_and_temecula.json,santa barbara_and_santa clarita.json,santa barbara_and_santa cruz.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_santa monica.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Big_Bear_Lake-751108/Things_To_Do-Big_Bear_Lake-TG-C-1.html"
-            ],
-            "address": "LA, Los Angeles County, California, United States of America",
-            "latitude": "34.0543942"
-        },
-        "valley view park": {
-            "closest_to": "irvine",
-            "longitude": "-117.3080999",
-            "locType": "hamlet",
+            "longitude": "-117.773902417266",
             "blogLinks": [
                 "http://ocmomblog.com/category/parks/irvine/"
             ],
-            "address": "Valley View Park, San Bernardino County, California, United States of America",
-            "latitude": "34.2350067"
-        },
-        "stanfield cutoff": {
-            "closest_to": "big bear lake",
-            "longitude": "-116.8845335",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://www.bigbearvacations.com/experience/things-to-do"
-            ],
-            "address": "Stanfield Cutoff, Minnelusa, San Bernardino County, California, 92314, United States of America",
-            "latitude": "34.2601412"
-        },
-        "hotel irvine": {
             "closest_to": "irvine",
-            "longitude": "-117.840246764526",
-            "locType": "hotel",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Hotel Irvine, Park Plaza, Westpark, Irvine, Orange County, California, 92614, United States of America",
-            "latitude": "33.6778967"
-        },
-        "north shore drive": {
-            "closest_to": "irvine",
-            "longitude": "-117.5868906",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.bigbearvacations.com/experience/things-to-do"
-            ],
-            "address": "North Shore Drive, Ontario, San Bernardino County, California, 91761, United States of America",
-            "latitude": "34.0146349"
-        },
-        "phoenix": {
-            "closest_to": "irvine",
-            "longitude": "-117.7764481",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.distancesfrom.com/us/distance-from-Irvine-to-Phoenix-AZ-via-Big-Bear-Lake/DistanceHistory/10270172.aspx"
-            ],
-            "address": "Phoenix, Heritage Park Apartments, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
-            "latitude": "33.6988015"
-        },
-        "valley oak park": {
-            "closest_to": "irvine",
-            "longitude": "-117.775492771241",
-            "locType": "park",
-            "blogLinks": [
-                "http://ocmomblog.com/category/parks/irvine/"
-            ],
-            "address": "Valley Oak Park, San Diego Creek Bike Trail, Woodbridge, Irvine, Orange County, California, 92620, United States of America",
-            "latitude": "33.66655605"
+            "address": "Knollcrest Park, Quail Hill Parkway, Woodbridge, Irvine, Orange County, California, 92603, United States of America"
         }
-    },
-    "big bear lake": {
-        "place_id": "159717820",
-        "osm_id": "4045674",
-        "importance": 0.80624782713774,
-        "lon": "-116.932209587315",
-        "type": "water",
-        "boundingbox": [
-            "34.2375569",
-            "34.2689983",
-            "-116.9775303",
-            "-116.8663043"
-        ],
-        "osm_type": "relation",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "34.253293",
-        "display_name": "Big Bear Lake, Lagunita Lane, Big Bear Lake, San Bernardino County, California, 92315, United States of America",
-        "class": "natural"
     }
 }

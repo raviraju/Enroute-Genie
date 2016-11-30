@@ -1,635 +1,403 @@
 {
-    "stockton": {
-        "place_id": "157785814",
-        "importance": 0.7132631887217,
-        "type": "city",
-        "osm_type": "relation",
-        "class": "place",
-        "boundingbox": [
-            "37.887747",
-            "38.0583",
-            "-121.4197359",
-            "-121.1840371"
-        ],
-        "osm_id": "112382",
-        "lon": "-121.2907795",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.9577016",
-        "display_name": "Stockton, San Joaquin County, California, United States of America"
-    },
     "sacramento": {
-        "place_id": "159758891",
+        "lon": "-121.4943995",
+        "display_name": "Sacramento, Sacramento County, California, United States of America",
         "importance": 0.80674211027009,
-        "type": "city",
-        "osm_type": "relation",
+        "osm_id": "6232940",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "38.5815719",
+        "place_id": "159758891",
+        "osm_type": "relation",
         "boundingbox": [
             "38.437574",
             "38.685507",
             "-121.5601199",
             "-121.3627399"
         ],
-        "osm_id": "6232940",
-        "lon": "-121.4943995",
+        "type": "city"
+    },
+    "stockton": {
+        "lon": "-121.2907795",
+        "display_name": "Stockton, San Joaquin County, California, United States of America",
+        "importance": 0.7132631887217,
+        "osm_id": "112382",
         "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "class": "place",
         "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "38.5815719",
-        "display_name": "Sacramento, Sacramento County, California, United States of America"
+        "lat": "37.9577016",
+        "place_id": "157785814",
+        "osm_type": "relation",
+        "boundingbox": [
+            "37.887747",
+            "38.0583",
+            "-121.4197359",
+            "-121.1840371"
+        ],
+        "type": "city"
     },
     "mentions": {
-        "putah creek state wildlife area": {
-            "closest_to": "sacramento",
-            "longitude": "-122.0844158",
-            "locType": "park",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
-            ],
-            "address": "Putah Creek State Wildlife Area, CA 128, Yolo County, California, 95694, United States of America",
-            "latitude": "38.5110183"
-        },
-        "oakdale": {
-            "closest_to": "stockton",
-            "longitude": "-120.8471544",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Oakdale, Stanislaus County, California, United States of America",
-            "latitude": "37.7665947"
-        },
         "calaveras river": {
-            "closest_to": "stockton",
+            "latitude": "38.1485238",
+            "locType": "river",
             "longitude": "-120.8302242",
-            "locType": "river",
             "blogLinks": [
                 "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Calaveras River, Calaveras County, California, United States of America",
-            "latitude": "38.1485238"
-        },
-        "lathrop": {
             "closest_to": "stockton",
-            "longitude": "-121.2766099",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/stockton"
-            ],
-            "address": "Lathrop, San Joaquin County, California, United States of America",
-            "latitude": "37.8227046"
-        },
-        "turlock community theatre": {
-            "closest_to": "stockton",
-            "longitude": "-120.832241",
-            "locType": "theatre",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Turlock Community Theater, East Canal Drive, Turlock, Stanislaus County, California, 95380, United States of America",
-            "latitude": "37.4993327"
-        },
-        "carmel": {
-            "closest_to": "sacramento",
-            "longitude": "-121.353308848273",
-            "locType": "residential",
-            "blogLinks": [
-                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
-                "https://www.trekaroo.com/places/california/snapshot"
-            ],
-            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America",
-            "latitude": "38.75511285"
-        },
-        "placerville": {
-            "closest_to": "sacramento",
-            "longitude": "-120.7985459",
-            "enrich_metadata": {
-                "attraction_in_file": "placerville.json",
-                "label": "Swansboro, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "O7K2-l7-kD8,-89tMr3t9uc,DyX7SZMrhs4",
-                "type": "http://dbpedia.org/resource/California",
-                "mention_address": "Placerville, El Dorado County, California, United States of America",
-                "abstract": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area.",
-                "attraction_latitude": "38.7296252",
-                "no_of_blogFiles": "90",
-                "subject": "http://dbpedia.org/resource/Swansboro,_California",
-                "mention_popularity": "21",
-                "imageUrls": [
-                    "http://pics4.city-data.com/cpicc/cfiles45566.jpg",
-                    "http://s41.radikal.ru/i094/1005/9f/fa3518f68b65.jpg",
-                    "https://upload.wikimedia.org/wikipedia/commons/b/b8/2009-0724-Placerville-JPSodaWorks.jpg"
-                ],
-                "mention_name": "placerville",
-                "attraction_longitude": "-120.7985459",
-                "attraction_in": "Placerville",
-                "comment": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area.",
-                "mention_longitude": "-120.7985459",
-                "mention_latitude": "38.7296252",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_mammoth lakes.json,avalon_and_sacramento.json,anaheim_and_napa.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,big bear lake_and_sacramento.json,big bear lake_and_sausalito.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_santa barbara.json,fresno_and_los angeles.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san jose.json,fresno_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_sausalito.json,long beach_and_stockton.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_sacramento.json,napa_and_san luis obispo.json,napa_and_santa monica.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,napa_and_temecula.json,oakland_and_sacramento.json,oakland_and_san luis obispo.json,oakland_and_santa clarita.json,pasadena_and_sausalito.json,pismo beach_and_sacramento.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_stockton.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san diego_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
-            ],
-            "address": "Placerville, El Dorado County, California, United States of America",
-            "latitude": "38.7296252"
-        },
-        "shenandoah valley museum": {
-            "closest_to": "sacramento",
-            "longitude": "-120.7760452",
-            "locType": "museum",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Shenandoah Valley Museum, Steiner Road, River Pines, Amador County, California, 95669, United States of America",
-            "latitude": "38.5449069"
-        },
-        "suisun": {
-            "closest_to": "stockton",
-            "longitude": "-121.971724116502",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Suisun City, Solano County, California, United States of America",
-            "latitude": "38.24690555"
-        },
-        "cosumnes river": {
-            "closest_to": "stockton",
-            "longitude": "-121.4384786",
-            "locType": "river",
-            "blogLinks": [
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER",
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Cosumnes River, Sacramento County, California, United States of America",
-            "latitude": "38.2566724"
-        },
-        "modesto": {
-            "closest_to": "stockton",
-            "longitude": "-120.9968781",
-            "locType": "city",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
-                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/",
-                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Modesto, Stanislaus County, California, United States of America",
-            "latitude": "37.6390972"
-        },
-        "american river": {
-            "closest_to": "sacramento",
-            "longitude": "-121.3128945",
-            "locType": "river",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
-            ],
-            "address": "American River, Sacramento County, California, United States of America",
-            "latitude": "38.6051945"
-        },
-        "joaquin county": {
-            "closest_to": "stockton",
-            "longitude": "-121.2773718",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "San Joaquin County, California, United States of America",
-            "latitude": "37.9372901"
-        },
-        "thornton": {
-            "closest_to": "stockton",
-            "longitude": "-121.4246732",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Thornton, San Joaquin County, California, United States of America",
-            "latitude": "38.2260268"
-        },
-        "trinity parkway": {
-            "closest_to": "stockton",
-            "longitude": "-121.3752466",
-            "locType": "residential",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Trinity Parkway, Stockton, San Joaquin County, California, 95209, United States of America",
-            "latitude": "38.0533353"
+            "address": "Calaveras River, Calaveras County, California, United States of America"
         },
         "putah creek cafe": {
-            "closest_to": "sacramento",
-            "longitude": "-121.9690811",
+            "latitude": "38.5219179",
             "locType": "restaurant",
+            "longitude": "-121.9690811",
             "blogLinks": [
                 "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
             ],
-            "address": "Putah Creek Cafe, Main Street, Winters, Yolo County, California, 95694, United States of America",
-            "latitude": "38.5219179"
-        },
-        "franklin": {
-            "closest_to": "stockton",
-            "longitude": "-121.4543972",
-            "locType": "hamlet",
-            "blogLinks": [
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
-            ],
-            "address": "Franklin, Sacramento County, California, United States of America",
-            "latitude": "38.3790776"
-        },
-        "fairfield": {
             "closest_to": "sacramento",
-            "longitude": "-122.0399662",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Fairfield, Solano County, California, United States of America",
-            "latitude": "38.2493581"
-        },
-        "university of the pacific": {
-            "closest_to": "stockton",
-            "longitude": "-121.312847098327",
-            "enrich_metadata": {
-                "attraction_name": "University of the Pacific",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"_NigsfqD-gQ,Dw0zrUBavuM\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "2",
-                "mention_popularity": "2",
-                "attraction_reviewComments": [
-                    "Was here for volleyball and really enjoyed the atmosphere and spirit of the school. Fun band and talented volleyball team.",
-                    "We did a self paced tour of the University of the Pacific, which is a beautiful campus in Stockton. It is often listed by US News and World Report as one of the top 100... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Stockton",
-                "attraction_address": "\"3601 Pacific Ave , Stockton , CA 95211-0197\"",
-                "mention_type": "university",
-                "mention_found_in_blogFiles": "\"sacramento_and_stockton.json,santa ana_and_stockton.json\"",
-                "mention_address": "\"University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-University_of_the_Pacific-Stockton_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-or10-University_of_the_Pacific-Stockton_California.html"
-                ],
-                "attraction_in_file": "stockton.json",
-                "blogLinks": [
-                    "http://www.bestplaces.net/city/california/stockton",
-                    "http://www.bestplaces.net/city/california/manteca"
-                ],
-                "imageUrls": [
-                    "http://khoemoivui.com/wp-content/uploads/2014/01/University-of-the-Pacific-Stockton-California.jpg",
-                    "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/news/images/University-Of-The-Pacific-Alumni.png",
-                    "http://medialibrarycdn.entrata.com/media_library/2748/5112d12ba2120298.jpg"
-                ],
-                "zip_code": "95211",
-                "attraction_ranking": "5",
-                "attraction_knownFor": "",
-                "mention_name": "university of the pacific",
-                "attraction_no_of_reviews": "21",
-                "mention_latitude": "37.98042375",
-                "attraction_contact": "(209) 946-2285",
-                "mention_longitude": "-121.312847098327"
-            },
-            "locType": "university",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/stockton"
-            ],
-            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
-            "latitude": "37.98042375"
-        },
-        "sutter creek": {
-            "closest_to": "stockton",
-            "longitude": "-120.8024356",
-            "enrich_metadata": {
-                "label": "Sutter Creek, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "NdYh0v4HvX8,O-QdlPgNXgo,cWizhGJmTCI",
-                "type": "http://dbpedia.org/resource/City",
-                "mention_address": "Sutter Creek, Amador County, California, United States of America",
-                "abstract": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49.",
-                "attraction_latitude": "38.3929675",
-                "no_of_blogFiles": "11",
-                "subject": "http://dbpedia.org/resource/Sutter_Creek,_California",
-                "attraction_in_file": "sutter_creek.json",
-                "imageUrls": [
-                    "http://www.suttercreekinn.com/090508/2006%20sutter%20creek%20740x554.jpg",
-                    "http://www.westernmininghistory.com/images/town_gallery/California-Sutter-Creek-2e209e82ff.jpg",
-                    "http://static.panoramio.com/photos/original/87967309.jpg"
-                ],
-                "mention_name": "sutter creek",
-                "mention_type": "city",
-                "attraction_longitude": "-120.8024356",
-                "attraction_in": "Sutter Creek",
-                "comment": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49.",
-                "mention_longitude": "-120.8024356",
-                "mention_latitude": "38.3929675",
-                "mention_popularity": "4",
-                "mention_found_in_blogFiles": "fresno_and_sacramento.json,mammoth lakes_and_monterey.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,sacramento_and_sausalito.json,sacramento_and_stockton.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Sutter Creek, Amador County, California, United States of America",
-            "latitude": "38.3929675"
-        },
-        "stockton": {
-            "closest_to": "stockton",
-            "longitude": "-121.2907795",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/stockton",
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Sacramento-Bypass-WA",
-                "http://blogs.esanjoaquin.com/valleytravel/",
-                "http://www.visitstockton.org/things-to-do/"
-            ],
-            "address": "Stockton, San Joaquin County, California, United States of America",
-            "latitude": "37.9577016"
-        },
-        "madison ave. sacramento": {
-            "closest_to": "sacramento",
-            "longitude": "-121.2647048",
-            "locType": "primary",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
-                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/"
-            ],
-            "address": "Madison Avenue, Citrus Heights, Sacramento County, California, 95628, United States of America",
-            "latitude": "38.664093"
-        },
-        "thornton rd": {
-            "closest_to": "stockton",
-            "longitude": "-121.3266819",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
-            ],
-            "address": "Thornton Road, Stockton, San Joaquin County, California, 95207, United States of America",
-            "latitude": "38.022652"
-        },
-        "sacramento valley": {
-            "closest_to": "sacramento",
-            "longitude": "-121.4943995",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Sacramento, Sacramento County, California, United States of America",
-            "latitude": "38.5815719"
-        },
-        "oxford circle": {
-            "closest_to": "stockton",
-            "longitude": "-121.308029593409",
-            "locType": "residential",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Oxford Circle, Stockton, San Joaquin County, California, 95204, United States of America",
-            "latitude": "37.9712385"
-        },
-        "lodi lake park": {
-            "closest_to": "stockton",
-            "longitude": "-121.2991146",
-            "enrich_metadata": {
-                "attraction_name": "Lodi Lake Park",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"RuDKgdGLJMQ,XJ7pAspBqN8,g7cZJfmUEH8\"",
-                "attraction_latitude": "",
-                "no_of_blogFiles": "1",
-                "mention_popularity": "1",
-                "attraction_reviewComments": [
-                    "Lodi lake park. What a beautiful addition to an already lovely city such as Lodi. From the lake to the almost 1 to 1 1/2 miles of wooded area towards the backside of the park... read more",
-                    "My wife an I have been taking walks in the Lodi Lake Nature Area for a long time, and sometimes see people kayaking on the lake and the Mokelumne River, which feeds the lake... read more",
-                    "Multi-purpose park. Picnic area with grills. Dogs are not allowed in the nature walk trail. Swimming, boating, jet skiing, kayaking, fishing some of the activities you can do... read more",
-                    "It was late evening and the dusk had encroached as we edged into the neighborhood for a rest from the day's festivities. Orange hues and grey clouds spread rampant like a... read more",
-                    "Lodi Lake Park is a gem! We went there to rent stand up paddle boards, and were pleasantly surprised at how beautiful it was. There are lots of spots to picnic, a little mini... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Lodi",
-                "attraction_address": "\"1101 West Turner Road , Lodi , CA 95240\"",
-                "mention_type": "park",
-                "mention_found_in_blogFiles": "sacramento_and_stockton.json",
-                "mention_address": "\"Lodi Lake Park, Turner Road, Lodi, San Joaquin County, California, 95241, United States of America\"",
-                "attraction_reviewUrls": [
-                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-Lodi_Lake_Park-Lodi_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or40-Lodi_Lake_Park-Lodi_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or30-Lodi_Lake_Park-Lodi_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or20-Lodi_Lake_Park-Lodi_California.html",
-                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or10-Lodi_Lake_Park-Lodi_California.html"
-                ],
-                "attraction_in_file": "lodi.json",
-                "blogLinks": [
-                    "http://blogs.esanjoaquin.com/valleytravel/"
-                ],
-                "imageUrls": [
-                    "http://static.panoramio.com/photos/large/1243662.jpg",
-                    "http://images2.mygola.com/6cd79f3ba894505326dd7192658c0676_1390720637_l.jpg",
-                    "https://hotels.anywayanyday.com/hotelimages_new/c8/0a/8a/d692e0/81BA6E_145_z.jpg"
-                ],
-                "zip_code": "95240",
-                "attraction_ranking": "2",
-                "attraction_knownFor": "\"Bodies of Water , Hiking Trails , Biking Trails , Nature & Parks , Outdoor Activities , More\"",
-                "mention_name": "lodi lake park",
-                "attraction_no_of_reviews": "50",
-                "mention_latitude": "38.147974",
-                "attraction_contact": "",
-                "mention_longitude": "-121.2991146"
-            },
-            "locType": "park",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Lodi Lake Park, Turner Road, Lodi, San Joaquin County, California, 95241, United States of America",
-            "latitude": "38.147974"
-        },
-        "elk grove boulevard": {
-            "closest_to": "stockton",
-            "longitude": "-121.4521195",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Elk Grove Boulevard, Elk Grove, Sacramento County, California, 95624, United States of America",
-            "latitude": "38.4086877"
+            "address": "Putah Creek Cafe, Main Street, Winters, Yolo County, California, 95694, United States of America"
         },
         "west sacramento": {
-            "closest_to": "sacramento",
-            "longitude": "-121.5302339",
+            "latitude": "38.5804609",
+            "locType": "city",
             "enrich_metadata": {
-                "attraction_in_file": "west_sacramento.json",
-                "label": "West Sacramento, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "Yepamxpm8vU,_ICrAbFhPT4,IAdheXqxWk0",
-                "type": "http://dbpedia.org/resource/California",
-                "mention_address": "West Sacramento, Yolo County, California, United States of America",
-                "abstract": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers. The United States Conference of Mayors named West Sacramento as the Most Livable City in America in 2014 in the category of cities with fewer than 100,000 residents. West Sacramento is part of the Sacramento\u2013Arden Arcade\u2013Roseville Metropolitan Statistical Area which has a population (2000) of approximately 1,796,857. Major industries to the region include agriculture, government, and transportation.",
-                "attraction_latitude": "38.5804609",
-                "no_of_blogFiles": "20",
-                "subject": "http://dbpedia.org/resource/West_Sacramento,_California",
                 "mention_popularity": "9",
+                "abstract": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers. The United States Conference of Mayors named West Sacramento as the Most Livable City in America in 2014 in the category of cities with fewer than 100,000 residents. West Sacramento is part of the Sacramento\u2013Arden Arcade\u2013Roseville Metropolitan Statistical Area which has a population (2000) of approximately 1,796,857. Major industries to the region include agriculture, government, and transportation.",
+                "no_of_blogFiles": "20",
+                "attraction_longitude": "-121.5302339",
+                "mention_address": "West Sacramento, Yolo County, California, United States of America",
                 "imageUrls": [
                     "http://photos.wikimapia.org/p/00/04/23/37/28_big.jpg",
                     "https://www.stadia.cc/wp-content/uploads/2015/09/Sacramento_Skyline.jpg",
                     "http://img.bestplaces.net/images/city/0684816_CA_West_Sacramento.png"
                 ],
-                "mention_name": "west sacramento",
-                "attraction_longitude": "-121.5302339",
-                "attraction_in": "West Sacramento",
-                "comment": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers.",
-                "mention_found_in_blogFiles": "avalon_and_sacramento.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_sacramento.json,berkeley_and_stockton.json,fremont_and_sacramento.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,napa_and_sacramento.json,napa_and_stockton.json,oakland_and_sacramento.json,oakland_and_stockton.json,riverside_and_sacramento.json,sacramento_and_stockton.json",
+                "label": "West Sacramento, California",
                 "mention_latitude": "38.5804609",
                 "mention_type": "city",
-                "mention_longitude": "-121.5302339"
+                "comment": "West Sacramento (also known as West Sac) is a city in Yolo County, California. It is contiguous with Sacramento, but is separated by the Sacramento River which is also the county line, so West Sacramento is in a different county from that of Sacramento. It is a fast-growing community; the population was 48,744 at the 2010 census, up from 31,615 at the 2000 census. The traditional industrial center of the region since the Gold Rush era, West Sacramento is home to a diverse economy and is one of the area's top four employment centers.",
+                "Confidence": "100",
+                "attraction_in": "West Sacramento",
+                "attraction_in_file": "west_sacramento.json",
+                "attraction_latitude": "38.5804609",
+                "mention_name": "west sacramento",
+                "youTubeLinkIds": "Yepamxpm8vU,_ICrAbFhPT4,IAdheXqxWk0",
+                "mention_found_in_blogFiles": "avalon_and_sacramento.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_sacramento.json,berkeley_and_stockton.json,fremont_and_sacramento.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,napa_and_sacramento.json,napa_and_stockton.json,oakland_and_sacramento.json,oakland_and_stockton.json,riverside_and_sacramento.json,sacramento_and_stockton.json",
+                "mention_longitude": "-121.5302339",
+                "subject": "http://dbpedia.org/resource/West_Sacramento,_California",
+                "type": "http://dbpedia.org/resource/California"
             },
-            "locType": "city",
+            "longitude": "-121.5302339",
             "blogLinks": [
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "West Sacramento, Yolo County, California, United States of America",
-            "latitude": "38.5804609"
+            "closest_to": "sacramento",
+            "address": "West Sacramento, Yolo County, California, United States of America"
         },
-        "locke": {
-            "closest_to": "stockton",
-            "longitude": "-121.5093973",
-            "locType": "hamlet",
+        "manteca": {
+            "latitude": "37.7986184",
+            "locType": "city",
+            "longitude": "-121.2117147",
             "blogLinks": [
-                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+                "http://blogs.esanjoaquin.com/valleytravel/",
+                "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "Locke, Sacramento County, California, United States of America",
-            "latitude": "38.2504703"
+            "closest_to": "stockton",
+            "address": "Manteca, San Joaquin County, California, United States of America"
+        },
+        "lincoln village west": {
+            "latitude": "38.0006569",
+            "locType": "residential",
+            "longitude": "-121.351012946088",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "2973, Lincoln Village West, Stockton, San Joaquin County, California, 95219, United States of America"
+        },
+        "american river": {
+            "latitude": "38.6051945",
+            "locType": "river",
+            "longitude": "-121.3128945",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
+            ],
+            "closest_to": "sacramento",
+            "address": "American River, Sacramento County, California, United States of America"
+        },
+        "oxford circle": {
+            "latitude": "37.9712385",
+            "locType": "residential",
+            "longitude": "-121.308029593409",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Oxford Circle, Stockton, San Joaquin County, California, 95204, United States of America"
+        },
+        "lodi lake": {
+            "latitude": "38.0922395",
+            "locType": "city",
+            "longitude": "-121.389845833665",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Lodi, San Joaquin County, California, United States of America"
+        },
+        "antioch": {
+            "latitude": "38.0049214",
+            "locType": "city",
+            "longitude": "-121.8057889",
+            "blogLinks": [
+                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html"
+            ],
+            "closest_to": "stockton",
+            "address": "Antioch, Contra Costa County, California, United States of America"
+        },
+        "mokelumne city": {
+            "latitude": "38.2529704",
+            "locType": "hamlet",
+            "longitude": "-121.4391181",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Mokelumne City, San Joaquin County, California, United States of America"
+        },
+        "lathrop": {
+            "latitude": "37.8227046",
+            "locType": "city",
+            "longitude": "-121.2766099",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/stockton"
+            ],
+            "closest_to": "stockton",
+            "address": "Lathrop, San Joaquin County, California, United States of America"
+        },
+        "thornton rd": {
+            "latitude": "38.022652",
+            "locType": "secondary",
+            "longitude": "-121.3266819",
+            "blogLinks": [
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
+            ],
+            "closest_to": "stockton",
+            "address": "Thornton Road, Stockton, San Joaquin County, California, 95207, United States of America"
+        },
+        "oakdale": {
+            "latitude": "37.7665947",
+            "locType": "city",
+            "longitude": "-120.8471544",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "Oakdale, Stanislaus County, California, United States of America"
+        },
+        "franklin boulevard": {
+            "latitude": "38.4555099",
+            "locType": "secondary",
+            "longitude": "-121.445526",
+            "blogLinks": [
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
+            ],
+            "closest_to": "stockton",
+            "address": "Franklin Boulevard, Sacramento, Sacramento County, California, 95823, United States of America"
+        },
+        "coloma": {
+            "latitude": "38.7999014",
+            "locType": "hamlet",
+            "longitude": "-120.8902159",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
+                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Coloma, El Dorado County, California, United States of America"
+        },
+        "sierra nevada": {
+            "latitude": "39.097593",
+            "locType": "residential",
+            "longitude": "-121.1396689",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/stockton",
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER",
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America"
+        },
+        "yuba-sutter": {
+            "latitude": "39.1404477",
+            "locType": "city",
+            "longitude": "-121.6169107",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Yuba City, Sutter County, California, United States of America"
+        },
+        "mokelumne rivers": {
+            "latitude": "38.1576421",
+            "locType": "river",
+            "longitude": "-121.536446",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "North Mokelumne River, California, United States of America"
         },
         "plymouth": {
-            "closest_to": "stockton",
-            "longitude": "-120.8446589",
+            "latitude": "38.4818531",
+            "locType": "city",
             "enrich_metadata": {
+                "mention_found_in_blogFiles": "sacramento_and_sausalito.json,sacramento_and_stockton.json",
                 "mention_popularity": "2",
-                "label": "Plymouth, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "amzAdq3Fli8,cdOl7M6zVGM,qDr_3t_lRxQ",
-                "type": "http://dbpedia.org/resource/City",
-                "attraction_in_file": "plymouth.json",
-                "abstract": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth.",
-                "attraction_latitude": "38.4818531",
                 "no_of_blogFiles": "2",
-                "subject": "http://dbpedia.org/resource/Plymouth,_California",
+                "attraction_longitude": "-120.8446589",
                 "mention_address": "Plymouth, Amador County, California, United States of America",
                 "imageUrls": [
                     "http://www.topvaluereviews.net/wp-content/uploads/2016/03/plymouth-california-small-town-wine-lovers.jpg",
                     "http://unomag.ru/image/cache/data/unomag/Plymouth/WB172-1000x1000.jpg",
                     "http://photos.wikimapia.org/p/00/02/57/50/79_big.jpg"
                 ],
-                "mention_name": "plymouth",
-                "attraction_longitude": "-120.8446589",
-                "attraction_in": "Plymouth",
-                "comment": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth.",
-                "mention_found_in_blogFiles": "sacramento_and_sausalito.json,sacramento_and_stockton.json",
+                "label": "Plymouth, California",
                 "mention_latitude": "38.4818531",
                 "mention_type": "city",
-                "mention_longitude": "-120.8446589"
+                "comment": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth.",
+                "Confidence": "100",
+                "attraction_in": "Plymouth",
+                "attraction_in_file": "plymouth.json",
+                "abstract": "Plymouth (formerly, Puckerville, Pokerville, and Poker Camp) is a city in Amador County, California, United States. The population was 1,005 at the 2010 census. The town was originally named Pokerville, when it was settled during the time of the Gold Rush. Plymouth is commonly now known as a \"Gateway to Shenandoah Valley\"; a popular wine producing region in the Sierra foothills. The Ione Band of Miwok Indians, a federally recognized tribe of Miwok people, is headquartered in Plymouth.",
+                "mention_name": "plymouth",
+                "youTubeLinkIds": "amzAdq3Fli8,cdOl7M6zVGM,qDr_3t_lRxQ",
+                "attraction_latitude": "38.4818531",
+                "mention_longitude": "-120.8446589",
+                "subject": "http://dbpedia.org/resource/Plymouth,_California",
+                "type": "http://dbpedia.org/resource/City"
             },
-            "locType": "city",
+            "longitude": "-120.8446589",
             "blogLinks": [
                 "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Plymouth, Amador County, California, United States of America",
-            "latitude": "38.4818531"
-        },
-        "vacaville": {
-            "closest_to": "sacramento",
-            "longitude": "-121.9877443",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Vacaville, Solano County, California, United States of America",
-            "latitude": "38.3565773"
-        },
-        "bruceville road": {
             "closest_to": "stockton",
-            "longitude": "-121.4180449",
-            "locType": "secondary",
+            "address": "Plymouth, Amador County, California, United States of America"
+        },
+        "franklin": {
+            "latitude": "38.3790776",
+            "locType": "hamlet",
+            "longitude": "-121.4543972",
             "blogLinks": [
                 "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
             ],
-            "address": "Bruceville Road, Sacramento, Sacramento County, California, 95758, United States of America",
-            "latitude": "38.448602"
-        },
-        "lodi": {
             "closest_to": "stockton",
-            "longitude": "-121.387849546574",
+            "address": "Franklin, Sacramento County, California, United States of America"
+        },
+        "carmel": {
+            "latitude": "38.75511285",
+            "locType": "residential",
+            "longitude": "-121.353308848273",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "https://www.trekaroo.com/places/california/snapshot"
+            ],
+            "closest_to": "sacramento",
+            "address": "Carmel, Roseville, Placer County, California, 95747, United States of America"
+        },
+        "vacaville": {
+            "latitude": "38.3565773",
             "locType": "city",
+            "longitude": "-121.9877443",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Vacaville, Solano County, California, United States of America"
+        },
+        "shenandoah valley museum": {
+            "latitude": "38.5449069",
+            "locType": "museum",
+            "longitude": "-120.7760452",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Shenandoah Valley Museum, Steiner Road, River Pines, Amador County, California, 95669, United States of America"
+        },
+        "ripon": {
+            "latitude": "37.741595",
+            "locType": "city",
+            "longitude": "-121.1243827",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Ripon, San Joaquin County, California, United States of America"
+        },
+        "sutter creek": {
+            "latitude": "38.3929675",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "4",
+                "abstract": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49.",
+                "no_of_blogFiles": "11",
+                "attraction_longitude": "-120.8024356",
+                "mention_address": "Sutter Creek, Amador County, California, United States of America",
+                "imageUrls": [
+                    "http://www.suttercreekinn.com/090508/2006%20sutter%20creek%20740x554.jpg",
+                    "http://www.westernmininghistory.com/images/town_gallery/California-Sutter-Creek-2e209e82ff.jpg",
+                    "http://static.panoramio.com/photos/original/87967309.jpg"
+                ],
+                "label": "Sutter Creek, California",
+                "mention_latitude": "38.3929675",
+                "attraction_in": "Sutter Creek",
+                "comment": "Sutter Creek (formerly spelled Sutter's Creek and Suttercreek; formerly named Suttersville) is a city in Amador County, California, United States. The population was 2,501 at the 2010 census, up from 2,303 at the 2000 census. It is accessible via State Route 49.",
+                "Confidence": "100",
+                "mention_type": "city",
+                "attraction_in_file": "sutter_creek.json",
+                "attraction_latitude": "38.3929675",
+                "mention_name": "sutter creek",
+                "youTubeLinkIds": "NdYh0v4HvX8,O-QdlPgNXgo,cWizhGJmTCI",
+                "mention_found_in_blogFiles": "fresno_and_sacramento.json,mammoth lakes_and_monterey.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_pismo beach.json,sacramento_and_sausalito.json,sacramento_and_stockton.json",
+                "mention_longitude": "-120.8024356",
+                "subject": "http://dbpedia.org/resource/Sutter_Creek,_California",
+                "type": "http://dbpedia.org/resource/City"
+            },
+            "longitude": "-120.8024356",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Sutter Creek, Amador County, California, United States of America"
+        },
+        "madison ave. sacramento": {
+            "latitude": "38.664093",
+            "locType": "primary",
+            "longitude": "-121.2647048",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
+                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Madison Avenue, Citrus Heights, Sacramento County, California, 95628, United States of America"
+        },
+        "san joaquin": {
+            "latitude": "37.9372901",
+            "locType": "administrative",
+            "longitude": "-121.2773718",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/stockton",
-                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
                 "http://blogs.esanjoaquin.com/valleytravel/",
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "Lodi, San Joaquin County, California, United States of America",
-            "latitude": "38.097198"
-        },
-        "san joaquin valley": {
             "closest_to": "stockton",
-            "longitude": "-121.2773718",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
-            ],
-            "address": "San Joaquin County, California, United States of America",
-            "latitude": "37.9372901"
-        },
-        "woodland": {
-            "closest_to": "sacramento",
-            "longitude": "-121.7733284",
-            "enrich_metadata": {
-                "mention_popularity": "3",
-                "label": "Woodland, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "imqWdNQOWGw,CTV10_J7QHI,m10yenBRPPk",
-                "type": "http://dbpedia.org/resource/California",
-                "attraction_in_file": "woodland.json",
-                "abstract": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census. Woodland's origins trace back to 1850 when California gained its statehood and Yolo County was established. Since the town started growing in population and resources, it has not stopped. The area was well irrigated due to the efforts of James Moore, and this drew people out to try their hand at farming. The endeavor was successful as people found the soil in the area very fertile. The city gained a federal post office and the next year the county seat was moved from Washington (present day West Sacramento, California) to Woodland after Washington was flooded. The addition of a railroad line, the close proximity to Sacramento, and the more recent addition of Interstate 5, helped create a thriving city.",
-                "attraction_latitude": "38.6786109",
-                "no_of_blogFiles": "14",
-                "subject": "http://dbpedia.org/resource/Woodland,_California",
-                "mention_address": "Woodland, Yolo County, California, United States of America",
-                "imageUrls": [
-                    "https://upload.wikimedia.org/wikipedia/commons/5/59/DowntownWoodland.JPG",
-                    "https://www.sei-international.org/mediamanager/images/News/sei-2016-yolo5.jpg",
-                    "http://s3-eu-west-1.amazonaws.com/youroute-media/system/photos/images/000/361/856/4a3cf35095d172c9858f119cb4003b1eceeb2ff9_original.jpg?1419552439"
-                ],
-                "mention_name": "woodland",
-                "attraction_longitude": "-121.7733284",
-                "attraction_in": "Woodland",
-                "comment": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census.",
-                "mention_longitude": "-121.7733284",
-                "mention_latitude": "38.6786109",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_sacramento.json,anaheim_and_stockton.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_carlsbad.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,napa_and_sacramento.json,napa_and_stockton.json,riverside_and_stockton.json,sacramento_and_stockton.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Woodland, Yolo County, California, United States of America",
-            "latitude": "38.6786109"
-        },
-        "manteca": {
-            "closest_to": "stockton",
-            "longitude": "-121.2117147",
-            "locType": "city",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/",
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "Manteca, San Joaquin County, California, United States of America",
-            "latitude": "37.7986184"
+            "address": "San Joaquin County, California, United States of America"
         },
         "sacramento": {
-            "closest_to": "sacramento",
-            "longitude": "-121.4943995",
+            "latitude": "38.5815719",
             "locType": "city",
+            "longitude": "-121.4943995",
             "blogLinks": [
                 "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
                 "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/",
@@ -641,215 +409,501 @@
                 "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "Sacramento, Sacramento County, California, United States of America",
-            "latitude": "38.5815719"
+            "closest_to": "sacramento",
+            "address": "Sacramento, Sacramento County, California, United States of America"
+        },
+        "joaquin county": {
+            "latitude": "37.9372901",
+            "locType": "administrative",
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America"
+        },
+        "turlock community theatre": {
+            "latitude": "37.4993327",
+            "locType": "theatre",
+            "longitude": "-120.832241",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "Turlock Community Theater, East Canal Drive, Turlock, Stanislaus County, California, 95380, United States of America"
+        },
+        "lodi lake park": {
+            "latitude": "38.147974",
+            "locType": "park",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "sacramento_and_stockton.json",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "1",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-Lodi_Lake_Park-Lodi_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or40-Lodi_Lake_Park-Lodi_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or30-Lodi_Lake_Park-Lodi_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or20-Lodi_Lake_Park-Lodi_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or10-Lodi_Lake_Park-Lodi_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "Lodi lake park. What a beautiful addition to an already lovely city such as Lodi. From the lake to the almost 1 to 1 1/2 miles of wooded area towards the backside of the park... read more",
+                            0.4625,
+                            0.6875,
+                            "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-Lodi_Lake_Park-Lodi_California.html"
+                        ],
+                        [
+                            "My wife an I have been taking walks in the Lodi Lake Nature Area for a long time, and sometimes see people kayaking on the lake and the Mokelumne River, which feeds the lake... read more",
+                            0.225,
+                            0.45,
+                            "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or40-Lodi_Lake_Park-Lodi_California.html"
+                        ],
+                        [
+                            "Multi-purpose park. Picnic area with grills. Dogs are not allowed in the nature walk trail. Swimming, boating, jet skiing, kayaking, fishing some of the activities you can do... read more",
+                            0.5,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or30-Lodi_Lake_Park-Lodi_California.html"
+                        ],
+                        [
+                            "It was late evening and the dusk had encroached as we edged into the neighborhood for a rest from the day's festivities. Orange hues and grey clouds spread rampant like a... read more",
+                            0.05000000000000001,
+                            0.39999999999999997,
+                            "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or20-Lodi_Lake_Park-Lodi_California.html"
+                        ],
+                        [
+                            "Lodi Lake Park is a gem! We went there to rent stand up paddle boards, and were pleasantly surprised at how beautiful it was. There are lots of spots to picnic, a little mini... read more",
+                            0.315625,
+                            0.725,
+                            "https://www.tripadvisor.com/Attraction_Review-g32640-d7689572-Reviews-or10-Lodi_Lake_Park-Lodi_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"1101 West Turner Road , Lodi , CA 95240\"",
+                "attraction_longitude": "",
+                "mention_type": "park",
+                "attraction_in_file": "lodi.json",
+                "mention_name": "lodi lake park",
+                "youTubeLinkIds": "\"RuDKgdGLJMQ,XJ7pAspBqN8,g7cZJfmUEH8\"",
+                "attraction_name": "Lodi Lake Park",
+                "mention_longitude": "-121.2991146",
+                "attraction_no_of_reviews": "50",
+                "mention_address": "\"Lodi Lake Park, Turner Road, Lodi, San Joaquin County, California, 95241, United States of America\"",
+                "blogLinks": [
+                    "http://blogs.esanjoaquin.com/valleytravel/"
+                ],
+                "mention_latitude": "38.147974",
+                "attraction_ranking": "2",
+                "attraction_knownFor": "\"Bodies of Water , Hiking Trails , Biking Trails , Nature & Parks , Outdoor Activities , More\"",
+                "zip_code": "95240",
+                "Confidence": "100",
+                "attraction_in": "Lodi",
+                "mention_popularity": "1",
+                "imageUrls": [
+                    "http://static.panoramio.com/photos/large/1243662.jpg",
+                    "http://images2.mygola.com/6cd79f3ba894505326dd7192658c0676_1390720637_l.jpg",
+                    "https://hotels.anywayanyday.com/hotelimages_new/c8/0a/8a/d692e0/81BA6E_145_z.jpg"
+                ],
+                "attraction_contact": "",
+                "attraction_reviewComments": [
+                    "Lodi lake park. What a beautiful addition to an already lovely city such as Lodi. From the lake to the almost 1 to 1 1/2 miles of wooded area towards the backside of the park... read more",
+                    "My wife an I have been taking walks in the Lodi Lake Nature Area for a long time, and sometimes see people kayaking on the lake and the Mokelumne River, which feeds the lake... read more",
+                    "Multi-purpose park. Picnic area with grills. Dogs are not allowed in the nature walk trail. Swimming, boating, jet skiing, kayaking, fishing some of the activities you can do... read more",
+                    "It was late evening and the dusk had encroached as we edged into the neighborhood for a rest from the day's festivities. Orange hues and grey clouds spread rampant like a... read more",
+                    "Lodi Lake Park is a gem! We went there to rent stand up paddle boards, and were pleasantly surprised at how beautiful it was. There are lots of spots to picnic, a little mini... read more"
+                ]
+            },
+            "longitude": "-121.2991146",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Lodi Lake Park, Turner Road, Lodi, San Joaquin County, California, 95241, United States of America"
+        },
+        "central california": {
+            "latitude": "38.392688",
+            "locType": "hamlet",
+            "longitude": "-121.573011",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/stockton",
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Central, Yolo County, California, United States of America"
         },
         "desmond road": {
-            "closest_to": "stockton",
-            "longitude": "-121.4390241",
+            "latitude": "38.2758785",
             "locType": "residential",
+            "longitude": "-121.4390241",
             "blogLinks": [
                 "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
             ],
-            "address": "Desmond Road, Sacramento County, California, United States of America",
-            "latitude": "38.2758785"
-        },
-        "central california": {
             "closest_to": "stockton",
-            "longitude": "-121.573011",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.bestplaces.net/city/california/stockton",
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Central, Yolo County, California, United States of America",
-            "latitude": "38.392688"
+            "address": "Desmond Road, Sacramento County, California, United States of America"
         },
-        "mokelumne rivers": {
-            "closest_to": "stockton",
-            "longitude": "-121.536446",
-            "locType": "river",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "North Mokelumne River, California, United States of America",
-            "latitude": "38.1576421"
-        },
-        "mokelumne city": {
-            "closest_to": "stockton",
-            "longitude": "-121.4391181",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Mokelumne City, San Joaquin County, California, United States of America",
-            "latitude": "38.2529704"
-        },
-        "sierra nevada": {
-            "closest_to": "sacramento",
-            "longitude": "-121.1396689",
+        "trinity parkway": {
+            "latitude": "38.0533353",
             "locType": "residential",
+            "longitude": "-121.3752466",
             "blogLinks": [
-                "http://www.bestplaces.net/city/california/stockton",
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "stockton",
+            "address": "Trinity Parkway, Stockton, San Joaquin County, California, 95209, United States of America"
+        },
+        "cosumnes river": {
+            "latitude": "38.2566724",
+            "locType": "river",
+            "longitude": "-121.4384786",
+            "blogLinks": [
                 "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER",
                 "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
-            "latitude": "39.097593"
-        },
-        "coloma": {
-            "closest_to": "sacramento",
-            "longitude": "-120.8902159",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
-                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/"
-            ],
-            "address": "Coloma, El Dorado County, California, United States of America",
-            "latitude": "38.7999014"
-        },
-        "shenandoah valley": {
-            "closest_to": "sacramento",
-            "longitude": "-120.8143799",
-            "locType": "dam",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Shenandoah Lake 486 Dam, Amador County, California, United States of America",
-            "latitude": "38.5332405"
-        },
-        "lincoln village west": {
             "closest_to": "stockton",
-            "longitude": "-121.351012946088",
-            "locType": "residential",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "2973, Lincoln Village West, Stockton, San Joaquin County, California, 95219, United States of America",
-            "latitude": "38.0006569"
+            "address": "Cosumnes River, Sacramento County, California, United States of America"
         },
-        "fiddletown road": {
-            "closest_to": "sacramento",
-            "longitude": "-120.7416099",
-            "locType": "tertiary",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Fiddletown Road, Fiddletown, Amador County, California, 95629, United States of America",
-            "latitude": "38.499907"
-        },
-        "san joaquin county": {
-            "closest_to": "stockton",
-            "longitude": "-121.2773718",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/",
-                "http://www.visitcentralvalley.com/places/"
-            ],
-            "address": "San Joaquin County, California, United States of America",
-            "latitude": "37.9372901"
-        },
-        "lodi lake": {
-            "closest_to": "stockton",
-            "longitude": "-121.389845833665",
+        "suisun": {
+            "latitude": "38.24690555",
             "locType": "city",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Lodi, San Joaquin County, California, United States of America",
-            "latitude": "38.0922395"
-        },
-        "cooperstown": {
-            "closest_to": "stockton",
-            "longitude": "-120.5446437",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://blogs.esanjoaquin.com/valleytravel/"
-            ],
-            "address": "Cooperstown, Stanislaus County, California, United States of America",
-            "latitude": "37.7432632"
-        },
-        "stanislaus county": {
-            "closest_to": "stockton",
-            "longitude": "-121.0501424",
-            "locType": "administrative",
+            "longitude": "-121.971724116502",
             "blogLinks": [
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "Stanislaus County, California, United States of America",
-            "latitude": "37.5500871"
-        },
-        "franklin boulevard": {
             "closest_to": "stockton",
-            "longitude": "-121.445526",
-            "locType": "secondary",
-            "blogLinks": [
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
-            ],
-            "address": "Franklin Boulevard, Sacramento, Sacramento County, California, 95823, United States of America",
-            "latitude": "38.4555099"
+            "address": "Suisun City, Solano County, California, United States of America"
         },
-        "thornton road": {
-            "closest_to": "stockton",
-            "longitude": "-121.3266819",
+        "elk grove boulevard": {
+            "latitude": "38.4086877",
             "locType": "secondary",
+            "longitude": "-121.4521195",
             "blogLinks": [
-                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
+                "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Thornton Road, Stockton, San Joaquin County, California, 95207, United States of America",
-            "latitude": "38.022652"
+            "closest_to": "stockton",
+            "address": "Elk Grove Boulevard, Elk Grove, Sacramento County, California, 95624, United States of America"
         },
         "lincoln center": {
-            "closest_to": "stockton",
-            "longitude": "-121.3220378",
+            "latitude": "38.0110579",
             "locType": "service",
+            "longitude": "-121.3220378",
             "blogLinks": [
                 "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Lincoln Center, Stockton, San Joaquin County, California, 95207, United States of America",
-            "latitude": "38.0110579"
-        },
-        "ripon": {
             "closest_to": "stockton",
-            "longitude": "-121.1243827",
-            "locType": "city",
+            "address": "Lincoln Center, Stockton, San Joaquin County, California, 95207, United States of America"
+        },
+        "thornton": {
+            "latitude": "38.2260268",
+            "locType": "hamlet",
+            "longitude": "-121.4246732",
             "blogLinks": [
                 "http://blogs.esanjoaquin.com/valleytravel/"
             ],
-            "address": "Ripon, San Joaquin County, California, United States of America",
-            "latitude": "37.741595"
-        },
-        "antioch": {
             "closest_to": "stockton",
-            "longitude": "-121.8057889",
-            "locType": "city",
-            "blogLinks": [
-                "https://www.tripadvisor.com/ShowTopic-g60713-i30-k5261581-Scenic_Route_from_San_Francisco_to_Sacramento-San_Francisco_California.html"
-            ],
-            "address": "Antioch, Contra Costa County, California, United States of America",
-            "latitude": "38.0049214"
+            "address": "Thornton, San Joaquin County, California, United States of America"
         },
-        "yuba-sutter": {
+        "san joaquin valley": {
+            "latitude": "37.9372901",
+            "locType": "administrative",
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America"
+        },
+        "fiddletown road": {
+            "latitude": "38.499907",
+            "locType": "tertiary",
+            "longitude": "-120.7416099",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
             "closest_to": "sacramento",
-            "longitude": "-121.6169107",
+            "address": "Fiddletown Road, Fiddletown, Amador County, California, 95629, United States of America"
+        },
+        "placerville": {
+            "latitude": "38.7296252",
             "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "21",
+                "abstract": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area.",
+                "no_of_blogFiles": "90",
+                "attraction_longitude": "-120.7985459",
+                "mention_address": "Placerville, El Dorado County, California, United States of America",
+                "imageUrls": [
+                    "http://pics4.city-data.com/cpicc/cfiles45566.jpg",
+                    "http://s41.radikal.ru/i094/1005/9f/fa3518f68b65.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/b/b8/2009-0724-Placerville-JPSodaWorks.jpg"
+                ],
+                "label": "Swansboro, California",
+                "mention_latitude": "38.7296252",
+                "mention_type": "city",
+                "comment": "Swansboro Country; a subdivision within the community of Mosquito, is a residential area northeast of Placerville, the county seat of El Dorado County, California. The population was approximately 1,000 at the 2010 census. It is part of the Sacramento\u2013Arden-Arcade\u2013Roseville Metropolitan Statistical Area.",
+                "Confidence": "100",
+                "attraction_in": "Placerville",
+                "attraction_in_file": "placerville.json",
+                "attraction_latitude": "38.7296252",
+                "mention_name": "placerville",
+                "youTubeLinkIds": "O7K2-l7-kD8,-89tMr3t9uc,DyX7SZMrhs4",
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_mammoth lakes.json,avalon_and_sacramento.json,anaheim_and_napa.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,big bear lake_and_sacramento.json,big bear lake_and_sausalito.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_santa barbara.json,fresno_and_los angeles.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san jose.json,fresno_and_stockton.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_sausalito.json,long beach_and_stockton.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_sacramento.json,napa_and_san luis obispo.json,napa_and_santa monica.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,napa_and_temecula.json,oakland_and_sacramento.json,oakland_and_san luis obispo.json,oakland_and_santa clarita.json,pasadena_and_sausalito.json,pismo beach_and_sacramento.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_sausalito.json,sacramento_and_stockton.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san diego_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,santa clarita_and_sausalito.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_longitude": "-120.7985459",
+                "subject": "http://dbpedia.org/resource/Swansboro,_California",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-120.7985459",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Placerville, El Dorado County, California, United States of America"
+        },
+        "sacramento valley": {
+            "latitude": "38.5815719",
+            "locType": "city",
+            "longitude": "-121.4943995",
             "blogLinks": [
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "Yuba City, Sutter County, California, United States of America",
-            "latitude": "39.1404477"
+            "closest_to": "sacramento",
+            "address": "Sacramento, Sacramento County, California, United States of America"
         },
-        "san joaquin": {
+        "cooperstown": {
+            "latitude": "37.7432632",
+            "locType": "hamlet",
+            "longitude": "-120.5446437",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
             "closest_to": "stockton",
-            "longitude": "-121.2773718",
-            "locType": "administrative",
+            "address": "Cooperstown, Stanislaus County, California, United States of America"
+        },
+        "stockton": {
+            "latitude": "37.9577016",
+            "locType": "city",
+            "longitude": "-121.2907795",
             "blogLinks": [
                 "http://www.bestplaces.net/city/california/stockton",
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Sacramento-Bypass-WA",
+                "http://blogs.esanjoaquin.com/valleytravel/",
+                "http://www.visitstockton.org/things-to-do/"
+            ],
+            "closest_to": "stockton",
+            "address": "Stockton, San Joaquin County, California, United States of America"
+        },
+        "thornton road": {
+            "latitude": "38.022652",
+            "locType": "secondary",
+            "longitude": "-121.3266819",
+            "blogLinks": [
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
+            ],
+            "closest_to": "stockton",
+            "address": "Thornton Road, Stockton, San Joaquin County, California, 95207, United States of America"
+        },
+        "bruceville road": {
+            "latitude": "38.448602",
+            "locType": "secondary",
+            "longitude": "-121.4180449",
+            "blogLinks": [
+                "https://www.wildlife.ca.gov/Lands/Places-to-Visit/Cosumnes-River-ER"
+            ],
+            "closest_to": "stockton",
+            "address": "Bruceville Road, Sacramento, Sacramento County, California, 95758, United States of America"
+        },
+        "stanislaus county": {
+            "latitude": "37.5500871",
+            "locType": "administrative",
+            "longitude": "-121.0501424",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "Stanislaus County, California, United States of America"
+        },
+        "woodland": {
+            "latitude": "38.6786109",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_sacramento.json,anaheim_and_stockton.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_stockton.json,berkeley_and_carlsbad.json,fresno_and_napa.json,fresno_and_sacramento.json,fresno_and_stockton.json,napa_and_sacramento.json,napa_and_stockton.json,riverside_and_stockton.json,sacramento_and_stockton.json",
+                "mention_popularity": "3",
+                "no_of_blogFiles": "14",
+                "attraction_longitude": "-121.7733284",
+                "mention_address": "Woodland, Yolo County, California, United States of America",
+                "imageUrls": [
+                    "https://upload.wikimedia.org/wikipedia/commons/5/59/DowntownWoodland.JPG",
+                    "https://www.sei-international.org/mediamanager/images/News/sei-2016-yolo5.jpg",
+                    "http://s3-eu-west-1.amazonaws.com/youroute-media/system/photos/images/000/361/856/4a3cf35095d172c9858f119cb4003b1eceeb2ff9_original.jpg?1419552439"
+                ],
+                "label": "Woodland, California",
+                "mention_latitude": "38.6786109",
+                "mention_type": "city",
+                "comment": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census.",
+                "Confidence": "100",
+                "attraction_in": "Woodland",
+                "attraction_in_file": "woodland.json",
+                "abstract": "Woodland is the county seat of Yolo County, California, located approximately 15 miles (24 km) northwest of Sacramento, and is a part of the Sacramento - Arden-Arcade - Roseville Metropolitan Statistical Area. The population was 55,468 at the 2010 census. Woodland's origins trace back to 1850 when California gained its statehood and Yolo County was established. Since the town started growing in population and resources, it has not stopped. The area was well irrigated due to the efforts of James Moore, and this drew people out to try their hand at farming. The endeavor was successful as people found the soil in the area very fertile. The city gained a federal post office and the next year the county seat was moved from Washington (present day West Sacramento, California) to Woodland after Washington was flooded. The addition of a railroad line, the close proximity to Sacramento, and the more recent addition of Interstate 5, helped create a thriving city.",
+                "mention_name": "woodland",
+                "youTubeLinkIds": "imqWdNQOWGw,CTV10_J7QHI,m10yenBRPPk",
+                "attraction_latitude": "38.6786109",
+                "mention_longitude": "-121.7733284",
+                "subject": "http://dbpedia.org/resource/Woodland,_California",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-121.7733284",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Woodland, Yolo County, California, United States of America"
+        },
+        "university of the pacific": {
+            "latitude": "37.98042375",
+            "locType": "university",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "\"sacramento_and_stockton.json,santa ana_and_stockton.json\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "2",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-University_of_the_Pacific-Stockton_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-or10-University_of_the_Pacific-Stockton_California.html"
+                ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "Was here for volleyball and really enjoyed the atmosphere and spirit of the school. Fun band and talented volleyball team.",
+                            0.5,
+                            0.6,
+                            "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-University_of_the_Pacific-Stockton_California.html"
+                        ],
+                        [
+                            "We did a self paced tour of the University of the Pacific, which is a beautiful campus in Stockton. It is often listed by US News and World Report as one of the top 100... read more",
+                            0.6166666666666667,
+                            0.6666666666666666,
+                            "https://www.tripadvisor.com/Attraction_Review-g33130-d7238330-Reviews-or10-University_of_the_Pacific-Stockton_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"3601 Pacific Ave , Stockton , CA 95211-0197\"",
+                "attraction_longitude": "",
+                "mention_type": "university",
+                "attraction_in_file": "stockton.json",
+                "mention_name": "university of the pacific",
+                "youTubeLinkIds": "\"_NigsfqD-gQ,Dw0zrUBavuM\"",
+                "attraction_name": "University of the Pacific",
+                "mention_longitude": "-121.312847098327",
+                "attraction_no_of_reviews": "21",
+                "mention_address": "\"University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America\"",
+                "blogLinks": [
+                    "http://www.bestplaces.net/city/california/stockton",
+                    "http://www.bestplaces.net/city/california/manteca"
+                ],
+                "mention_latitude": "37.98042375",
+                "attraction_ranking": "5",
+                "attraction_knownFor": "",
+                "zip_code": "95211",
+                "Confidence": "100",
+                "attraction_in": "Stockton",
+                "mention_popularity": "2",
+                "imageUrls": [
+                    "http://khoemoivui.com/wp-content/uploads/2014/01/University-of-the-Pacific-Stockton-California.jpg",
+                    "https://s3-us-west-2.amazonaws.com/asset.plexuss.com/news/images/University-Of-The-Pacific-Alumni.png",
+                    "http://medialibrarycdn.entrata.com/media_library/2748/5112d12ba2120298.jpg"
+                ],
+                "attraction_contact": "(209) 946-2285",
+                "attraction_reviewComments": [
+                    "Was here for volleyball and really enjoyed the atmosphere and spirit of the school. Fun band and talented volleyball team.",
+                    "We did a self paced tour of the University of the Pacific, which is a beautiful campus in Stockton. It is often listed by US News and World Report as one of the top 100... read more"
+                ]
+            },
+            "longitude": "-121.312847098327",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/stockton"
+            ],
+            "closest_to": "stockton",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America"
+        },
+        "modesto": {
+            "latitude": "37.6390972",
+            "locType": "city",
+            "longitude": "-120.9968781",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/",
+                "http://sacramento.cbslocal.com/top-lists/best-cheap-long-weekend-trips-near-sacramento/",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "Modesto, Stanislaus County, California, United States of America"
+        },
+        "locke": {
+            "latitude": "38.2504703",
+            "locType": "hamlet",
+            "longitude": "-121.5093973",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html"
+            ],
+            "closest_to": "stockton",
+            "address": "Locke, Sacramento County, California, United States of America"
+        },
+        "shenandoah valley": {
+            "latitude": "38.5332405",
+            "locType": "dam",
+            "longitude": "-120.8143799",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Shenandoah Lake 486 Dam, Amador County, California, United States of America"
+        },
+        "lodi": {
+            "latitude": "38.097198",
+            "locType": "city",
+            "longitude": "-121.387849546574",
+            "blogLinks": [
+                "http://www.bestplaces.net/city/california/stockton",
+                "http://traveltips.usatoday.com/driving-sacramento-los-angeles-108352.html",
                 "http://blogs.esanjoaquin.com/valleytravel/",
                 "http://www.visitcentralvalley.com/places/"
             ],
-            "address": "San Joaquin County, California, United States of America",
-            "latitude": "37.9372901"
+            "closest_to": "stockton",
+            "address": "Lodi, San Joaquin County, California, United States of America"
+        },
+        "fairfield": {
+            "latitude": "38.2493581",
+            "locType": "city",
+            "longitude": "-122.0399662",
+            "blogLinks": [
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Fairfield, Solano County, California, United States of America"
+        },
+        "putah creek state wildlife area": {
+            "latitude": "38.5110183",
+            "locType": "park",
+            "longitude": "-122.0844158",
+            "blogLinks": [
+                "http://sacramento.cbslocal.com/top-lists/the-scenic-drives-within-60-miles-of-sacramento/"
+            ],
+            "closest_to": "sacramento",
+            "address": "Putah Creek State Wildlife Area, CA 128, Yolo County, California, 95694, United States of America"
+        },
+        "san joaquin county": {
+            "latitude": "37.9372901",
+            "locType": "administrative",
+            "longitude": "-121.2773718",
+            "blogLinks": [
+                "http://blogs.esanjoaquin.com/valleytravel/",
+                "http://www.visitcentralvalley.com/places/"
+            ],
+            "closest_to": "stockton",
+            "address": "San Joaquin County, California, United States of America"
         }
     }
 }

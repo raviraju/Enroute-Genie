@@ -1,457 +1,141 @@
 {
+    "fremont": {
+        "lon": "-121.9885718",
+        "display_name": "Fremont, Alameda County, California, United States of America",
+        "importance": 0.70373394703995,
+        "osm_id": "111943",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.5482697",
+        "place_id": "159050638",
+        "osm_type": "relation",
+        "boundingbox": [
+            "37.4539501",
+            "37.6066739",
+            "-122.1509872",
+            "-121.8701127"
+        ],
+        "type": "city"
+    },
     "mentions": {
-        "windsor": {
-            "closest_to": "fremont",
-            "longitude": "-122.804427291464",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Windsor, Sonoma County, California, United States of America",
-            "latitude": "38.519758"
-        },
-        "san diego": {
-            "closest_to": "riverside",
-            "longitude": "-117.1627713",
-            "enrich_metadata": {
-                "mention_popularity": "431",
-                "label": "San Diego",
-                "Confidence": "100",
-                "youTubeLinkIds": "ptokz5eklj4,Bnk61XHm3wM,Cywg-Alx1xY",
-                "type": "http://dbpedia.org/resource/California",
-                "attraction_in_file": "san_diego.json",
-                "abstract": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico. With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the U.S. Navy, and recent emergence as a healthcare and biotechnology development center. Historically home to the Kumeyaay people, San Diego was the first site visited by Europeans on what is now the West Coast of the United States. Upon landing in San Diego Bay in 1542, Juan Rodr\u00edguez Cabrillo claimed the entire area for Spain, forming the basis for the settlement of Alta California 200 years later. The Presidio and Mission of San Diego, founded in 1769, formed the first European settlement in what is now California. In 1821, San Diego became part of newly independent Mexico, and in 1850, became part of the United States following the Mexican\u2013American War and the admission of California to the union. The city is the seat of San Diego County and is the economic center of the region as well as the San Diego\u2013Tijuana metropolitan area. San Diego's main economic engines are military and defense-related activities, tourism, international trade, and manufacturing. The presence of the University of California, San Diego (UCSD), with the affiliated UCSD Medical Center, has helped make the area a center of research in biotechnology.",
-                "attraction_latitude": "32.7174209",
-                "no_of_blogFiles": "358",
-                "subject": "http://dbpedia.org/resource/San_Diego",
-                "mention_address": "San Diego, San Diego County, California, United States of America",
-                "imageUrls": [
-                    "https://lanniinsurance.com/wp-content/uploads/2012/01/san_diego_ca1.jpeg",
-                    "http://www.tapeciarnia.pl/tapety/normalne/239793_panorama_san_diego_z_lotu_ptaka.jpg",
-                    "http://compareratesforfree.com/wp-content/uploads/2012/05/feat-san-diego.jpg"
-                ],
-                "mention_name": "san diego",
-                "attraction_longitude": "-117.1627713",
-                "attraction_in": "San Diego",
-                "comment": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico.",
-                "mention_longitude": "-117.1627713",
-                "mention_latitude": "32.7174209",
-                "mention_type": "city",
-                "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pismo beach.json,anaheim_and_sacramento.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pismo beach.json,avalon_and_sacramento.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_malibu.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_santa ana.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa barbara.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_malibu.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san diego.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pismo beach.json,huntington beach_and_sacramento.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fremont_and_riverside.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pismo beach.json,long beach_and_sacramento.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa cruz.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pismo beach.json,los angeles_and_sacramento.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_newport beach.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_san diego.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_santa ana.json,pismo beach_and_santa monica.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san diego_and_temecula.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "San Diego, San Diego County, California, United States of America",
-            "latitude": "32.7174209"
-        },
-        "mission bay ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.3911711",
-            "locType": "neighbourhood",
+        "morro rock ca": {
+            "latitude": "35.369669",
+            "locType": "peak",
+            "longitude": "-120.8676993",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Mission Bay, SF, California, 94158, United States of America",
-            "latitude": "37.7707742"
-        },
-        "willamette valley": {
             "closest_to": "riverside",
-            "longitude": "-117.2015989",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.tripadvisor.com/"
-            ],
-            "address": "Willamette Avenue, Pacific Beach, San Diego, San Diego County, California, 92117, United States of America",
-            "latitude": "32.827629"
-        },
-        "seattle": {
-            "closest_to": "fremont",
-            "longitude": "-121.9226289",
-            "locType": "residential",
-            "blogLinks": [
-                "http://fremont.com/",
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Seattle, Dorris, Siskiyou County, California, 96023, United States of America",
-            "latitude": "41.9641881"
-        },
-        "pacific crest trail": {
-            "closest_to": "fremont",
-            "longitude": "-120.6375709",
-            "locType": "residential",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "Pacific Crest Trail, Pleasant Valley, El Dorado County, California, 95667, United States of America",
-            "latitude": "38.69418"
-        },
-        "oregon": {
-            "closest_to": "riverside",
-            "longitude": "-117.7911567",
-            "locType": "residential",
-            "blogLinks": [
-                "https://www.tripadvisor.com/"
-            ],
-            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America",
-            "latitude": "33.7123207"
-        },
-        "morro bay ca": {
-            "closest_to": "riverside",
-            "longitude": "-120.8499012",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Morro Bay, San Luis Obispo County, California, United States of America",
-            "latitude": "35.3658075"
-        },
-        "aliso creek": {
-            "closest_to": "riverside",
-            "longitude": "-117.7034805",
-            "locType": "stream",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "Aliso Creek, Laguna Woods, Orange County, California, United States of America",
-            "latitude": "33.602558"
-        },
-        "pebble beach ca": {
-            "closest_to": "riverside",
-            "longitude": "-121.9466112",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Pebble Beach, Monterey County, California, United States of America",
-            "latitude": "36.5664874"
-        },
-        "us": {
-            "closest_to": "riverside",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
-                "http://www.california-blog.com/"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
-        },
-        "palm springs air museum ca": {
-            "closest_to": "riverside",
-            "longitude": "-116.504677958796",
-            "locType": "museum",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America",
-            "latitude": "33.83250375"
-        },
-        "whittier hills whittier": {
-            "closest_to": "riverside",
-            "longitude": "-117.993545449378",
-            "locType": "library",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "Whittwood Branch Whittier Public Library, Starbuck Street, Friendly Hills, Whittier, Los Angeles County, California, 90603, United States of America",
-            "latitude": "33.9397495"
-        },
-        "ojai valley": {
-            "closest_to": "riverside",
-            "longitude": "-119.2428889",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Ojai, Ventura County, California, United States of America",
-            "latitude": "34.4480495"
-        },
-        "palos verdes peninsula ca": {
-            "closest_to": "riverside",
-            "longitude": "-118.372196730215",
-            "locType": "school",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America",
-            "latitude": "33.77984925"
-        },
-        "fremont": {
-            "closest_to": "riverside",
-            "longitude": "-121.9885718",
-            "enrich_metadata": {
-                "label": "Fremont, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "tpSNk4oylXY,P0557v4M0PQ,VHSs812FCOA",
-                "type": "http://dbpedia.org/resource/California",
-                "mention_address": "Fremont, Alameda County, California, United States of America",
-                "abstract": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\" Located in the southeast section of the San Francisco Bay Area in the East Bay region primarily, Fremont has a population of around 220,000. It is the fourth most populous city in the San Francisco Bay Area, and the largest suburb in the metropolis. It is the closest East Bay city to Silicon Valley, and is thus sometimes associated with it. The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area. Fremont is home to the largest population of Afghan Americans in the United States.",
-                "attraction_latitude": "37.5482697",
-                "no_of_blogFiles": "66",
-                "subject": "http://dbpedia.org/resource/Fremont,_California",
-                "attraction_in_file": "fremont.json",
-                "imageUrls": [
-                    "https://www.wikiplanet.click/imgw/Mission-Peak-2006.jpg",
-                    "http://www.taylorbenefitsinsurance.com/wp-content/uploads/2014/04/fremont.jpg",
-                    "http://2.bp.blogspot.com/-USRfkNiRrNw/UrSNCr56wUI/AAAAAAAAGBM/yGxICeleFkI/s1600/fremont_map_san_francisco.gif"
-                ],
-                "mention_name": "fremont",
-                "mention_type": "city",
-                "attraction_longitude": "-121.9885718",
-                "attraction_in": "Fremont",
-                "comment": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\"The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area.Fremont is home to the largest population of Afghan Americans in the United States.",
-                "mention_longitude": "-121.9885718",
-                "mention_latitude": "37.5482697",
-                "mention_popularity": "144",
-                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_santa cruz.json,avalon_and_fremont.json,berkeley_and_san jose.json,bakersfield_and_fremont.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fremont.json,berkeley_and_fresno.json,beverly hills_and_fremont.json,big bear lake_and_san jose.json,carlsbad_and_fremont.json,carlsbad_and_santa cruz.json,fremont_and_irvine.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_santa cruz.json,fresno_and_temecula.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_san jose.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,los angeles_and_santa cruz.json,newport beach_and_santa cruz.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,sacramento_and_santa cruz.json,san bernardino_and_santa cruz.json,san diego_and_santa cruz.json,san francisco_and_santa clarita.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://fremont.com/",
-                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Fremont, Alameda County, California, United States of America",
-            "latitude": "37.5482697"
-        },
-        "new york": {
-            "closest_to": "riverside",
-            "longitude": "-117.8984509",
-            "locType": "service",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America",
-            "latitude": "34.0143928"
-        },
-        "newport beach ca": {
-            "closest_to": "riverside",
-            "longitude": "-117.92944",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Newport Beach, Orange County, California, United States of America",
-            "latitude": "33.6170092"
+            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America"
         },
         "eaton canyon park": {
-            "closest_to": "riverside",
-            "longitude": "-118.095556461784",
+            "latitude": "34.18216575",
             "locType": "park",
+            "longitude": "-118.095556461784",
             "blogLinks": [
                 "http://www.tripleblaze.com/best/?c=8"
             ],
-            "address": "Eaton Canyon Park, Canyon View Lane, Pasadena, Los Angeles County, California, 91107, United States of America",
-            "latitude": "34.18216575"
-        },
-        "mojave desert ca": {
             "closest_to": "riverside",
-            "longitude": "-115.548963686646",
-            "locType": "desert",
+            "address": "Eaton Canyon Park, Canyon View Lane, Pasadena, Los Angeles County, California, 91107, United States of America"
+        },
+        "new york": {
+            "latitude": "34.0143928",
+            "locType": "service",
+            "longitude": "-117.8984509",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "New York, West Covina, Los Angeles County, California, 91792, United States of America"
+        },
+        "newport beach ca": {
+            "latitude": "33.6170092",
+            "locType": "city",
+            "longitude": "-117.92944",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
-            "latitude": "35.1456319"
+            "closest_to": "riverside",
+            "address": "Newport Beach, Orange County, California, United States of America"
         },
         "malibu": {
-            "closest_to": "riverside",
-            "longitude": "-116.5023561",
+            "latitude": "33.7932142",
             "locType": "residential",
+            "longitude": "-116.5023561",
             "blogLinks": [
                 "http://www.tripleblaze.com/best/?c=8"
             ],
-            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
-            "latitude": "33.7932142"
-        },
-        "mount baldy ca": {
             "closest_to": "riverside",
-            "longitude": "-117.6600552",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Mount Baldy, Los Angeles County, California, United States of America",
-            "latitude": "34.2361168"
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America"
         },
-        "kern river": {
-            "closest_to": "riverside",
-            "longitude": "-118.4124188",
-            "locType": "river",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Kern River, Tulare County, California, United States of America",
-            "latitude": "36.6816956"
-        },
-        "southern california": {
-            "closest_to": "riverside",
-            "longitude": "-118.286343973446",
-            "locType": "university",
-            "blogLinks": [
-                "https://www.tripadvisor.com/"
-            ],
-            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
-            "latitude": "34.0224149"
-        },
-        "pasadena": {
-            "closest_to": "riverside",
-            "longitude": "-118.1444778",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "Pasadena, Los Angeles County, California, United States of America",
-            "latitude": "34.1476452"
-        },
-        "palisades": {
-            "closest_to": "riverside",
-            "longitude": "-117.0493668",
-            "locType": "hamlet",
+        "alpha phi": {
+            "latitude": "37.9818363",
+            "locType": "yes",
+            "longitude": "-121.311315241098",
             "blogLinks": [
                 "http://www.fremontuniverse.com/"
             ],
-            "address": "Palisades, San Diego County, California, United States of America",
-            "latitude": "32.974109"
+            "closest_to": "riverside",
+            "address": "Alpha Phi, Presidents Drive, Stockton, San Joaquin County, California, 95211, United States of America"
         },
-        "seattle center": {
+        "napa valley ca": {
+            "latitude": "38.2972603",
+            "locType": "secondary",
+            "longitude": "-122.3002947",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
             "closest_to": "fremont",
-            "longitude": "-123.3031612",
-            "locType": "stream",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Seattle Creek, Siskiyou County, California, United States of America",
-            "latitude": "41.8430395"
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America"
         },
         "aurora": {
-            "closest_to": "riverside",
-            "longitude": "-121.002712",
+            "latitude": "37.65993",
             "locType": "hamlet",
+            "longitude": "-121.002712",
             "blogLinks": [
                 "http://www.fremontuniverse.com/"
             ],
-            "address": "Aurora, Stanislaus County, California, United States of America",
-            "latitude": "37.65993"
+            "closest_to": "riverside",
+            "address": "Aurora, Stanislaus County, California, United States of America"
         },
         "canada": {
-            "closest_to": "riverside",
-            "longitude": "-117.7641381",
+            "latitude": "33.7298842",
             "locType": "residential",
+            "longitude": "-117.7641381",
             "blogLinks": [
                 "http://www.fremontuniverse.com/"
             ],
-            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America",
-            "latitude": "33.7298842"
-        },
-        "morongo valley": {
             "closest_to": "riverside",
-            "longitude": "-116.596723958419",
+            "address": "La Canada, Lower Peters Canyon, Irvine, Orange County, California, 92602, United States of America"
+        },
+        "windsor": {
+            "latitude": "38.519758",
             "locType": "administrative",
+            "longitude": "-122.804427291464",
             "blogLinks": [
-                "http://www.california-blog.com/"
+                "http://www.fremontuniverse.com/"
             ],
-            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America",
-            "latitude": "34.0537585"
-        },
-        "monrovia": {
-            "closest_to": "riverside",
-            "longitude": "-118.0014516",
-            "enrich_metadata": {
-                "attraction_in_file": "monrovia.json",
-                "label": "Monrovia, California",
-                "Confidence": "100",
-                "youTubeLinkIds": "85R5EMA4K-0,M3gFdghjTGw,Ke5oBLf6kj0",
-                "type": "http://dbpedia.org/resource/California",
-                "mention_address": "Monrovia, Los Angeles County, California, United States of America",
-                "abstract": "Monrovia is a city located in the foothills of the San Gabriel Mountains in the San Gabriel Valley of Los Angeles County, California, United States. The population was 36,590 at the 2010 census, down from 36,929 in 2000. Monrovia has been used for filming TV shows, movies and commercials.",
-                "attraction_latitude": "34.1483499",
-                "no_of_blogFiles": "155",
-                "subject": "http://dbpedia.org/resource/Monrovia,_California",
-                "mention_popularity": "5",
-                "imageUrls": [
-                    "https://upload.wikimedia.org/wikipedia/commons/9/9a/Monrovia_CA_San_Gabriel_Mountains_i210.JPG",
-                    "http://www.eatz-associates.com/wp-content/uploads/fsrep/houses/additional/large/492-1.jpg",
-                    "http://www.fpimages.com/wp-content/uploads/2015/01/monrovia-outdoor-christmas-decorations-night-images-6.jpg"
-                ],
-                "mention_name": "monrovia",
-                "attraction_longitude": "-118.0014516",
-                "attraction_in": "Monrovia",
-                "comment": "Monrovia is a city located in the foothills of the San Gabriel Mountains in the San Gabriel Valley of Los Angeles County, California, United States. The population was 36,590 at the 2010 census, down from 36,929 in 2000. Monrovia has been used for filming TV shows, movies and commercials.",
-                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_beverly hills.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_irvine.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_beverly hills.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_pasadena.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_santa monica.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_san bernardino.json,beverly hills_and_temecula.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_san bernardino.json,irvine_and_san jose.json,irvine_and_sausalito.json,fremont_and_riverside.json,fresno_and_riverside.json,irvine_and_pasadena.json,los angeles_and_san bernardino.json,malibu_and_oakland.json,malibu_and_riverside.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_temecula.json,malibu_and_monterey.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,riverside_and_sacramento.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san bernardino_and_temecula.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
-                "mention_latitude": "34.1483499",
-                "mention_type": "city",
-                "mention_longitude": "-118.0014516"
-            },
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Monrovia, Los Angeles County, California, United States of America",
-            "latitude": "34.1483499"
-        },
-        "mount san gorgonio ca": {
-            "closest_to": "riverside",
-            "longitude": "-116.8766731",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America",
-            "latitude": "33.9121294"
-        },
-        "north lake ca": {
             "closest_to": "fremont",
-            "longitude": "-122.501983281136",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
-            "latitude": "37.76958295"
+            "address": "Windsor, Sonoma County, California, United States of America"
         },
-        "san jacinto ca": {
-            "closest_to": "riverside",
-            "longitude": "-116.9586349",
+        "moreno valley ca": {
+            "latitude": "33.937517",
             "locType": "city",
+            "longitude": "-117.2305943",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "San Jacinto, Riverside County, California, United States of America",
-            "latitude": "33.7839084"
+            "closest_to": "riverside",
+            "address": "Moreno Valley, Riverside County, California, United States of America"
         },
         "riverside national cemetery": {
-            "closest_to": "riverside",
-            "longitude": "-117.270726607134",
+            "latitude": "33.87692125",
+            "locType": "cemetery",
             "enrich_metadata": {
-                "attraction_name": "Riverside National Cemetery",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"9vG6a2k5BfU,gwQUVuAxmh8,-wWoKctT58M\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_irvine.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_beverly hills.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_riverside.json,beverly hills_and_temecula.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_riverside.json,irvine_and_san bernardino.json,irvine_and_san jose.json,irvine_and_sausalito.json,fremont_and_riverside.json,fresno_and_riverside.json,irvine_and_pasadena.json,malibu_and_oakland.json,malibu_and_riverside.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,malibu_and_temecula.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_temecula.json,malibu_and_monterey.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,riverside_and_sacramento.json,riverside_and_san bernardino.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_sausalito.json,san bernardino_and_temecula.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json\"",
                 "attraction_latitude": "",
                 "no_of_blogFiles": "140",
-                "mention_popularity": "3",
-                "attraction_reviewComments": [
-                    "First time here. Until recently, I have never had friends buried here. Respect for our fallen veterans is displayed well here. When in Riverside, take some time to visit our... read more",
-                    "Went to pay respects, and while there learned about the Medal Of Honor Memorial. It is worth the time to visit, and is well maintained.",
-                    "Came here in April 2013 to visit my father's gravesite. He was a WWII vet, who moved from Midwest to LA in 1980s. Can't express how lovely the grounds are, and how meaningful it... read more",
-                    "Great place to honor our countries heroes. Very quiet and a place of great respect, easy access from the freeway.",
-                    "My parents are both buried here. My father served time in the Navy and our family was very proud of his service and being able to be Interred in this Military Cemetery. The... read more",
-                    "I took a nice drive around the grounds on this gloomy rainy day. The cemetery is very well maintained and a respectful place for our honored veterens. The ponds, fountains and... read more",
-                    "This park is close to our home. We frequently wander about this beautiful place. It is kept immaculate. It has one of four Metal of Honor Memorials in the United States. But, it... read more",
-                    "A friend and co-worker from my first overseas assignment is buried here. Unlike other VA cemeteries the grave markers are all flush with the ground. It's a very nice, peaceful... read more",
-                    "This place is beautiful and the service locations are all wonderful with some having stunning views. The locations for interment and inurment are wonderful.",
-                    "I've visited this place every year for the past 12 years and it just keeps getting better and better. The grounds are well manicured and well maintained. Over time the desert... read more",
-                    "Well organized, very somber and honoring. Clean restrooms (always a plus). Great staff. Well groomed grounds but being revamped. That was fine. Did not like the fact that... read more",
-                    "This is by far, the most beautiful cemetery in all of California. Many war veterans and some of their spouses are buried here. On Memorial Day, all the markers have a USA flag... read more"
-                ],
-                "attraction_longitude": "",
-                "attraction_in": "Riverside",
-                "attraction_address": "\"22495 Van Buren Blvd , Riverside , CA 92518-2740\"",
-                "mention_type": "cemetery",
-                "mention_found_in_blogFiles": "\"anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_irvine.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_beverly hills.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_riverside.json,beverly hills_and_temecula.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_riverside.json,irvine_and_san bernardino.json,irvine_and_san jose.json,irvine_and_sausalito.json,fremont_and_riverside.json,fresno_and_riverside.json,irvine_and_pasadena.json,malibu_and_oakland.json,malibu_and_riverside.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,malibu_and_temecula.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_temecula.json,malibu_and_monterey.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,riverside_and_sacramento.json,riverside_and_san bernardino.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_sausalito.json,san bernardino_and_temecula.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json\"",
-                "mention_address": "\"Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-Riverside_National_Cemetery-Riverside_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or20-Riverside_National_Cemetery-Riverside_California.html",
@@ -466,273 +150,161 @@
                     "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or80-Riverside_National_Cemetery-Riverside_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or70-Riverside_National_Cemetery-Riverside_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "First time here. Until recently, I have never had friends buried here. Respect for our fallen veterans is displayed well here. When in Riverside, take some time to visit our... read more",
+                            0.25,
+                            0.3611111111111111,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "Went to pay respects, and while there learned about the Medal Of Honor Memorial. It is worth the time to visit, and is well maintained.",
+                            0.3,
+                            0.1,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or20-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "Came here in April 2013 to visit my father's gravesite. He was a WWII vet, who moved from Midwest to LA in 1980s. Can't express how lovely the grounds are, and how meaningful it... read more",
+                            0.5,
+                            0.5833333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or110-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "Great place to honor our countries heroes. Very quiet and a place of great respect, easy access from the freeway.",
+                            0.5083333333333333,
+                            0.6916666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or50-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "My parents are both buried here. My father served time in the Navy and our family was very proud of his service and being able to be Interred in this Military Cemetery. The... read more",
+                            0.475,
+                            0.55625,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or40-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "I took a nice drive around the grounds on this gloomy rainy day. The cemetery is very well maintained and a respectful place for our honored veterens. The ponds, fountains and... read more",
+                            0.45,
+                            0.625,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or30-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "This park is close to our home. We frequently wander about this beautiful place. It is kept immaculate. It has one of four Metal of Honor Memorials in the United States. But, it... read more",
+                            0.48333333333333334,
+                            0.6,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or10-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "A friend and co-worker from my first overseas assignment is buried here. Unlike other VA cemeteries the grave markers are all flush with the ground. It's a very nice, peaceful... read more",
+                            0.331,
+                            0.5416666666666666,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or100-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "This place is beautiful and the service locations are all wonderful with some having stunning views. The locations for interment and inurment are wonderful.",
+                            0.8375,
+                            1.0,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or90-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "I've visited this place every year for the past 12 years and it just keeps getting better and better. The grounds are well manicured and well maintained. Over time the desert... read more",
+                            0.3125,
+                            0.4375,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or60-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "Well organized, very somber and honoring. Clean restrooms (always a plus). Great staff. Well groomed grounds but being revamped. That was fine. Did not like the fact that... read more",
+                            0.45666666666666667,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or80-Riverside_National_Cemetery-Riverside_California.html"
+                        ],
+                        [
+                            "This is by far, the most beautiful cemetery in all of California. Many war veterans and some of their spouses are buried here. On Memorial Day, all the markers have a USA flag... read more",
+                            0.49000000000000005,
+                            0.7,
+                            "https://www.tripadvisor.com/Attraction_Review-g32978-d4067828-Reviews-or70-Riverside_National_Cemetery-Riverside_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"22495 Van Buren Blvd , Riverside , CA 92518-2740\"",
+                "attraction_longitude": "",
+                "mention_type": "cemetery",
                 "attraction_in_file": "riverside.json",
+                "mention_name": "riverside national cemetery",
+                "youTubeLinkIds": "\"9vG6a2k5BfU,gwQUVuAxmh8,-wWoKctT58M\"",
+                "attraction_name": "Riverside National Cemetery",
+                "mention_longitude": "-117.270726607134",
+                "attraction_no_of_reviews": "119",
+                "mention_address": "\"Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America\"",
                 "blogLinks": [
                     "http://www.catsafterme.com/blog/archives/15232",
                     "http://www.distancesfrom.com/us/Trip-Cost-from-Pasadena-to-Riverside-National-Cemetery-Riverside/TripCostHistory/34781751.aspx",
                     "http://www.california-blog.com/"
                 ],
+                "mention_latitude": "33.87692125",
+                "attraction_ranking": "4",
+                "attraction_knownFor": "\"Cemeteries , Sights & Landmarks\"",
+                "zip_code": "22495",
+                "Confidence": "100",
+                "attraction_in": "Riverside",
+                "mention_popularity": "3",
                 "imageUrls": [
                     "http://www.uscemeteryproj.com/california/riverside/riversidenat/pic/riversidesign.jpeg",
                     "https://media2.nekropole.info/2016/08/United-States-Riverside-National-Cemetery.jpg",
                     "http://s3-eu-west-1.amazonaws.com/youroute-media/system/photos/images/000/458/237/79dd6307207b7a38caa8c03cff92f6f15b4f8ead_original.jpg?1420232352"
                 ],
-                "zip_code": "22495",
-                "attraction_ranking": "4",
-                "attraction_knownFor": "\"Cemeteries , Sights & Landmarks\"",
-                "mention_name": "riverside national cemetery",
-                "attraction_no_of_reviews": "119",
-                "mention_latitude": "33.87692125",
                 "attraction_contact": "",
-                "mention_longitude": "-117.270726607134"
+                "attraction_reviewComments": [
+                    "First time here. Until recently, I have never had friends buried here. Respect for our fallen veterans is displayed well here. When in Riverside, take some time to visit our... read more",
+                    "Went to pay respects, and while there learned about the Medal Of Honor Memorial. It is worth the time to visit, and is well maintained.",
+                    "Came here in April 2013 to visit my father's gravesite. He was a WWII vet, who moved from Midwest to LA in 1980s. Can't express how lovely the grounds are, and how meaningful it... read more",
+                    "Great place to honor our countries heroes. Very quiet and a place of great respect, easy access from the freeway.",
+                    "My parents are both buried here. My father served time in the Navy and our family was very proud of his service and being able to be Interred in this Military Cemetery. The... read more",
+                    "I took a nice drive around the grounds on this gloomy rainy day. The cemetery is very well maintained and a respectful place for our honored veterens. The ponds, fountains and... read more",
+                    "This park is close to our home. We frequently wander about this beautiful place. It is kept immaculate. It has one of four Metal of Honor Memorials in the United States. But, it... read more",
+                    "A friend and co-worker from my first overseas assignment is buried here. Unlike other VA cemeteries the grave markers are all flush with the ground. It's a very nice, peaceful... read more",
+                    "This place is beautiful and the service locations are all wonderful with some having stunning views. The locations for interment and inurment are wonderful.",
+                    "I've visited this place every year for the past 12 years and it just keeps getting better and better. The grounds are well manicured and well maintained. Over time the desert... read more",
+                    "Well organized, very somber and honoring. Clean restrooms (always a plus). Great staff. Well groomed grounds but being revamped. That was fine. Did not like the fact that... read more",
+                    "This is by far, the most beautiful cemetery in all of California. Many war veterans and some of their spouses are buried here. On Memorial Day, all the markers have a USA flag... read more"
+                ]
             },
-            "locType": "cemetery",
+            "longitude": "-117.270726607134",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America",
-            "latitude": "33.87692125"
-        },
-        "united states": {
             "closest_to": "riverside",
-            "longitude": "-118.7559973",
-            "locType": "administrative",
-            "blogLinks": [
-                "https://www.tripadvisor.com/",
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "California, United States of America",
-            "latitude": "36.7014631"
+            "address": "Riverside National Cemetery, 22495, Alessandro, Riverside County, California, 92518, United States of America"
         },
-        "creek": {
-            "closest_to": "fremont",
-            "longitude": "-123.0482197",
-            "locType": "stream",
-            "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
-            ],
-            "address": "Creek, Mendocino County, California, United States of America",
-            "latitude": "39.3751013"
-        },
-        "morro rock ca": {
-            "closest_to": "riverside",
-            "longitude": "-120.8676993",
-            "locType": "peak",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Morro Rock, Morro Bay, San Luis Obispo County, California, United States of America",
-            "latitude": "35.369669"
-        },
-        "mount palomar ca": {
-            "closest_to": "riverside",
-            "longitude": "-117.270809764613",
-            "locType": "bank",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America",
-            "latitude": "33.1278146"
-        },
-        "corvallis": {
-            "closest_to": "riverside",
-            "longitude": "-121.8539991",
-            "locType": "residential",
+        "southern california": {
+            "latitude": "34.0224149",
+            "locType": "university",
+            "longitude": "-118.286343973446",
             "blogLinks": [
                 "https://www.tripadvisor.com/"
             ],
-            "address": "Corvallis Drive, Almaden, San Jos\u00e9, Santa Clara County, California, 95120, United States of America",
-            "latitude": "37.2130429"
-        },
-        "mono lake ca": {
             "closest_to": "riverside",
-            "longitude": "-118.967033937845",
-            "locType": "water",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Mono Lake, Mono County, California, United States of America",
-            "latitude": "38.0077189"
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America"
         },
-        "paris": {
-            "closest_to": "riverside",
-            "longitude": "-118.1809078",
-            "locType": "hamlet",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Paris, Los Angeles County, California, United States of America",
-            "latitude": "34.4719383"
-        },
-        "moreno valley ca": {
-            "closest_to": "riverside",
-            "longitude": "-117.2305943",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Moreno Valley, Riverside County, California, United States of America",
-            "latitude": "33.937517"
-        },
-        "chilnualna falls": {
-            "closest_to": "riverside",
-            "longitude": "-119.633114",
+        "willamette valley": {
+            "latitude": "32.827629",
             "locType": "residential",
+            "longitude": "-117.2015989",
             "blogLinks": [
-                "http://www.tripleblaze.com/best/?c=8"
+                "https://www.tripadvisor.com/"
             ],
-            "address": "North Chilnualna Falls Road, North Wawona, Mariposa County, California, 95389, United States of America",
-            "latitude": "37.5486657"
-        },
-        "airbnb": {
-            "closest_to": "fremont",
-            "longitude": "-122.4054483",
-            "locType": "company",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Airbnb, 888, Brannan Street, West SoMa, SF, California, 94103, United States of America",
-            "latitude": "37.7719568"
-        },
-        "napa valley ca": {
-            "closest_to": "fremont",
-            "longitude": "-122.3002947",
-            "locType": "secondary",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
-            "latitude": "38.2972603"
-        },
-        "alpha phi": {
             "closest_to": "riverside",
-            "longitude": "-121.311315241098",
-            "locType": "yes",
-            "blogLinks": [
-                "http://www.fremontuniverse.com/"
-            ],
-            "address": "Alpha Phi, Presidents Drive, Stockton, San Joaquin County, California, 95211, United States of America",
-            "latitude": "37.9818363"
-        },
-        "monterey bay aquarium ca": {
-            "closest_to": "riverside",
-            "longitude": "-121.901680002002",
-            "locType": "aquarium",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
-            "latitude": "36.61809095"
-        },
-        "ontario": {
-            "closest_to": "riverside",
-            "longitude": "-117.6484303",
-            "locType": "city",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Ontario, San Bernardino County, California, United States of America",
-            "latitude": "34.065846"
-        },
-        "monterey peninsula ca": {
-            "closest_to": "riverside",
-            "longitude": "-121.843618374407",
-            "locType": "aerodrome",
-            "blogLinks": [
-                "http://www.california-blog.com/"
-            ],
-            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
-            "latitude": "36.5878734"
+            "address": "Willamette Avenue, Pacific Beach, San Diego, San Diego County, California, 92117, United States of America"
         },
         "old town san diego": {
-            "closest_to": "riverside",
-            "longitude": "-117.1969792",
+            "latitude": "32.7542167",
+            "locType": "hamlet",
             "enrich_metadata": {
-                "attraction_name": "Old Town San Diego",
-                "Confidence": "100",
-                "youTubeLinkIds": "\"XSVI5qoRkOE,qBUejzCurQU,gXxZiG0b8L4\"",
+                "mention_found_in_blogFiles": "\"anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pismo beach.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san luis obispo.json,beverly hills_and_temecula.json,big bear lake_and_pismo beach.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san diego.json,carlsbad_and_san jose.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_santa barbara.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_san diego.json,los angeles_and_pismo beach.json,los angeles_and_san diego.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_santa barbara.json,monterey_and_temecula.json,malibu_and_monterey.json,monterey_and_santa monica.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_santa monica.json,riverside_and_sacramento.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_santa clarita.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,oakland_and_temecula.json,san jose_and_santa monica.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json\"",
                 "attraction_latitude": "32.7174209",
                 "no_of_blogFiles": "150",
-                "mention_popularity": "8",
-                "attraction_reviewComments": [
-                    "One of the local tourist traps in San Diego is popular for many reasons. The shops are your standard tourist fare with t-shirts and mugs and hats and such. There are museums of... read more",
-                    "The perfect combination of authentic old Mexican style buildings and tourist attractions. It is a wonderful place to spend a day. Plenty of shops, plenty of restaurants and lot to... read more",
-                    "The Old Town San Diego park is one of our favorite places to visit all times of the year. It's original buildings, many moved from other locations in the county, and its wide... read more",
-                    "great shops and showed old time culture. Lunch at Casa De Reyes was awesome. Friendly people in the shops who were willing to answer questions. Could have stayed all day.",
-                    "I don't know what I pictured of this, but it reminded me of an old western town. There is some shopping, but was a little pricey. Things seem to close early, but it was... read more",
-                    "Very fun to see the old buildings. The shops were cute. We loved the rock shop and the candle shop. There were people dipping their own candles which looked like a lot of fun... read more",
-                    "We went early and parked in the lot on Juan St. We enjoyed visiting the museums and browsing the shops. There was more to see than we expected and we learned a lot about the... read more",
-                    "San Diego Old Town is fun, relaxing area to visit and explore the the original areas and history of San Diego. This is an easy area to find - just a couple of miles north of the... read more",
-                    "Before Downtown there was Old Town. It was just a regular town up until 1880's. Now it is mainly a museum with shops and restaurants. So if you like history and like going to the... read more",
-                    "This place has excellent Mexican food joints, nice picturesque location and quiet place. A nice place to laze around and take some pics, buy some colorful gifts and mementos to... read more",
-                    "If you have not been to San Diego then you are missing a lot. One is the Old Town San Diego. It has it all for the history buff to the serious shopper. Not to mention the bar... read more",
-                    "We had a walk around Old Town San Diego at night and ate out at one of the many restaurants. It was fun and worth the visit.",
-                    "We recently visited the old town San Diego. There are many smalls shops with many trinkets and souveneirs. A great palce to get gourds, bolas, air chimes, souveniers, leather... read more",
-                    "This is a great place to go if you want a taste of historic California and great Mexican food. There are also a lot of items available for purchase that are usually only... read more",
-                    "First off parking is a problem during busy times, and I suggest public transportation. Very good Authentic mexican food. Lots of historical places to see",
-                    "makes you feel like mid 40' and 50's in US., Super like, shops, dining is great.. Spcially liked the tea shop and candle shop there.. Its dream like",
-                    "On our way back from the SeaWorld to our homestay in Mission village, we decided to spend the evening in the old town. It is nice in that it takes you down the lane of history... read more",
-                    "Old Town should be a must-do when visiting San Diego. Part Historic Park, part village full of restaurants and shops, it is a must-see experience that will have something for... read more",
-                    "We walked around Old Town and it was a very nice area. Make sure you try the Apple Cider in the General Store and the Beef Jerky. Also visit the Nut stand - the guy there as... read more",
-                    "I enjoyed how Old Town preserved life there. A great place to learn about the history and people. They offer the best Mexican food. The shops are filled with great souvenirs and... read more",
-                    "Yes it's touristy and the shops are filled with the typical take home ashtrays, but look beyond that and see the wonderful people and Mexican crafts and live music and rich... read more",
-                    "This is THE SPOT for Mexican food in San Diego! I've been here several times and always go back. There's also plenty of unique shops that sell hand-made and unique items, lots... read more",
-                    "Had dinner in Old Town at a very nice restaurant. Walked through the vendors lined up on the street. Lots of nice shops, restaurants and other vendors the weekend before May... read more",
-                    "Beautiful little town in San Diego, great to stroll around and take pictures of historic houses, lamps, carriages. Plenty of souvenir shops and places to eat, heard mariachi... read more",
-                    "Love the feel of the old town! Plenty of cute little shops and restaurants with yummy Mexican food! Great way to spend an afternoon!",
-                    "what a great vibe. So much to meander about. City has introduced Valet services' scattered about. Inexpensive and savees you the aggravation of looking for a parking... read more",
-                    "Eat at Los Reyes if you want excellent Mexican food and entertainment. But buy the margaritas from the man selling on the side by the entertainment, the ones from the restaraunt... read more",
-                    "Our concierge at The Grant told us about old town. Never heard of it before. A lot of the foodies and food shows have had episodes within old town for mexican food. The food here... read more",
-                    "This is a very nice historic area that families will enjoy. There are a number of exhibits with people in period dress who describe what they are doing. There are also displays... read more",
-                    "Lovely warm evening spent Mouching round the quaint albeit touristy shops. Some lovely salsa playing with a few brave souls dancing (some with their Zimmer frames) but a great... read more",
-                    "Old Town San Diego is an amazing collection of period buildings that have been restored and maintained in their original condition and function, making for an investing look at... read more",
-                    "We choose Old Town over downtown every time! Fun shops and places to eat, lively people watching, old cemetary and church, museum, historical park and more.",
-                    "Mainly a lot of shops and food outlets, but the 19th century original Police jail museum is located here and is fascinating (fortunately I wasn't alive in those days!) the museum... read more",
-                    "We've spent a few hours and felt being in a fairy tale. A wonderful and charming place presents the history of San Diego. A lot of souvenir shops and native and original bars ad... read more",
-                    "This area is generally not for small children, more for adults who love architecture and history. There are lots of restaurants and shops. You can explore the old buildings and... read more",
-                    "First time visiting Old Town and there are tons of things to do. Plenty of great restruants in walking distance of numerous hotels in the area. Nice shops and outdoor markets of... read more",
-                    "Old Town is a great little / touristy walking area. Old building and a mission or two and other early SD sites. I would set aside 4 hours or so depending on how much meandering... read more",
-                    "We enjoy going to Old Town. They are in the midst of a major street improvement. So be careful where you park.",
-                    "Easy to access using the rail or bus system. Fun to walk around and look in the little shops. There is something fun for everyone and several places to eat. Clean, public... read more",
-                    "this little town is very beautiful, has the mexican touch to the place. there is restaurants and stores that really make you want to come back again",
-                    "So much to see and do. Stores, Restaurants, and even a playhouse with really good plays. Friendly people and just a lot of fun.",
-                    "This is one of my favorite places in San Diego. Always see some old favorites and some new businesses. Lots of great shopping. Numerous restaurants. Mostly Mexican style food... read more",
-                    "So many interesting shops to look in. Lots of restaurants to choose from. Fascinating historical buildings. Some restaurants dog friendly. Many historical building free and alot... read more",
-                    "Stayed in a hotel nearby. (Old Town Inn). Enjoyed the short walk; enjoyed several meals in Old Town.. lots of choices. Every time we come to San Diego, we end up in Old Town... read more",
-                    "Even though you go to Old Town for its history, you'll find much, much more. Great Mexican restaurants and quaint shops to browse in to find a unique gift or souvenir abound.",
-                    "If you like history and a nice walk - this is a great place to spend a day or at least 3/4 of a day. Nice places to walk and beautiful sights - alot of history... fun places to... read more",
-                    "We love going to Old Town in San Diego. There is always something to see no matter how many times you have been there.",
-                    "This place has as many cool historical sights as it does good Mexican restaurants. Also a great place to just go and have a drink.",
-                    "Amazing place to visit in San Diego, where this beautiful city was born. Many buildings keep their original construction. Much interesting to visit with children. There many... read more",
-                    "We found the area to be a mix of some historical buildings and info as well as being a fun area to walk around with shops and restaurants.",
-                    "My husband and I stopped here on our road trip. There's not a lot to do but we had a good time. We visited a few of the restaurants and had small dishes to share and alcohol... read more",
-                    "Old town is easily accessible with the trolley, few steps from the Old Town station. Very cute with the old buildings, few museums and a lot of mexican restaurants. Starting spot... read more",
-                    "Came here just to eat lunch with family. The area looked like fun and I'll come back some other day. A nice change of pace from upscale places downtown by convention center.",
-                    "I didn't expect too much, but the old town was a surprise. It takes us to the beginnings of the spanish colonization in San Diego. Most of the buildings are real. The atmosphere... read more",
-                    "Quaint shops with quality goods: Pottery, silver, candy, etc. We ate at Reyes and the Mexican food was very good. Mexican dancers nearby.",
-                    "Really nice walking destination, park and history. Great Mexican restaurants....we stayed at Fairfield Inn and had great places for dinner and was central to all other attraction",
-                    "We ate at Freds Mexican reastruant and I had a burrito and my husband had fish tacos. A lot for your money I must say. Very good.",
-                    "Good to spend about half a day here. Gives a really nice feel for what the old town of San Diego was like back in the day. Some good stores and restaurants too and very accessible... read more",
-                    "Still interesting enough to merit a visit, especially with kids. Good open spaces. Low key. Several levels of restaurants to choose from. We chose Fred's Mexican Cafe. Good food... read more",
-                    "Lots to see, places to eat and shop - very clean. Been to San Diego several times and never knew this was here. Worth the visit!",
-                    "Easy to visit with the Trolley. Area shut off to traffic so easy to walk. Rich in history and great Mexican restaurants.",
-                    "This was a lot of fun to go to! There are all different kinds of shops from tea and coffee shops to oil shops and historic things to see and do in the area! It's a fun place to go... read more",
-                    "I took the \"trolley\" from the train station area in San Diego to Old Town one day while I was killing time before meeting up with a friend. I wasn't really expecting to enjoy Old... read more",
-                    "Loved seeing the shops. Mexican pottery, clothes, food, and crafts. Very cool area to visit. Nice place to get souvenirs.",
-                    "Originally is a Mexican town. You can find here some original shops mostly jewellery. There are some Mexican restaurants. You can buy Mexican skulls.",
-                    "Our kids loved running around old town. There's a huge selection of mostly Mexican restaurants with great ambience. Also fun shopping. Really enjoyed our time there.",
-                    "The light rail will take you there in a few minutes from downtown. There was actually a lot of things to see and the shops were quite varied. There are some good restaurants in... read more",
-                    "What a great place to spend an evening! Old style bars and plenty of little shops! We walked around, dined at the Tequila Factory, played pool and shopped!",
-                    "This is a fun place to explore some of the history of San Diego! The area is very cute and there are plenty of shops and restaurants to visit. It is a little \"touristy\" but... read more",
-                    "Great, taste and colorful place. Very recommended! Traveling with dog. Were filling more than welcome in restaurants and gift shops.",
-                    "Just came back from spending weekend there, it's the 6th time and we always enjoy going. We eat dinner at a Lovely Italian restaurant that is so wonderful. If you're in the... read more"
-                ],
-                "attraction_longitude": "-117.1627713",
-                "attraction_in": "San Diego",
-                "attraction_address": "\"San Diego , CA\"",
-                "mention_type": "hamlet",
-                "mention_found_in_blogFiles": "\"anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pismo beach.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,bakersfield_and_san bernardino.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san luis obispo.json,beverly hills_and_temecula.json,big bear lake_and_pismo beach.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san diego.json,carlsbad_and_san jose.json,carlsbad_and_santa barbara.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_santa barbara.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_san diego.json,los angeles_and_pismo beach.json,los angeles_and_san diego.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_santa barbara.json,monterey_and_temecula.json,malibu_and_monterey.json,monterey_and_santa monica.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_santa monica.json,riverside_and_sacramento.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_santa clarita.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,oakland_and_temecula.json,san jose_and_santa monica.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json\"",
-                "mention_address": "\"Old Town San Diego, San Diego County, California, United States of America\"",
                 "attraction_reviewUrls": [
                     "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-Old_Town_San_Diego-San_Diego_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or700-Old_Town_San_Diego-San_Diego_California.html",
@@ -806,7 +378,448 @@
                     "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or210-Old_Town_San_Diego-San_Diego_California.html",
                     "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or220-Old_Town_San_Diego-San_Diego_California.html"
                 ],
+                "classified_attraction_reviewComments": {
+                    "neutral": [],
+                    "positive": [
+                        [
+                            "One of the local tourist traps in San Diego is popular for many reasons. The shops are your standard tourist fare with t-shirts and mugs and hats and such. There are museums of... read more",
+                            0.26666666666666666,
+                            0.39999999999999997,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "The perfect combination of authentic old Mexican style buildings and tourist attractions. It is a wonderful place to spend a day. Plenty of shops, plenty of restaurants and lot to... read more",
+                            0.5166666666666667,
+                            0.5750000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or700-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "The Old Town San Diego park is one of our favorite places to visit all times of the year. It's original buildings, many moved from other locations in the county, and its wide... read more",
+                            0.25,
+                            0.5321428571428571,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or50-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "great shops and showed old time culture. Lunch at Casa De Reyes was awesome. Friendly people in the shops who were willing to answer questions. Could have stayed all day.",
+                            0.505,
+                            0.64,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or40-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "I don't know what I pictured of this, but it reminded me of an old western town. There is some shopping, but was a little pricey. Things seem to close early, but it was... read more",
+                            0.1025,
+                            0.3,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or30-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Very fun to see the old buildings. The shops were cute. We loved the rock shop and the candle shop. There were people dipping their own candles which looked like a lot of fun... read more",
+                            0.4414285714285714,
+                            0.5657142857142857,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or20-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We went early and parked in the lot on Juan St. We enjoyed visiting the museums and browsing the shops. There was more to see than we expected and we learned a lot about the... read more",
+                            0.3,
+                            0.48,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or10-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "San Diego Old Town is fun, relaxing area to visit and explore the the original areas and history of San Diego. This is an easy area to find - just a couple of miles north of the... read more",
+                            0.3416666666666667,
+                            0.4966666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or680-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Before Downtown there was Old Town. It was just a regular town up until 1880's. Now it is mainly a museum with shops and restaurants. So if you like history and like going to the... read more",
+                            0.19166666666666665,
+                            0.2775641025641026,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or670-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This place has excellent Mexican food joints, nice picturesque location and quiet place. A nice place to laze around and take some pics, buy some colorful gifts and mementos to... read more",
+                            0.42857142857142855,
+                            0.6047619047619047,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or60-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "If you have not been to San Diego then you are missing a lot. One is the Old Town San Diego. It has it all for the history buff to the serious shopper. Not to mention the bar... read more",
+                            0.016666666666666663,
+                            0.35416666666666663,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or690-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We had a walk around Old Town San Diego at night and ate out at one of the many restaurants. It was fun and worth the visit.",
+                            0.3,
+                            0.24999999999999997,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or660-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We recently visited the old town San Diego. There are many smalls shops with many trinkets and souveneirs. A great palce to get gourds, bolas, air chimes, souveniers, leather... read more",
+                            0.4000000000000001,
+                            0.45,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or650-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This is a great place to go if you want a taste of historic California and great Mexican food. There are also a lot of items available for purchase that are usually only... read more",
+                            0.35714285714285715,
+                            0.4857142857142857,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or70-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "First off parking is a problem during busy times, and I suggest public transportation. Very good Authentic mexican food. Lots of historical places to see",
+                            0.2514285714285714,
+                            0.31857142857142856,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or640-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "makes you feel like mid 40' and 50's in US., Super like, shops, dining is great.. Spcially liked the tea shop and candle shop there.. Its dream like",
+                            0.43333333333333335,
+                            0.5541666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or630-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "On our way back from the SeaWorld to our homestay in Mission village, we decided to spend the evening in the old town. It is nice in that it takes you down the lane of history... read more",
+                            0.20888888888888885,
+                            0.3977777777777778,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or620-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Old Town should be a must-do when visiting San Diego. Part Historic Park, part village full of restaurants and shops, it is a must-see experience that will have something for... read more",
+                            0.2375,
+                            0.3125,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or80-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We walked around Old Town and it was a very nice area. Make sure you try the Apple Cider in the General Store and the Beef Jerky. Also visit the Nut stand - the guy there as... read more",
+                            0.386,
+                            0.6177777777777778,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or610-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "I enjoyed how Old Town preserved life there. A great place to learn about the history and people. They offer the best Mexican food. The shops are filled with great souvenirs and... read more",
+                            0.5125,
+                            0.5125,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or600-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Yes it's touristy and the shops are filled with the typical take home ashtrays, but look beyond that and see the wonderful people and Mexican crafts and live music and rich... read more",
+                            0.32067099567099566,
+                            0.5928571428571429,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or590-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This is THE SPOT for Mexican food in San Diego! I've been here several times and always go back. There's also plenty of unique shops that sell hand-made and unique items, lots... read more",
+                            0.20833333333333334,
+                            0.4166666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or90-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Had dinner in Old Town at a very nice restaurant. Walked through the vendors lined up on the street. Lots of nice shops, restaurants and other vendors the weekend before May... read more",
+                            0.371,
+                            0.615,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or580-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Beautiful little town in San Diego, great to stroll around and take pictures of historic houses, lamps, carriages. Plenty of souvenir shops and places to eat, heard mariachi... read more",
+                            0.39249999999999996,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or570-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Love the feel of the old town! Plenty of cute little shops and restaurants with yummy Mexican food! Great way to spend an afternoon!",
+                            0.3229166666666667,
+                            0.5083333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or560-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "what a great vibe. So much to meander about. City has introduced Valet services' scattered about. Inexpensive and savees you the aggravation of looking for a parking... read more",
+                            0.5,
+                            0.48333333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or100-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Eat at Los Reyes if you want excellent Mexican food and entertainment. But buy the margaritas from the man selling on the side by the entertainment, the ones from the restaraunt... read more",
+                            0.5,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or550-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Our concierge at The Grant told us about old town. Never heard of it before. A lot of the foodies and food shows have had episodes within old town for mexican food. The food here... read more",
+                            0.175,
+                            0.225,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or540-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This is a very nice historic area that families will enjoy. There are a number of exhibits with people in period dress who describe what they are doing. There are also displays... read more",
+                            0.42000000000000004,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or530-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Lovely warm evening spent Mouching round the quaint albeit touristy shops. Some lovely salsa playing with a few brave souls dancing (some with their Zimmer frames) but a great... read more",
+                            0.35555555555555557,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or110-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Old Town San Diego is an amazing collection of period buildings that have been restored and maintained in their original condition and function, making for an investing look at... read more",
+                            0.39375000000000004,
+                            0.5875,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or520-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We choose Old Town over downtown every time! Fun shops and places to eat, lively people watching, old cemetary and church, museum, historical park and more.",
+                            0.19356060606060602,
+                            0.26666666666666666,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or510-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Mainly a lot of shops and food outlets, but the 19th century original Police jail museum is located here and is fascinating (fortunately I wasn't alive in those days!) the museum... read more",
+                            0.3095238095238095,
+                            0.5047619047619047,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or500-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We've spent a few hours and felt being in a fairy tale. A wonderful and charming place presents the history of San Diego. A lot of souvenir shops and native and original bars ad... read more",
+                            0.37916666666666665,
+                            0.5750000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or120-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This area is generally not for small children, more for adults who love architecture and history. There are lots of restaurants and shops. You can explore the old buildings and... read more",
+                            0.22083333333333333,
+                            0.45,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or490-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "First time visiting Old Town and there are tons of things to do. Plenty of great restruants in walking distance of numerous hotels in the area. Nice shops and outdoor markets of... read more",
+                            0.375,
+                            0.5472222222222222,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or480-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Old Town is a great little / touristy walking area. Old building and a mission or two and other early SD sites. I would set aside 4 hours or so depending on how much meandering... read more",
+                            0.1859375,
+                            0.378125,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or130-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We enjoy going to Old Town. They are in the midst of a major street improvement. So be careful where you park.",
+                            0.115625,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or470-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Easy to access using the rail or bus system. Fun to walk around and look in the little shops. There is something fun for everyone and several places to eat. Clean, public... read more",
+                            0.21406250000000002,
+                            0.37500000000000006,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or460-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "this little town is very beautiful, has the mexican touch to the place. there is restaurants and stores that really make you want to come back again",
+                            0.20249999999999999,
+                            0.33999999999999997,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or450-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "So much to see and do. Stores, Restaurants, and even a playhouse with really good plays. Friendly people and just a lot of fun.",
+                            0.39375,
+                            0.375,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or140-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This is one of my favorite places in San Diego. Always see some old favorites and some new businesses. Lots of great shopping. Numerous restaurants. Mostly Mexican style food... read more",
+                            0.2909090909090909,
+                            0.48636363636363633,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or440-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "So many interesting shops to look in. Lots of restaurants to choose from. Fascinating historical buildings. Some restaurants dog friendly. Many historical building free and alot... read more",
+                            0.3861111111111111,
+                            0.46111111111111114,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or430-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Stayed in a hotel nearby. (Old Town Inn). Enjoyed the short walk; enjoyed several meals in Old Town.. lots of choices. Every time we come to San Diego, we end up in Old Town... read more",
+                            0.22500000000000003,
+                            0.35000000000000003,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or420-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Even though you go to Old Town for its history, you'll find much, much more. Great Mexican restaurants and quaint shops to browse in to find a unique gift or souvenir abound.",
+                            0.355,
+                            0.49000000000000005,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or150-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "If you like history and a nice walk - this is a great place to spend a day or at least 3/4 of a day. Nice places to walk and beautiful sights - alot of history... fun places to... read more",
+                            0.47857142857142854,
+                            0.692857142857143,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or410-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We love going to Old Town in San Diego. There is always something to see no matter how many times you have been there.",
+                            0.3666666666666667,
+                            0.43333333333333335,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or400-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This place has as many cool historical sights as it does good Mexican restaurants. Also a great place to just go and have a drink.",
+                            0.3916666666666666,
+                            0.4166666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or390-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Amazing place to visit in San Diego, where this beautiful city was born. Many buildings keep their original construction. Much interesting to visit with children. There many... read more",
+                            0.5464285714285715,
+                            0.6642857142857144,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or160-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We found the area to be a mix of some historical buildings and info as well as being a fun area to walk around with shops and restaurants.",
+                            0.15,
+                            0.1,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or380-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "My husband and I stopped here on our road trip. There's not a lot to do but we had a good time. We visited a few of the restaurants and had small dishes to share and alcohol... read more",
+                            0.1875,
+                            0.4,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or370-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Old town is easily accessible with the trolley, few steps from the Old Town station. Very cute with the old buildings, few museums and a lot of mexican restaurants. Starting spot... read more",
+                            0.14250000000000002,
+                            0.2775,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or360-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Came here just to eat lunch with family. The area looked like fun and I'll come back some other day. A nice change of pace from upscale places downtown by convention center.",
+                            0.13499999999999998,
+                            0.335,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or170-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "I didn't expect too much, but the old town was a surprise. It takes us to the beginnings of the spanish colonization in San Diego. Most of the buildings are real. The atmosphere... read more",
+                            0.25,
+                            0.2833333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or350-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Quaint shops with quality goods: Pottery, silver, candy, etc. We ate at Reyes and the Mexican food was very good. Mexican dancers nearby.",
+                            0.3033333333333333,
+                            0.26000000000000006,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or340-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Really nice walking destination, park and history. Great Mexican restaurants....we stayed at Fairfield Inn and had great places for dinner and was central to all other attraction",
+                            0.3458333333333334,
+                            0.5208333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or330-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "We ate at Freds Mexican reastruant and I had a burrito and my husband had fish tacos. A lot for your money I must say. Very good.",
+                            0.45499999999999996,
+                            0.39000000000000007,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or180-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Good to spend about half a day here. Gives a really nice feel for what the old town of San Diego was like back in the day. Some good stores and restaurants too and very accessible... read more",
+                            0.3651041666666667,
+                            0.4442708333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or320-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Still interesting enough to merit a visit, especially with kids. Good open spaces. Low key. Several levels of restaurants to choose from. We chose Fred's Mexican Cafe. Good food... read more",
+                            0.21818181818181817,
+                            0.5,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or310-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Lots to see, places to eat and shop - very clean. Been to San Diego several times and never knew this was here. Worth the visit!",
+                            0.2838888888888889,
+                            0.3366666666666667,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or300-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Easy to visit with the Trolley. Area shut off to traffic so easy to walk. Rich in history and great Mexican restaurants.",
+                            0.4083333333333334,
+                            0.6333333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or190-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This was a lot of fun to go to! There are all different kinds of shops from tea and coffee shops to oil shops and historic things to see and do in the area! It's a fun place to go... read more",
+                            0.23500000000000001,
+                            0.3,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or290-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "I took the \"trolley\" from the train station area in San Diego to Old Town one day while I was killing time before meeting up with a friend. I wasn't really expecting to enjoy Old... read more",
+                            0.26,
+                            0.32,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or280-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Loved seeing the shops. Mexican pottery, clothes, food, and crafts. Very cool area to visit. Nice place to get souvenirs.",
+                            0.43875,
+                            0.66125,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or270-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Originally is a Mexican town. You can find here some original shops mostly jewellery. There are some Mexican restaurants. You can buy Mexican skulls.",
+                            0.175,
+                            0.25,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or200-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Our kids loved running around old town. There's a huge selection of mostly Mexican restaurants with great ambience. Also fun shopping. Really enjoyed our time there.",
+                            0.39999999999999997,
+                            0.5071428571428571,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or260-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "The light rail will take you there in a few minutes from downtown. There was actually a lot of things to see and the shops were quite varied. There are some good restaurants in... read more",
+                            0.27999999999999997,
+                            0.4,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or250-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "What a great place to spend an evening! Old style bars and plenty of little shops! We walked around, dined at the Tequila Factory, played pool and shopped!",
+                            0.2690104166666667,
+                            0.48333333333333334,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or240-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "This is a fun place to explore some of the history of San Diego! The area is very cute and there are plenty of shops and restaurants to visit. It is a little \"touristy\" but... read more",
+                            0.334375,
+                            0.55,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or230-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Great, taste and colorful place. Very recommended! Traveling with dog. Were filling more than welcome in restaurants and gift shops.",
+                            0.53,
+                            0.5700000000000001,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or210-Old_Town_San_Diego-San_Diego_California.html"
+                        ],
+                        [
+                            "Just came back from spending weekend there, it's the 6th time and we always enjoy going. We eat dinner at a Lovely Italian restaurant that is so wonderful. If you're in the... read more",
+                            0.39999999999999997,
+                            0.4583333333333333,
+                            "https://www.tripadvisor.com/Attraction_Review-g60750-d6611940-Reviews-or220-Old_Town_San_Diego-San_Diego_California.html"
+                        ]
+                    ],
+                    "negative": []
+                },
+                "attraction_address": "\"San Diego , CA\"",
+                "attraction_longitude": "-117.1627713",
+                "mention_type": "hamlet",
                 "attraction_in_file": "san_diego.json",
+                "mention_name": "old town san diego",
+                "youTubeLinkIds": "\"XSVI5qoRkOE,qBUejzCurQU,gXxZiG0b8L4\"",
+                "attraction_name": "Old Town San Diego",
+                "mention_longitude": "-117.1969792",
+                "attraction_no_of_reviews": "911",
+                "mention_address": "\"Old Town San Diego, San Diego County, California, United States of America\"",
                 "blogLinks": [
                     "http://media.visitcalifornia.com/Story-Development/Story-Ideas/Story-Idea/?id=86980",
                     "http://www.sandiego.com/attractions",
@@ -817,85 +830,582 @@
                     "http://www.california-blog.com/",
                     "https://www.domyessay.net/blog/10-places-to-visit-in-california-for-free/"
                 ],
+                "mention_latitude": "32.7542167",
+                "attraction_ranking": "33",
+                "attraction_knownFor": "\"Points of Interest & Landmarks , Sights & Landmarks \"",
+                "zip_code": "",
+                "Confidence": "100",
+                "attraction_in": "San Diego",
+                "mention_popularity": "8",
                 "imageUrls": [
                     "https://media.xogrp.com/images/7e27469a-66b4-4412-a45b-14efdcfecab1",
                     "https://media.xogrp.com/images/f497da74-021b-47ee-97c7-439ce38fef71",
                     "http://www.wallpapers76.com/photo/17335/San-Diego-011.jpg"
                 ],
-                "zip_code": "",
-                "attraction_ranking": "33",
-                "attraction_knownFor": "\"Points of Interest & Landmarks , Sights & Landmarks \"",
-                "mention_name": "old town san diego",
-                "attraction_no_of_reviews": "911",
-                "mention_latitude": "32.7542167",
                 "attraction_contact": "",
-                "mention_longitude": "-117.1969792"
+                "attraction_reviewComments": [
+                    "One of the local tourist traps in San Diego is popular for many reasons. The shops are your standard tourist fare with t-shirts and mugs and hats and such. There are museums of... read more",
+                    "The perfect combination of authentic old Mexican style buildings and tourist attractions. It is a wonderful place to spend a day. Plenty of shops, plenty of restaurants and lot to... read more",
+                    "The Old Town San Diego park is one of our favorite places to visit all times of the year. It's original buildings, many moved from other locations in the county, and its wide... read more",
+                    "great shops and showed old time culture. Lunch at Casa De Reyes was awesome. Friendly people in the shops who were willing to answer questions. Could have stayed all day.",
+                    "I don't know what I pictured of this, but it reminded me of an old western town. There is some shopping, but was a little pricey. Things seem to close early, but it was... read more",
+                    "Very fun to see the old buildings. The shops were cute. We loved the rock shop and the candle shop. There were people dipping their own candles which looked like a lot of fun... read more",
+                    "We went early and parked in the lot on Juan St. We enjoyed visiting the museums and browsing the shops. There was more to see than we expected and we learned a lot about the... read more",
+                    "San Diego Old Town is fun, relaxing area to visit and explore the the original areas and history of San Diego. This is an easy area to find - just a couple of miles north of the... read more",
+                    "Before Downtown there was Old Town. It was just a regular town up until 1880's. Now it is mainly a museum with shops and restaurants. So if you like history and like going to the... read more",
+                    "This place has excellent Mexican food joints, nice picturesque location and quiet place. A nice place to laze around and take some pics, buy some colorful gifts and mementos to... read more",
+                    "If you have not been to San Diego then you are missing a lot. One is the Old Town San Diego. It has it all for the history buff to the serious shopper. Not to mention the bar... read more",
+                    "We had a walk around Old Town San Diego at night and ate out at one of the many restaurants. It was fun and worth the visit.",
+                    "We recently visited the old town San Diego. There are many smalls shops with many trinkets and souveneirs. A great palce to get gourds, bolas, air chimes, souveniers, leather... read more",
+                    "This is a great place to go if you want a taste of historic California and great Mexican food. There are also a lot of items available for purchase that are usually only... read more",
+                    "First off parking is a problem during busy times, and I suggest public transportation. Very good Authentic mexican food. Lots of historical places to see",
+                    "makes you feel like mid 40' and 50's in US., Super like, shops, dining is great.. Spcially liked the tea shop and candle shop there.. Its dream like",
+                    "On our way back from the SeaWorld to our homestay in Mission village, we decided to spend the evening in the old town. It is nice in that it takes you down the lane of history... read more",
+                    "Old Town should be a must-do when visiting San Diego. Part Historic Park, part village full of restaurants and shops, it is a must-see experience that will have something for... read more",
+                    "We walked around Old Town and it was a very nice area. Make sure you try the Apple Cider in the General Store and the Beef Jerky. Also visit the Nut stand - the guy there as... read more",
+                    "I enjoyed how Old Town preserved life there. A great place to learn about the history and people. They offer the best Mexican food. The shops are filled with great souvenirs and... read more",
+                    "Yes it's touristy and the shops are filled with the typical take home ashtrays, but look beyond that and see the wonderful people and Mexican crafts and live music and rich... read more",
+                    "This is THE SPOT for Mexican food in San Diego! I've been here several times and always go back. There's also plenty of unique shops that sell hand-made and unique items, lots... read more",
+                    "Had dinner in Old Town at a very nice restaurant. Walked through the vendors lined up on the street. Lots of nice shops, restaurants and other vendors the weekend before May... read more",
+                    "Beautiful little town in San Diego, great to stroll around and take pictures of historic houses, lamps, carriages. Plenty of souvenir shops and places to eat, heard mariachi... read more",
+                    "Love the feel of the old town! Plenty of cute little shops and restaurants with yummy Mexican food! Great way to spend an afternoon!",
+                    "what a great vibe. So much to meander about. City has introduced Valet services' scattered about. Inexpensive and savees you the aggravation of looking for a parking... read more",
+                    "Eat at Los Reyes if you want excellent Mexican food and entertainment. But buy the margaritas from the man selling on the side by the entertainment, the ones from the restaraunt... read more",
+                    "Our concierge at The Grant told us about old town. Never heard of it before. A lot of the foodies and food shows have had episodes within old town for mexican food. The food here... read more",
+                    "This is a very nice historic area that families will enjoy. There are a number of exhibits with people in period dress who describe what they are doing. There are also displays... read more",
+                    "Lovely warm evening spent Mouching round the quaint albeit touristy shops. Some lovely salsa playing with a few brave souls dancing (some with their Zimmer frames) but a great... read more",
+                    "Old Town San Diego is an amazing collection of period buildings that have been restored and maintained in their original condition and function, making for an investing look at... read more",
+                    "We choose Old Town over downtown every time! Fun shops and places to eat, lively people watching, old cemetary and church, museum, historical park and more.",
+                    "Mainly a lot of shops and food outlets, but the 19th century original Police jail museum is located here and is fascinating (fortunately I wasn't alive in those days!) the museum... read more",
+                    "We've spent a few hours and felt being in a fairy tale. A wonderful and charming place presents the history of San Diego. A lot of souvenir shops and native and original bars ad... read more",
+                    "This area is generally not for small children, more for adults who love architecture and history. There are lots of restaurants and shops. You can explore the old buildings and... read more",
+                    "First time visiting Old Town and there are tons of things to do. Plenty of great restruants in walking distance of numerous hotels in the area. Nice shops and outdoor markets of... read more",
+                    "Old Town is a great little / touristy walking area. Old building and a mission or two and other early SD sites. I would set aside 4 hours or so depending on how much meandering... read more",
+                    "We enjoy going to Old Town. They are in the midst of a major street improvement. So be careful where you park.",
+                    "Easy to access using the rail or bus system. Fun to walk around and look in the little shops. There is something fun for everyone and several places to eat. Clean, public... read more",
+                    "this little town is very beautiful, has the mexican touch to the place. there is restaurants and stores that really make you want to come back again",
+                    "So much to see and do. Stores, Restaurants, and even a playhouse with really good plays. Friendly people and just a lot of fun.",
+                    "This is one of my favorite places in San Diego. Always see some old favorites and some new businesses. Lots of great shopping. Numerous restaurants. Mostly Mexican style food... read more",
+                    "So many interesting shops to look in. Lots of restaurants to choose from. Fascinating historical buildings. Some restaurants dog friendly. Many historical building free and alot... read more",
+                    "Stayed in a hotel nearby. (Old Town Inn). Enjoyed the short walk; enjoyed several meals in Old Town.. lots of choices. Every time we come to San Diego, we end up in Old Town... read more",
+                    "Even though you go to Old Town for its history, you'll find much, much more. Great Mexican restaurants and quaint shops to browse in to find a unique gift or souvenir abound.",
+                    "If you like history and a nice walk - this is a great place to spend a day or at least 3/4 of a day. Nice places to walk and beautiful sights - alot of history... fun places to... read more",
+                    "We love going to Old Town in San Diego. There is always something to see no matter how many times you have been there.",
+                    "This place has as many cool historical sights as it does good Mexican restaurants. Also a great place to just go and have a drink.",
+                    "Amazing place to visit in San Diego, where this beautiful city was born. Many buildings keep their original construction. Much interesting to visit with children. There many... read more",
+                    "We found the area to be a mix of some historical buildings and info as well as being a fun area to walk around with shops and restaurants.",
+                    "My husband and I stopped here on our road trip. There's not a lot to do but we had a good time. We visited a few of the restaurants and had small dishes to share and alcohol... read more",
+                    "Old town is easily accessible with the trolley, few steps from the Old Town station. Very cute with the old buildings, few museums and a lot of mexican restaurants. Starting spot... read more",
+                    "Came here just to eat lunch with family. The area looked like fun and I'll come back some other day. A nice change of pace from upscale places downtown by convention center.",
+                    "I didn't expect too much, but the old town was a surprise. It takes us to the beginnings of the spanish colonization in San Diego. Most of the buildings are real. The atmosphere... read more",
+                    "Quaint shops with quality goods: Pottery, silver, candy, etc. We ate at Reyes and the Mexican food was very good. Mexican dancers nearby.",
+                    "Really nice walking destination, park and history. Great Mexican restaurants....we stayed at Fairfield Inn and had great places for dinner and was central to all other attraction",
+                    "We ate at Freds Mexican reastruant and I had a burrito and my husband had fish tacos. A lot for your money I must say. Very good.",
+                    "Good to spend about half a day here. Gives a really nice feel for what the old town of San Diego was like back in the day. Some good stores and restaurants too and very accessible... read more",
+                    "Still interesting enough to merit a visit, especially with kids. Good open spaces. Low key. Several levels of restaurants to choose from. We chose Fred's Mexican Cafe. Good food... read more",
+                    "Lots to see, places to eat and shop - very clean. Been to San Diego several times and never knew this was here. Worth the visit!",
+                    "Easy to visit with the Trolley. Area shut off to traffic so easy to walk. Rich in history and great Mexican restaurants.",
+                    "This was a lot of fun to go to! There are all different kinds of shops from tea and coffee shops to oil shops and historic things to see and do in the area! It's a fun place to go... read more",
+                    "I took the \"trolley\" from the train station area in San Diego to Old Town one day while I was killing time before meeting up with a friend. I wasn't really expecting to enjoy Old... read more",
+                    "Loved seeing the shops. Mexican pottery, clothes, food, and crafts. Very cool area to visit. Nice place to get souvenirs.",
+                    "Originally is a Mexican town. You can find here some original shops mostly jewellery. There are some Mexican restaurants. You can buy Mexican skulls.",
+                    "Our kids loved running around old town. There's a huge selection of mostly Mexican restaurants with great ambience. Also fun shopping. Really enjoyed our time there.",
+                    "The light rail will take you there in a few minutes from downtown. There was actually a lot of things to see and the shops were quite varied. There are some good restaurants in... read more",
+                    "What a great place to spend an evening! Old style bars and plenty of little shops! We walked around, dined at the Tequila Factory, played pool and shopped!",
+                    "This is a fun place to explore some of the history of San Diego! The area is very cute and there are plenty of shops and restaurants to visit. It is a little \"touristy\" but... read more",
+                    "Great, taste and colorful place. Very recommended! Traveling with dog. Were filling more than welcome in restaurants and gift shops.",
+                    "Just came back from spending weekend there, it's the 6th time and we always enjoy going. We eat dinner at a Lovely Italian restaurant that is so wonderful. If you're in the... read more"
+                ]
             },
-            "locType": "hamlet",
+            "longitude": "-117.1969792",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "Old Town San Diego, San Diego County, California, United States of America",
-            "latitude": "32.7542167"
+            "closest_to": "riverside",
+            "address": "Old Town San Diego, San Diego County, California, United States of America"
+        },
+        "palos verdes peninsula ca": {
+            "latitude": "33.77984925",
+            "locType": "school",
+            "longitude": "-118.372196730215",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Palos Verdes Peninsula High School, Hawthorne Boulevard, Rolling Hills Estates, Los Angeles County, California, 90274, United States of America"
+        },
+        "oregon": {
+            "latitude": "33.7123207",
+            "locType": "residential",
+            "longitude": "-117.7911567",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Oregon, Walnut, Irvine, Orange County, California, 92606, United States of America"
+        },
+        "seattle": {
+            "latitude": "41.9641881",
+            "locType": "residential",
+            "longitude": "-121.9226289",
+            "blogLinks": [
+                "http://fremont.com/",
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Seattle, Dorris, Siskiyou County, California, 96023, United States of America"
+        },
+        "paris": {
+            "latitude": "34.4719383",
+            "locType": "hamlet",
+            "longitude": "-118.1809078",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Paris, Los Angeles County, California, United States of America"
+        },
+        "morongo valley": {
+            "latitude": "34.0537585",
+            "locType": "administrative",
+            "longitude": "-116.596723958419",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Morongo Valley, Vista Drive, Morongo Valley, San Bernardino County, California, 92256, United States of America"
+        },
+        "san jacinto ca": {
+            "latitude": "33.7839084",
+            "locType": "city",
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "San Jacinto, Riverside County, California, United States of America"
+        },
+        "pacific crest trail": {
+            "latitude": "38.69418",
+            "locType": "residential",
+            "longitude": "-120.6375709",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "fremont",
+            "address": "Pacific Crest Trail, Pleasant Valley, El Dorado County, California, 95667, United States of America"
+        },
+        "north lake ca": {
+            "latitude": "37.76958295",
+            "locType": "water",
+            "longitude": "-122.501983281136",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America"
+        },
+        "chilnualna falls": {
+            "latitude": "37.5486657",
+            "locType": "residential",
+            "longitude": "-119.633114",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "riverside",
+            "address": "North Chilnualna Falls Road, North Wawona, Mariposa County, California, 95389, United States of America"
+        },
+        "ojai valley": {
+            "latitude": "34.4480495",
+            "locType": "city",
+            "longitude": "-119.2428889",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Ojai, Ventura County, California, United States of America"
+        },
+        "san diego": {
+            "latitude": "32.7174209",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pismo beach.json,anaheim_and_sacramento.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pismo beach.json,avalon_and_sacramento.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_malibu.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_santa ana.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa barbara.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_malibu.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san diego.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pismo beach.json,huntington beach_and_sacramento.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fremont_and_riverside.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pismo beach.json,long beach_and_sacramento.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa cruz.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pismo beach.json,los angeles_and_sacramento.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_newport beach.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_san diego.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_santa ana.json,pismo beach_and_santa monica.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san diego_and_temecula.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_popularity": "431",
+                "no_of_blogFiles": "358",
+                "attraction_longitude": "-117.1627713",
+                "mention_address": "San Diego, San Diego County, California, United States of America",
+                "imageUrls": [
+                    "https://lanniinsurance.com/wp-content/uploads/2012/01/san_diego_ca1.jpeg",
+                    "http://www.tapeciarnia.pl/tapety/normalne/239793_panorama_san_diego_z_lotu_ptaka.jpg",
+                    "http://compareratesforfree.com/wp-content/uploads/2012/05/feat-san-diego.jpg"
+                ],
+                "label": "San Diego",
+                "mention_latitude": "32.7174209",
+                "mention_type": "city",
+                "comment": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico.",
+                "Confidence": "100",
+                "attraction_in": "San Diego",
+                "attraction_in_file": "san_diego.json",
+                "abstract": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico. With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the U.S. Navy, and recent emergence as a healthcare and biotechnology development center. Historically home to the Kumeyaay people, San Diego was the first site visited by Europeans on what is now the West Coast of the United States. Upon landing in San Diego Bay in 1542, Juan Rodr\u00edguez Cabrillo claimed the entire area for Spain, forming the basis for the settlement of Alta California 200 years later. The Presidio and Mission of San Diego, founded in 1769, formed the first European settlement in what is now California. In 1821, San Diego became part of newly independent Mexico, and in 1850, became part of the United States following the Mexican\u2013American War and the admission of California to the union. The city is the seat of San Diego County and is the economic center of the region as well as the San Diego\u2013Tijuana metropolitan area. San Diego's main economic engines are military and defense-related activities, tourism, international trade, and manufacturing. The presence of the University of California, San Diego (UCSD), with the affiliated UCSD Medical Center, has helped make the area a center of research in biotechnology.",
+                "mention_name": "san diego",
+                "youTubeLinkIds": "ptokz5eklj4,Bnk61XHm3wM,Cywg-Alx1xY",
+                "attraction_latitude": "32.7174209",
+                "mention_longitude": "-117.1627713",
+                "subject": "http://dbpedia.org/resource/San_Diego",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-117.1627713",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "riverside",
+            "address": "San Diego, San Diego County, California, United States of America"
+        },
+        "mission bay ca": {
+            "latitude": "37.7707742",
+            "locType": "neighbourhood",
+            "longitude": "-122.3911711",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Mission Bay, SF, California, 94158, United States of America"
         },
         "pacific northwest": {
-            "closest_to": "riverside",
-            "longitude": "-121.312847098327",
+            "latitude": "37.98042375",
             "locType": "university",
+            "longitude": "-121.312847098327",
             "blogLinks": [
                 "https://www.tripadvisor.com/",
                 "http://www.fremontuniverse.com/"
             ],
-            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America",
-            "latitude": "37.98042375"
-        },
-        "mount san jacinto ca": {
             "closest_to": "riverside",
-            "longitude": "-116.9586349",
-            "locType": "city",
+            "address": "University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States of America"
+        },
+        "creek": {
+            "latitude": "39.3751013",
+            "locType": "stream",
+            "longitude": "-123.0482197",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "fremont",
+            "address": "Creek, Mendocino County, California, United States of America"
+        },
+        "corvallis": {
+            "latitude": "37.2130429",
+            "locType": "residential",
+            "longitude": "-121.8539991",
+            "blogLinks": [
+                "https://www.tripadvisor.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Corvallis Drive, Almaden, San Jos\u00e9, Santa Clara County, California, 95120, United States of America"
+        },
+        "pebble beach ca": {
+            "latitude": "36.5664874",
+            "locType": "hamlet",
+            "longitude": "-121.9466112",
             "blogLinks": [
                 "http://www.california-blog.com/"
             ],
-            "address": "San Jacinto, Riverside County, California, United States of America",
-            "latitude": "33.7839084"
+            "closest_to": "riverside",
+            "address": "Pebble Beach, Monterey County, California, United States of America"
+        },
+        "whittier hills whittier": {
+            "latitude": "33.9397495",
+            "locType": "library",
+            "longitude": "-117.993545449378",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "riverside",
+            "address": "Whittwood Branch Whittier Public Library, Starbuck Street, Friendly Hills, Whittier, Los Angeles County, California, 90603, United States of America"
+        },
+        "kern river": {
+            "latitude": "36.6816956",
+            "locType": "river",
+            "longitude": "-118.4124188",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Kern River, Tulare County, California, United States of America"
+        },
+        "palm springs air museum ca": {
+            "latitude": "33.83250375",
+            "locType": "museum",
+            "longitude": "-116.504677958796",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Palm Springs Air Museum, 745, North Gene Autry Trail, Palm Springs, Riverside County, California, 92262, United States of America"
+        },
+        "aliso creek": {
+            "latitude": "33.602558",
+            "locType": "stream",
+            "longitude": "-117.7034805",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "riverside",
+            "address": "Aliso Creek, Laguna Woods, Orange County, California, United States of America"
+        },
+        "palisades": {
+            "latitude": "32.974109",
+            "locType": "hamlet",
+            "longitude": "-117.0493668",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Palisades, San Diego County, California, United States of America"
+        },
+        "us": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "California, United States of America"
+        },
+        "united states": {
+            "latitude": "36.7014631",
+            "locType": "administrative",
+            "longitude": "-118.7559973",
+            "blogLinks": [
+                "https://www.tripadvisor.com/",
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "California, United States of America"
+        },
+        "monterey peninsula ca": {
+            "latitude": "36.5878734",
+            "locType": "aerodrome",
+            "longitude": "-121.843618374407",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America"
+        },
+        "fremont": {
+            "latitude": "37.5482697",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "144",
+                "abstract": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\" Located in the southeast section of the San Francisco Bay Area in the East Bay region primarily, Fremont has a population of around 220,000. It is the fourth most populous city in the San Francisco Bay Area, and the largest suburb in the metropolis. It is the closest East Bay city to Silicon Valley, and is thus sometimes associated with it. The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area. Fremont is home to the largest population of Afghan Americans in the United States.",
+                "no_of_blogFiles": "66",
+                "attraction_longitude": "-121.9885718",
+                "mention_address": "Fremont, Alameda County, California, United States of America",
+                "imageUrls": [
+                    "https://www.wikiplanet.click/imgw/Mission-Peak-2006.jpg",
+                    "http://www.taylorbenefitsinsurance.com/wp-content/uploads/2014/04/fremont.jpg",
+                    "http://2.bp.blogspot.com/-USRfkNiRrNw/UrSNCr56wUI/AAAAAAAAGBM/yGxICeleFkI/s1600/fremont_map_san_francisco.gif"
+                ],
+                "label": "Fremont, California",
+                "mention_latitude": "37.5482697",
+                "attraction_in": "Fremont",
+                "comment": "Fremont /\u02c8fri\u02d0m\u0252nt/ is a city in Alameda County, California. It was incorporated on January 23, 1956, from the merger of five smaller communities: Centerville, Niles, Irvington, Mission San Jose, and Warm Springs. The city is named after American explorer John Charles Fr\u00e9mont, \"the Great Pathfinder.\"The area consisting of Fremont, Newark (an enclave of Fremont), and Union City (formed from the communities of Alvarado and Decoto), is now known as the Tri-City Area.Fremont is home to the largest population of Afghan Americans in the United States.",
+                "Confidence": "100",
+                "mention_type": "city",
+                "attraction_in_file": "fremont.json",
+                "attraction_latitude": "37.5482697",
+                "mention_name": "fremont",
+                "youTubeLinkIds": "tpSNk4oylXY,P0557v4M0PQ,VHSs812FCOA",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_santa cruz.json,avalon_and_fremont.json,berkeley_and_san jose.json,bakersfield_and_fremont.json,bakersfield_and_santa cruz.json,berkeley_and_sacramento.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fremont.json,berkeley_and_fresno.json,beverly hills_and_fremont.json,big bear lake_and_san jose.json,carlsbad_and_fremont.json,carlsbad_and_santa cruz.json,fremont_and_irvine.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san jose.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_santa cruz.json,fresno_and_temecula.json,fremont_and_riverside.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_san jose.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,monterey_and_riverside.json,los angeles_and_santa cruz.json,newport beach_and_santa cruz.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,sacramento_and_santa cruz.json,san bernardino_and_santa cruz.json,san diego_and_santa cruz.json,san francisco_and_santa clarita.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json",
+                "mention_longitude": "-121.9885718",
+                "subject": "http://dbpedia.org/resource/Fremont,_California",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-121.9885718",
+            "blogLinks": [
+                "http://fremont.com/",
+                "http://distancecalculator.globefeed.com/US_Distance_Calculator.asp?state=CA",
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Fremont, Alameda County, California, United States of America"
+        },
+        "monterey bay aquarium ca": {
+            "latitude": "36.61809095",
+            "locType": "aquarium",
+            "longitude": "-121.901680002002",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America"
+        },
+        "seattle center": {
+            "latitude": "41.8430395",
+            "locType": "stream",
+            "longitude": "-123.3031612",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Seattle Creek, Siskiyou County, California, United States of America"
+        },
+        "mount baldy ca": {
+            "latitude": "34.2361168",
+            "locType": "hamlet",
+            "longitude": "-117.6600552",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Mount Baldy, Los Angeles County, California, United States of America"
+        },
+        "monrovia": {
+            "latitude": "34.1483499",
+            "locType": "city",
+            "enrich_metadata": {
+                "mention_popularity": "5",
+                "abstract": "Monrovia is a city located in the foothills of the San Gabriel Mountains in the San Gabriel Valley of Los Angeles County, California, United States. The population was 36,590 at the 2010 census, down from 36,929 in 2000. Monrovia has been used for filming TV shows, movies and commercials.",
+                "no_of_blogFiles": "155",
+                "attraction_longitude": "-118.0014516",
+                "mention_address": "Monrovia, Los Angeles County, California, United States of America",
+                "imageUrls": [
+                    "https://upload.wikimedia.org/wikipedia/commons/9/9a/Monrovia_CA_San_Gabriel_Mountains_i210.JPG",
+                    "http://www.eatz-associates.com/wp-content/uploads/fsrep/houses/additional/large/492-1.jpg",
+                    "http://www.fpimages.com/wp-content/uploads/2015/01/monrovia-outdoor-christmas-decorations-night-images-6.jpg"
+                ],
+                "label": "Monrovia, California",
+                "mention_latitude": "34.1483499",
+                "mention_type": "city",
+                "comment": "Monrovia is a city located in the foothills of the San Gabriel Mountains in the San Gabriel Valley of Los Angeles County, California, United States. The population was 36,590 at the 2010 census, down from 36,929 in 2000. Monrovia has been used for filming TV shows, movies and commercials.",
+                "Confidence": "100",
+                "attraction_in": "Monrovia",
+                "attraction_in_file": "monrovia.json",
+                "attraction_latitude": "34.1483499",
+                "mention_name": "monrovia",
+                "youTubeLinkIds": "85R5EMA4K-0,M3gFdghjTGw,Ke5oBLf6kj0",
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san jose.json,anaheim_and_sausalito.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_berkeley.json,avalon_and_beverly hills.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_irvine.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_beverly hills.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_pasadena.json,berkeley_and_riverside.json,berkeley_and_san bernardino.json,berkeley_and_santa monica.json,berkeley_and_beverly hills.json,berkeley_and_carlsbad.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_san bernardino.json,beverly hills_and_temecula.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_sausalito.json,fremont_and_irvine.json,fremont_and_malibu.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_temecula.json,irvine_and_monterey.json,irvine_and_oakland.json,irvine_and_san bernardino.json,irvine_and_san jose.json,irvine_and_sausalito.json,fremont_and_riverside.json,fresno_and_riverside.json,irvine_and_pasadena.json,los angeles_and_san bernardino.json,malibu_and_oakland.json,malibu_and_riverside.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_temecula.json,malibu_and_monterey.json,newport beach_and_sacramento.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,riverside_and_sacramento.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san bernardino_and_temecula.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,irvine_and_stockton.json,san jose_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_longitude": "-118.0014516",
+                "subject": "http://dbpedia.org/resource/Monrovia,_California",
+                "type": "http://dbpedia.org/resource/California"
+            },
+            "longitude": "-118.0014516",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Monrovia, Los Angeles County, California, United States of America"
+        },
+        "pasadena": {
+            "latitude": "34.1476452",
+            "locType": "city",
+            "longitude": "-118.1444778",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=8"
+            ],
+            "closest_to": "riverside",
+            "address": "Pasadena, Los Angeles County, California, United States of America"
+        },
+        "mojave desert ca": {
+            "latitude": "35.1456319",
+            "locType": "desert",
+            "longitude": "-115.548963686646",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America"
+        },
+        "mono lake ca": {
+            "latitude": "38.0077189",
+            "locType": "water",
+            "longitude": "-118.967033937845",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Mono Lake, Mono County, California, United States of America"
+        },
+        "ontario": {
+            "latitude": "34.065846",
+            "locType": "city",
+            "longitude": "-117.6484303",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Ontario, San Bernardino County, California, United States of America"
+        },
+        "mount san gorgonio ca": {
+            "latitude": "33.9121294",
+            "locType": "secondary",
+            "longitude": "-116.8766731",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "San Gorgonio Avenue, Banning, Riverside County, California, 92220, United States of America"
+        },
+        "mount palomar ca": {
+            "latitude": "33.1278146",
+            "locType": "bank",
+            "longitude": "-117.270809764613",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "California Bank & Trust, 2501, Palomar Airport Road, Carlsbad, San Diego County, California, 92011, United States of America"
+        },
+        "morro bay ca": {
+            "latitude": "35.3658075",
+            "locType": "city",
+            "longitude": "-120.8499012",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "Morro Bay, San Luis Obispo County, California, United States of America"
+        },
+        "mount san jacinto ca": {
+            "latitude": "33.7839084",
+            "locType": "city",
+            "longitude": "-116.9586349",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "closest_to": "riverside",
+            "address": "San Jacinto, Riverside County, California, United States of America"
+        },
+        "airbnb": {
+            "latitude": "37.7719568",
+            "locType": "company",
+            "longitude": "-122.4054483",
+            "blogLinks": [
+                "http://www.fremontuniverse.com/"
+            ],
+            "closest_to": "fremont",
+            "address": "Airbnb, 888, Brannan Street, West SoMa, SF, California, 94103, United States of America"
         }
     },
-    "fremont": {
-        "place_id": "159050638",
-        "importance": 0.70373394703995,
-        "type": "city",
-        "osm_type": "relation",
-        "class": "place",
-        "boundingbox": [
-            "37.4539501",
-            "37.6066739",
-            "-122.1509872",
-            "-121.8701127"
-        ],
-        "osm_id": "111943",
-        "lon": "-121.9885718",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "37.5482697",
-        "display_name": "Fremont, Alameda County, California, United States of America"
-    },
     "riverside": {
-        "place_id": "85715402",
+        "lon": "-117.3961622",
+        "display_name": "Riverside, Riverside County, California, United States of America",
         "importance": 0.72980766319189,
-        "type": "city",
-        "osm_type": "way",
+        "osm_id": "98628503",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
         "class": "place",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "33.9533546",
+        "place_id": "85715402",
+        "osm_type": "way",
         "boundingbox": [
             "33.8724207",
             "34.0192691",
             "-117.5237611",
             "-117.2741721"
         ],
-        "osm_id": "98628503",
-        "lon": "-117.3961622",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
-        "lat": "33.9533546",
-        "display_name": "Riverside, Riverside County, California, United States of America"
+        "type": "city"
     }
 }
