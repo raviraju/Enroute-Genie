@@ -1,6 +1,6 @@
 #python updateYouTubeLinks_TripAdvisorAttractions.py 
-# /media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/city_match/tripAdvisor_attractions_with_LatLong_withYouTube.csv 
-# /media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/city_match/tripAdvisor_attractions/
+# /media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/tripAdvisor_attractions_with_LatLong_withYouTube.csv 
+# /media/ravirajukrishna/Windows/Users/Ravi/Desktop/USC/Courses_Sem3/Info_Integrate_Web/Project/Enroute-Genie/data_record_linkage_csv/california/tripAdvisor_attractions/
 
 
 import argparse, json, csv, os

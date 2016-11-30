@@ -1,0 +1,181 @@
+Enroute-Genie/annotated_output_data$ python3
+Python 3.5.2 |Anaconda 4.2.0 (64-bit)| (default, Jul  2 2016, 17:53:06) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> f = open('los angeles_and_san francisco.json','r')
+>>> import json
+>>> data = json.load(f)
+>>> data.keys()
+dict_keys(['cities', 'attractions', 'urlDetails'])
+>>> len(data['attractions'])
+204
+>>> attraction_set = set(data['attractions'])
+>>> len(attraction_set)
+158
+>>> city_set = set(data['cities'])
+>>> len(data['cities'])
+24
+>>> len(city_set)
+17
+>>> for attraction in attraction_set:
+...     print(attraction)
+... 
+Morro Rock	https://www.tripadvisor.com/Attraction_Review-g32746-d292801-Reviews-Morro_Rock-Morro_Bay_San_Luis_Obispo_County_California.html	
+Avila beach
+Tioga Pass
+Half Moon Bay
+Shell Beach
+Moonstore Beach
+Julia Pfeiffer State Park
+Mono Lake
+Bixby Creek Bridge
+Palos Verdes Golf course
+Pacific Coast Highway
+Valley of the Bears
+Lake Tahoe
+Montana de Oro State Park
+Morro Bay State Park
+Museum of Natural History
+Monterey Bay Aquarium
+Museum of Monterey
+Santa Barbara Zoo
+Butterfly Beach
+the Korean Friendship Bell
+Pismo Beach
+Cayucos
+Pismo beach
+Lee Vining
+Santa Monica
+Dana Point
+Andrew Molera State Park
+Santa Barbara Mission
+San Luis Obispo County
+Pescadero
+Pfeiffer Big Sur State Park
+Kettleman City
+Pismo Pier
+Lone Cypress and Seal or Bird Rock
+Cypress Point
+Ocean Avenue
+Carmel Valley
+Fisherman’s Wharf
+Mission San Carlos Borromeo del Rio Carmelo
+Rancho Palos Verdes
+Buellton
+Old Mission
+Ruddell’s Smokehouse
+Pinnacles National Monument
+Pacific Grove
+San Luis Obispo
+Shoreline Village
+Bubblegum Alley
+Embarcadero
+hearst castle
+The Museum of Natural History
+cable cars
+Belmont Shore
+Harris Ranch
+Urban Wine Trail
+Cannery Row
+Moonstone Drive
+Morro Bay
+Venice Beach
+Yosemite National Park
+Cambria
+chi-chi Malibu
+Butterfly Town
+Leo Carillo State Beach
+Fitzgerald Marine Reserve
+Salinas
+McWay Falls
+the Museum of Latin American Art
+Pillar Point Harbor
+Ventana Inn
+Monarch Butterfly Sanctuary
+Shamel Park
+Mission Santa Barbara
+Point Lobos State Reserve
+Andree Clark Bird Refuge
+Long Beach
+Fisherman's Wharf
+USS Iowa Battleship
+Long Beach Museum of Art
+Ragged Point
+Hearst Castle
+Santa Monica Pier
+Paso
+Santa Cruz Beach Boardwalk
+Backyard Bowls
+Gum Alley
+Pt Fermin Lighthouse
+Huntington Beach
+Fort MacArthur Museum
+Ports O' Call Village Marketplace
+Brown Butter Cookie Company
+Seacrest Beach Resort
+Morro Bay Aquarium
+Nicolas Canyon County Beach
+Laguna Beach
+Saddle Mountain Recreation Park
+Newport Beach
+Manhattan Beach
+Devil's Slide
+Ghost Tree
+Madonna Inn
+Morro Bay Estuary
+Olio Pizzeria
+Solvang
+Fisherman's Village
+Balboa Pier
+Redondo Beach
+Lover's Point
+Belmont Veteran's Memorial Pier
+Santa Rosa Creek
+Carpinteria
+Monterey
+Mission Santa Ines
+McWay Waterfall Trail
+Del Monte Forest
+Point Pinos Lighthouse
+Piedras Blancas
+Seal Beach
+Paso Robles
+San Simeon
+Big Sur
+Third Street Promenade
+Avila Beach
+Carmel
+Santa Barbara County Courthouse
+Sycamore Mineral Springs
+Jack Creek Farms
+Post Ranch Inn
+Anderson Pea Soup factory
+Marina Del Rey
+Hollywood
+Moonstone Beach
+the Apricot Tree
+Kettleman Station
+The Santa Monica Pier
+Old West Cinnamon Rolls
+San Clemente
+Pebble Beach Golf Course
+Point Sur Lighthouse
+Monterey Bay
+Yosemite
+Catalina Avenue
+Los Banos
+RMS Queen Mary
+Disneyland
+pismo beach
+Ragged Point Inn
+Red Tile Walking Tour
+Santa Nella
+Santa Monica Mountains
+Santa Barbara Botanic Garden
+Point Dume State Beach
+Elverhoy Danish Heritage and Fine Arts Museum
+Pebble Beach
+San Pedro
+The Madonna Inn
+Fort Tejon
+>>>
