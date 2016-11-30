@@ -143,10 +143,18 @@ $
       4. result in : result.csv
     3. Final Results of 2 types of record linkages are available in **record_linkage_results/**
        city_result.csv          nonCity_result.csv 
-   
-11. **imageFetch.py** : an utility script to fetch images for specified query from yandex
-12. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
-13. **annotateInterestingPlaces_BlogUrls.py** : annotate interesting locations from blogsUrls into city/attraction interest
+
+11. **fetchImages_dumpCityJson.py** : dump city json data with relevant images for enroute-genie mashup
+    + input : record_linkage_results/city_result.csv
+    + output : cityData_output/
+    
+12. **fetchImages_integrate_ReviewComments.py** : dump mention json data with relevant images and reviewComments_Urls of tripAdvisor for enroute-genie mashup
+    + input : record_linkage_results/nonCity_result.csv, record_linkage_results/tripAdvisor_attractions/
+    + output : mentionData_output/
+
+21. **imageFetch.py** : an utility script to fetch images for specified query from yandex
+22. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
+23. **annotateInterestingPlaces_BlogUrls.py** : annotate interesting locations from blogsUrls into city/attraction interest
     + read blogUrls from each of location pairs in annotate_input_data/
     + dump annotated results in annotated_output_data/
 
