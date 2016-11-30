@@ -1,0 +1,1423 @@
+{
+    "oakland": {
+        "place_id": "159417720",
+        "importance": 0.80539006393216,
+        "type": "city",
+        "osm_type": "relation",
+        "class": "place",
+        "boundingbox": [
+            "37.632226",
+            "37.885368",
+            "-122.3558809",
+            "-122.1146719"
+        ],
+        "osm_id": "2833530",
+        "lon": "-122.2713562",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.8044557",
+        "display_name": "Oakland, Alameda County, California, United States of America"
+    },
+    "mammoth lakes": {
+        "place_id": "73282228",
+        "importance": 0.67062928815144,
+        "type": "administrative",
+        "osm_type": "way",
+        "class": "boundary",
+        "boundingbox": [
+            "37.580115",
+            "37.659467",
+            "-119.0613999",
+            "-118.9370119"
+        ],
+        "osm_id": "33114461",
+        "lon": "-118.9668508",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.6432525",
+        "display_name": "Mammoth Lakes, Mono County, California, United States of America"
+    },
+    "mentions": {
+        "san francisco bay area": {
+            "closest_to": "oakland",
+            "longitude": "-122.3558472",
+            "locType": "region",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "San Francisco Bay Area, SF, California, United States of America",
+            "latitude": "37.7884969"
+        },
+        "mono lake": {
+            "closest_to": "oakland",
+            "longitude": "-118.967033937845",
+            "locType": "water",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "latitude": "38.0077189"
+        },
+        "death valley national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.102293507719",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Death Valley National Park, Lucky Wash Road, Skidoo, Inyo County, California, United States of America",
+            "latitude": "36.4914385"
+        },
+        "kings river": {
+            "closest_to": "oakland",
+            "longitude": "-119.4451345",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Kings River, Fresno County, California, United States of America",
+            "latitude": "36.7556141"
+        },
+        "sierra nevada resort": {
+            "closest_to": "oakland",
+            "longitude": "-118.9671366",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "The Sierra Nevada Resort, 164, Laurel Mountain Road, Mammoth Lakes, Mono County, California, 93546, United States of America",
+            "latitude": "37.6435778"
+        },
+        "maturango museum": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6695076",
+            "enrich_metadata": {
+                "attraction_name": "Maturango Museum",
+                "Confidence": "100",
+                "youTubeLinkIds": "\"nCm_qY7nGxE,yGFijJsJ5yo\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "10",
+                "mention_popularity": "1",
+                "attraction_reviewComments": [
+                    "This is a great little museum in the desert. It is well worth the time to go for both the Native American & petroglyph displays as well as the early mining history displays.",
+                    "This is a very small museum but informative about the history and flora and fauna of the Mojave desert. Also it is a good place for tourist information. If you are staying in... read more",
+                    "This museum has all the information you need to make your trip up the Eastern Sierras more interesting.",
+                    "Went here for the first time in years and wow it's huge now! Really neat exhibits of the desert and surrounding area. Nice little gift shop. Fun for an hour or so.",
+                    "This museum is a great place to really learn a lot about the upper desert and a great place to get information on day hikes and overnight hikes. There is lots of informative books... read more",
+                    "Good for kids and those who have an hour spare. Very pleasant staff and a gift shop that sells gifts rather than the usual tourist stuff.",
+                    "My daughter and I walked through the gardens and solar system exhibit outside. Inside we learned about the area. Yes, there actually was a China Lake here long past.",
+                    "A good place to start for a trip to Death Valley or other sites. The person was very helpful with info."
+                ],
+                "attraction_longitude": "",
+                "attraction_in": "Ridgecrest",
+                "attraction_address": "\"100 E Las Flores Ave , Ridgecrest , CA 93555-3654\"",
+                "mention_type": "museum",
+                "mention_found_in_blogFiles": "\"anaheim_and_mammoth lakes.json,bakersfield_and_mammoth lakes.json,bakersfield_and_temecula.json,carlsbad_and_fresno.json,fresno_and_santa monica.json,mammoth lakes_and_oakland.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json\"",
+                "mention_address": "\"Maturango Museum, East Las Flores Avenue, Ridgecrest, Kern County, California, 93555, United States of America\"",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or70-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or50-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or40-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or30-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or20-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or10-Maturango_Museum-Ridgecrest_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g32966-d127407-Reviews-or60-Maturango_Museum-Ridgecrest_California.html"
+                ],
+                "attraction_in_file": "ridgecrest.json",
+                "blogLinks": [
+                    "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+                ],
+                "imageUrls": [
+                    "https://assets.blubrry.com/coverart/300/31882.jpg",
+                    "https://readtiger.com/img/wkp/en/MaturangoMuseum.JPG",
+                    "https://media-cdn.tripadvisor.com/media/photo-s/01/68/cd/1e/exhibit-area-art-gallery.jpg"
+                ],
+                "zip_code": "93555",
+                "attraction_ranking": "1",
+                "attraction_knownFor": "\"History Museums , Museums\"",
+                "mention_name": "maturango museum",
+                "attraction_no_of_reviews": "77",
+                "mention_latitude": "35.629956",
+                "attraction_contact": "+1 760-375-6900",
+                "mention_longitude": "-117.6695076"
+            },
+            "locType": "museum",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Maturango Museum, East Las Flores Avenue, Ridgecrest, Kern County, California, 93555, United States of America",
+            "latitude": "35.629956"
+        },
+        "san francisco international airport": {
+            "closest_to": "oakland",
+            "longitude": "-122.384071507814",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "San Francisco Airport, North Access Road, Lomita Park, San Mateo County, California, 94128, United States of America",
+            "latitude": "37.622452"
+        },
+        "us": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "owens river": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.3819013",
+            "enrich_metadata": {
+                "attraction_name": "Owens River",
+                "Confidence": "100",
+                "youTubeLinkIds": "\"qB8Ysv5vUG0,5A43xH5dR7k,PLOnIT4IjxQ\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "69",
+                "mention_popularity": "6",
+                "attraction_reviewComments": [
+                    "Granted it's been a while since I looked for the river, but there hasn't been much there since the 1920s-1930s when Los Angeles decided it could use all the water in the valley... read more"
+                ],
+                "attraction_longitude": "",
+                "attraction_in": "Lone Pine",
+                "attraction_address": "\"California Highway 136 , Lone Pine , CA\"",
+                "mention_type": "river",
+                "mention_found_in_blogFiles": "\"anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,avalon_and_mammoth lakes.json,bakersfield_and_mammoth lakes.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san jose.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_san jose.json,big bear lake_and_mammoth lakes.json,carlsbad_and_fresno.json,carlsbad_and_mammoth lakes.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_santa cruz.json,fremont_and_mammoth lakes.json,fremont_and_san bernardino.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,los angeles_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san jose.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,mammoth lakes_and_sausalito.json,monterey_and_santa monica.json,oakland_and_pasadena.json,oakland_and_san diego.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_sacramento.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,san diego_and_san jose.json,san francisco_and_santa clarita.json,sacramento_and_san diego.json,san jose_and_temecula.json,santa monica_and_sausalito.json\"",
+                "mention_address": "\"Owens River, Inyo County, California, United States of America\"",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g32646-d10376230-Reviews-Owens_River-Lone_Pine_California.html"
+                ],
+                "attraction_in_file": "lone_pine.json",
+                "blogLinks": [
+                    "http://gocalifornia.about.com/od/topcalifornia/ss/Los-Angeles-to-San-Francisco-on-I-5.htm",
+                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k195168-Driving_San_Diego_to_Lake_Tahoe_Route_planning-California.html",
+                    "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+                    "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                    "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Things_To_Do-California-TG-C-1.html",
+                    "http://www.travbuddy.com/travel-blogs/3049/"
+                ],
+                "imageUrls": [
+                    "http://ca.water.usgs.gov/projects/owens/images/Picture1.jpg",
+                    "https://prv3.lori-images.net/owens-river-eastern-sierra-california-0021012979-preview.jpg",
+                    "http://img1.liveinternet.ru/images/attach/c/10/109/136/109136923_Owens_River_California.jpg"
+                ],
+                "zip_code": "",
+                "attraction_ranking": "7",
+                "attraction_knownFor": "",
+                "mention_name": "owens river",
+                "attraction_no_of_reviews": "3",
+                "mention_latitude": "37.4100005",
+                "attraction_contact": "",
+                "mention_longitude": "-118.3819013"
+            },
+            "locType": "river",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Owens River, Inyo County, California, United States of America",
+            "latitude": "37.4100005"
+        },
+        "ballarat": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.2233899",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Ballarat, Inyo County, California, United States of America",
+            "latitude": "36.0477266"
+        },
+        "june lake": {
+            "closest_to": "oakland",
+            "longitude": "-119.080801214763",
+            "locType": "town",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "June Lake, Mono County, California, United States of America",
+            "latitude": "37.7807507"
+        },
+        "crowley lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7454081",
+            "locType": "village",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Crowley Lake, Mono County, California, United States of America",
+            "latitude": "37.564155"
+        },
+        "sacramento": {
+            "closest_to": "oakland",
+            "longitude": "-121.4943995",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "latitude": "38.5815719"
+        },
+        "panamint valley road": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.3555359",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Panamint Valley Road, Inyo County, California, United States of America",
+            "latitude": "36.257055"
+        },
+        "mount whitney": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.2922848",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "address": "Mount Whitney, Inyo County, California, United States of America",
+            "latitude": "36.5784428"
+        },
+        "oakland": {
+            "closest_to": "oakland",
+            "longitude": "-122.2713562",
+            "enrich_metadata": {
+                "label": "Oakland, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "4cUVH71rQtk,vk516Cq4ulY,50RZpphkZkQ",
+                "type": "http://dbpedia.org/resource/Charter_city",
+                "mention_address": "Oakland, Alameda County, California, United States of America",
+                "abstract": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco. Oakland's territory covers what was once a mosaic of coastal terrace prairie, oak woodland, and north coastal scrub. Its land served as a rich resource when its hillside oak and redwood timber were logged to build San Francisco, and Oakland's fertile flatland soils helped it become a prolific agricultural region. In the late 1860s, Oakland was selected as the western terminal of the Transcontinental Railroad. Following the 1906 San Francisco earthquake, many San Franciscans relocated to Oakland, enlarging the city's population, increasing its housing stock and improving its infrastructure. It continued to grow in the 20th century with its busy port, shipyards, and a thriving automobile manufacturing industry. Oakland is known for its sustainability practices, including a top ranking for usage of electricity from renewable resources. Oakland is also known for its history of political activism, as well as its professional sports franchises and major corporations, which include health care, dot-com companies and manufacturers of household products. In addition, thanks to a steady influx of immigrants during the 20th century, along with thousands of African-American war-industry workers who relocated from the Deep South during the 1940s, Oakland is one of the most ethnically diverse major cities in the country.",
+                "attraction_latitude": "37.8044557",
+                "no_of_blogFiles": "196",
+                "subject": "http://dbpedia.org/resource/Oakland,_California",
+                "attraction_in_file": "oakland.json",
+                "imageUrls": [
+                    "https://readtiger.com/img/wkp/en/Oakland_California_aerial_view.jpg",
+                    "http://s1.dmcdn.net/LkaVc/1280x720-wJY.jpg",
+                    "http://kstati.net/wp-content/uploads/2016/08/chinatown-1-960x600.jpg"
+                ],
+                "mention_name": "oakland",
+                "mention_type": "city",
+                "attraction_longitude": "-122.2713562",
+                "attraction_in": "Oakland",
+                "comment": "Oakland /\u02c8o\u028akl\u0259nd/ is a major West Coast port city in the U.S. state of California. Oakland is the third largest city in the San Francisco Bay Area, the eighth-largest city in California, and the 45th-largest city in the U.S. with a population of 413,775 as of 2014. It serves as a trade center for the San Francisco Bay Area; its Port of Oakland is the busiest port for San Francisco Bay, all of Northern California, and fifth busiest in the United States. Incorporated in 1852, Oakland is the county seat of Alameda County. It is also the principal city of the Bay Area Region known as the East Bay. The city is situated directly across the bay, six miles (9.7 km) east of San Francisco.",
+                "mention_longitude": "-122.2713562",
+                "mention_latitude": "37.8044557",
+                "mention_popularity": "165",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_oakland.json,anaheim_and_santa cruz.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,berkeley_and_san jose.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san jose.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_oakland.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa barbara.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_santa cruz.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,long beach_and_san jose.json,los angeles_and_san jose.json,malibu_and_oakland.json,malibu_and_san francisco.json,malibu_and_san jose.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,riverside_and_sacramento.json,riverside_and_san jose.json,sacramento_and_san jose.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_sausalito.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa monica_and_sausalito.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Oakland, Alameda County, California, United States of America",
+            "latitude": "37.8044557"
+        },
+        "panamint": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.0953326",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Panamint, Inyo County, California, United States of America",
+            "latitude": "36.1182827"
+        },
+        "chinatown": {
+            "closest_to": "oakland",
+            "longitude": "-122.2702385",
+            "enrich_metadata": {
+                "attraction_name": "Chinatown",
+                "Confidence": "100",
+                "youTubeLinkIds": "\"OEYIKwEsGE0,PJmnLzw8NA4,rX8jZTN0CdU\"",
+                "attraction_latitude": "37.788237",
+                "no_of_blogFiles": "152",
+                "mention_popularity": "57",
+                "attraction_reviewComments": [
+                    "A fairly large China Town in the city, recommend finding a place to stop and enjoy dim sum since fairly inexpensive. Not prettiest area to walk around in, but worth getting the... read more"
+                ],
+                "attraction_longitude": "-122.4051522",
+                "attraction_in": "San Francisco",
+                "attraction_address": "\"Grant Avenue , San Francisco , CA 94108\"",
+                "mention_type": "neighbourhood",
+                "mention_found_in_blogFiles": "\"anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_san jose.json,berkeley_and_long beach.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,bakersfield_and_napa.json,bakersfield_and_sacramento.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_oakland.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa cruz.json,berkeley_and_sausalito.json,berkeley_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,big bear lake_and_oakland.json,big bear lake_and_santa cruz.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,fremont_and_fresno.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_santa barbara.json,fremont_and_sausalito.json,fremont_and_stockton.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san francisco.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa cruz.json,fresno_and_stockton.json,huntington beach_and_monterey.json,huntington beach_and_san francisco.json,huntington beach_and_sausalito.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_san francisco.json,long beach_and_santa cruz.json,los angeles_and_mammoth lakes.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_oakland.json,malibu_and_sausalito.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,monterey_and_san diego.json,monterey_and_santa barbara.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,newport beach_and_oakland.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,oakland_and_pasadena.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_santa barbara.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,riverside_and_sausalito.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,sacramento_and_san diego.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_santa cruz.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa cruz_and_santa monica.json,santa monica_and_sausalito.json,sausalito_and_stockton.json\"",
+                "mention_address": "\"Chinatown, Oakland, Alameda County, California, ca, United States of America\"",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html"
+                ],
+                "attraction_in_file": "san_francisco.json",
+                "blogLinks": [
+                    "https://www.cheaptickets.com/California.d206.Destination-Travel-Guides",
+                    "http://www.bestplaces.net/city/california/newark",
+                    "https://en.wikipedia.org/wiki/Napa,_California",
+                    "http://blogs.kqed.org/guides/2012/11/where-to-take-out-of-town-guests-this-holiday/",
+                    "http://www.bestplaces.net/city/california/sausalito",
+                    "https://www.visitoakland.org/explore/101-things-to-do/",
+                    "https://www.kcet.org/departures-columns/on-location-monterey-park",
+                    "https://www.cheaptickets.com/Destinations-In-California.d206.Hotel-Destinations",
+                    "https://www.berkeleyparentsnetwork.org/recommend/places/la",
+                    "https://www.audleytravel.com/usa/california/things-to-do/san-francisco-city-tour-muir-woods-sausalito",
+                    "http://wikitravel.org/en/Fremont",
+                    "http://wikitravel.org/en/Los_Angeles",
+                    "http://www.bestplaces.net/city/berkeley-california.aspx",
+                    "http://www.mygola.com/5-day-itinerary-for-san-francisco-and-napa/q24191",
+                    "http://gocalifornia.about.com/od/casfmenu/ss/things-to-do-in-san-francisco.htm",
+                    "https://www.yelp.com/topic/fremont-seattle-vs-sf",
+                    "http://www.bestplaces.net/city/california/oakland",
+                    "https://www.yelp.com/topic/fremont-what-are-some-nice-cool-places-to-go-to-in-ca-bay-area",
+                    "https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html",
+                    "http://www.cosmos.com/tour/golden-west-adventure/8500/",
+                    "http://www.bestplaces.net/zip-code/california/sausalito",
+                    "http://www.eastbayexpress.com/oakland/dessert-all-day/Content?oid=4986539",
+                    "http://www.bestplaces.net/city/california/berkeley",
+                    "http://www.sftravel.com/article/7-best-things-do-san-francisco",
+                    "http://travel.nationalgeographic.com/travel/road-trips/santa-barbara-california-road-trip/",
+                    "http://www.movoto.com/blog/opinions/san-francisco-vs-los-angeles/",
+                    "http://www.theamericanroadtripcompany.co.uk/roadtrips/pacific-coast-highway/",
+                    "https://www.yelp.com/list/best-places-in-oakland-berkeley-you-havent-found-yet-oakland",
+                    "https://www.trekaroo.com/places/california/snapshot",
+                    "https://www.quora.com/What-are-the-best-places-to-visit-in-San-Francisco",
+                    "http://www.touropia.com/best-places-to-visit-in-california/",
+                    "http://www.rewards-insiders.marriott.com/thread/14517",
+                    "https://www.audleytravel.com/usa/california/itinerary-ideas/california-explored",
+                    "https://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/",
+                    "https://blog.trekaroo.com/grand-california-road-trip/",
+                    "http://www.bestplaces.net/city/california/walnut_creek",
+                    "http://www.bestplaces.net/city/california/discovery_bay",
+                    "http://thisismyhappiness.com/2014/06/17/things-do-san-francisco/",
+                    "http://www.bestplaces.net/zip-code/california/sausalito/94965",
+                    "http://www.usatourist.com/english/destinations/california/california-driving-tour.html",
+                    "http://www.bestplaces.net/city/california/fremont",
+                    "http://www.literarytraveler.com/articles/jack-kerouac-and-john-steinbeck-on-the-californian-coast/",
+                    "http://www.bestplaces.net/metro/california/san_francisco-oakland-fremont",
+                    "https://www.berkeleyparentsnetwork.org/recommend/housing/which_neighborhood",
+                    "http://www.bestplaces.net/zip-code/california/fremont/94538",
+                    "https://en.wikipedia.org/wiki/List_of_largest_California_cities_by_population",
+                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k3230351-Stops_along_highway_99-California.html",
+                    "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                    "http://www.heleninwonderlust.co.uk/2014/03/ultimate-california-road-trip-itinerary-las-vegas-part-2/",
+                    "https://en.wikipedia.org/wiki/Oakland,_California",
+                    "http://www.travbuddy.com/travel-blogs/3049/",
+                    "http://www.mytravelguideposts.com/2011/11/3-day-vacation-ideas-in-california.html",
+                    "https://www.orbitz.com/lp/flights/178304/178305/san-diego-to-san-francisco",
+                    "https://www.timeout.com/los-angeles/things-to-do/great-things-to-do-in-los-angeles",
+                    "https://www.yelp.com/list/places-to-visit-in-san-francisco-san-francisco",
+                    "http://www.bestoftheroad.com/roadtrip/california-route-1-coast-drive/626",
+                    "http://www.bestplaces.net/zip-code/california/berkeley/94720"
+                ],
+                "imageUrls": [
+                    "http://www.olivier-sourisse.fr/blog/wp-content/uploads/2015/10/San-Francisco-Chinatown-1.jpg",
+                    "http://www.markgibsonphoto.com/images/K077.06W04W.JPG",
+                    "http://www.kapakliforum.com/wp-content/uploads/2016/05/san-francisco-hem-klasik-hem-yerel-ruhu-yansitiyor-572758933c751.jpg"
+                ],
+                "zip_code": "94108",
+                "attraction_ranking": "54",
+                "attraction_knownFor": "",
+                "mention_name": "chinatown",
+                "attraction_no_of_reviews": "\"3,955\"",
+                "mention_latitude": "37.7999301",
+                "attraction_contact": "+1 888-212-3203",
+                "mention_longitude": "-122.2702385"
+            },
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "address": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+            "latitude": "37.7999301"
+        },
+        "merced": {
+            "closest_to": "oakland",
+            "longitude": "-120.4843268",
+            "enrich_metadata": {
+                "mention_popularity": "16",
+                "label": "Merced, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "K7vWFLgSSF0,2xgde7YWHU0,l4ZmEAnKNRc",
+                "type": "http://dbpedia.org/resource/Charter_city",
+                "attraction_in_file": "merced.json",
+                "abstract": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby. Merced, known as the \"Gateway to Yosemite,\" is less than two hours by automobile from Yosemite National Park to the east and Monterey Bay, the Pacific Ocean, and several beaches to the west. The community is served by the rail passenger service Amtrak, a major airline through Merced Regional Airport, and three bus lines. It is approximately 110 miles (180 km) from Sacramento, 130 miles (210 km) from San Francisco, 45 miles (72 km) from Fresno, and 270 miles (430 km) from Los Angeles. In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
+                "attraction_latitude": "37.3029568",
+                "no_of_blogFiles": "62",
+                "subject": "http://dbpedia.org/resource/Merced,_California",
+                "mention_address": "Merced, Merced County, California, United States of America",
+                "imageUrls": [
+                    "http://cashmancuneo.net/biomes/calcentral/pict/Merced.JPG",
+                    "https://images.trvl-media.com/hotels/1000000/40000/34800/34725/34725_164_z.jpg",
+                    "http://www.ppp-news.com/wp-content/uploads/2016/02/412.jpg"
+                ],
+                "mention_name": "merced",
+                "attraction_longitude": "-120.4843268",
+                "attraction_in": "Merced",
+                "comment": "Merced /m\u0259r\u02c8s\u025bd/ (Spanish for \"Mercy\") is a city in, and the county seat of, Merced County in the San Joaquin Valley of Northern California. As of 2014, the city had a population of 81,743. Incorporated on April 1, 1889, Merced is a charter city that operates under a council-manager government. It is named after the Merced River, which flows nearby.In 2005, the city became home to the tenth University of California campus, University of California, Merced (UC Merced), the first research university built in the U.S. in the 21st century.",
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,avalon_and_mammoth lakes.json,bakersfield_and_fresno.json,bakersfield_and_mammoth lakes.json,bakersfield_and_stockton.json,berkeley_and_mammoth lakes.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_mammoth lakes.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san diego.json,fresno_and_san jose.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_stockton.json,fresno_and_temecula.json,irvine_and_mammoth lakes.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,long beach_and_sacramento.json,los angeles_and_sacramento.json,los angeles_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_sacramento.json,monterey_and_stockton.json,napa_and_san diego.json,mammoth lakes_and_pismo beach.json,napa_and_temecula.json,oakland_and_san diego.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_temecula.json,san diego_and_san jose.json,san diego_and_stockton.json,san francisco_and_temecula.json,sacramento_and_san diego.json,oakland_and_temecula.json,irvine_and_stockton.json,san jose_and_temecula.json,santa clarita_and_stockton.json,santa monica_and_stockton.json,stockton_and_temecula.json",
+                "mention_latitude": "37.3029568",
+                "mention_type": "city",
+                "mention_longitude": "-120.4843268"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Merced, Merced County, California, United States of America",
+            "latitude": "37.3029568"
+        },
+        "sierra mountain": {
+            "closest_to": "oakland",
+            "longitude": "-120.530573",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://blog.uvm.edu/kahayes-cdae102f16/2016/10/26/political-capital-in-mammoth-lakes-ca/"
+            ],
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065"
+        },
+        "bodie state historic park": {
+            "closest_to": "oakland",
+            "longitude": "-119.0109761",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "Bodie State Historic Park, Street, Bodie, Mono County, California, United States of America",
+            "latitude": "38.2154734"
+        },
+        "mammoth lakes": {
+            "closest_to": "oakland",
+            "longitude": "-118.9668508",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://blog.uvm.edu/kahayes-cdae102f16/2016/10/26/political-capital-in-mammoth-lakes-ca/",
+                "http://www.visitmammoth.com/",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html",
+                "http://wikitravel.org/en/Mammoth_Lakes",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6432525"
+        },
+        "old mammoth rd.": {
+            "closest_to": "oakland",
+            "longitude": "-118.9799199",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Old Mammoth Road, Mammoth Lakes, Mono County, California, 93546, United States of America",
+            "latitude": "37.629039"
+        },
+        "park": {
+            "closest_to": "oakland",
+            "longitude": "-120.238185637585",
+            "locType": "forest",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Park, Hornitos, Mariposa County, California, 3004, United States of America",
+            "latitude": "37.501904"
+        },
+        "san francisco": {
+            "closest_to": "oakland",
+            "longitude": "-122.4192362",
+            "enrich_metadata": {
+                "mention_popularity": "601",
+                "label": "San Francisco",
+                "Confidence": "100",
+                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
+                "type": "http://dbpedia.org/resource/Consolidated_city-county",
+                "attraction_in_file": "san_francisco.json",
+                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
+                "attraction_latitude": "37.7792808",
+                "no_of_blogFiles": "361",
+                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "mention_address": "SF, California, United States of America",
+                "imageUrls": [
+                    "https://d2w04addmnh2aq.cloudfront.net/api/file/94zcYc44Q3abA6TWvh0u",
+                    "https://www.kingofmaids.com/wp-content/uploads/2015/11/houes-cleaning-san-francisco.jpg",
+                    "http://img.mota.ru/upload/wallpapers/2013/05/12/13/04/35889/RATvxR7GYk-2560x1600.jpg"
+                ],
+                "mention_name": "san francisco",
+                "attraction_longitude": "-122.4192362",
+                "attraction_in": "San Francisco",
+                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
+                "mention_longitude": "-122.4192362",
+                "mention_latitude": "37.7792808",
+                "mention_type": "city",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808"
+        },
+        "ca": {
+            "closest_to": "oakland",
+            "longitude": "-122.232613735941",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://blog.uvm.edu/kahayes-cdae102f16/2016/10/26/political-capital-in-mammoth-lakes-ca/"
+            ],
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "latitude": "37.8242285466918"
+        },
+        "mono county of california": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.9398757",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.romanticbug.com/mammoth-lakes.html"
+            ],
+            "address": "Mono County, California, United States of America",
+            "latitude": "37.9533927"
+        },
+        "mono county": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.9398757",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://blog.uvm.edu/kahayes-cdae102f16/2016/10/26/political-capital-in-mammoth-lakes-ca/"
+            ],
+            "address": "Mono County, California, United States of America",
+            "latitude": "37.9533927"
+        },
+        "panamint valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.297827185511",
+            "locType": "desert",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Panamint Valley, Trona Wildrose Road, Inyo County, California, United States of America",
+            "latitude": "36.1353115"
+        },
+        "white mountain peak": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.2557103",
+            "locType": "peak",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "White Mountain Peak, Mono County, California, United States of America",
+            "latitude": "37.6342052"
+        },
+        "la": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59",
+                "http://www.visitmammoth.com/adventures"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "inyo": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.4074711",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Inyo County, California, United States of America",
+            "latitude": "36.5595325"
+        },
+        "nevada": {
+            "closest_to": "oakland",
+            "longitude": "-120.8089842",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Nevada County, California, United States of America",
+            "latitude": "39.3540335"
+        },
+        "montana": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.6129969",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Montana, Rovana, Inyo County, California, United States of America",
+            "latitude": "37.413991"
+        },
+        "mariposa": {
+            "closest_to": "oakland",
+            "longitude": "-119.9036591",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Mariposa County, California, United States of America",
+            "latitude": "37.570148"
+        },
+        "lake merrit": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.9573019",
+            "locType": "dam",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "address": "Merrit Cut, Inyo County, California, United States of America",
+            "latitude": "36.1821629"
+        },
+        "state route 168": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.8736649",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "address": "CA 266, Mono County, California, United States of America",
+            "latitude": "37.484814"
+        },
+        "sierra lodge": {
+            "closest_to": "oakland",
+            "longitude": "-118.9747351",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "Sierra Lodge, 3540, Main Street, Mammoth Lakes, Mono County, California, 93546, United States of America",
+            "latitude": "37.6492472"
+        },
+        "fresno": {
+            "closest_to": "oakland",
+            "longitude": "-119.714839601149",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.visitmammoth.com/",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Fresno, Fresno County, California, United States of America",
+            "latitude": "36.748793"
+        },
+        "yosemite national park": {
+            "closest_to": "oakland",
+            "longitude": "-119.516587698025",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here",
+                "http://blog.uvm.edu/kahayes-cdae102f16/2016/10/26/political-capital-in-mammoth-lakes-ca/",
+                "http://www.visitmammoth.com/adventures",
+                "http://wikitravel.org/en/Mammoth_Lakes",
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.travelyosemite.com/lodging/yosemite-lodging-experience/"
+            ],
+            "address": "Yosemite National Park, Mt. Hoffmann Trail, Mariposa County, California, United States of America",
+            "latitude": "37.84054795"
+        },
+        "visalia": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.2920584",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Visalia, Tulare County, California, United States of America",
+            "latitude": "36.3302284"
+        },
+        "north lake ca": {
+            "closest_to": "oakland",
+            "longitude": "-122.501983281136",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "North Lake, Chain of Lakes Drive East, Sunset District, SF, California, 94122, United States of America",
+            "latitude": "37.76958295"
+        },
+        "sierra nevada": {
+            "closest_to": "oakland",
+            "longitude": "-121.1396689",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Sierra, Wolf, Nevada County, California, 95949, United States of America",
+            "latitude": "39.097593"
+        },
+        "laurel mountain": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6828395",
+            "locType": "peak",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Laurel Mountain, Kern County, California, United States of America",
+            "latitude": "35.4799594"
+        },
+        "bristlecone pine forest": {
+            "closest_to": "oakland",
+            "longitude": "-121.0216199",
+            "locType": "residential",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Bristlecone Way, Modesto, Stanislaus County, California, 95351, United States of America",
+            "latitude": "37.616801"
+        },
+        "pebble beach ca": {
+            "closest_to": "oakland",
+            "longitude": "-121.9466112",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Pebble Beach, Monterey County, California, United States of America",
+            "latitude": "36.5664874"
+        },
+        "monterey peninsula ca": {
+            "closest_to": "oakland",
+            "longitude": "-121.843618374407",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Monterey Regional Airport, Airport Road, Seaside, Del Monte Heights, Monterey County, California, 93940, United States of America",
+            "latitude": "36.5878734"
+        },
+        "coarsegold": {
+            "closest_to": "oakland",
+            "longitude": "-119.7009833",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Coarsegold, Madera County, California, United States of America",
+            "latitude": "37.2621687"
+        },
+        "kern river": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.4124188",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956"
+        },
+        "limekiln": {
+            "closest_to": "oakland",
+            "longitude": "-121.527771252348",
+            "locType": "park",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Limekiln State Park, Twitchell Elevator, Lucia, Monterey County, California, United States of America",
+            "latitude": "36.0227366"
+        },
+        "loon lake": {
+            "closest_to": "oakland",
+            "longitude": "-120.306228938508",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Loon Lake, Ice House Road, El Dorado County, California, United States of America",
+            "latitude": "38.9998212"
+        },
+        "mono mills": {
+            "closest_to": "oakland",
+            "longitude": "-118.9593088",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Mono Mills, Mono County, California, United States of America",
+            "latitude": "37.8874283"
+        },
+        "mission bay ca": {
+            "closest_to": "oakland",
+            "longitude": "-122.3911711",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Mission Bay, SF, California, 94158, United States of America",
+            "latitude": "37.7707742"
+        },
+        "benton hot springs": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.5290106",
+            "locType": "hamlet",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Benton Hot Springs, Mono County, California, United States of America",
+            "latitude": "37.8002103"
+        },
+        "grant grove": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.9939711",
+            "enrich_metadata": {
+                "attraction_name": "Grant Grove",
+                "Confidence": "100",
+                "youTubeLinkIds": "\"JQ_Q4fPkcww,DAiCzaoLriA,0ZXm9auMI0s\"",
+                "attraction_latitude": "",
+                "no_of_blogFiles": "18",
+                "mention_popularity": "4",
+                "attraction_reviewComments": [
+                    "The General Grant tree - the third largest tree in the world by volume - has been dubbed the nation's Christmas tree and is surrounded by several equally impressive neighboring... read more",
+                    "You can drive and drive and drive and all you see are these beautiful redwoods with sun filtering down...quite a site. I love the place.",
+                    "One of many awesome giant sequoia grove in Sequoi and Kings Canyon National Park. Although the number of giant sequoias isn't comparable to the number of the trees in Giant Forest... read more",
+                    "There are several places to hike, but we love the Redwood Canyon trail. You have to watch where you are going, as you can lose your way on some of the trails. I encountered a... read more",
+                    "We stayed in Grant cabins and walked this trail first thing in the morning. It was quiet, peaceful and we had wonderful weather. There are a number of ancient trees there, a... read more",
+                    "Grant Grove is just 1 few minutes drive from John Muir lodge where we stayed. We had serene moments there at 6.30 without any crowd",
+                    "If driving into King's Canyon stopping by the Grant Grove is a must. There are numerous Sequoia trees to see and the Grant tree is the highlight. While at the Grant Grove... read more",
+                    "It's a nature enthusiast\u2019s dream and is about a mile from the visitors centre.The 1/2-mile easy loop trail from the parking area leads to the most significant and iconic tree in... read more",
+                    "Take time to go through the trail to visit the fallen tree, general grant tree. its easy with kids too",
+                    "This place is truly spectacular. We visited on mid March, though the weather was pretty nice, as March is still considered to be off-season, there was very few people and we... read more",
+                    "Grant's Grove is what you imagine a sequoia forest would be. It is full of sequoias and has beautiful paths. The rangers give great walking tours. It is a little steep but... read more",
+                    "Order a trail map here (http://www.sequoiahistory.org) and find what trail length and difficulty level calls to you. I combined the General Grant Tree Trail with the North Grove... read more",
+                    "We have been on the Grant Grove loop trail many times, but this time we found a little traveled, well marked trail that goes thru a wonderful grove of Giant Sequoias and fern... read more",
+                    "This grove of trees has a nice paved walkway and is very accessible. Lots of photo opportunities and some neat historical features about the trees. There is a pamphlet that is... read more",
+                    "We had been up at Cedar Grove Village so this was the next stop on our drive south. You can get a full meal at Grant Grove Restaurant or buy a coffee/muffin from the vendor set up... read more",
+                    "The park has big verity of trails for every taste! Rocks, waterfalls, trees... You can hike moderate trails without anybody breathing at your shoulder.",
+                    "This is one of the most important features of the park. Stop by and enjoy it, you may encounter a few German tourists and that will confirm you are in the right location!",
+                    "First stop on our two-day exploration of Kings Canyon and Sequoia National Parks. I knew these were big, ancient trees, but seeing and touching them was still awe inspiring. Park... read more"
+                ],
+                "attraction_longitude": "",
+                "attraction_in": "Sequoia and Kings Canyon National Park",
+                "attraction_address": "\"Sequoia and Kings Canyon National Park, CA\"",
+                "mention_type": "hamlet",
+                "mention_found_in_blogFiles": "\"anaheim_and_mammoth lakes.json,anaheim_and_napa.json,bakersfield_and_mammoth lakes.json,bakersfield_and_san francisco.json,bakersfield_and_temecula.json,carlsbad_and_fresno.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_santa monica.json,mammoth lakes_and_oakland.json,malibu_and_mammoth lakes.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_temecula.json,san diego_and_sausalito.json,san francisco_and_temecula.json,san jose_and_temecula.json\"",
+                "mention_address": "\"Grant, Inyo County, California, United States of America\"",
+                "attraction_reviewUrls": [
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or170-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or50-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or40-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or30-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or20-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or10-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or150-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or60-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or140-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or160-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or70-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or130-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or110-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or120-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or100-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or90-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html",
+                    "https://www.tripadvisor.com/Attraction_Review-g143050-d207981-Reviews-or80-Grant_Grove-Sequoia_and_Kings_Canyon_National_Park_California.html"
+                ],
+                "attraction_in_file": "sequoia_and_kings_canyon_national_park.json",
+                "blogLinks": [
+                    "http://gocalifornia.about.com/od/caplaceslist/ss/Redwood-Forests-in-California.htm",
+                    "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                    "https://www.tripadvisor.com/ShowTopic-g28926-i29-k4388461-Halfway_between_laguna_beach_yosemite-California.html",
+                    "https://www.yelp.com/biz/sequoia-and-kings-canyon-national-park-three-rivers"
+                ],
+                "imageUrls": [
+                    "http://www.scenicusa.net/images/DC09GrantGrovePD.jpg",
+                    "http://www.gannett-cdn.com/-mm-/e88022431440ca2c18640ef8f1357688cd6f045d/c=2-0-1024-768&r=x513&c=680x510/local/-/media/KSDK/KSDK/2014/06/07/1402180967000-club-fitness-damage-grant-bissell.jpg",
+                    "http://www.americansouthwest.net/maps/grant-grove-map.gif"
+                ],
+                "zip_code": "",
+                "attraction_ranking": "8",
+                "attraction_knownFor": "\"Forests , Nature & Wildlife Areas , Points of Interest & Landmarks , Sights & Landmarks , Nature & Parks , More\"",
+                "mention_name": "grant grove",
+                "attraction_no_of_reviews": "202",
+                "mention_latitude": "36.2554945",
+                "attraction_contact": "5595653341",
+                "mention_longitude": "-117.9939711"
+            },
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Grant, Inyo County, California, United States of America",
+            "latitude": "36.2554945"
+        },
+        "mono lake ca": {
+            "closest_to": "oakland",
+            "longitude": "-118.967033937845",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "Mono Lake, Mono County, California, United States of America",
+            "latitude": "38.0077189"
+        },
+        "tuolumne meadows": {
+            "closest_to": "oakland",
+            "longitude": "-119.3575555",
+            "locType": "suburb",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Tuolumne Meadows, Tuolumne County, California, United States of America",
+            "latitude": "37.8741952"
+        },
+        "lone pine": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.078359194897",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Lone Pine, Tuttle Creek Road, Alabama Hills, Inyo County, California, 93545, United States of America",
+            "latitude": "36.583176"
+        },
+        "bakersfield": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-119.0194638",
+            "enrich_metadata": {
+                "attraction_in_file": "bakersfield.json",
+                "label": "Civic Center, Bakersfield",
+                "Confidence": "100",
+                "youTubeLinkIds": "xu-VUHNbvoo,WGmSVw7K6hE,JoUY7bqbF6U",
+                "type": "http://dbpedia.org/resource/List_of_neighborhoods_in_Bakersfield",
+                "mention_address": "Bakersfield, Kern County, California, United States of America",
+                "abstract": "Civic Center is a district in Downtown Bakersfield, California. It is the center of government for the City of Bakersfield and the County of Kern, containing a collection of buildings used by the city, county, state, and federal governments. The district also contains all of downtown's sporting complexes. It also has the Rabobank Theater and Convention Center, which is the largest theater and convention facilities in the city.",
+                "attraction_latitude": "35.3738712",
+                "no_of_blogFiles": "204",
+                "subject": "http://dbpedia.org/resource/Civic_Center,_Bakersfield",
+                "mention_popularity": "224",
+                "imageUrls": [
+                    "https://mailnetwork.com/mailnetwork-r11/src/images/city/mailnetwork-Bakersfield.JPG",
+                    "https://eyeintheskyrentals.com/wp-content/uploads/2016/01/Bakersfield_CA_.jpg",
+                    "https://tragerwaterreport.files.wordpress.com/2010/06/bakersfield-downtown.jpg"
+                ],
+                "mention_name": "bakersfield",
+                "attraction_longitude": "-119.0194638",
+                "attraction_in": "Bakersfield",
+                "comment": "Civic Center is a district in Downtown Bakersfield, California. It is the center of government for the City of Bakersfield and the County of Kern, containing a collection of buildings used by the city, county, state, and federal governments. The district also contains all of downtown's sporting complexes. It also has the Rabobank Theater and Convention Center, which is the largest theater and convention facilities in the city.",
+                "mention_longitude": "-119.0194638",
+                "mention_latitude": "35.3738712",
+                "mention_type": "city",
+                "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_pismo beach.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_fresno.json,avalon_and_monterey.json,avalon_and_sacramento.json,avalon_and_san luis obispo.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,beverly hills_and_pismo beach.json,avalon_and_santa clarita.json,avalon_and_sausalito.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_pismo beach.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_san luis obispo.json,bakersfield_and_santa ana.json,bakersfield_and_santa barbara.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_fresno.json,beverly hills_and_fresno.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa barbara.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_sausalito.json,carlsbad_and_fresno.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_santa clarita.json,carlsbad_and_stockton.json,fremont_and_los angeles.json,fremont_and_san luis obispo.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_san luis obispo.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_stockton.json,los angeles_and_monterey.json,los angeles_and_sacramento.json,los angeles_and_san luis obispo.json,los angeles_and_santa barbara.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san luis obispo.json,monterey_and_santa barbara.json,napa_and_pismo beach.json,napa_and_san bernardino.json,napa_and_san luis obispo.json,los angeles_and_santa cruz.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,newport beach_and_oakland.json,newport beach_and_san jose.json,oakland_and_san bernardino.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,pasadena_and_san luis obispo.json,pasadena_and_sausalito.json,pismo beach_and_san bernardino.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san luis obispo.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa barbara.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa cruz.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_stockton.json,santa clarita_and_stockton.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712"
+        },
+        "badwater road": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-116.7481439",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Badwater Road, Inyo County, California, United States of America",
+            "latitude": "36.06739"
+        },
+        "highway ca": {
+            "closest_to": "oakland",
+            "longitude": "-121.967498",
+            "locType": "stop",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "highway, East Cliff Drive, Seabright, Opal Cliffs, Santa Cruz County, California, 95062, United States of America",
+            "latitude": "36.9588561"
+        },
+        "sierra": {
+            "closest_to": "oakland",
+            "longitude": "-120.530573",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Sierra County, California, United States of America",
+            "latitude": "39.5849065"
+        },
+        "yosemite valley": {
+            "closest_to": "oakland",
+            "longitude": "-119.6064673",
+            "locType": "town",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.734435"
+        },
+        "owens lake": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.92691625138",
+            "locType": "mud",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Owens Lake, Inyo County, California, United States of America",
+            "latitude": "36.42402715"
+        },
+        "little lakes valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.704322972815",
+            "locType": "water",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Little Lakes, Tokopah Falls Trail, Tulare County, California, 93262, United States of America",
+            "latitude": "36.64748395"
+        },
+        "kings canyon national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.607655759626",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Kings Canyon National Park, Coopet Creek Trail, Fresno County, California, United States of America",
+            "latitude": "36.91527845"
+        },
+        "bishop creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.5317704",
+            "locType": "stream",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "Bishop Creek, Inyo County, California, United States of America",
+            "latitude": "37.3017791"
+        },
+        "white mountains": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.343331059198",
+            "locType": "wood",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/"
+            ],
+            "address": "White Mountains, Mono County, California, United States of America",
+            "latitude": "37.72577275"
+        },
+        "south tufa": {
+            "closest_to": "oakland",
+            "longitude": "-119.0279964",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "Tufa, Test Station Road, Mono County, California, United States of America",
+            "latitude": "37.9431041"
+        },
+        "kingsbury grade": {
+            "closest_to": "oakland",
+            "longitude": "-121.0740149",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "address": "Kingsbury Grade, Twain, Plumas County, California, 95984, United States of America",
+            "latitude": "40.021386"
+        },
+        "mcgee creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.7827157",
+            "locType": "stream",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html"
+            ],
+            "address": "McGee Creek, Mono County, California, United States of America",
+            "latitude": "37.5930673"
+        },
+        "tioga pass": {
+            "closest_to": "oakland",
+            "longitude": "-119.2578542",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Tioga Pass, Tuolumne County, California, United States of America",
+            "latitude": "37.9109049"
+        },
+        "hot creek": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.813105",
+            "locType": "stream",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Hot Creek, Mono County, California, United States of America",
+            "latitude": "37.6732307"
+        },
+        "eastern sierra": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.365786577889",
+            "locType": "aerodrome",
+            "blogLinks": [
+                "http://www.romanticbug.com/mammoth-lakes.html",
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Eastern Sierra Regional Airport, Airport Road, Bishop Trail Park, Inyo County, California, 93515, United States of America",
+            "latitude": "37.37088005"
+        },
+        "sonoma": {
+            "closest_to": "oakland",
+            "longitude": "-122.8473387",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Sonoma County, California, United States of America",
+            "latitude": "38.5110803"
+        },
+        "sierra nevada lodge": {
+            "closest_to": "oakland",
+            "longitude": "-120.353569459579",
+            "locType": "hostel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Hutchinson Lodge, Donner Pass Road, Soda Springs, Nevada County, California, 96162, United States of America",
+            "latitude": "39.3181543"
+        },
+        "san jose": {
+            "closest_to": "oakland",
+            "longitude": "-121.8905832",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "latitude": "37.3361905"
+        },
+        "monterey bay aquarium ca": {
+            "closest_to": "oakland",
+            "longitude": "-121.901680002002",
+            "locType": "aquarium",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "MBA, 886, Cannery Row, Monterey, Monterey County, California, 93940, United States of America",
+            "latitude": "36.61809095"
+        },
+        "sequoia national park": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-118.559919284386",
+            "locType": "national_park",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Sequoia National Park, Black Rock Pass Trail, Mineral King, Tulare County, California, United States of America",
+            "latitude": "36.49584065"
+        },
+        "ridgecrest": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-117.6699413",
+            "enrich_metadata": {
+                "attraction_in_file": "ridgecrest.json",
+                "label": "Ridgecrest, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "dSExeOf0Ajw,nf--RXS68Mg,v47m9jQ57nc",
+                "type": "http://dbpedia.org/resource/California",
+                "mention_address": "Ridgecrest, Kern County, California, United States of America",
+                "abstract": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963. Ridgecrest is surrounded by four mountain ranges; the Sierra Nevada on the west, the Cosos on the north, the Argus Range on the east, and the El Paso Mountains on the south. It is approximately 82 miles (132 km) from the Lancaster/Palmdale area and approximately 145 miles (233 km) from both Bakersfield and San Bernardino, the three nearest major urban centers. Private air travel in and out of the city is provided through the Inyokern Airport. There are currently no scheduled commercial flights in or out of Ridgecrest. Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S.",
+                "attraction_latitude": "35.6225064",
+                "no_of_blogFiles": "35",
+                "subject": "http://dbpedia.org/resource/Ridgecrest,_California",
+                "mention_popularity": "10",
+                "imageUrls": [
+                    "http://pics4.city-data.com/cpicv/vfiles2899.jpg",
+                    "http://media-cache-ak0.pinimg.com/originals/03/a7/f3/03a7f3ed89bdc94961893068cb711bda.jpg",
+                    "http://images2.mygola.com/446f19081a7723190abb8977a1b79753_1394406363_l.jpg"
+                ],
+                "mention_name": "ridgecrest",
+                "attraction_longitude": "-117.6699413",
+                "attraction_in": "Ridgecrest",
+                "comment": "Ridgecrest is a city in Kern County, California, United States. It is located along U.S. Route 395 in the Indian Wells Valley in northeastern Kern County, adjacent to the Naval Air Weapons Station China Lake (NAWS, or China Lake). The population was 27,616 at the 2010 census, up from 24,927 at the 2000 census. The city of Ridgecrest is a largely \"company\" oriented (China Lake, above) community big enough to provide plenty of schools, shopping and health care. It was incorporated as a city in 1963.Ridgecrest is within two hours of the highest and the lowest points in the conterminous U.S.",
+                "mention_found_in_blogFiles": "anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,avalon_and_bakersfield.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_san jose.json,bakersfield_and_temecula.json,beverly hills_and_mammoth lakes.json,carlsbad_and_fresno.json,carlsbad_and_mammoth lakes.json,fremont_and_mammoth lakes.json,fremont_and_pasadena.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_santa monica.json,fresno_and_temecula.json,irvine_and_oakland.json,irvine_and_sacramento.json,fresno_and_riverside.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,riverside_and_sacramento.json",
+                "mention_latitude": "35.6225064",
+                "mention_type": "city",
+                "mention_longitude": "-117.6699413"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Ridgecrest, Kern County, California, United States of America",
+            "latitude": "35.6225064"
+        },
+        "tamarack lodge": {
+            "closest_to": "oakland",
+            "longitude": "-120.076021",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Tamarack Lodge, CA 4, Cottage Springs, Calaveras County, California, United States of America",
+            "latitude": "38.439079"
+        },
+        "badwater basin": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-116.767444033304",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Badwater Basin, Badwater Road, Inyo County, California, United States of America",
+            "latitude": "36.2302592"
+        },
+        "base camp cafe": {
+            "closest_to": "oakland",
+            "longitude": "-118.9713452",
+            "locType": "restaurant",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Base Camp Cafe, Frontage Road, Mammoth Lakes, Mono County, California, 93546, United States of America",
+            "latitude": "37.6476194"
+        },
+        "westin monache resort": {
+            "closest_to": "oakland",
+            "longitude": "-118.9862589",
+            "locType": "hotel",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "The Westin Monache Resort, Monache Connector, Mammoth Lakes, Mono County, California, 93546, United States of America",
+            "latitude": "37.6492545"
+        },
+        "lake mary": {
+            "closest_to": "oakland",
+            "longitude": "-118.9985361",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Lake Mary, Mono County, California, United States of America",
+            "latitude": "37.5990811"
+        },
+        "oakhurst": {
+            "closest_to": "oakland",
+            "longitude": "-119.657244022836",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/"
+            ],
+            "address": "Oakhurst, Junction Drive, Oakhurst, Madera County, California, 93644, United States of America",
+            "latitude": "37.333178"
+        },
+        "tioga road highway ca": {
+            "closest_to": "oakland",
+            "longitude": "-122.0821668",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/"
+            ],
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "latitude": "37.6577485"
+        },
+        "geyserville": {
+            "closest_to": "oakland",
+            "longitude": "-122.9024963",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://www.tripleblaze.com/best/?c=59"
+            ],
+            "address": "Geyserville, Sonoma County, California, United States of America",
+            "latitude": "38.707687"
+        },
+        "mammoth mountain": {
+            "closest_to": "oakland",
+            "longitude": "-119.0326341",
+            "locType": "peak",
+            "blogLinks": [
+                "http://www.romanticbug.com/3-days-romantic-getaway-to-mammoth-lakes-oakland-and-fresno.html",
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "Mammoth Mountain, Mammoth Lakes, Mono County, California, United States of America",
+            "latitude": "37.6307692"
+        },
+        "reds meadow valley": {
+            "closest_to": "oakland",
+            "longitude": "-119.074871416416",
+            "locType": "camp_site",
+            "blogLinks": [
+                "http://www.katherinebelarmino.com/2016/10/things-to-do-in-mammoth-in-summer.html"
+            ],
+            "address": "Reds Meadow Campground, Minaret Summit Road, Madera County, California, United States of America",
+            "latitude": "37.61979385"
+        },
+        "napa valley ca": {
+            "closest_to": "oakland",
+            "longitude": "-122.3002947",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://www.california-blog.com/"
+            ],
+            "address": "California Boulevard, Napa, Napa County, California, 94558, United States of America",
+            "latitude": "38.2972603"
+        },
+        "lakeview blvd": {
+            "closest_to": "oakland",
+            "longitude": "-121.9371952",
+            "locType": "tertiary",
+            "blogLinks": [
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Lakeview Boulevard, Curtner, Warm Springs District, Fremont, Alameda County, California, 94538, United States of America",
+            "latitude": "37.4791482"
+        },
+        "tioga road": {
+            "closest_to": "oakland",
+            "longitude": "-122.0821668",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.myyosemitepark.com/maps/driving-itineraries/los-angeles-to-4-national-parks/",
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Tioga Road, Hayward, Alameda County, California, 94544, United States of America",
+            "latitude": "37.6577485"
+        },
+        "death valley": {
+            "closest_to": "mammoth lakes",
+            "longitude": "-116.914043572057",
+            "locType": "desert",
+            "blogLinks": [
+                "https://windyscotty.wordpress.com/ten-best-places-to-visit-in-the-eastern-sierra/",
+                "http://www.mammothmountain.com/winter/plan-a-vacation/plan-a-vacation/getting-here"
+            ],
+            "address": "Death Valley, Timbisha, Inyo County, California, 92328, United States of America",
+            "latitude": "36.42404725"
+        },
+        "yosemite": {
+            "closest_to": "oakland",
+            "longitude": "-119.5893389",
+            "locType": "attraction",
+            "blogLinks": [
+                "http://www.travelyosemite.com/discover/getting-here/",
+                "http://wikitravel.org/en/Mammoth_Lakes"
+            ],
+            "address": "Yosemite, Village Drive, Yosemite Village, Yosemite Valley, Mariposa County, California, United States of America",
+            "latitude": "37.7488554"
+        }
+    }
+}

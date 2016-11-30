@@ -1,0 +1,712 @@
+{
+    "berkeley": {
+        "place_id": "159273659",
+        "importance": 0.78550511760774,
+        "type": "city",
+        "osm_type": "relation",
+        "class": "place",
+        "boundingbox": [
+            "37.835727",
+            "37.9066896",
+            "-122.3686792",
+            "-122.2341961"
+        ],
+        "osm_id": "2833528",
+        "lon": "-122.2728638",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "37.8708393",
+        "display_name": "Berkeley, Alameda County, California, United States of America"
+    },
+    "bakersfield": {
+        "place_id": "158454478",
+        "importance": 0.74358237824296,
+        "type": "city",
+        "osm_type": "relation",
+        "class": "place",
+        "boundingbox": [
+            "35.193979",
+            "35.447975",
+            "-119.2650329",
+            "-118.7723409"
+        ],
+        "osm_id": "113006",
+        "lon": "-119.0194638",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+        "lat": "35.3738712",
+        "display_name": "Bakersfield, Kern County, California, United States of America"
+    },
+    "mentions": {
+        "kern canyon": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.8880134",
+            "locType": "primary",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/"
+            ],
+            "address": "Kern Canyon Road, Bakersfield, Kern County, California, 93306, United States of America",
+            "latitude": "35.3913327"
+        },
+        "santa barbara": {
+            "closest_to": "bakersfield",
+            "longitude": "-119.7026672",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.livability.com/ca"
+            ],
+            "address": "Santa Barbara, Santa Barbara County, California, United States of America",
+            "latitude": "34.4221319"
+        },
+        "azusa": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.9056045",
+            "enrich_metadata": {
+                "label": "Azusa, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "oQiHk-FNXFU,ojIKarxqYHI,tsd_8cTqo-s",
+                "type": "http://dbpedia.org/resource/California",
+                "mention_address": "Azusa, Los Angeles County, California, United States of America",
+                "abstract": "Azusa is a city in the San Gabriel Valley, at the foot of the San Gabriel Mountains in Los Angeles County, California, United States. The A on the San Gabriel Mountains represents the city of Azusa, and can be seen within a 30-mile radius. The population was 46,361 at the 2010 census, up from 44,712 at the 2000 census. Azusa is one of the pass through cities for the historical Route 66 on Foothill Boulevard and Alosta Avenue.",
+                "attraction_latitude": "34.1338751",
+                "no_of_blogFiles": "13",
+                "subject": "http://dbpedia.org/resource/Azusa,_California",
+                "attraction_in_file": "azusa.json",
+                "imageUrls": [
+                    "https://media.poyint.com/wp-content/uploads/2016/11/08194011/Azusa_City_Hall.jpg",
+                    "http://tours42plus.com/Assets/Uploaded-CMS-Files/Azusa-62eace68-84c4-413d-94f6-e32e94df9875.jpg",
+                    "http://files.books.ru/pic/3420001-3421000/3420541/preview_3558756_150x0.jpg"
+                ],
+                "mention_name": "azusa",
+                "mention_type": "city",
+                "attraction_longitude": "-117.9056045",
+                "attraction_in": "Azusa",
+                "comment": "Azusa is a city in the San Gabriel Valley, at the foot of the San Gabriel Mountains in Los Angeles County, California, United States.The A on the San Gabriel Mountains represents the city of Azusa, and can be seen within a 30-mile radius. The population was 46,361 at the 2010 census, up from 44,712 at the 2000 census. Azusa is one of the pass through cities for the historical Route 66 on Foothill Boulevard and Alosta Avenue.",
+                "mention_found_in_blogFiles": "avalon_and_pasadena.json,bakersfield_and_berkeley.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_san jose.json,bakersfield_and_santa monica.json,berkeley_and_malibu.json,long beach_and_san bernardino.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,san bernardino_and_santa monica.json,san jose_and_santa monica.json",
+                "mention_latitude": "34.1338751",
+                "mention_popularity": "4",
+                "mention_longitude": "-117.9056045"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Azusa, Los Angeles County, California, United States of America",
+            "latitude": "34.1338751"
+        },
+        "san diego": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.1627713",
+            "enrich_metadata": {
+                "attraction_in_file": "san_diego.json",
+                "label": "San Diego",
+                "Confidence": "100",
+                "youTubeLinkIds": "ptokz5eklj4,Bnk61XHm3wM,Cywg-Alx1xY",
+                "type": "http://dbpedia.org/resource/California",
+                "mention_address": "San Diego, San Diego County, California, United States of America",
+                "abstract": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico. With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the U.S. Navy, and recent emergence as a healthcare and biotechnology development center. Historically home to the Kumeyaay people, San Diego was the first site visited by Europeans on what is now the West Coast of the United States. Upon landing in San Diego Bay in 1542, Juan Rodr\u00edguez Cabrillo claimed the entire area for Spain, forming the basis for the settlement of Alta California 200 years later. The Presidio and Mission of San Diego, founded in 1769, formed the first European settlement in what is now California. In 1821, San Diego became part of newly independent Mexico, and in 1850, became part of the United States following the Mexican\u2013American War and the admission of California to the union. The city is the seat of San Diego County and is the economic center of the region as well as the San Diego\u2013Tijuana metropolitan area. San Diego's main economic engines are military and defense-related activities, tourism, international trade, and manufacturing. The presence of the University of California, San Diego (UCSD), with the affiliated UCSD Medical Center, has helped make the area a center of research in biotechnology.",
+                "attraction_latitude": "32.7174209",
+                "no_of_blogFiles": "358",
+                "subject": "http://dbpedia.org/resource/San_Diego",
+                "mention_popularity": "431",
+                "imageUrls": [
+                    "https://lanniinsurance.com/wp-content/uploads/2012/01/san_diego_ca1.jpeg",
+                    "http://www.tapeciarnia.pl/tapety/normalne/239793_panorama_san_diego_z_lotu_ptaka.jpg",
+                    "http://compareratesforfree.com/wp-content/uploads/2012/05/feat-san-diego.jpg"
+                ],
+                "mention_name": "san diego",
+                "attraction_longitude": "-117.1627713",
+                "attraction_in": "San Diego",
+                "comment": "San Diego /\u02ccs\u00e6n di\u02d0\u02c8e\u026a\u0261o\u028a/ (Spanish for \"Saint Didacus\") is a major city in California, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico.",
+                "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pismo beach.json,anaheim_and_sacramento.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pismo beach.json,avalon_and_sacramento.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,avalon_and_malibu.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_malibu.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_santa ana.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa barbara.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_malibu.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san diego.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pasadena.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pismo beach.json,huntington beach_and_sacramento.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fremont_and_riverside.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pismo beach.json,long beach_and_sacramento.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa cruz.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pismo beach.json,los angeles_and_sacramento.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san diego.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_newport beach.json,mammoth lakes_and_pasadena.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_san diego.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_santa ana.json,pismo beach_and_santa monica.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san diego_and_temecula.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_temecula.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa monica.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json",
+                "mention_latitude": "32.7174209",
+                "mention_type": "city",
+                "mention_longitude": "-117.1627713"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7174209"
+        },
+        "kern river valley": {
+            "closest_to": "berkeley",
+            "longitude": "-118.4124188",
+            "locType": "river",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956"
+        },
+        "bakersfield route": {
+            "closest_to": "bakersfield",
+            "longitude": "-119.0194638",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Bakersfield/TravelFromHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Bakersfield/TravelTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/flight-time-from-Berkeley-to-Bakersfield/FlightTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Bakersfield/DirectionHistory/21638546.aspx"
+            ],
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712"
+        },
+        "san simeon": {
+            "closest_to": "berkeley",
+            "longitude": "-121.1907532",
+            "locType": "hamlet",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "San Simeon, San Luis Obispo County, California, United States of America",
+            "latitude": "35.6438587"
+        },
+        "korea": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.2033459",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/"
+            ],
+            "address": "Korea Road, Old Town, San Diego, San Diego County, California, 92140, United States of America",
+            "latitude": "32.742474"
+        },
+        "san francisco": {
+            "closest_to": "berkeley",
+            "longitude": "-122.4192362",
+            "enrich_metadata": {
+                "mention_popularity": "601",
+                "label": "San Francisco",
+                "Confidence": "100",
+                "youTubeLinkIds": "51umRiOZLe4,kIp21LwH_Pk,oi2o2r3Sgc0",
+                "type": "http://dbpedia.org/resource/Consolidated_city-county",
+                "attraction_in_file": "san_francisco.json",
+                "abstract": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city in the United States\u2014with a Census-estimated 2014 population of 852,469. The city and its surrounding areas are known as the San Francisco Bay Area, and are a part of the larger OMB designated San Jose-San Francisco-Oakland combined statistical area, the fifth most populous in the nation with an estimated population of 8.6 million. San Francisco (Spanish for Saint Francis) was founded on June 29, 1776, when colonists from Spain established Presidio of San Francisco at the Golden Gate and Mission San Francisco de As\u00eds named for St. Francis of Assisi a few miles away. The California Gold Rush of 1849 brought rapid growth, making it the largest city on the West Coast at the time. San Francisco became a consolidated city-county in 1856.After three-quarters of the city was destroyed by the 1906 earthquake and fire, San Francisco was quickly rebuilt, hosting the Panama-Pacific International Exposition nine years later. In World War II, San Francisco was the port of embarkation for service members shipping out to the Pacific Theater. After the war, the confluence of returning servicemen, massive immigration, liberalizing attitudes, along with the rise of the \"hippie\" counterculture, the Sexual Revolution, the Peace Movement growing from opposition to United States involvement in the Vietnam War, and other factors led to the Summer of Love and the gay rights movement, cementing San Francisco as a center of liberal activism in the United States. Politically, the city votes strongly along liberal Democratic Party lines. San Francisco is a popular tourist destination, known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district. San Francisco is also the headquarters of five major banking institutions and various other companies such as Levi Strauss & Co., Gap Inc., Salesforce.com, Dropbox, Reddit, Square, Inc., Dolby, Airbnb, Weebly, Pacific Gas and Electric Company, Yelp, Pinterest, Twitter, Uber, Mozilla, Wikimedia Foundation, and Craigslist. It has several nicknames, including \"The City by the Bay\", \"Fog City\", \"San Fran\", and \"Frisco\", as well as older ones like \"The City that Knows How\", \"Baghdad by the Bay\", and \"The Paris of the West\". As of 2015, San Francisco was ranked high on world livability rankings.",
+                "attraction_latitude": "37.7792808",
+                "no_of_blogFiles": "361",
+                "subject": "http://dbpedia.org/resource/San_Francisco",
+                "mention_address": "SF, California, United States of America",
+                "imageUrls": [
+                    "https://d2w04addmnh2aq.cloudfront.net/api/file/94zcYc44Q3abA6TWvh0u",
+                    "https://www.kingofmaids.com/wp-content/uploads/2015/11/houes-cleaning-san-francisco.jpg",
+                    "http://img.mota.ru/upload/wallpapers/2013/05/12/13/04/35889/RATvxR7GYk-2560x1600.jpg"
+                ],
+                "mention_name": "san francisco",
+                "attraction_longitude": "-122.4192362",
+                "attraction_in": "San Francisco",
+                "comment": "San Francisco (/s\u00e6n fr\u0259n\u02c8s\u026asko\u028a/), officially the City and County of San Francisco, is the cultural, commercial, and financial center of Northern California and the only consolidated city-county in California. San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, which makes it the smallest county in the state. It has a density of about 18,187 people per square mile (7,022 people per km2), making it the most densely settled large city (population greater than 200,000) in the state of California and the second-most densely populated major city in the United States after New York City. San Francisco is the fourth-most populous city in California, after Los Angeles, San Diego and San Jose, and the 13th-most populous city",
+                "mention_longitude": "-122.4192362",
+                "mention_latitude": "37.7792808",
+                "mention_type": "city",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_sacramento.json,avalon_and_san jose.json,anaheim_and_napa.json,berkeley_and_long beach.json,berkeley_and_san jose.json,beverly hills_and_sausalito.json,avalon_and_santa cruz.json,avalon_and_sausalito.json,avalon_and_stockton.json,bakersfield_and_berkeley.json,bakersfield_and_fremont.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa cruz.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,big bear lake_and_fresno.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa cruz.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_san jose.json,carlsbad_and_santa cruz.json,carlsbad_and_sausalito.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_irvine.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_mammoth lakes.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_pasadena.json,fremont_and_pismo beach.json,fremont_and_sacramento.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san francisco.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_santa monica.json,fremont_and_sausalito.json,fremont_and_stockton.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa cruz.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_san jose.json,irvine_and_santa cruz.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_san jose.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_santa cruz.json,long beach_and_sausalito.json,long beach_and_stockton.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_sacramento.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_napa.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa cruz.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san francisco.json,mammoth lakes_and_san jose.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_stockton.json,mammoth lakes_and_temecula.json,monterey_and_napa.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_pismo beach.json,monterey_and_riverside.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_san luis obispo.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_sausalito.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_sacramento.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san francisco.json,napa_and_san jose.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa cruz.json,napa_and_santa monica.json,long beach_and_monterey.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_oakland.json,napa_and_stockton.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_santa cruz.json,newport beach_and_stockton.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa cruz.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_santa cruz.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_sacramento.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa cruz.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa cruz.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa cruz.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa cruz.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa cruz.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa cruz.json,san francisco_and_santa monica.json,san francisco_and_sausalito.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,napa_and_sausalito.json,san jose_and_sausalito.json,san jose_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa cruz.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa cruz_and_santa monica.json,santa cruz_and_sausalito.json,santa cruz_and_stockton.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,sausalito_and_stockton.json,sausalito_and_temecula.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "SF, California, United States of America",
+            "latitude": "37.7792808"
+        },
+        "bakersfield": {
+            "closest_to": "bakersfield",
+            "longitude": "-119.0194638",
+            "enrich_metadata": {
+                "attraction_in_file": "bakersfield.json",
+                "label": "Civic Center, Bakersfield",
+                "Confidence": "100",
+                "youTubeLinkIds": "xu-VUHNbvoo,WGmSVw7K6hE,JoUY7bqbF6U",
+                "type": "http://dbpedia.org/resource/List_of_neighborhoods_in_Bakersfield",
+                "mention_address": "Bakersfield, Kern County, California, United States of America",
+                "abstract": "Civic Center is a district in Downtown Bakersfield, California. It is the center of government for the City of Bakersfield and the County of Kern, containing a collection of buildings used by the city, county, state, and federal governments. The district also contains all of downtown's sporting complexes. It also has the Rabobank Theater and Convention Center, which is the largest theater and convention facilities in the city.",
+                "attraction_latitude": "35.3738712",
+                "no_of_blogFiles": "204",
+                "subject": "http://dbpedia.org/resource/Civic_Center,_Bakersfield",
+                "mention_popularity": "224",
+                "imageUrls": [
+                    "https://mailnetwork.com/mailnetwork-r11/src/images/city/mailnetwork-Bakersfield.JPG",
+                    "https://eyeintheskyrentals.com/wp-content/uploads/2016/01/Bakersfield_CA_.jpg",
+                    "https://tragerwaterreport.files.wordpress.com/2010/06/bakersfield-downtown.jpg"
+                ],
+                "mention_name": "bakersfield",
+                "attraction_longitude": "-119.0194638",
+                "attraction_in": "Bakersfield",
+                "comment": "Civic Center is a district in Downtown Bakersfield, California. It is the center of government for the City of Bakersfield and the County of Kern, containing a collection of buildings used by the city, county, state, and federal governments. The district also contains all of downtown's sporting complexes. It also has the Rabobank Theater and Convention Center, which is the largest theater and convention facilities in the city.",
+                "mention_longitude": "-119.0194638",
+                "mention_latitude": "35.3738712",
+                "mention_type": "city",
+                "mention_found_in_blogFiles": "anaheim_and_bakersfield.json,anaheim_and_fresno.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_pismo beach.json,anaheim_and_sacramento.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,avalon_and_bakersfield.json,avalon_and_fresno.json,avalon_and_monterey.json,avalon_and_sacramento.json,avalon_and_san luis obispo.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,beverly hills_and_pismo beach.json,avalon_and_santa clarita.json,avalon_and_sausalito.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_pismo beach.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_san luis obispo.json,bakersfield_and_santa ana.json,bakersfield_and_santa barbara.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa barbara.json,berkeley_and_fresno.json,beverly hills_and_fresno.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa barbara.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_sausalito.json,carlsbad_and_fresno.json,carlsbad_and_oakland.json,carlsbad_and_sacramento.json,carlsbad_and_santa clarita.json,carlsbad_and_stockton.json,fremont_and_los angeles.json,fremont_and_san luis obispo.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_temecula.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_pismo beach.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_san luis obispo.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_sacramento.json,huntington beach_and_sausalito.json,irvine_and_sacramento.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_sausalito.json,long beach_and_oakland.json,long beach_and_sacramento.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_stockton.json,los angeles_and_monterey.json,los angeles_and_sacramento.json,los angeles_and_san luis obispo.json,los angeles_and_santa barbara.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_sausalito.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_oakland.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa cruz.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san luis obispo.json,monterey_and_santa barbara.json,napa_and_pismo beach.json,napa_and_san bernardino.json,napa_and_san luis obispo.json,los angeles_and_santa cruz.json,mammoth lakes_and_pismo beach.json,mammoth lakes_and_sausalito.json,newport beach_and_oakland.json,newport beach_and_san jose.json,oakland_and_san bernardino.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,pasadena_and_san luis obispo.json,pasadena_and_sausalito.json,pismo beach_and_san bernardino.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san luis obispo.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_sausalito.json,san diego_and_san luis obispo.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa barbara.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa barbara.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa cruz.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa cruz.json,santa ana_and_stockton.json,santa barbara_and_santa cruz.json,santa barbara_and_stockton.json,santa clarita_and_stockton.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-time-from-Berkeley-to-Bakersfield/FlightTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Berkeley-to-Bakersfield/TripCostHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Bakersfield/TravelFromHistory/21638546.aspx",
+                "https://www.ridebooker.com/transfers/berkeley-ca/bakersfield-ca/van",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html",
+                "http://www.visitbakersfield.com/visitors/",
+                "http://www.distancesfrom.com/us/travel-from-Bakersfield-to-Berkeley/TravelFromHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Bakersfield/TravelTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Berkeley/TravelTimeHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Bakersfield/DirectionHistory/21638546.aspx",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html",
+                "http://www.visitbakersfield.com/",
+                "https://www.ridebooker.com/transfers/bakersfield-ca/berkeley-ca/van",
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Bakersfield/MapHistory/21638546.aspx",
+                "http://www.timeanddate.com/worldclock/distances.html?n=789",
+                "http://www.distancesfrom.com/us/flight-distance-from-Berkeley-to-Bakersfield/FlightHistory/21638546.aspx"
+            ],
+            "address": "Bakersfield, Kern County, California, United States of America",
+            "latitude": "35.3738712"
+        },
+        "lake ming": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.866433302025",
+            "locType": "water",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/"
+            ],
+            "address": "Lake Ming, River Road, Kern County, California, United States of America",
+            "latitude": "35.4395193"
+        },
+        "wofford heights": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.473698856169",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "Wofford Heights, Mountain Shadow Road, Wofford Heights, Kern County, California, 93285, United States of America",
+            "latitude": "35.7105005"
+        },
+        "sacramento": {
+            "closest_to": "berkeley",
+            "longitude": "-121.4943995",
+            "locType": "city",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "Sacramento, Sacramento County, California, United States of America",
+            "latitude": "38.5815719"
+        },
+        "central valley": {
+            "closest_to": "berkeley",
+            "longitude": "-122.4530663",
+            "locType": "tower",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "KNNN-FM (Central Valley), Rattlesnake Drive, Shasta County, California, 96001, United States of America",
+            "latitude": "40.5626504"
+        },
+        "santa clara": {
+            "closest_to": "berkeley",
+            "longitude": "-121.9551743",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "Santa Clara, Santa Clara County, California, United States of America",
+            "latitude": "37.3541132"
+        },
+        "kernville": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.433945835615",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "Kernville, Plater Road, Wofford Heights, Kern County, California, 93238, United States of America",
+            "latitude": "35.7330735"
+        },
+        "central coast": {
+            "closest_to": "berkeley",
+            "longitude": "-119.1665989",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Central Coast Street, Bakersfield, Kern County, California, 93314, United States of America",
+            "latitude": "35.3611193"
+        },
+        "berkeley route": {
+            "closest_to": "berkeley",
+            "longitude": "-122.238859169444",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/travel-from-Bakersfield-to-Berkeley/TravelFromHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Berkeley/TravelTimeHistory/26560867.aspx"
+            ],
+            "address": "UC Berkeley, Centennial Drive, Oakland, Alameda County, California, 94720, United States of America",
+            "latitude": "37.87631055"
+        },
+        "los angeles county": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.2096813",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Los Angeles County, California, United States of America",
+            "latitude": "34.3155072"
+        },
+        "usa": {
+            "closest_to": "berkeley",
+            "longitude": "-118.7559973",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-time-from-Berkeley-to-Bakersfield/FlightTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Berkeley-to-Bakersfield/TripCostHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Bakersfield/TravelFromHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Bakersfield-to-Berkeley/TravelFromHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Bakersfield/TravelTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Berkeley/TravelTimeHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Bakersfield/DirectionHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Bakersfield/MapHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Berkeley-to-Bakersfield/FlightHistory/21638546.aspx"
+            ],
+            "address": "California, United States of America",
+            "latitude": "36.7014631"
+        },
+        "san jose": {
+            "closest_to": "berkeley",
+            "longitude": "-121.8905832",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "San Jos\u00e9, Santa Clara County, California, United States of America",
+            "latitude": "37.3361905"
+        },
+        "malibu": {
+            "closest_to": "bakersfield",
+            "longitude": "-116.5023561",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Malibu, Palm Springs, Riverside County, California, 92264, United States of America",
+            "latitude": "33.7932142"
+        },
+        "santa monica": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.4869738",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Santa Monica, Los Angeles County, California, United States of America",
+            "latitude": "34.0195598"
+        },
+        "ca": {
+            "closest_to": "berkeley",
+            "longitude": "-122.232613735941",
+            "locType": "postcode",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-time-from-Berkeley-to-Bakersfield/FlightTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Berkeley-to-Bakersfield/TripCostHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Bakersfield/TravelFromHistory/21638546.aspx",
+                "https://www.ridebooker.com/transfers/berkeley-ca/bakersfield-ca/van",
+                "http://www.distancesfrom.com/us/travel-from-Bakersfield-to-Berkeley/TravelFromHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Bakersfield/TravelTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Berkeley/TravelTimeHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Bakersfield/DirectionHistory/21638546.aspx",
+                "https://www.ridebooker.com/transfers/bakersfield-ca/berkeley-ca/van",
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Bakersfield/MapHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Berkeley-to-Bakersfield/FlightHistory/21638546.aspx"
+            ],
+            "address": "Piedmont, Alameda County, California, ca, United States of America",
+            "latitude": "37.8242285466918"
+        },
+        "southern california": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.286343973446",
+            "locType": "university",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/"
+            ],
+            "address": "University of Southern California, Watt Way, Saint James Park, LA, Los Angeles County, California, 90089, United States of America",
+            "latitude": "34.0224149"
+        },
+        "san luis obispo": {
+            "closest_to": "berkeley",
+            "longitude": "-120.6596155",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "San Luis Obispo, San Luis Obispo County, California, United States of America",
+            "latitude": "35.2827525"
+        },
+        "mediterranean": {
+            "closest_to": "bakersfield",
+            "longitude": "-116.3534838",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "Mediterranean, Palm Desert, Riverside County, California, 92211, United States of America",
+            "latitude": "33.7439509"
+        },
+        "west coast": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.4051087",
+            "locType": "plumber",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "West Coast, Motor Avenue, Palms, LA, Los Angeles County, California, 90034-5702, United States of America",
+            "latitude": "34.0222263"
+        },
+        "san joaquin valley": {
+            "closest_to": "berkeley",
+            "longitude": "-121.2773718",
+            "locType": "administrative",
+            "blogLinks": [
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "San Joaquin County, California, United States of America",
+            "latitude": "37.9372901"
+        },
+        "fort bragg": {
+            "closest_to": "berkeley",
+            "longitude": "-123.802699105743",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Fort Bragg, Mendocino County, California, United States of America",
+            "latitude": "39.4447345"
+        },
+        "irvine": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.8259818",
+            "locType": "city",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "Irvine, Orange County, California, United States of America",
+            "latitude": "33.6856969"
+        },
+        "kern county": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.7538221",
+            "locType": "administrative",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/",
+                "http://www.visitbakersfield.com/",
+                "https://www.virtualtourist.com/travel/North_America/United_States_of_America/California/Bakersfield-750931/Things_To_Do-Bakersfield-TG-C-1.html"
+            ],
+            "address": "Kern County, California, United States of America",
+            "latitude": "35.3145701"
+        },
+        "mojave desert": {
+            "closest_to": "bakersfield",
+            "longitude": "-115.548963686646",
+            "locType": "desert",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "Mojave Desert, Utility Road, San Bernardino County, California, United States of America",
+            "latitude": "35.1456319"
+        },
+        "westchester": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.4006321",
+            "locType": "neighbourhood",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Westchester, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+            "latitude": "33.9597349"
+        },
+        "la tolteca": {
+            "closest_to": "berkeley",
+            "longitude": "-121.9266381",
+            "locType": "residential",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Tolteca Court, Snoboy, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America",
+            "latitude": "37.5085864"
+        },
+        "kern county fairgrounds": {
+            "closest_to": "bakersfield",
+            "longitude": "-119.009564426237",
+            "locType": "recreation_ground",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/"
+            ],
+            "address": "Kern County Fairgrounds, Kern County, California, 93304, United States of America",
+            "latitude": "35.34302165"
+        },
+        "northern california": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.1545973",
+            "locType": "locality",
+            "blogLinks": [
+                "https://www.ridebooker.com/transfers/berkeley-ca/bakersfield-ca/van",
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Northern Frontier, San Diego, San Diego County, California, United States of America",
+            "latitude": "32.7349196"
+        },
+        "america": {
+            "closest_to": "berkeley",
+            "longitude": "-119.8948706",
+            "locType": "residential",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/visitors/",
+                "http://www.livability.com/ca"
+            ],
+            "address": "America, Kings County, California, 93246, United States of America",
+            "latitude": "36.2573198"
+        },
+        "pacific coast": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.063517668143",
+            "locType": "yes",
+            "blogLinks": [
+                "http://www.livability.com/ca"
+            ],
+            "address": "Pacific Coast, Florista Street, Los Alamitos, Orange County, California, 90720, United States of America",
+            "latitude": "33.8047323"
+        },
+        "baldwin park": {
+            "closest_to": "bakersfield",
+            "longitude": "-117.961176",
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Baldwin Park, Los Angeles County, California, United States of America",
+            "latitude": "34.0854739"
+        },
+        "chester ave.": {
+            "closest_to": "bakersfield",
+            "longitude": "-119.0188577",
+            "locType": "secondary",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Chester Avenue, Bakersfield, Kern County, California, 93301, United States of America",
+            "latitude": "35.3549745"
+        },
+        "kern river": {
+            "closest_to": "berkeley",
+            "longitude": "-118.4124188",
+            "locType": "river",
+            "blogLinks": [
+                "http://www.visitbakersfield.com/"
+            ],
+            "address": "Kern River, Tulare County, California, United States of America",
+            "latitude": "36.6816956"
+        },
+        "los angeles": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.2439408",
+            "enrich_metadata": {
+                "label": "Civic Center, Los Angeles",
+                "Confidence": "100",
+                "youTubeLinkIds": "jtrF479Dzj4,Vc5jSKOsgCA,bTvr_2v-0HI",
+                "type": "http://dbpedia.org/resource/List_of_districts_and_neighborhoods_of_Los_Angeles",
+                "mention_address": "LA, Los Angeles County, California, United States of America",
+                "abstract": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "attraction_latitude": "34.0543942",
+                "no_of_blogFiles": "491",
+                "subject": "http://dbpedia.org/resource/Civic_Center,_Los_Angeles",
+                "attraction_in_file": "los_angeles.json",
+                "imageUrls": [
+                    "http://images.cityhdwallpapers.com/images/1920x1200/Commercial%20district%20Los%20Angeles%20city%20wallpaper.jpg",
+                    "http://psudoterad.ru/img/picture/Jun/04/e4a19f33e17a91d93d35631fff7dd959/4.jpg",
+                    "http://www.wallpaper4k.com/wp_highres/city/WPDSKX3F.jpg"
+                ],
+                "mention_name": "los angeles",
+                "mention_type": "city",
+                "attraction_longitude": "-118.2439408",
+                "attraction_in": "Los Angeles",
+                "comment": "The Civic Center neighborhood of Los Angeles, California is the administrative core of the City of Los Angeles and a complex of city, state, and federal government offices, buildings, and courthouses.",
+                "mention_longitude": "-118.2439408",
+                "mention_latitude": "34.0543942",
+                "mention_popularity": "756",
+                "mention_found_in_blogFiles": "anaheim_and_avalon.json,anaheim_and_bakersfield.json,anaheim_and_berkeley.json,anaheim_and_beverly hills.json,anaheim_and_big bear lake.json,anaheim_and_carlsbad.json,anaheim_and_fremont.json,anaheim_and_fresno.json,anaheim_and_los angeles.json,anaheim_and_malibu.json,anaheim_and_mammoth lakes.json,anaheim_and_monterey.json,anaheim_and_oakland.json,anaheim_and_pasadena.json,anaheim_and_pismo beach.json,anaheim_and_riverside.json,anaheim_and_sacramento.json,anaheim_and_san bernardino.json,anaheim_and_san diego.json,anaheim_and_san francisco.json,anaheim_and_san jose.json,anaheim_and_san luis obispo.json,anaheim_and_santa barbara.json,anaheim_and_santa clarita.json,anaheim_and_santa cruz.json,anaheim_and_sausalito.json,anaheim_and_stockton.json,anaheim_and_temecula.json,avalon_and_bakersfield.json,avalon_and_beverly hills.json,avalon_and_big bear lake.json,avalon_and_carlsbad.json,avalon_and_fremont.json,avalon_and_fresno.json,avalon_and_huntington beach.json,avalon_and_irvine.json,avalon_and_long beach.json,avalon_and_los angeles.json,avalon_and_mammoth lakes.json,avalon_and_monterey.json,avalon_and_napa.json,avalon_and_oakland.json,avalon_and_pasadena.json,avalon_and_pismo beach.json,avalon_and_riverside.json,avalon_and_sacramento.json,avalon_and_san bernardino.json,avalon_and_san diego.json,avalon_and_san jose.json,avalon_and_san luis obispo.json,anaheim_and_napa.json,anaheim_and_santa monica.json,avalon_and_malibu.json,avalon_and_santa ana.json,bakersfield_and_huntington beach.json,bakersfield_and_san bernardino.json,berkeley_and_long beach.json,beverly hills_and_carlsbad.json,beverly hills_and_pismo beach.json,beverly hills_and_sausalito.json,avalon_and_santa barbara.json,avalon_and_santa clarita.json,avalon_and_santa monica.json,avalon_and_sausalito.json,avalon_and_stockton.json,avalon_and_temecula.json,bakersfield_and_berkeley.json,bakersfield_and_beverly hills.json,bakersfield_and_big bear lake.json,bakersfield_and_carlsbad.json,bakersfield_and_fremont.json,bakersfield_and_fresno.json,bakersfield_and_irvine.json,bakersfield_and_long beach.json,bakersfield_and_los angeles.json,bakersfield_and_malibu.json,bakersfield_and_mammoth lakes.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_newport beach.json,bakersfield_and_oakland.json,bakersfield_and_pasadena.json,bakersfield_and_riverside.json,bakersfield_and_sacramento.json,bakersfield_and_san diego.json,bakersfield_and_san francisco.json,bakersfield_and_san jose.json,bakersfield_and_santa ana.json,bakersfield_and_santa clarita.json,bakersfield_and_santa cruz.json,bakersfield_and_santa monica.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,bakersfield_and_temecula.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_newport beach.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_san diego.json,berkeley_and_san luis obispo.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa monica.json,berkeley_and_temecula.json,beverly hills_and_big bear lake.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_huntington beach.json,beverly hills_and_irvine.json,beverly hills_and_long beach.json,beverly hills_and_los angeles.json,beverly hills_and_malibu.json,beverly hills_and_mammoth lakes.json,beverly hills_and_monterey.json,beverly hills_and_napa.json,beverly hills_and_newport beach.json,beverly hills_and_oakland.json,beverly hills_and_pasadena.json,beverly hills_and_riverside.json,beverly hills_and_sacramento.json,beverly hills_and_san bernardino.json,beverly hills_and_san diego.json,beverly hills_and_san francisco.json,beverly hills_and_san jose.json,beverly hills_and_san luis obispo.json,beverly hills_and_santa ana.json,beverly hills_and_santa barbara.json,beverly hills_and_santa clarita.json,beverly hills_and_santa cruz.json,beverly hills_and_stockton.json,beverly hills_and_temecula.json,big bear lake_and_fremont.json,big bear lake_and_fresno.json,big bear lake_and_irvine.json,big bear lake_and_long beach.json,big bear lake_and_los angeles.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_newport beach.json,big bear lake_and_oakland.json,big bear lake_and_pasadena.json,big bear lake_and_pismo beach.json,big bear lake_and_sacramento.json,big bear lake_and_san diego.json,big bear lake_and_san jose.json,big bear lake_and_san luis obispo.json,big bear lake_and_santa ana.json,big bear lake_and_santa barbara.json,big bear lake_and_santa clarita.json,big bear lake_and_santa cruz.json,big bear lake_and_santa monica.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fremont.json,carlsbad_and_fresno.json,carlsbad_and_huntington beach.json,carlsbad_and_irvine.json,carlsbad_and_long beach.json,carlsbad_and_mammoth lakes.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_newport beach.json,carlsbad_and_oakland.json,carlsbad_and_pasadena.json,carlsbad_and_pismo beach.json,carlsbad_and_riverside.json,carlsbad_and_sacramento.json,carlsbad_and_san bernardino.json,carlsbad_and_san jose.json,carlsbad_and_santa ana.json,carlsbad_and_santa barbara.json,carlsbad_and_santa clarita.json,carlsbad_and_santa cruz.json,carlsbad_and_santa monica.json,carlsbad_and_stockton.json,fremont_and_huntington beach.json,fremont_and_long beach.json,fremont_and_los angeles.json,fremont_and_malibu.json,fremont_and_newport beach.json,fremont_and_pismo beach.json,fremont_and_san bernardino.json,fremont_and_san diego.json,fremont_and_san luis obispo.json,fremont_and_santa ana.json,fremont_and_santa barbara.json,fremont_and_santa clarita.json,fremont_and_santa monica.json,fremont_and_temecula.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_pasadena.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_santa ana.json,fresno_and_santa barbara.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_temecula.json,huntington beach_and_los angeles.json,huntington beach_and_mammoth lakes.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_pasadena.json,huntington beach_and_pismo beach.json,huntington beach_and_riverside.json,huntington beach_and_sacramento.json,huntington beach_and_san bernardino.json,huntington beach_and_san diego.json,huntington beach_and_san francisco.json,huntington beach_and_san luis obispo.json,huntington beach_and_santa barbara.json,huntington beach_and_santa clarita.json,huntington beach_and_santa cruz.json,huntington beach_and_santa monica.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,huntington beach_and_temecula.json,irvine_and_long beach.json,irvine_and_los angeles.json,irvine_and_malibu.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_pismo beach.json,irvine_and_sacramento.json,irvine_and_san bernardino.json,irvine_and_san diego.json,irvine_and_san jose.json,irvine_and_san luis obispo.json,irvine_and_santa barbara.json,irvine_and_santa clarita.json,irvine_and_santa cruz.json,irvine_and_santa monica.json,irvine_and_sausalito.json,carlsbad_and_los angeles.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,huntington beach_and_malibu.json,huntington beach_and_san jose.json,irvine_and_pasadena.json,irvine_and_temecula.json,long beach_and_napa.json,long beach_and_oakland.json,long beach_and_pasadena.json,long beach_and_pismo beach.json,long beach_and_riverside.json,long beach_and_sacramento.json,long beach_and_san bernardino.json,long beach_and_san diego.json,long beach_and_san francisco.json,long beach_and_san jose.json,long beach_and_san luis obispo.json,long beach_and_santa clarita.json,long beach_and_santa cruz.json,long beach_and_santa monica.json,long beach_and_sausalito.json,long beach_and_stockton.json,long beach_and_temecula.json,los angeles_and_malibu.json,los angeles_and_mammoth lakes.json,los angeles_and_monterey.json,los angeles_and_napa.json,long beach_and_los angeles.json,long beach_and_malibu.json,long beach_and_mammoth lakes.json,los angeles_and_oakland.json,los angeles_and_pasadena.json,los angeles_and_pismo beach.json,los angeles_and_riverside.json,los angeles_and_sacramento.json,los angeles_and_san bernardino.json,los angeles_and_san diego.json,los angeles_and_san francisco.json,los angeles_and_san jose.json,los angeles_and_san luis obispo.json,los angeles_and_santa ana.json,los angeles_and_santa barbara.json,los angeles_and_santa clarita.json,los angeles_and_santa monica.json,los angeles_and_sausalito.json,los angeles_and_stockton.json,los angeles_and_temecula.json,malibu_and_napa.json,malibu_and_newport beach.json,malibu_and_oakland.json,malibu_and_pasadena.json,malibu_and_pismo beach.json,malibu_and_riverside.json,malibu_and_sacramento.json,malibu_and_san francisco.json,malibu_and_san jose.json,malibu_and_san luis obispo.json,malibu_and_santa ana.json,malibu_and_santa barbara.json,malibu_and_santa cruz.json,malibu_and_santa monica.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_pasadena.json,malibu_and_mammoth lakes.json,mammoth lakes_and_riverside.json,mammoth lakes_and_san bernardino.json,mammoth lakes_and_san diego.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,mammoth lakes_and_temecula.json,monterey_and_pasadena.json,monterey_and_riverside.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_santa ana.json,monterey_and_santa barbara.json,monterey_and_santa clarita.json,monterey_and_temecula.json,napa_and_newport beach.json,napa_and_pasadena.json,napa_and_pismo beach.json,napa_and_riverside.json,napa_and_san bernardino.json,napa_and_san diego.json,napa_and_san luis obispo.json,napa_and_santa ana.json,napa_and_santa barbara.json,napa_and_santa clarita.json,napa_and_santa monica.json,long beach_and_monterey.json,long beach_and_santa barbara.json,los angeles_and_newport beach.json,los angeles_and_santa cruz.json,malibu_and_monterey.json,malibu_and_santa clarita.json,mammoth lakes_and_pismo beach.json,monterey_and_newport beach.json,monterey_and_santa monica.json,napa_and_temecula.json,newport beach_and_oakland.json,newport beach_and_pasadena.json,newport beach_and_riverside.json,newport beach_and_sacramento.json,newport beach_and_san bernardino.json,newport beach_and_san diego.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,newport beach_and_san luis obispo.json,newport beach_and_santa barbara.json,newport beach_and_santa clarita.json,newport beach_and_santa cruz.json,newport beach_and_santa monica.json,newport beach_and_stockton.json,newport beach_and_temecula.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_san bernardino.json,oakland_and_san diego.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa clarita.json,oakland_and_santa monica.json,pasadena_and_pismo beach.json,pasadena_and_riverside.json,pasadena_and_sacramento.json,pasadena_and_san diego.json,pasadena_and_san francisco.json,pasadena_and_san jose.json,pasadena_and_san luis obispo.json,pasadena_and_santa ana.json,pasadena_and_santa barbara.json,pasadena_and_santa clarita.json,pasadena_and_santa cruz.json,pasadena_and_santa monica.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pasadena_and_temecula.json,pismo beach_and_riverside.json,pismo beach_and_sacramento.json,pismo beach_and_san bernardino.json,pismo beach_and_san diego.json,pismo beach_and_san jose.json,pismo beach_and_santa ana.json,pismo beach_and_santa clarita.json,pismo beach_and_santa monica.json,pismo beach_and_sausalito.json,pismo beach_and_stockton.json,pismo beach_and_temecula.json,riverside_and_sacramento.json,riverside_and_san diego.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_san luis obispo.json,riverside_and_santa barbara.json,riverside_and_santa clarita.json,riverside_and_santa cruz.json,riverside_and_santa monica.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san luis obispo.json,sacramento_and_santa ana.json,sacramento_and_santa barbara.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_temecula.json,san bernardino_and_san diego.json,san bernardino_and_san francisco.json,san bernardino_and_san jose.json,san bernardino_and_san luis obispo.json,san bernardino_and_santa ana.json,san bernardino_and_santa barbara.json,san bernardino_and_santa clarita.json,san bernardino_and_santa cruz.json,san bernardino_and_santa monica.json,san bernardino_and_sausalito.json,san diego_and_san jose.json,san diego_and_san luis obispo.json,san diego_and_santa ana.json,san diego_and_santa barbara.json,san diego_and_santa clarita.json,san diego_and_santa cruz.json,san diego_and_santa monica.json,san diego_and_sausalito.json,san diego_and_stockton.json,san francisco_and_santa ana.json,san francisco_and_santa barbara.json,san francisco_and_santa clarita.json,san francisco_and_santa monica.json,san francisco_and_temecula.json,san jose_and_santa ana.json,san jose_and_santa barbara.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,sacramento_and_san diego.json,newport beach_and_pismo beach.json,newport beach_and_sausalito.json,oakland_and_pismo beach.json,oakland_and_temecula.json,pasadena_and_san bernardino.json,riverside_and_santa ana.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa ana_and_santa clarita.json,santa clarita_and_sausalito.json,big bear lake_and_huntington beach.json,irvine_and_stockton.json,san jose_and_temecula.json,san luis obispo_and_santa ana.json,san luis obispo_and_santa clarita.json,san luis obispo_and_santa monica.json,san luis obispo_and_sausalito.json,san luis obispo_and_stockton.json,san luis obispo_and_temecula.json,santa ana_and_santa barbara.json,santa ana_and_santa cruz.json,santa ana_and_santa monica.json,santa ana_and_sausalito.json,santa ana_and_stockton.json,santa ana_and_temecula.json,santa barbara_and_santa clarita.json,santa barbara_and_santa cruz.json,santa barbara_and_santa monica.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa barbara_and_temecula.json,santa clarita_and_santa cruz.json,santa clarita_and_santa monica.json,santa clarita_and_stockton.json,santa clarita_and_temecula.json,santa cruz_and_santa monica.json,santa cruz_and_temecula.json,santa monica_and_sausalito.json,santa monica_and_stockton.json,santa monica_and_temecula.json,sausalito_and_temecula.json,stockton_and_temecula.json"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "LA, Los Angeles County, California, United States of America",
+            "latitude": "34.0543942"
+        },
+        "berkeley": {
+            "closest_to": "berkeley",
+            "longitude": "-122.2728638",
+            "enrich_metadata": {
+                "mention_popularity": "267",
+                "label": "Berkeley, California",
+                "Confidence": "100",
+                "youTubeLinkIds": "lh4b6D14pAs,bA9k2E0FsTE,ifv_ktmbMUk",
+                "type": "http://dbpedia.org/resource/Charter_city",
+                "attraction_in_file": "berkeley.json",
+                "abstract": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580. Berkeley is the site of the oldest campus in the University of California system \u2013 the University of California, Berkeley \u2013 of the Lawrence Berkeley National Laboratory which is managed and operated by the university, and the Graduate Theological Union. It is one of the most politically liberal cities in the United States.",
+                "attraction_latitude": "37.8708393",
+                "no_of_blogFiles": "208",
+                "subject": "http://dbpedia.org/resource/Berkeley,_California",
+                "mention_address": "Berkeley, Alameda County, California, United States of America",
+                "imageUrls": [
+                    "https://humwork.uchri.org/wp-content/uploads/2016/02/Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg",
+                    "http://diit.cz/sites/default/files/images/2176/anicka016.jpg",
+                    "https://static-5502.kxcdn.com/wp-content/uploads/2015/11/ucberkeleycampus.jpg"
+                ],
+                "mention_name": "berkeley",
+                "attraction_longitude": "-122.2728638",
+                "attraction_in": "Berkeley",
+                "comment": "Berkeley (/\u02c8b\u025c\u02d0rkli\u02d0/ BURK-lee) is a city on the east shore of San Francisco Bay in northern Alameda County, California. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. Its population at the 2010 census was 112,580.",
+                "mention_found_in_blogFiles": "anaheim_and_berkeley.json,anaheim_and_fresno.json,anaheim_and_san francisco.json,anaheim_and_sausalito.json,avalon_and_berkeley.json,avalon_and_fresno.json,avalon_and_oakland.json,avalon_and_sacramento.json,berkeley_and_long beach.json,berkeley_and_san jose.json,avalon_and_sausalito.json,bakersfield_and_berkeley.json,bakersfield_and_monterey.json,bakersfield_and_napa.json,bakersfield_and_oakland.json,bakersfield_and_sacramento.json,bakersfield_and_sausalito.json,bakersfield_and_stockton.json,berkeley_and_los angeles.json,berkeley_and_malibu.json,berkeley_and_mammoth lakes.json,berkeley_and_monterey.json,berkeley_and_napa.json,berkeley_and_newport beach.json,berkeley_and_oakland.json,berkeley_and_pasadena.json,berkeley_and_pismo beach.json,berkeley_and_riverside.json,berkeley_and_sacramento.json,berkeley_and_san bernardino.json,berkeley_and_san diego.json,berkeley_and_san francisco.json,berkeley_and_santa ana.json,berkeley_and_santa barbara.json,berkeley_and_santa clarita.json,berkeley_and_santa cruz.json,berkeley_and_santa monica.json,berkeley_and_sausalito.json,berkeley_and_stockton.json,berkeley_and_temecula.json,berkeley_and_beverly hills.json,berkeley_and_big bear lake.json,berkeley_and_carlsbad.json,berkeley_and_fremont.json,berkeley_and_fresno.json,berkeley_and_huntington beach.json,berkeley_and_irvine.json,beverly hills_and_fremont.json,beverly hills_and_fresno.json,beverly hills_and_mammoth lakes.json,beverly hills_and_oakland.json,beverly hills_and_sacramento.json,beverly hills_and_san jose.json,beverly hills_and_stockton.json,big bear lake_and_mammoth lakes.json,big bear lake_and_monterey.json,big bear lake_and_napa.json,big bear lake_and_oakland.json,big bear lake_and_sacramento.json,big bear lake_and_san jose.json,big bear lake_and_sausalito.json,big bear lake_and_stockton.json,carlsbad_and_fresno.json,carlsbad_and_monterey.json,carlsbad_and_napa.json,carlsbad_and_oakland.json,carlsbad_and_pismo beach.json,carlsbad_and_sacramento.json,carlsbad_and_stockton.json,fremont_and_fresno.json,fremont_and_huntington beach.json,fremont_and_los angeles.json,fremont_and_monterey.json,fremont_and_napa.json,fremont_and_newport beach.json,fremont_and_oakland.json,fremont_and_sacramento.json,fremont_and_san francisco.json,fremont_and_santa clarita.json,fremont_and_santa cruz.json,fremont_and_sausalito.json,fresno_and_huntington beach.json,fresno_and_irvine.json,fresno_and_long beach.json,fresno_and_los angeles.json,fresno_and_malibu.json,fresno_and_monterey.json,fresno_and_napa.json,fresno_and_oakland.json,fresno_and_pasadena.json,fresno_and_sacramento.json,fresno_and_san bernardino.json,fresno_and_san diego.json,fresno_and_san francisco.json,fresno_and_san jose.json,fresno_and_santa ana.json,fresno_and_santa clarita.json,fresno_and_santa monica.json,fresno_and_sausalito.json,fresno_and_stockton.json,fresno_and_temecula.json,huntington beach_and_monterey.json,huntington beach_and_napa.json,huntington beach_and_oakland.json,huntington beach_and_sacramento.json,huntington beach_and_san francisco.json,huntington beach_and_santa cruz.json,huntington beach_and_sausalito.json,huntington beach_and_stockton.json,irvine_and_mammoth lakes.json,irvine_and_monterey.json,irvine_and_napa.json,irvine_and_oakland.json,irvine_and_sacramento.json,irvine_and_sausalito.json,carlsbad_and_san luis obispo.json,fresno_and_riverside.json,long beach_and_oakland.json,los angeles_and_napa.json,los angeles_and_oakland.json,los angeles_and_sausalito.json,malibu_and_oakland.json,malibu_and_pismo beach.json,malibu_and_san francisco.json,malibu_and_sausalito.json,malibu_and_stockton.json,mammoth lakes_and_monterey.json,mammoth lakes_and_napa.json,mammoth lakes_and_riverside.json,mammoth lakes_and_sacramento.json,mammoth lakes_and_san jose.json,mammoth lakes_and_san luis obispo.json,mammoth lakes_and_santa ana.json,mammoth lakes_and_santa barbara.json,mammoth lakes_and_santa clarita.json,mammoth lakes_and_santa monica.json,monterey_and_oakland.json,monterey_and_pasadena.json,monterey_and_sacramento.json,monterey_and_san bernardino.json,monterey_and_san diego.json,monterey_and_san jose.json,monterey_and_stockton.json,monterey_and_temecula.json,napa_and_pasadena.json,napa_and_sacramento.json,napa_and_santa barbara.json,napa_and_santa monica.json,mammoth lakes_and_sausalito.json,monterey_and_newport beach.json,monterey_and_santa monica.json,newport beach_and_oakland.json,newport beach_and_sacramento.json,newport beach_and_san francisco.json,newport beach_and_san jose.json,oakland_and_pasadena.json,oakland_and_riverside.json,oakland_and_sacramento.json,oakland_and_san diego.json,oakland_and_san francisco.json,oakland_and_san jose.json,oakland_and_san luis obispo.json,oakland_and_santa ana.json,oakland_and_santa barbara.json,oakland_and_santa monica.json,oakland_and_sausalito.json,oakland_and_stockton.json,pasadena_and_sacramento.json,pasadena_and_san jose.json,pasadena_and_sausalito.json,pasadena_and_stockton.json,pismo beach_and_stockton.json,riverside_and_sacramento.json,riverside_and_san francisco.json,riverside_and_san jose.json,riverside_and_sausalito.json,riverside_and_stockton.json,sacramento_and_san jose.json,sacramento_and_santa clarita.json,sacramento_and_santa monica.json,sacramento_and_sausalito.json,sacramento_and_temecula.json,san bernardino_and_san jose.json,san bernardino_and_sausalito.json,san francisco_and_santa clarita.json,san francisco_and_stockton.json,san francisco_and_temecula.json,san jose_and_san luis obispo.json,san jose_and_santa clarita.json,sacramento_and_san bernardino.json,newport beach_and_sausalito.json,oakland_and_temecula.json,sacramento_and_san francisco.json,san bernardino_and_stockton.json,san jose_and_santa monica.json,santa clarita_and_sausalito.json,irvine_and_stockton.json,san jose_and_sausalito.json,san jose_and_stockton.json,san luis obispo_and_sausalito.json,san luis obispo_and_temecula.json,santa barbara_and_sausalito.json,santa barbara_and_stockton.json,santa clarita_and_santa cruz.json,santa clarita_and_stockton.json,santa monica_and_sausalito.json,sausalito_and_stockton.json,stockton_and_temecula.json",
+                "mention_latitude": "37.8708393",
+                "mention_type": "city",
+                "mention_longitude": "-122.2728638"
+            },
+            "locType": "city",
+            "blogLinks": [
+                "http://www.distancesfrom.com/us/flight-time-from-Berkeley-to-Bakersfield/FlightTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/Trip-Cost-from-Berkeley-to-Bakersfield/TripCostHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-from-Berkeley-to-Bakersfield/TravelFromHistory/21638546.aspx",
+                "https://www.ridebooker.com/transfers/berkeley-ca/bakersfield-ca/van",
+                "http://www.distancesfrom.com/us/travel-from-Bakersfield-to-Berkeley/TravelFromHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Berkeley-to-Bakersfield/TravelTimeHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/travel-time-from-Bakersfield-to-Berkeley/TravelTimeHistory/26560867.aspx",
+                "http://www.distancesfrom.com/us/directions-from-Berkeley-to-Bakersfield/DirectionHistory/21638546.aspx",
+                "http://www.livability.com/ca",
+                "http://www.visitbakersfield.com/",
+                "https://www.ridebooker.com/transfers/bakersfield-ca/berkeley-ca/van",
+                "http://www.distancesfrom.com/us/map-from-Berkeley-to-Bakersfield/MapHistory/21638546.aspx",
+                "http://www.distancesfrom.com/us/flight-distance-from-Berkeley-to-Bakersfield/FlightHistory/21638546.aspx"
+            ],
+            "address": "Berkeley, Alameda County, California, United States of America",
+            "latitude": "37.8708393"
+        },
+        "route 101": {
+            "closest_to": "berkeley",
+            "longitude": "-122.4216319",
+            "locType": "bar",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Route 101, 1332, Van Ness Avenue, Japantown, SF, California, 94109, United States of America",
+            "latitude": "37.7881229"
+        },
+        "pacific coast highway": {
+            "closest_to": "bakersfield",
+            "longitude": "-118.0051687",
+            "locType": "primary",
+            "blogLinks": [
+                "http://traveltips.usatoday.com/things-driving-los-angeles-55213.html"
+            ],
+            "address": "Pacific Coast Highway, Huntington Beach, Orange County, California, 92648, United States of America",
+            "latitude": "33.6595127"
+        }
+    }
+}
