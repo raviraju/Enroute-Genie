@@ -151,6 +151,11 @@ $
 12. **fetchImages_integrate_ReviewComments.py** : dump mention json data with relevant images and reviewComments_Urls of tripAdvisor for enroute-genie mashup
     + input : record_linkage_results/nonCity_result.csv, record_linkage_results/tripAdvisor_attractions/
     + output : mentionData_output/
+    
+13. **integrateMentionData_BlogLinks.py** : dump mention json data with relevant blogLinks for enroute-genie mashup
+    + input : mentionData_output/ , output_candidate_location_from_blogs_using_NER/california/, /
+    + output : mentionData_withBlogLinks_output/
+
 
 21. **imageFetch.py** : an utility script to fetch images for specified query from yandex
 22. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
