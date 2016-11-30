@@ -171,8 +171,15 @@ $
 17. **enlist_blogNER_geoCoded_relevant_attractions_to_csv.py** : read blog NER GeoCoded relevant attractions from json and enlist in sorted order to csv
     + read blog NER GeoCoded relevant attractions from json :   output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json 
     + dump attractions results in sorted order into :           output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/los angeles_and_san francisco.csv
-    
-    
+
+
+18. **overlap_auto_manual_attractions.txt** : analysis results of determining overlap bw enroute-genie auto and manual user annotation
+    + we collect results of (15,16,17) into columns of annotated_output_data/compare_results_los angeles_and_san francisco_odt.ods
+    ```
+    >wc -l overlap_auto_manual_attractions.txt 
+    76 overlap_auto_manual_attractions.txt
+    ```
+
 21. **imageFetch.py** : an utility script to fetch images for specified query from yandex
 22. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
 23. **fetchImages_Attractions.py** : an utility script to fetch images for the attractions given in a txt file
