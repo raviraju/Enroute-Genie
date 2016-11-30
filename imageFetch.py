@@ -38,6 +38,6 @@ def fetchImages(query):
         if i > max_num_of_images:
             break
     return images
-images = fetchImages('golden gate bridge')
-print(images)
+#images = fetchImages('golden gate bridge')
+#print(images)
 

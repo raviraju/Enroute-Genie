@@ -156,11 +156,27 @@ $
     + input : mentionData_output/ , output_candidate_location_from_blogs_using_NER/california/, /
     + output : mentionData_withBlogLinks_output/
 
+14. **annotateInterestingPlaces_BlogUrls.py** : annotate interesting locations from blogsUrls into city/attraction interest
+    + read blogUrls from each of location pairs in :    annotate_input_data/
+    + dump annotated results to :                       annotated_output_data/
 
+15. **enlist_annotated_attractions_to_csv.py** : annotate interesting locations from blogsUrls into city/attraction interest
+    + read annotated cities and attraction in :     annotated_output_data/los\ angeles_and_san\ francisco.json 
+    + dump annotated results in sorted order into : annotated_output_data/los angeles_and_san francisco.csv
+    
+16. **enlist_blogNER_attractions_to_csv.py** : read blog NER attractions from json and enlist in sorted order to csv
+    + read blog NER attractions from json :             output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json
+    + dump attractions results in sorted order into :   output_candidate_location_from_blogs_using_NER/california/los angeles_and_san francisco.csv
+    
+17. **enlist_blogNER_geoCoded_relevant_attractions_to_csv.py** : read blog NER GeoCoded relevant attractions from json and enlist in sorted order to csv
+    + read blog NER GeoCoded relevant attractions from json :   output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json 
+    + dump attractions results in sorted order into :           output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/los angeles_and_san francisco.csv
+    
+    
 21. **imageFetch.py** : an utility script to fetch images for specified query from yandex
 22. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
-23. **annotateInterestingPlaces_BlogUrls.py** : annotate interesting locations from blogsUrls into city/attraction interest
-    + read blogUrls from each of location pairs in annotate_input_data/
-    + dump annotated results in annotated_output_data/
+23. **fetchImages_Attractions.py** : an utility script to fetch images for the attractions given in a txt file
+
+
 
 
