@@ -43,10 +43,10 @@
           overflow: auto;
         }
         #floating-panel {
-            position: absolute;
+            position: relative;
             top: 10px;
-            left: 25%;
-            z-index: 5;
+            left: 5px;
+            z-index: 1;
             background-color: #fff;
             padding: 5px;
             border: 1px solid #999;
@@ -60,12 +60,12 @@
     <script src="https://cdn.jsdelivr.net/pouchdb/6.0.7/pouchdb.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script>
-        var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_db');
+        var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_genie');
         var srcDestDict = {};
         var map;
         var markers = [];
         function srcChanged(src){
-            console.log("Changed : ", src);
+            //console.log("Changed : ", src);
             var destinations = srcDestDict[src];
             for(var dest of destinations){
                 var end = document.getElementById("end");
@@ -176,6 +176,9 @@
             var win = window.open(url, '_blank');
             win.focus();
         }
+        function isEmpty(value){
+          return (value == null || value.length === 0);
+        }
         function addMentionMarkers(src_and_dest){
             
             for (var i = 0; i < markers.length; i++) {
@@ -220,11 +223,28 @@
                 mentionsDict = doc['mentions']
                 for (var mention in mentionsDict) {
                     if (mentionsDict.hasOwnProperty(mention)) {
-                        //console.log(mention, mentionsDict[mention]);
-                        //for (var detail in mentionsDict[mention]){
-                            //console.log(detail, mentionsDict[mention][detail]);
+                            if ('enrich_metadata' in mentionsDict[mention])
+                            {
+                            var locType = mentionsDict[mention]['locType'];
+                            var marker;
                             var latlng = new google.maps.LatLng(mentionsDict[mention]['latitude'], mentionsDict[mention]['longitude']);
-                            var marker = new google.maps.Marker({map: map, position: latlng, title:mention, animation: google.maps.Animation.DROP});
+                            var markerImg;
+                            if(locType == "city"){
+                                markerImg = {
+                                    url: 'images/bigcity.png',
+                                    // This marker is 20 pixels wide by 32 pixels high.
+                                    size: new google.maps.Size(60, 32)
+                                };
+                                marker = new google.maps.Marker({map: map, position: latlng, title:mention, animation: google.maps.Animation.DROP, icon: markerImg});
+                            }else{
+                                markerImg = {
+                                    url: 'http://www.googlemapsmarkers.com/v1/009900/',//'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+                                    // This marker is 20 pixels wide by 32 pixels high.
+                                    size: new google.maps.Size(60, 32)
+                                };
+                                marker = new google.maps.Marker({map: map, position: latlng, title:mention, animation: google.maps.Animation.DROP});
+                            }
+                            
                             markers.push(marker);
                             var blogLinks = [];
                             var allBlogUrls = "";
@@ -234,27 +254,141 @@
                                 blogLinks.push(link);
                                 allBlogUrls += link + ", ";
                             }
-                            //console.log(blogLinks);
-                            var youTubeId = "lyFVxRn7zzQ";//width="420" height="315"
-                            var imgUrl1 = "http://cdn.history.com/sites/2/2015/05/hith-golden-gate-144833144-E.jpeg";
-                            var imgUrl2 = "http://cdn.history.com/sites/2/2015/02/golden-gate-bridge-iStock_000019197672Large-H.jpeg";
-                            var imgUrl3 = "http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/landmark-images/golden-gate.jpg";
+                            //console.log(allBlogUrls);
+                            var youTubeId = "lyFVxRn7zzQ";//Init with Demo YouTube of Enroute-Genie
+                            if ('youTubeLinkIds' in mentionsDict[mention]['enrich_metadata']){
+                                var youTubeLinkIdInfos = (mentionsDict[mention]['enrich_metadata']['youTubeLinkIds']).split(',')
+                                var youTubeLinkIds = []
+                                for(var i = 0; i<youTubeLinkIdInfos.length; i++){
+                                    var youTubeLinkId = (youTubeLinkIdInfos[i].replace('\"',''))
+                                    youTubeLinkIds.push(youTubeLinkId);
+                                }
+                                var randomIndex = Math.floor((Math.random() * youTubeLinkIds.length) + 1);
+                                youTubeId = youTubeLinkIds[randomIndex-1]
+                            }
+                            var images = ["http://cdn.history.com/sites/2/2015/05/hith-golden-gate-144833144-E.jpeg", "http://cdn.history.com/sites/2/2015/02/golden-gate-bridge-iStock_000019197672Large-H.jpeg", "http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/landmark-images/golden-gate.jpg"];
+                            var imgUrl = images[0]
+                            if ('imageUrls' in mentionsDict[mention]['enrich_metadata']){
+                                images = mentionsDict[mention]['enrich_metadata']['imageUrls']
+                                var randomIndex = Math.floor((Math.random() * youTubeLinkIds.length) + 1);
+                                imgUrl = images[randomIndex-1];
+                            }
+                            var infoText = ""
+                            if(locType == "city"){
+                                //console.log(mention, locType);
+                                if (('comment' in mentionsDict[mention]['enrich_metadata']) && 
+                                    ('abstract' in mentionsDict[mention]['enrich_metadata']) &&
+                                    ('subject' in mentionsDict[mention]['enrich_metadata'])
+                                    ){
+                                    var comment = mentionsDict[mention]['enrich_metadata']['comment']
+                                    var abstractData = mentionsDict[mention]['enrich_metadata']['abstract']
+                                    var url = mentionsDict[mention]['enrich_metadata']['subject']
+                                    var commentAbstract = '<a target="_blank" href="' + url + '">DbPedia Info</a></br> <b>Comment : </b>' + comment + '</br></br>' + '<b>Abstract : </b>' + abstractData + '</br>';
+                                    infoText += commentAbstract;
+                                }
+                            }else{
+                                //console.log(mention, locType);
+                                if (('classified_attraction_reviewComments' in mentionsDict[mention]['enrich_metadata']) && 
+                                    ('attraction_no_of_reviews' in mentionsDict[mention]['enrich_metadata']) &&
+                                    ('attraction_ranking' in mentionsDict[mention]['enrich_metadata']) &&
+                                    ('attraction_knownFor' in mentionsDict[mention]['enrich_metadata']) && 
+                                    ('attraction_in' in mentionsDict[mention]['enrich_metadata']) &&
+                                    ('mention_popularity' in mentionsDict[mention]['enrich_metadata']) &&
+                                    ('attraction_contact' in mentionsDict[mention]['enrich_metadata'])
+                                    ){
+                                    var rank = mentionsDict[mention]['enrich_metadata']['attraction_ranking']
+                                    var knownFor = mentionsDict[mention]['enrich_metadata']['attraction_knownFor']
+                                    var no_of_reviews = mentionsDict[mention]['enrich_metadata']['attraction_no_of_reviews']
+                                    var popularity = mentionsDict[mention]['enrich_metadata']['mention_popularity']
+                                    var contact = mentionsDict[mention]['enrich_metadata']['attraction_contact']
+                                    var locatedIn = mentionsDict[mention]['enrich_metadata']['attraction_in']
+                                    var reviewComments = mentionsDict[mention]['enrich_metadata']['classified_attraction_reviewComments']
+
+                                    /*var attractionInfo = 'Known For : ' + knownFor + '</br>' +
+                                                         'TripAdvisor Rank : ' + rank + '</br>' +
+                                                         'TripAdvisor No of Reviews : ' + no_of_reviews + '</br>' +
+                                                         'No of Blogs mentioned  : ' + popularity + '</br>' +
+                                                         'Contact Info  : ' + contact + '</br>' +
+                                                         'Located In  : ' + locatedIn + '</br>';*/
+                                    var attractionInfo = '<table>';
+                                    if(knownFor)
+                                        attractionInfo += '<tr><td><b>Known For</b></td><td>' + knownFor + '</td></tr>';
+                                    if(rank)
+                                        attractionInfo += '<tr><td><b>TripAdvisor Rank</b></td><td>' + rank + '</td></tr>';
+                                    if(no_of_reviews)
+                                        attractionInfo += '<tr><td><b>TripAdvisor No of Reviews</b></td><td>' + no_of_reviews + '</td></tr>';
+                                    if(popularity)
+                                        attractionInfo += '<tr><td><b>No of Blogs mentioned</b></td><td>' + popularity + '</td></tr>';
+                                    if(contact)
+                                        attractionInfo += '<tr><td><b>Contact Info</b></td><td>' + contact + '</td></tr>';
+                                    if(locatedIn)
+                                        attractionInfo += '<tr><td><b>Located In</b></td><td>' + locatedIn + '</td></tr>';
+                                    attractionInfo += '</table>';
+                                    infoText += attractionInfo;
+                                    
+                                    var reviewInfo = '<table>';
+                                    var positiveReviews = reviewComments['positive'];
+                                    var positiveReview;
+                                    if(positiveReviews){
+                                        var randomIndex = Math.floor((Math.random() * positiveReviews.length) + 1);
+                                        positiveReview = positiveReviews[randomIndex-1];
+                                        //console.log(positiveReview);
+                                        if(!isEmpty(positiveReview)){
+                                            var text = positiveReview[0].replace("read more","") + ' <a target="_blank" href=\"' + positiveReview[3] + '\">read more</a>';
+                                            reviewInfo += '<tr><td><b>A Positive Review</b></td><td>' + text + '</td></tr>';
+                                        }
+                                    }
+                                    var negativeReviews = reviewComments['negative'];
+                                    var negativeReview;
+                                    if(negativeReviews){
+                                        var randomIndex = Math.floor((Math.random() * negativeReviews.length) + 1);
+                                        negativeReview = negativeReviews[randomIndex-1];
+                                        //console.log(negativeReview);
+                                        if(!isEmpty(negativeReview)){
+                                            var text = negativeReview[0].replace("read more","") + ' <a target="_blank" href=\"' + negativeReview[3] + '\">read more</a>';
+                                            reviewInfo += '<tr><td><b>A Negative Review</b></td><td>' + text + '</td></tr>';
+                                        }
+                                    }
+                                    var neutralReviews = reviewComments['neutral'];
+                                    var neutralReview;
+                                    if(neutralReviews){
+                                        var randomIndex = Math.floor((Math.random() * neutralReviews.length) + 1);
+                                        neutralReview = neutralReviews[randomIndex-1];
+                                        //console.log(neutralReview);
+                                        if(!isEmpty(neutralReview)){
+                                            var text = neutralReview[0].replace("read more","") + ' <a target="_blank" href=\"' + neutralReview[3] + '\">read more</a>';
+                                            reviewInfo += '<tr><td><b>A Neutral Review</b></td><td>' + text + '</td></tr>';
+                                        }
+                                    }
+                                    reviewInfo += '</table>';
+                                    
+                                    infoText += reviewInfo;
+                                }
+                            }
                             var content = '<div id="content">'+
                                                   '<h1 id="firstHeading" class="firstHeading">' + mention.toUpperCase() + '</h1>'+
                                                   '<div id="bodyContent">'+
                                                       '<iframe width="320" height="215" src="https://www.youtube.com/embed/' + youTubeId +'"></iframe>'+
-                                                      '<img src="' + imgUrl1 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
-                                                      '<img src="' + imgUrl2 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
-                                                      '<img src="' + imgUrl3 +'" alt="' + mention +'" style="width:100px;height:100px;">'+
+                                                      '<img src="' + imgUrl +'" alt="' + mention +'" style="width:300px;height:220px;">'+
+                                                      infoText+
                                                       '<p>'+
-                                                      '<br><b>Address : </b>'+ mentionsDict[mention]['address'] +
+                                                      '<p>'+
+                                                      '<table>' + 
+                                                      '<tr><td><b>Address</b></td><td>' + mentionsDict[mention]['address'] + '</td></tr>' +
+                                                      '<tr><td><b>Location Type</b></td><td>' + mentionsDict[mention]['locType'] + '</td></tr>' +
+                                                      '<tr><td><b>Closest To</b></td><td>' + mentionsDict[mention]['closest_to'] + '</td></tr>' +
+                                                      '<tr><td><b>Blog References</b></td><td>' + allBlogUrls + '</td></tr>' +
+                                                      '</table>' +
+                                                      
+                                                      /*'<br><b>Address : </b>'+ mentionsDict[mention]['address'] +
                                                       '<br><b>Location Type : </b>'+ mentionsDict[mention]['locType'] +
                                                       '<br><b>Closest_To : </b>'+ mentionsDict[mention]['closest_to'] +
-                                                      '<br><b>Blog References : </b>'+ allBlogUrls +
+                                                      '<br><b>Blog References : </b>'+ allBlogUrls +*/
                                                       '</p>'+
                                                   '</div>'+
                                             '</div>';
-                            var infowindow = new google.maps.InfoWindow({maxWidth: 800});
+                            var infowindow = new google.maps.InfoWindow({maxWidth: 800, zIndex: 50});
+                            //infowindow.setZIndex(2);
                             google.maps.event.addListener(marker,'click', (function(marker,content,infowindow){ 
                                 return function() {
                                     infowindow.setContent(content);
@@ -262,7 +396,7 @@
                                 };
                             })(marker,content,infowindow)); 
 
-
+                        }
                         //}
                     }
                 }
@@ -278,8 +412,15 @@
     </script>
 </head>
 <body>
-    <h3>Enroute Genie Mashup</h3>
     <div id="floating-panel">
+    <b>Enroute Genie Mashup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+    <br>
+    <i>A Data Integration Solution powered by </i> 
+    <img src="images/tripadvisor_logo.jpg" alt="TripAdvisor">
+    <img src="images/dbpedia_logo.png" alt="dbPedia">
+    <img src="images/yandex_logo.png" alt="Yandex">
+    <img src="images/youtube_logo.png" alt="YouTube">
+    </br>
         <b>Start From: </b>
         <select id="start" onchange="srcChanged(this.value)">
             <option value="" selected>Select an end point...</option>
@@ -290,6 +431,7 @@
         </select>
         <button id="genieBtn" onclick="fetchInfo()">Go Genie !!! </button>
     </div>
+
     <div id="map"></div>
     <div id="right-panel">
         <!--<p>Total Distance: <span id="total"></span></p>-->

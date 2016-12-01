@@ -184,8 +184,13 @@ $
     + read enriched metadata for mentions from  :  merge_data/mentionData_withBlogLinks_output/ and updates the respective mentions in merge_data/geoCodeLocations_output/
     + read enriched metadata for city from  :  merge_data/cityData_output/ and updates the respective city mentions in merge_data/geoCodeLocations_output/
 
-20. **sentimentAnalysis_ReviewComments.py** : perform sentiment analysis for review comments classifying them into positive, negative and neutral polarity classes
+20. **sentimentAnalysis_ReviewComments.py** : perform sentiment analysis [using https://textblob.readthedocs.io/en/dev/api_reference.html#textblob.blob.TextBlob.sentiment] for review comments classifying them into positive, negative and neutral polarity classes
     + read and update reviewComments from merge_data/geoCodeLocations_output/
+
+21. **loadData_CouchDb.py** : load data into NoSQL database CouchDB
+    + read and upload json data from merge_data/geoCodeLocations_output/
+
+22. **web_interface/index.html** : Basic UI to render the EnRoute Genie Magic
 
 
 31. **imageFetch.py** : an utility script to fetch images for specified query from yandex

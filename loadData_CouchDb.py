@@ -1,5 +1,5 @@
 #https://pythonhosted.org/CouchDB/ https://pypi.python.org/pypi/CouchDB#downloads
-#python loadData_CouchDb.py data/
+#python loadData_CouchDb.py merge_data/geoCodeLocations_output/
 #enroute_db database exists
 #Reading data from 1 : anaheim_and_berkeley.json
 #Reading data from 2 : anaheim_and_beverly hills.json
