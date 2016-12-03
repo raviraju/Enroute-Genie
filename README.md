@@ -85,9 +85,14 @@ IIW Project
     + corresponding output file : allBlogLocation_City_Mentions_withYouTube.csv
 
 5. Configured an Instance-Based Data extraction wrapper to extract attraction reviews metadata from www.tripadvisor.com
-   + **Portia** - A visual web scraping tool was used to extract data https://github.com/scrapinghub/portia
+   + **Portia** - A visual web scraping tool was used to extract data
+   + Scrapinghub : https://doc.scrapinghub.com/, https://doc.scrapinghub.com/portia.html
+   + Portia : http://portia.readthedocs.io/en/2.0-docs/
+   + CRAWLING RULES : Follow links that match these patterns : "/Attraction_Review-.*_California.html"
+
+   + output can be found in **output_tripAdvisor_attractions_using_portia/california/california_tripadvisor.csv**
    ```
-**output_tripAdvisor_attractions_using_portia/california/california_tripadvisor.csv**   "_cached_page_id","_template","_type","address","attraction","attraction_in","contact","knownFor","no_of_reviews","ranking","reviewComment","url"
+  "_cached_page_id","_template","_type","address","attraction","attraction_in","contact","knownFor","no_of_reviews","ranking","reviewComment","url"
 "f27898151d9d332e7a2f9dad0efa72b49adea1b4","f1b17f12b271f090607ff7b6e95e4c1a06353518","t","Lincoln Boulevard, near Doyle Drive and Fort Point , San Francisco , CA 94129","Golden Gate Bridge","San Francisco","415-921-5858","","32,693","#2","We hired bikes and rode over the bridge. It was not difficult as there was little wind that day. Great views of the city and Alcatraz and easy rise on to Sausalito. Something not... read more","https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html"
 "ea0a594d33494d39cc83a78f660139c627b7b19e","f1b17f12b271f090607ff7b6e95e4c1a06353518","t","Lincoln Boulevard, near Doyle Drive and Fort Point , San Francisco , CA 94129","Golden Gate Bridge","San Francisco","415-921-5858","","32,693","#2","Probably the most recognizable bridge in the world, the burnt orange hue in unmistakable. Built in the 1930's, it was marvel of technology and foresight. Awesome photos for the... read more","https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-or10-Golden_Gate_Bridge-San_Francisco_California.html"
     ```
