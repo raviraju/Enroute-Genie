@@ -1,6 +1,35 @@
 # Enroute-Genie
 IIW Project
 
+## Statistics of Results
+```
+blogs_using_NER
+    164260 : No of locations Parsed in output_candidate_location_from_blogs_using_NER/california/
+    16453  : No of unique locations Parsed in output_candidate_location_from_blogs_using_NER/california/
+geoCoded_locations
+    94916 : No of locations Parsed in output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/
+    7951  : No of unique locations Parsed in output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/
+
+176 No of locations Parsed in merge_data/geoCodeLocations_output/los angeles_and_san francisco.json
+    41    : No of Cities
+    6     : No of Enriched Cities
+
+    135   : No of NonCities
+    22    : No of Enriched NonCities
+
+**Summary** :
+    94916 : No of locations Parsed in merge_data/geoCodeLocations_output/
+    21820 : No of cities in merge_data/geoCodeLocations_output/
+    73096 : No of noncities in merge_data/geoCodeLocations_output/
+
+    7951  : No of unique locations
+    79    : No of unique enriched cities
+    477   : No of unique non_enriched cities
+    517   : No of unique enriched noncities
+    6878  : No of unique non_enriched noncities
+```
+
+## Project Source Code
 1. **extractCities.py** : extract NER locations from blogsUrls for every pair of popular destinations
    + read **input/california.json** - collection of destinations from Google results of query : https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=popular+cities+in+california
    ```
@@ -199,31 +228,6 @@ $
 
 23. **summaryStatistics.py** : Script for Statistical Analysis of Results
 
-Statistics
-blogs_using_NER
-    164260 : No of locations Parsed in output_candidate_location_from_blogs_using_NER/california/
-    16453  : No of unique locations Parsed in output_candidate_location_from_blogs_using_NER/california/
-geoCoded_locations
-    94916 : No of locations Parsed in output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/
-    7951  : No of unique locations Parsed in output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/
-
-176 No of locations Parsed in merge_data/geoCodeLocations_output/los angeles_and_san francisco.json
-    41    : No of Cities
-    6     : No of Enriched Cities
-
-    135   : No of NonCities
-    22    : No of Enriched NonCities
-
-Summary :
-    94916 : No of locations Parsed in merge_data/geoCodeLocations_output/
-    21820 : No of cities in merge_data/geoCodeLocations_output/
-    73096 : No of noncities in merge_data/geoCodeLocations_output/
-
-    7951  : No of unique locations
-    79    : No of unique enriched cities
-    477   : No of unique non_enriched cities
-    517   : No of unique enriched noncities
-    6878  : No of unique non_enriched noncities
 
 31. **imageFetch.py** : an utility script to fetch images for specified query from yandex
 32. **sortFileContents.py** : an utility script to alphabetically sort contents of a file
