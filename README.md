@@ -1,6 +1,4 @@
-# Enroute-Genie
-IIW Project
-
+![Enroute Genie](https://github.com/raviraju/Enroute-Genie/blob/master/Capture.PNG "Enroute Genie")
 ## Statistics of Results
 ```
 blogs_using_NER
