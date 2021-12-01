@@ -8,7 +8,8 @@ import argparse, os, json, csv
 from pprint import pprint
 import couchdb
 
-dbServer = couchdb.Server('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/')#Server object, representing a CouchDB server
+# dbServer = couchdb.Server('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/')#Server object, representing a CouchDB server
+dbServer = couchdb.Server('https://apikey-v2-1w7lqsfnsd7z7kv2de3laf7226h9t5n2iqairxr04zuj:e0e4df75b8bdfc30d1c04f4cd999aa30@ee115bef-3371-43ed-90c8-93ba65d99daa-bluemix.cloudantnosqldb.appdomain.cloud/')
 db = None
 
 def initDb(dbName):
@@ -36,8 +37,13 @@ def loadData(dataDir):
             doc = json.load(data_file)
             doc['_id'] = fileName.replace('.json','')
             global db
-            db.save(doc)
-            #pprint(doc['mentions'].keys())
+            try:
+                db.save(doc)
+                #pprint(doc['mentions'].keys())
+            except Exception as e:
+                print("Cannot save : ", data_file)
+                print(e)
+
 
 def main():
     parser = argparse.ArgumentParser(description="load data into couchDB")
