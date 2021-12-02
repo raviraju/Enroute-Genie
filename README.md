@@ -28,14 +28,14 @@ geoCoded_locations
 ```
 
 ## Project Source Code
-1. **[extractCities.py](src/extractCities.py)** : extract NER locations from blogsUrls for every pair of popular destinations
+1. **[extractCities.py](src/extractCities.py)** : extract NER locations from blogs for every pair of popular destinations 
    + read **input/california.json** - collection of destinations from Google results of query : https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=popular+cities+in+california
    ```
    ["Anaheim", "Avalon", "Bakersfield", "Berkeley", "Beverly Hills", "Big Bear Lake", "Carlsbad", "Fresno", "Fremont", ...]
    ```
-   + for every pair of destinations the query : 'places to visit between '  + city_a  + ' and '  + city_b + ' blogs' result links collected
-   + for every bloglink content was extracted using beautiful soup
-   + extracted text content was tagged with NER LOCATION using StandfordCoreNLP
+   + for every pair of destinations the query : 'places to visit between '  + city_a  + ' and '  + city_b + ' blogs' result links collected using [GoogleScraper](https://github.com/NikolaiT/GoogleScraper)
+   + for every bloglink content was extracted using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+   + extracted text content was tagged with NER LOCATION using [StandfordCoreNLP](https://github.com/hhsecond/corenlp_pywrap)
    + output were recorded into json files for a pair city_a  + '_and_'  + city_b + '.json', 
     these can be found in **data/output_candidate_location_from_blogs_using_NER/california/**
     ```
@@ -52,7 +52,7 @@ geoCoded_locations
     }
     ```
 
-2. **[geoCodeLocations.py](src/geoCodeLocations.py)** : get geoCode [using http://geopy.readthedocs.io/en/latest/] for location mentions extracted from blogs and filter out distant/irrelavant location_mentions
+2. **[geoCodeLocations.py](src/geoCodeLocations.py)** : get [geoCode](http://geopy.readthedocs.io/en/latest/) for location mentions extracted from blogs and filter out distant/irrelavant location_mentions
     + read **data/output_candidate_location_from_blogs_using_NER/california/**
     ```
     ***output_candidate_location_from_blogs_using_NER/california/los angeles_and_san francisco.json***
@@ -107,9 +107,13 @@ geoCoded_locations
     ```
 
 4. Configured an Instance-Based Data extraction wrapper to extract attraction reviews metadata from www.tripadvisor.com
-   + **Portia** - A visual web scraping tool was used to extract data
-   + Scrapinghub : https://doc.scrapinghub.com/, https://doc.scrapinghub.com/portia.html
-   + Portia : http://portia.readthedocs.io/en/2.0-docs/
+   + **[Portia](https://www.zyte.com/blog/scrapely-the-brains-behind-portia-spiders/)** - A [visual web scraping tool](https://github.com/scrapinghub/portia) was used to extract data
+       + Portia uses Scrapely to extract structured data from HTML pages.
+       + To extract data, Portia employs machine learning using the [instance-based wrapper induction extraction](https://www.semanticscholar.org/paper/Extracting-Web-Data-Using-Instance-Based-Learning-Zhai-Liu/10b9fa968dd9cfbdf967ecfac676e8d77e1ca13d) method implemented by Scrapely.
+           + [Extracting Web Data Using Instance-Based Learning](documentation/Extracting_Web_Data_Using_Instance-Based_Learning.pdf)
+           + Scrapely reads the streams of tokens from the unannotated pages, and looks for regions that are similar to the sample’s annotations. To decide what should be extracted from new pages, it notes the tags that occur before and after the annotated regions, referred to as the prefix and suffix respectively.
+           + This approach is handy as you don’t need a well-defined HTML page. It instead relies on the order of tags on a page. Another useful feature of this approach is that Scrapely doesn't need to find a 100% match, and instead looks for the best match. Even if the page is updated and tags are changed, Scrapely can still extract the data.   
+   + Portia : https://portia.readthedocs.io/en/latest/index.html
    + CRAWLING RULES : Follow links that match these patterns : "/Attraction_Review-.*_California.html"
 
    + output can be found in **data/output_tripAdvisor_attractions_using_portia/california/california_tripadvisor.csv**
@@ -129,7 +133,7 @@ geoCoded_locations
     San Francisco Maritime National Historical Park,"Neighborhood: Fisherman’s Wharf Educational sites , National Parks , Specialty Museums , Sights & Landmarks , Nature & Parks , Museums , More",Every ship in this exhibit is worth visiting. We've been here several times because there is so much to see. Plus not every ship is open all the time. Our last visit was to the... read more,46,402,415-447-5000,San Francisco,"499 Jefferson St , San Francisco , CA 94109-1314",,,https://www.tripadvisor.com/Attraction_Review-g60713-d104217-Reviews-San_Francisco_Maritime_National_Historical_Park-San_Francisco_California.html,san_francisco.json
     ```
 
-6. **[youTubeSearch.py](src/youTubeSearch.py)** : fetch youtube links for csv file
+6. **[youTubeSearch.py](src/youTubeSearch.py)** : Leverage YouTube API to fetch youtube links for location mentions.
     + input/output files are present in **data/data_for_record_linkage_csv/california/**
     + an input file : allBlogLocation_City_Mentions.csv, 
     + youtubeIds shall be added for each location : "GdbRaajAVA0,UYjNTENqynE,pAaxxTSasWU"
@@ -179,49 +183,49 @@ geoCoded_locations
 
 11. **fetchImages_dumpCityJson.py** : dump city json data with relevant images for enroute-genie mashup
     + input : record_linkage_results/city_result.csv
-    + output : cityData_output/
+    + output : data/cityData_output/
     
 12. **fetchImages_integrate_ReviewComments.py** : dump mention json data with relevant images and reviewComments_Urls of tripAdvisor for enroute-genie mashup
     + input : record_linkage_results/nonCity_result.csv, record_linkage_results/tripAdvisor_attractions/
-    + output : mentionData_output/
+    + output : data/mentionData_output/
     
 13. **integrateMentionData_BlogLinks.py** : dump mention json data with relevant blogLinks for enroute-genie mashup
-    + input : mentionData_output/ , output_candidate_location_from_blogs_using_NER/california/, /
+    + input : data/mentionData_output/ , data/output_candidate_location_from_blogs_using_NER/california/, /
     + output : mentionData_withBlogLinks_output/
 
 14. **annotateInterestingPlaces_BlogUrls.py** : annotate interesting locations from blogsUrls into city/attraction interest
-    + read blogUrls from each of location pairs in :    annotate_input_data/
-    + dump annotated results to :                       annotated_output_data/
+    + read blogUrls from each of location pairs in :    data/annotate_input_data/
+    + dump annotated results to :                       data/annotated_output_data/
 
 15. **enlist_annotated_attractions_to_csv.py** : annotate interesting locations from blogsUrls into city/attraction interest
-    + read annotated cities and attraction in :     annotated_output_data/los\ angeles_and_san\ francisco.json 
-    + dump annotated results in sorted order into : annotated_output_data/los angeles_and_san francisco.csv
+    + read annotated cities and attraction in :     data/annotated_output_data/los\ angeles_and_san\ francisco.json 
+    + dump annotated results in sorted order into : data/annotated_output_data/los angeles_and_san francisco.csv
     
 16. **enlist_blogNER_attractions_to_csv.py** : read blog NER attractions from json and enlist in sorted order to csv
-    + read blog NER attractions from json :             output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json
-    + dump attractions results in sorted order into :   output_candidate_location_from_blogs_using_NER/california/los angeles_and_san francisco.csv
+    + read blog NER attractions from json :             data/output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json
+    + dump attractions results in sorted order into :   data/output_candidate_location_from_blogs_using_NER/california/los angeles_and_san francisco.csv
     
 17. **enlist_blogNER_geoCoded_relevant_attractions_to_csv.py** : read blog NER GeoCoded relevant attractions from json and enlist in sorted order to csv
-    + read blog NER GeoCoded relevant attractions from json :   output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json 
-    + dump attractions results in sorted order into :           output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/los angeles_and_san francisco.csv
+    + read blog NER GeoCoded relevant attractions from json :   data/output_candidate_location_from_blogs_using_NER/california/los\ angeles_and_san\ francisco.json 
+    + dump attractions results in sorted order into :           data/output_geoCoded_locations_from_blogs_using_geopy_json/california/geoCodeLocations_output/los angeles_and_san francisco.csv
 
 
 18. **overlap_auto_manual_attractions.txt** : analysis results of determining overlap bw enroute-genie auto and manual user annotation
-    + we collect results of (15,16,17) into columns of annotated_output_data/compare_results_los angeles_and_san francisco_odt.ods
+    + we collect results of (15,16,17) into columns of data/annotated_output_data/compare_results_los angeles_and_san francisco_odt.ods
     ```
     >wc -l overlap_auto_manual_attractions.txt 
     76 overlap_auto_manual_attractions.txt
     ```
     
 19. **new_mergeAllResults.py** : integrate data for enroute-genie mashup
-    + read enriched metadata for mentions from  :  merge_data/mentionData_withBlogLinks_output/ and updates the respective mentions in merge_data/geoCodeLocations_output/
-    + read enriched metadata for city from  :  merge_data/cityData_output/ and updates the respective city mentions in merge_data/geoCodeLocations_output/
+    + read enriched metadata for mentions from  :  data/merge_data/mentionData_withBlogLinks_output/ and updates the respective mentions in  data/merge_data/geoCodeLocations_output/
+    + read enriched metadata for city from  :  data/merge_data/cityData_output/ and updates the respective city mentions in data/merge_data/geoCodeLocations_output/
 
 20. **sentimentAnalysis_ReviewComments.py** : perform sentiment analysis [using https://textblob.readthedocs.io/en/dev/api_reference.html#textblob.blob.TextBlob.sentiment] for review comments classifying them into positive, negative and neutral polarity classes
-    + read and update reviewComments from merge_data/geoCodeLocations_output/
+    + read and update reviewComments from data/merge_data/geoCodeLocations_output/
 
 21. **loadData_CouchDb.py** : load data into NoSQL database CouchDB
-    + read and upload json data from merge_data/geoCodeLocations_output/
+    + read and upload json data from data/merge_data/geoCodeLocations_output/
 
 22. **web_interface/index.html** : Basic UI to render the EnRoute Genie Magic
 
