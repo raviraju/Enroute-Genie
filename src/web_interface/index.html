@@ -60,7 +60,8 @@
     <script src="https://cdn.jsdelivr.net/pouchdb/6.0.7/pouchdb.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script>
-        var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_genie');
+        // var pouchDB = new PouchDB('https://enroutegenie:genieenroute@enroutegenie.cloudant.com/enroute_genie');
+        var pouchDB = new PouchDB('https://apikey-v2-1w7lqsfnsd7z7kv2de3laf7226h9t5n2iqairxr04zuj:e0e4df75b8bdfc30d1c04f4cd999aa30@ee115bef-3371-43ed-90c8-93ba65d99daa-bluemix.cloudantnosqldb.appdomain.cloud/enroute_genie');
         var srcDestDict = {};
         var map;
         var markers = [];
@@ -437,7 +438,9 @@
     <div id="right-panel">
         <!--<p>Total Distance: <span id="total"></span></p>-->
     </div>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&callback=initMap">
+    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxEkbpgsg5e4pAcW68JHvDgz1qgC5dhvU&callback=initMap">
+    </script> -->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTcOZM6BU6RHL_NK9KeUH9T8s-43kC6s4&callback=initMap">
     </script>
 </body>
 </html>
